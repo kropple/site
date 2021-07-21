@@ -8,7 +8,8 @@ DAppNode provides hardware and open-source software for decentralized users to e
 
 |  |  |
 | :--- | :--- |
-| NODE on xDAI  | [0xc60e38C6352875c051B481Cbe79Dd0383AdB7817](https://blockscout.com/xdai/mainnet/tokens/0xc60e38C6352875c051B481Cbe79Dd0383AdB7817/token-transfers) |
+| NODE token on xDAI  | [0xc60e38C6352875c051B481Cbe79Dd0383AdB7817](https://blockscout.com/xdai/mainnet/tokens/0xc60e38C6352875c051B481Cbe79Dd0383AdB7817/token-transfers) |
+| Staking Interface | [https://app.dappnode.io/](https://app.dappnode.io/) |
 
 {% embed url="https://medium.com/dappnode/a-node-for-the-future-an-ode-to-the-community-a-road-to-decentralized-sovereignty-1c8fa524e308" caption="Article about NODE Lauch" %}
 
