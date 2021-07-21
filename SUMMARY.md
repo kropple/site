@@ -17,6 +17,7 @@
   * [Dark Forest](about-xdai/project-spotlights/dark-forest.md)
   * [Crypto stamp](about-xdai/project-spotlights/crypto-stamp.md)
   * [Swarm](about-xdai/project-spotlights/swarm.md)
+  * [DappNode](about-xdai/project-spotlights/dappnode.md)
   * [Component Finance](about-xdai/project-spotlights/component-finance.md)
   * [1Hive](about-xdai/project-spotlights/1hive/README.md)
     * [HoneySwap](about-xdai/project-spotlights/1hive/honeyswap.md)
