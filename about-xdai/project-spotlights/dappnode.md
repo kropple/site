@@ -4,7 +4,7 @@ description: Decentralized solutions for node runners
 
 # DappNode
 
-DAppNode provides hardware and open-source software for decentralized users to effortlessly run their own blockchain-based nodes. Their NODE token enables the DAppNode community to actively participate in DAO governance. NODE is available on both xDai and Ethereum — with the initial allocation claimable on Ethereum and the NODEstream steadily flowing to users on xDai network.
+DAppNode provides hardware and open-source software for decentralized users to effortlessly run their own blockchain-based nodes. Their NODE token enables the DAppNode community to actively participate in DAO governance. NODE is available on both xDai and Ethereum — with the initial allocation claimable on Ethereum and the NODEstream steadily flowing to users on xDai.
 
 |  |  |
 | :--- | :--- |
