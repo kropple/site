@@ -106,6 +106,18 @@ It's easy to add custom tokens to MetaMask with BlockScout.
 
 Providing liquidity to some pairs will provide additional incentives for SushiSwap on xDai users. See the [Analytics Dashboard](https://analytics-xdai.sushi.com/) for more information on fees, volume and other metrics. 
 
+Currently incentivized pairs are:
+
+USDC-WXDAI  
+WETH-WBTC  
+STAKE-WXDAI  
+WETH-WXDAI  
+LINK-WXDAI  
+USDT-WXDAI  
+USDT-USDC
+
+Please go to [app.sushi.com/yield](http://app.sushi.com/yield) for more information. Make sure you switch your network to xDai to see farms and APYs.
+
 ## 6\) Lend and Borrow with Kashi
 
 Anyone can create markets for lending, borrowing, and collateralizing assets on Kashi. Kashi users can leverage [Chainlink price feeds on xDai](../../for-developers/developer-resources/chainlink-price-feeds.md) to get accurate pricing info. 

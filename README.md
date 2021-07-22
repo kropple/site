@@ -5,9 +5,11 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 # Welcome to xDai
 
 {% hint style="success" %}
-**Latest News**  
+**Latest News  
   
- ⛱ Curve Finance arrives on xDai! [Learn more](about-xdai/project-spotlights/curve-finance.md) or dive in here  [https://xdai.curve.fi/](https://xdai.curve.fi/). More info on pools & rewards coming soon.
+ 🍣** Sushiswap incentives are here. [Learn more](about-xdai/project-spotlights/sushiswap.md) and get started at [https://app.sushi.com](https://app.sushi.com/swap) by selecting xDai in the network dropdown.  
+  
+****⛱ Curve Finance on xDai! [Learn more](about-xdai/project-spotlights/curve-finance.md) or dive in here  [https://xdai.curve.fi/](https://xdai.curve.fi/).
 
 💌 [xDai Substack Newsletter](https://xdai.substack.com/) is now available with weekly updates and other news directly to your inbox.
 {% endhint %}
