@@ -45,7 +45,7 @@ openethereum account new --keys-path <path_to_save_json_keystore>
 
 ![](../../.gitbook/assets/2-login-become.png)
 
-6\)  A modal will appear where you enter the amount of you initial STAKE \(20,000 minimum - you can add more now as well or more at a later time \) and the **mining address of your node**.  You will also enter the Pool Name and Short Description \(optional\) which will be displayed in the staking interface.
+6\)  A modal will appear where you enter the amount of your initial STAKE \(2,000 minimum - you can add more now as well or more at a later time \) and the **mining address of your node**.  You will also enter the Pool Name and Short Description \(optional\) which will be displayed in the staking interface.
 
 ![](../../.gitbook/assets/become.png)
 
