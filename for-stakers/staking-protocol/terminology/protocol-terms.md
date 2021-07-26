@@ -134,13 +134,7 @@ Minimal system requirements:
 * CPU: minimum 2 cores
 * RAM: minimum 4GB
 * Disk: SSD minimum 50GB
-* Open network ports: SSH port \(default 22 TCP\), 30303 TCP/UDP. For security purposes, close other ports
-
-**Running 2 nodes simultaneously**
-
-In addition, we recommend each validator run two separate nodes simultaneously with different internet connections. This mitigates risk in the event a node goes down during the final reveal phase of a staking epoch. If this occurs, and there is no redundancy, the node is considered malicious and banned from the protocol.
-
-To setup, the first node must have the ​engine\_signer​ option in a configuration.toml file, the second node should not have that option but should have the ​watchguard​ script which​ detects if the first node goes offline and sets the ​engine\_signer​ option for the second node \(see [https://github.com/poanetwork/posdao-test-setup/issues/39](https://github.com/poanetwork/posdao-test-setup/issues/39) for details\).
+* Open network ports: SSH port \(default 22 TCP\), 30303 TCP/UDP. For security purposes, close other ports.
 
 ### Withdrawal Rules
 
