@@ -80,7 +80,7 @@ _Update: Bridge is operational, UI is in development._  [_More information_](htt
 ## **xDai Grant Program Submissions**
 
 🎯 **Target Date:** Q2**-**Q3 2021  
-✅ **Status:** Early submissions now accepted as of July 1, 2021 for Wave 1 of Grants Program 
+✅ **Status:** [Early submissions now accepted](../../for-developers/grants/) as of July 1, 2021 for Wave 1 of Grants Program. 
 
 We will begin accepting applications for developers and projects requiring support for wave 1 of the Grants Program. Grants awards are TBD as we compile the early submissions and will announce once the program is live.
 
