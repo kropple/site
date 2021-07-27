@@ -64,12 +64,25 @@ Following the Berlin HF, the gas limit per block was raised from 12.5M to 17M, r
 
 [POSDAO v0.2.2](https://github.com/poanetwork/posdao-contracts/releases/tag/v0.2.2) was released on March 18, 2021 and is now in queue for an additional security audit. POSDAO support is now included with the latest [OpenEthereum release](https://github.com/openethereum/openethereum/releases/tag/v3.2.5).  Additional validator pool metadata was added to the interface.
 
-## **xDai Grant Program** 
+## Universal NFT Bridge
 
-🎯 **Target Date:** Q2 2021  
-☑ **Status:** In Process
+🎯 **Target Date**: Q3 2021  
+✅ **Status:** Beta complete July 27, 2021
 
-Once the Ecosystem Fund unlock begins, we will finalize the program and begin accepting applications for developers and projects requiring support for wave 1 of the Grants Program.
+An NFT bridge to allow users easy portability between xDai and Ethereum for all ERC721 tokens. This will improve interoperability and provide options for NFT minting and cross-chain transfers.
+
+{% hint style="info" %}
+_Update: Bridge is operational, UI is in development._  [_More information_](https://docs.tokenbridge.net/eth-xdai-amb-bridge/nft-omnibridge-extension)\_\_
+{% endhint %}
+
+![UI Preview](../../.gitbook/assets/nft-bridge.png)
+
+## **xDai Grant Program Submissions**
+
+🎯 **Target Date:** Q2**-**Q3 2021  
+✅ **Status:** Early submissions now accepted as of July 1, 2021 for Wave 1 of Grants Program 
+
+We will begin accepting applications for developers and projects requiring support for wave 1 of the Grants Program. Grants awards are TBD as we compile the early submissions and will announce once the program is live.
 
 ## **Privacy Preserving Transactions**
 
@@ -80,7 +93,7 @@ Implementation of additional zero-knowledge protocols and private transactions i
 
 Since xDai is a stable token, the primary use of the chain is peer-to-peer payments. Just as with cash, privacy and anonymity should be an option when exchanging money or paying vendors for services. 
 
-Currently, [Tornado.cash](https://tornado.cash/) is available to users to ensure Dai anonymity on the Ethereum mainnet. Dai can be used with tornado.cash before and after bridging to xDai to ensure transaction anonymity. However, it is not available directly on xDai.
+Currently, [Tornado.cash](https://tornado.cash/) is available to users to ensure Dai anonymity on the Ethereum mainnet. Dai can be used with tornado.cash before and after bridging to xDai to ensure transaction anonymity. However, it is not yet available directly on xDai.
 
 We plan to research and implement privacy preserving transactions on xDai directly, as well as enable privacy for STAKE transactions, allowing for anonymous staking on xDai and Ethereum. We have invested in several [different approaches ](https://forum.poa.network/t/introducing-the-poa-zero-knowledge-fund/2698)to implement different ZK protocols into xDai based applications and wallets.
 
@@ -95,18 +108,12 @@ Update: We are currently working on a [ZeroPool](https://zeropool.network/) inte
 
 We are planning to implement a test implementation of [EIP 1559](https://eips.ethereum.org/EIPS/eip-1559)  to explore its dynamics and benefits for the xDai chain as well as the broader Ethereum ecosystem. With successful testing, we plan to activate on xDai. _More details available soon._
 
-## Universal NFT Bridge
+## STAKE Beacon Chain
 
 🎯 **Target Date**: Q3 2021  
-☑ **Status:** In process
+☑ **Status:** Research and development
 
-An NFT bridge to allow users easy portability between xDai and Ethereum for all ERC721 tokens. This will improve interoperability and provide options for NFT minting and cross-chain transfers.
-
-{% hint style="info" %}
-_Update: Bridge is operational, UI is in development._  [_More information_](https://docs.tokenbridge.net/eth-xdai-amb-bridge/nft-omnibridge-extension)\_\_
-{% endhint %}
-
-![UI Preview](../../.gitbook/assets/nft-bridge.png)
+In addition to the EIP-1559 implementation we are preparing a STAKE beacon chain deployment. STAKE holders will be able to become validators on this beacon chain implementation with a very small allocation of STAKE \(exact amount TBD, likely 1-10 STAKE\). This will mark a first step towards additional decentralization and allow anyone to participate in the beacon chain experience. The chain will be initially be supported by a single client implementations. _More details coming soon._
 
 ## L2 scalability and composability for token transfers on xDai
 
@@ -139,6 +146,18 @@ There is currently  a reference implementation where sUSD can be transferred fro
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left"><em>27.07.2021</em>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Update NFT Omnibridge Beta to complete</li>
+          <li>Update Grant Program submissions to complete</li>
+          <li>Add STAKE Beacon chain roadmap item</li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td style="text-align:left"><em>13.07.2021</em>
       </td>
