@@ -20,8 +20,8 @@ Stake Beacon Chain \(SBC\) is currently in R&D. Targeting a Q3 soft beta launch 
 | :--- | :--- |
 | Required STAKE | 32 STAKE |
 | Block times | 7 seconds |
-| Validator Slots per Epoch | 16 \( to ensure [_N &gt; 1 honest proposer/epoch as per V. Buterin_](https://notes.ethereum.org/@vbuterin/rkhCgQteN?type=view#Why-32-ETH-validator-sizes)\) |
-| Validators per slot | 128 **\(**_see this_ [_explanation on minimum committee size_](https://medium.com/@chihchengliang/minimum-committee-size-explained-67047111fa20) _for more info\)_  |
+| Validator Slots per Epoch | 16 \( [_N &gt; 1 honest proposer/epoch as per V. Buterin_](https://notes.ethereum.org/@vbuterin/rkhCgQteN?type=view#Why-32-ETH-validator-sizes)\) |
+| Validators per slot | 128 **\(**[_explanation on minimum committee size_](https://medium.com/@chihchengliang/minimum-committee-size-explained-67047111fa20)_\)_  |
 | Epoch times | 1.85 minutes |
 | Slashing | Repeated reductions to 16 STAKE then removal |
 | MVP for launch \(pending system tolerance tests\) | 2048 validators 65,536 STAKE |
@@ -31,7 +31,7 @@ Validators with a small amount of STAKE \(32 STAKE\) will be able to stake and r
 
 ‌Stake will be locked in the contract and not available for immediate withdrawal, as is the case with the current Eth 2.0 deposit contract. STAKE will be deposited from the xDai side, significantly reducing transaction costs. Once active, stakers will receive a staking derivative which can be used to earn additional incentives on aligned DEXs within the xDai ecosystem.
 
-The system will be designed to support 7 second blocks, significantly faster than the 12 second blocks on Eth 2.0. Slashing will also be incorporated similarly to the Eth 2.0 contracts, where stakers will be slashed for incongruous behavior and deactivated once the 16 STAKE minimum threshold is reached for failure to properly run a node.
+The system will be designed to support 7 second blocks, significantly faster than the 12 second blocks on Eth 2.0. Slashing will also be incorporated in accordance with the Eth 2.0 contracts, where stakers will be slashed for incongruous behavior and deactivated once the 16 STAKE minimum threshold is reached for failure to properly run a node.
 
 SBC will support all the same functionality and tools as Eth 2.0. While block times will slow slightly from the current 5 second model on xDai, blocks will be larger and over time rollups will provide the ability for additional transactional throughput and prioritization features.
 
