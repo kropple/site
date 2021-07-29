@@ -12,7 +12,7 @@ Stake Beacon Chain \(SBC\) is currently in R&D. Targeting a Q3 soft beta launch 
 
 ‌While the Eth 2.0 staking deposit contract has attracted an impressive number of validators \(200K+\), these validators must each contribute 32 ETH to participate. This amount is out of reach for most blockchain users. In addition, centralized exchanges are pooling funds to create largely connected staking pools which may limit overall decentralization.
 
-**‌**The SBC is designed for users with small staking amounts who still want to participate as independent validators within an Ethereum-consistent and real-world value environment. It provides a similar experience and uses a similar methodology for validator set rotation to prevent collusion. When the stakes are lower, the amount staked can also be lower while providing security and protection through enhanced decentralization.
+**‌**The SBC is designed for users with small staking amounts who still want to participate as independent validators within an Ethereum-consistent and real-world value environment. It provides a similar experience and uses a similar methodology for validator set rotation to prevent collusion. With a lower-stakes chain, the amount staked can also be lower while providing security and protection through enhanced decentralization.
 
 ## **Initial Parameters**
 
