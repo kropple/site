@@ -96,7 +96,7 @@ Any contract that works on the Ethereum mainnet can be redeployed to the xDai ch
 
 🛠 See [Developer Resources and Tools](for-developers/developer-resources/) to get up-and-running quickly.
 
-![](.gitbook/assets/blockscout-1.png)
+![BlockScout Explorer for xDai](.gitbook/assets/screen-shot-2021-07-30-at-3.14.04-pm.png)
 
 ## **Why xDai?**
 
