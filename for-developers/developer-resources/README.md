@@ -154,8 +154,8 @@ See the dropdown menu under Developer Resources and Tools for tutorials related 
 
 * **General Migration Guide:** A fun and easy xDai migration guide from DAOHaus: [https://medium.com/daohaus-club/daohaus-xdai-dapp-migration-83dca1fc590a](https://medium.com/daohaus-club/daohaus-xdai-dapp-migration-83dca1fc590a)
 * **GasRelay tutorial** by Portis. With a few lines of code, gas fees are shifted to DApp owners rather than users, creating an intuitive user experience. [https://docs.portis.io/\#/gas-relay](https://docs.portis.io/#/gas-relay)
-* **WebSockets Endpoint** \(can be useful to setup BlockScout for xDai\) wss://dai-trace-ws.blockscout.com/ws
-* **Archive Fullnode Endpoint** \(Useful for setting up BlockScout for xDai\) https://dai-trace-ws.blockscout.com
+* **WebSockets Endpoint** \(can be useful to setup BlockScout for xDai\) [wss://rpc.xdaichain.com/wss](wss://rpc.xdaichain.com/wss)
+* **Archive Fullnode Endpoint** \(Useful for setting up BlockScout for xDai\) [https://xdai-archive.blockscout.com](https://xdai-archive.blockscout.com)
 * **Chain** [**spec**](https://github.com/poanetwork/poa-chain-spec/blob/dai/spec.json) **files** and known [bootnodes](https://github.com/poanetwork/poa-chain-spec/blob/dai/bootnodes.txt) of the xDai network [https://github.com/poanetwork/poa-chain-spec/tree/dai](https://github.com/poanetwork/poa-chain-spec/tree/dai)
 * **Netstats**, an overview of xDai Chain nodes [http://dai-netstat.poa.network](http://dai-netstat.poa.network/)
 * **Anyblock Index** \(aka [http://eth.events](http://eth.events)\), so you can query it via the Elasticsearch API or search in PostgreSQL: [https://account.anyblock.tools/status/](https://account.anyblock.tools/status/)
