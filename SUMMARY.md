@@ -35,6 +35,7 @@
   * [xMoon Projects](about-xdai/project-spotlights/xmoon-projects/README.md)
     * [Exchange Dai for MOONs to use on Reddit](about-xdai/project-spotlights/xmoon-projects/exchange-dai-for-moons-to-use-on-reddit.md)
   * [Galleass.io](about-xdai/project-spotlights/galleass.io.md)
+  * [Genuino](about-xdai/project-spotlights/genuino.md)
 * [Use Cases](about-xdai/use-cases/README.md)
   * [Peer-to-Peer Payments](about-xdai/use-cases/peer-to-peer-payments.md)
   * [DeFi \(Decentralized Finance\)](about-xdai/use-cases/defi-decentralized-finance.md)
