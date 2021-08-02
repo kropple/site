@@ -9,7 +9,7 @@ description: Projects and applications migrating and/or deploying to xDai
 
 We highlight some of the applications below in the Projects & DApps section of the website. See the submenu for more.
 
-There is also a community-curated site for xDai projects and applications located at [https://www.xdai.world/](https://www.xdai.world/)
+There is also a community-curated site for xDai projects and applications located at https://www.xdai.world/
 {% endhint %}
 
 xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Smart Contract or DApp deployed on Ethereum can also be deployed on xDai with minimal changes. Developers and projects can deploy and/or migrate to xDai to realize big cost savings and escape congestion. Forks of popular projects are also deployed on xDai to take advantage of stable network mechanics, speed and low transaction costs. Applications can move completely to xDai, or live on multiple networks at once, serving different audiences and experimenting with different modes of operation and cross-chain interoperability.
@@ -73,6 +73,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Unidex](https://unidex.exchange/): Limit order platform
 * [Symmetric](https://xdai-pools.symmetric.exchange/): AMM \(Balancer Fork\) [Learn More](https://medium.com/cent-finance/symmetric-eb7a73b36a46)
 * [Hop](https://hop.exchange/): Cross-chain exchange/liquidity portal
+* [CowSwap](https://cowswap.exchange/#/swap): DEX Aggregator built on Gnosis Protocol v2 \(GPv2\) with protection against transaction frontrunning.
 * **Coin & Token Focused Projects**
   * [Rare Coin](https://rare.fyi/): an free-to-claim and ultra-rare currency anyone can farm.
   * [Fraction](https://rare.fyi/): Token supply of 1 allocated in fractions.

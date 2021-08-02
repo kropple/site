@@ -9,6 +9,7 @@ Curve gives users & protocols the ability to exchange stablecoins with low fees 
 * **Curve on xDai**: [https://xdai.curve.fi](https://xdai.curve.fi/pools)
 * **Curve Announcement**: [https://curve.substack.com/p/july-1-2021-the-xdai-is-cast-](https://curve.substack.com/p/july-1-2021-the-xdai-is-cast-)
 * **Learn About Curve:** [https://resources.curve.fi/](https://resources.curve.fi/)
+* **Dune Analytics Dashboard:** [https://duneanalytics.com/maxaleks/Curve.fi-on-xDai](https://duneanalytics.com/maxaleks/Curve.fi-on-xDai)
 
 ![](../../.gitbook/assets/curve-on-xdai.png)
 
