@@ -80,15 +80,16 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 
 ### **NFT-based projects**
 
-* [Crypto stamp](https://crypto.post.at/):  Digital NFT + Physical Postage Stamps from the Austrian Post.
+* [Crypto stamp](https://crypto.post.at/):  Digital NFT + Physical Postage Stamps from the Austrian Post
 * [Nifty.Ink](https://nifty.ink/):  Create, send and bridge artistic NFTs
+* [Genuino](https://www.genuino.world/): Authenticated Physical Products + NFTs. Featuring an exclusive partnership with [AC Fiorentina](https://www.acffiorentina.com/en).
 * [Chievmint](https://chiev.net/): The Ministry for Minting Achievements
 * [Shenanigan](../../): Grassroots athletic sponsorship
 * [BeyondNFT](https://beyondnft.io/): Generative NFTs
 * [NiftyChess](https://niftychess.com/): Preserve chess boards as NFTs
-* [Unique Bubbles](https://uniquebubbles.com/): Limited, unique and personalized NFTs created and owned by the community.
-* [MCDC](http://mcdccoin.net/): McDonaldsCoin parody project NFT farming on Unifty.
-* [HashAvatars](https://thehashavatars.com/#/created-avatars): generated with a hash name on xDai.
+* [Unique Bubbles](https://uniquebubbles.com/): Limited, unique and personalized NFTs created and owned by the community
+* [MCDC](http://mcdccoin.net/): McDonaldsCoin parody project NFT farming on Unifty
+* [HashAvatars](https://thehashavatars.com/#/created-avatars): generated with a hash name on xDai
 * **NFT Marketplaces**
   * [Cargo](https://cargo.build): Create, share, sell and buy digital collectibles
   * [Unique.one](https://xdai.unique.one/): NFT Marketplace
@@ -131,6 +132,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [The Commons Stack](https://cv.commonsstack.org/#/): Conviction voting
 * [Vocdoni](https://vocdoni.io/): Secure digital voting
 * [Akropolis](https://akropolis.io/): DeFi governance with Delphi
+* [Kleros](https://kleros.io/): Decentralized arbitration protocol
 
 ### **DAOs**
 
