@@ -16,16 +16,59 @@ Stake Beacon Chain \(SBC\) is currently in R&D. Targeting a Q3 soft beta launch 
 
 ## **Initial Parameters**
 
-| **Variable** | **Value** |
-| :--- | :--- |
-| Required STAKE | 32 STAKE |
-| Block times | 7 seconds |
-| Validator Slots per Epoch | 16 \([_N &gt; 1 honest proposer/epoch as per V. Buterin_](https://notes.ethereum.org/@vbuterin/rkhCgQteN?type=view#Why-32-ETH-validator-sizes)\) |
-| Validators per slot | 128 **\(**[_explanation on minimum committee size_](https://medium.com/@chihchengliang/minimum-committee-size-explained-67047111fa20)_\)_  |
-| Epoch times | 1.85 minutes |
-| Slashing | Repeated reductions to 16 STAKE then removal |
-| MVP for launch \(pending system tolerance tests\) | 2048 validators 65,536 STAKE |
-| Security Goal | 650K STAKE prior to merge |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Variable</b>
+      </th>
+      <th style="text-align:left"><b>Value</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Required STAKE</td>
+      <td style="text-align:left">32 STAKE</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Block times</td>
+      <td style="text-align:left">7 seconds</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Validator Slots per Epoch</td>
+      <td style="text-align:left">16 (<a href="https://notes.ethereum.org/@vbuterin/rkhCgQteN?type=view#Why-32-ETH-validator-sizes"><em>N &gt; 1 honest proposer/epoch as per V. Buterin</em></a>)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Validators per slot</td>
+      <td style="text-align:left">128<b> (</b><a href="https://medium.com/@chihchengliang/minimum-committee-size-explained-67047111fa20"><em>explanation on minimum committee size</em></a><em>) </em>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Epoch times</td>
+      <td style="text-align:left">1.85 minutes</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Slashing</td>
+      <td style="text-align:left">Repeated reductions to 16 STAKE then removal</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">MVP for launch (pending system tolerance tests)</td>
+      <td style="text-align:left">
+        <p>2048 validators
+          <br />65,536 STAKE</p>
+        <p>47.4% APY</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Security Goal Prior to Merge</td>
+      <td style="text-align:left">
+        <p>20K validators</p>
+        <p>640K STAKE</p>
+        <p>15.18% APY</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 Validators with a small amount of STAKE \(32 STAKE\) will be able to stake and run a node through a simplified, step-by-step process. 
 
@@ -33,16 +76,13 @@ Validators with a small amount of STAKE \(32 STAKE\) will be able to stake and r
 
 The system will be designed to support 7 second blocks, significantly faster than the 12 second blocks on Eth 2.0. Slashing will also be incorporated in accordance with the Eth 2.0 contracts, where stakers will be slashed for incongruous behavior and deactivated once the 16 STAKE minimum threshold is reached for failure to properly run a node.
 
+Early stakers will be incentivized by an APY of nearly 50% \(47.4%\) for securing the chain. This incentive is quickly reduced as more validators onboard. For example with 4096 validators it is 33.7%. A sustainable ~15% APY is achieved when the security goal of 20,000 validators is met.
+
 SBC will support all the same functionality and tools as Eth 2.0. While block times will slow slightly from the current 5 second model on xDai, blocks will be larger and over time rollups will provide the ability for additional transactional throughput and prioritization features.
 
-Currently, the xDai chain is secured by ~650K STAKE by validators and their delegators. The goal is to match or exceed this amount. With 32 STAKE per validator, the system will require 20K+ validators to achieve the same level of security.
+Currently, the xDai chain is secured by ~640K STAKE by validators and their delegators. The goal is to match or exceed this amount. With 32 STAKE per validator, the system will require 20K+ validators to achieve the same level of security.
 
-_Additional technical details coming soon as we explore this exciting implementation!_  
-
-
-
-
-
-
-  
+{% hint style="info" %}
+\*_Additional technical details coming soon as we explore this exciting implementation!_
+{% endhint %}
 
