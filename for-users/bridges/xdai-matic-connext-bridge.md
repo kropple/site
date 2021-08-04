@@ -2,7 +2,7 @@
 description: Connext State Channels Bridge
 ---
 
-# xDai &lt;-&gt; Polygon \(Matic\) &lt;-&gt; BSC State Channels Bridge
+# xDai : Polygon : BSC : Fantom State Channels Bridge
 
 {% hint style="info" %}
 The xDai-Polygon \(Matic\)-BSC Bridge powered by [Connext](https://connext.network/) is developed by the [1Hive Collective](https://1hive.org/#/home), and not directly supported by the OmniBridge or xDai team. Use at your own risk. For questions or information, please see the [Connext Discord Channel](https://discord.gg/8YcWCfbp).
