@@ -62,9 +62,9 @@ Stake Beacon Chain \(SBC\) is currently in R&D. Targeting a Q3 soft beta launch 
     <tr>
       <td style="text-align:left">Security Goal Prior to Merge</td>
       <td style="text-align:left">
-        <p>20K validators</p>
-        <p>640K STAKE</p>
-        <p>15.18% APY</p>
+        <p>20K+ validators</p>
+        <p>640K+ STAKE</p>
+        <p>15% APY</p>
       </td>
     </tr>
   </tbody>
