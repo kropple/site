@@ -4,7 +4,7 @@ description: >-
   for execution of smart contracts and gas fees.
 ---
 
-# xDai Token
+# xDai Stable Token
 
 xDai tokens are used to pay for gas and transactions on the xDai chain. They are a stable token \(worth ~ 1 USD\) created from locked Dai. _Note that xDai features a dual token model with xDai as the stable transaction currency and STAKE as the staking/utility token._ [_Info on STAKE_](../../for-stakers/stake-token/)_._
 

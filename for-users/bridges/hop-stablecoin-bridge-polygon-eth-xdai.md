@@ -1,5 +1,9 @@
 # HOP StableCoin Bridge \(Polygon/Eth/xDai\)
 
+{% hint style="info" %}
+Hop.Exchange is a 3rd party application and is not developed or supported by the xDai team.
+{% endhint %}
+
 The [Hop Bridge](https://app.hop.exchange/) can be used for inexpensive cross-chain transfers of USDC & USDT between Ethereum, Polygon and xDai. This is particularly useful for savvy users looking to quickly move between Polygon and xDai to take advantage of the best farming opportunities on either chain. Hop users can also provide liquidity and earn rewards.
 
 ![](../../.gitbook/assets/hop-exchange.png)

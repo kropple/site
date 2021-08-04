@@ -165,7 +165,7 @@
 ## For users
 
 * [Getting Started with xDai](for-users/getting-started-with-xdai.md)
-* [xDai Token](for-users/get-xdai-tokens/README.md)
+* [xDai Stable Token](for-users/get-xdai-tokens/README.md)
   * [xDai Faucets](for-users/get-xdai-tokens/xdai-faucet.md)
   * [Buying xDai with Fiat](for-users/get-xdai-tokens/buying-xdai-with-fiat/README.md)
     * [Ramp Network](for-users/get-xdai-tokens/buying-xdai-with-fiat/ramp-network.md)
@@ -193,8 +193,8 @@
       * [BSC OmniBridge Example](for-users/bridges/omnibridge/binance-smart-chain-omnibridge/bsc-omnibridge-example.md)
       * [WBNB auto-conversion to BNB](for-users/bridges/omnibridge/binance-smart-chain-omnibridge/wbnb-auto-conversion-to-bnb.md)
       * [Binance-Peg Dai Token on xDai](for-users/bridges/omnibridge/binance-smart-chain-omnibridge/dai-token-on-xdai-bsc.md)
-  * [xDai : Polygon : BSC : Fantom State Channels Bridge](for-users/bridges/xdai-matic-connext-bridge.md)
   * [HOP StableCoin Bridge \(Polygon/Eth/xDai\)](for-users/bridges/hop-stablecoin-bridge-polygon-eth-xdai.md)
+  * [State Channels Bridge \(xDai/Polygon/ BSC/Fantom\)](for-users/bridges/xdai-matic-connext-bridge.md)
   * [Bridge FAQs](for-users/bridges/bridge-faqs.md)
 * [Wallets](for-users/wallets/README.md)
   * [Alpha Wallet](for-users/wallets/alpha-wallet/README.md)
