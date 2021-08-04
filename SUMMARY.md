@@ -194,6 +194,7 @@
       * [WBNB auto-conversion to BNB](for-users/bridges/omnibridge/binance-smart-chain-omnibridge/wbnb-auto-conversion-to-bnb.md)
       * [Binance-Peg Dai Token on xDai](for-users/bridges/omnibridge/binance-smart-chain-omnibridge/dai-token-on-xdai-bsc.md)
   * [xDai &lt;-&gt; Polygon \(Matic\) &lt;-&gt; BSC State Channels Bridge](for-users/bridges/xdai-matic-connext-bridge.md)
+  * [HOP StableCoin Bridge \(Polygon/Eth/xDai\)](for-users/bridges/hop-stablecoin-bridge-polygon-eth-xdai.md)
   * [Bridge FAQs](for-users/bridges/bridge-faqs.md)
 * [Wallets](for-users/wallets/README.md)
   * [Alpha Wallet](for-users/wallets/alpha-wallet/README.md)
