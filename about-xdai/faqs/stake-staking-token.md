@@ -1,4 +1,4 @@
-# STAKE Staking Token
+# STAKE Staking Token FAQ
 
 ## If I only need xDai coins for transactions, what is STAKE used for?
 

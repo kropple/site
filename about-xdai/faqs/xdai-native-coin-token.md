@@ -1,4 +1,4 @@
-# xDai Native Coin/Token
+# xDai Native Coin/Token FAQ
 
 ## What is the main function of the xDai coin?
 
