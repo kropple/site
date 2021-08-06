@@ -2,7 +2,7 @@
 description: Use the Mt Pelerin wallet to purchase xDai with a bank transfer
 ---
 
-# Mt Pelerin
+# Mt Pelerin: Fiat Gateway
 
 With Bridge Wallet, you can easily buy XDAI by bank transfer. You will receive your funds on the address of your choice with a transparent exchange margin, no gas fees and zero hidden costs.
 

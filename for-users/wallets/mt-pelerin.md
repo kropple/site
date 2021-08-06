@@ -2,7 +2,7 @@
 description: 'Mobile wallet with zero fees XDAI, USDC and USDT on-ramp and off-ramp'
 ---
 
-# Mt Pelerin
+# Mt Pelerin Wallet
 
 ## Bridge Wallet
 
