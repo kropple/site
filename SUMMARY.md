@@ -398,3 +398,8 @@
   * [Buttons](media/media-kit/buttons.md)
 * [Contact us](media/contact-us.md)
 
+---
+
+* [Careers](careers/README.md)
+  * [Elixir Developer \(BlockScout\)](careers/elixir-developer-blockscout.md)
+
