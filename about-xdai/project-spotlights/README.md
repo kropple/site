@@ -89,7 +89,6 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [BeyondNFT](https://beyondnft.io/): Generative NFTs
 * [NiftyChess](https://niftychess.com/): Preserve chess boards as NFTs
 * [Unique Bubbles](https://uniquebubbles.com/): Limited, unique and personalized NFTs created and owned by the community
-* [MCDC](http://mcdccoin.net/): McDonaldsCoin parody project NFT farming on Unifty
 * [HashAvatars](https://thehashavatars.com/#/created-avatars): generated with a hash name on xDai
 * **NFT Marketplaces**
   * [Cargo](https://cargo.build): Create, share, sell and buy digital collectibles
@@ -174,7 +173,6 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Slugroad](https://snailking.github.io/slugroad/game_xdai): Simple take the wheel game
 * [GUStakes](https://gustakes.gg/): Stake xDai on Gods Unchained matchups.
 * [FunFair Labs](https://funfair.io/funfair-labs-launches-this-friday/):  Payloads on xDai
-* [McDonaldsCoin](http://mcdccoin.net): Gamified art token and parody project featuring a Drivethru crypto food trading game
 
 ### **More**
 
