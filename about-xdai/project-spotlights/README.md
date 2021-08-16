@@ -189,4 +189,5 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [PoolTogether](https://community.pooltogether.com/pools/xdai): No-loss savings games
 * [Unlock Protocol](https://unlock-protocol.com/): Content, apps, and community management
 * [CryptoSurvey](https://dapp.cryptosurvey.market/surveys): Incentivized surveys
+* [Synapse Network](https://synapse.network/): Multi-chain project investment platform
 
