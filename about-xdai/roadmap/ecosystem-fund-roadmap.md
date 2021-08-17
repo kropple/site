@@ -16,7 +16,7 @@ Here we offer some initial use cases for the fund. We will continue to expand th
   * March 31, 2021 ~ 13:02:59 UTC: 800,000 STAKE \(20% 1 time unlock\)
   * April 1, 2021 - March 2, 2022: ~9,523 STAKE per day \(80% over 336 days\)
 
-## Funding Allocations Q2 2021
+## Funding Allocations 2021
 
 Funding amounts are approximate and provided in STAKE. We will include additional details such as tx hashes, gnosis safe addresses and other data as they become available.
 
@@ -55,6 +55,8 @@ We are exploring additional measures to ensure fund transparency and funding ali
 * ✅ 125,000 STAKE for Sushiswap incentives from this[ forum proposal ](https://forum.poa.network/t/proposal-to-add-stake-incentives-matched-to-the-sushiswap-deployment-on-xdai/5821)and [snapshot vote](https://snapshot.org/#/xdaistake.eth/proposal/QmaucfLiZjTLuf39w9xfXCDoGPkYtscvgBJtbqCGYg9Peh). Sent in 2 transactions to a multisig wallet July 7, 2021
   * 25,000 STAKE [https://etherscan.io/tx/0x2ba011ccc2f9116742ba781e2231f2799b74dc92947631042af9a178d139b87c](https://etherscan.io/tx/0x2ba011ccc2f9116742ba781e2231f2799b74dc92947631042af9a178d139b87c)
   * 100,000 STAKE [https://etherscan.io/tx/0x13ca4e65b32c9648abc4ed7931c046ad2705635a7bcae288e70b8b15a17906a7](https://etherscan.io/tx/0x13ca4e65b32c9648abc4ed7931c046ad2705635a7bcae288e70b8b15a17906a7)
+* ✅  STAKE liquidity support August 11, 2021
+  * 500,000 STAKE[ https://etherscan.io/tx/0x7a4827bca51d27243ee107c0744bab9889893a29f1e25adc48ec883ad2917131](https://etherscan.io/tx/0x7a4827bca51d27243ee107c0744bab9889893a29f1e25adc48ec883ad2917131) [https://etherscan.io/tx/0x8410a98e606b6adcac65ac4aee9a1355074b86ac6445de871d3cc8b2c231ff2e](https://etherscan.io/tx/0x8410a98e606b6adcac65ac4aee9a1355074b86ac6445de871d3cc8b2c231ff2e)
 
 ### xDai Community Initiatives and Other Use Cases
 
