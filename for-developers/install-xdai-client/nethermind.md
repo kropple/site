@@ -1,9 +1,9 @@
 # Nethermind
 
 {% hint style="warning" %}
-A majority of validators are now running the  Nethermind client.   
+A majority of xDai validators are now running the Nethermind client.   
   
-Latest version [https://github.com/NethermindEth/nethermind/releases/tag/1.11.0](https://github.com/NethermindEth/nethermind/releases/tag/1.11.0)   
+Version [https://github.com/NethermindEth/nethermind/releases/tag/1.11.0](https://github.com/NethermindEth/nethermind/releases/tag/1.11.0)   
 Ethstats: [https://dai-netstat.poa.network/](https://dai-netstat.poa.network/)
 {% endhint %}
 

@@ -19,7 +19,7 @@ description: xDai with POSDAO runs on OpenEthereum v3.2.5
 {% endhint %}
 
 {% hint style="success" %}
-_For a non-dev user friendly version, see_ [_https://forum.1hive.org/t/run-your-own-local-xdai-node/2875_](https://forum.1hive.org/t/run-your-own-local-xdai-node/2875)
+_For a user friendly version, see_ [_https://forum.1hive.org/t/run-your-own-local-xdai-node/2875_](https://forum.1hive.org/t/run-your-own-local-xdai-node/2875)
 {% endhint %}
 
 ### Binary Instructions
