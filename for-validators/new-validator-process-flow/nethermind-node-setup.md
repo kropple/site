@@ -6,6 +6,8 @@ description: Instructions for setting up a Nethermind Client Node
 
 {% hint style="warning" %}
 Before getting started as a new validator, please follow the [Become a Candidate steps](../../for-stakers/staking-protocol/become-a-candidate-validator.md) to fund and setup your staking address. You will need this as well as information from the validator-candidates [Discord channel](https://discord.gg/mPJ9zkq) to complete the setup.
+
+Nethermind version -&gt;  [https://github.com/NethermindEth/nethermind/releases/tag/1.11.0](https://github.com/NethermindEth/nethermind/releases/tag/1.11.0) 
 {% endhint %}
 
 {% hint style="info" %}

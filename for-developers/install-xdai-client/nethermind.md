@@ -1,10 +1,9 @@
 # Nethermind
 
 {% hint style="warning" %}
-Several Nethermind Validators are currently running on POSDAO. Requires the latest version 1.10.71
-
-Validator: [https://blockscout.com/xdai/mainnet/address/0x1A740616e96E07d86203707C1619d9871614922A/validations](https://blockscout.com/xdai/mainnet/address/0x1A740616e96E07d86203707C1619d9871614922A/validations)
-
+A majority of validators are now running the  Nethermind client.   
+  
+Latest version [https://github.com/NethermindEth/nethermind/releases/tag/1.11.0](https://github.com/NethermindEth/nethermind/releases/tag/1.11.0)   
 Ethstats: [https://dai-netstat.poa.network/](https://dai-netstat.poa.network/)
 {% endhint %}
 
