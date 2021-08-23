@@ -9,7 +9,7 @@ description: Nethermind implements flashbots MEV  in v1.11.0
 {% hint style="success" %}
 If you are familiar with using [Flashbots on Ethereum](https://docs.flashbots.net/flashbots-auction/searchers/quick-start/), get started now on xDai with API support from Nethermind!
 
-1. xDai MEV Endpoint: ****[**https://xdai-relay.nethermind.io**](https://t.co/9X5lU6LWvr?amp=1)\*\*\*\*
+1. xDai MEV Endpoint: ****[**https://xdai-relay.nethermind.io**](https://t.co/9X5lU6LWvr?amp=1) **\(**rather than ****[relay.flashbots.net](https://relay.flashbots.net)\)
 2. Tx chain id: **100**
 3. Set appropriate gas price \(gas in xDai not Eth\)
 4.  Currently the **eth\_sendBundle** method is supported. 
@@ -44,6 +44,8 @@ Other interested users may include the following as xDai chain usage grows \(fro
 1. Bot operators seeking fast, risk free access to blockspace.
 2. DEX users looking for frontrunning protection on their transactions.
 3. Dapps with use cases for account abstraction or gasless transactions.
+
+See the [example searchers templates ](https://docs.flashbots.net/flashbots-auction/searchers/example-searchers/simple-arbitrage-bot)as a resource to begin creating your own.
 
 ## Additional Resources
 
