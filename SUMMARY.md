@@ -318,6 +318,7 @@
   * [Dune Analytics](for-developers/developer-resources/dune-analytics.md)
   * [TheGraph Data Indexing](for-developers/developer-resources/thegraph-data-indexing.md)
   * [Dappquery Smart Contract Analytics & Visualizations](for-developers/developer-resources/dappquery-visual-contract-analytics.md)
+  * [MEV & Flashbots](for-developers/developer-resources/mev-and-flashbots.md)
   * [Meta Transactions](for-developers/developer-resources/meta-transactions.md)
   * [ERC20 Test Token Faucet](for-developers/developer-resources/erc20-test-token-faucet.md)
   * [Wrapped xDai \(wxDai\)](for-developers/developer-resources/wrapped-xdai.md)
