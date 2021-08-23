@@ -103,7 +103,6 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
   * [Foundation](https://foundation.app/): Emerging artist marketplace, v1 built on xDai. [More on their xDai Integration](https://foundation.app/blog/building-on-the-edge).
 * Projects that use xDai for NFT minting include: 
   * [POAP](https://www.poap.xyz/)
-  * [Reality Cards](https://realitycards.io/)
   * [GitCoin](https://gitcoin.co/)
 
 ### **Community Engagement**
@@ -118,11 +117,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Chievmint](https://app.chiev.net/about): Community Achievement awards \(NFTs\)
 * [Giveth](https://giveth.io/): Community Philanthropy and Donation Platform
 * [HiveShares](https://hiveshares.finance/): Community Powered xDai chain incubator for new projects.
-
-### **Prediction Markets**
-
 * [Omen Prediction Market](https://xdai.omen.eth.link/) \(need web3 wallet enabled, or use a mobile wallet like Alpha or Status\): Bet on existing markets or create new ones with xDai or STAKE.
-* [Reality Cards](https://realitycards.io/): NFTs for prediction voting
 
 ### **Governance**
 
@@ -169,10 +164,10 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 ### **Games**
 
 * [Darkforest](https://zkga.me/): zkSNARK space warfare game
+* [FunFair Labs](https://funfair.io/funfair-labs-launches-this-friday/):  Payloads on xDai
 * [Galleass](galleass.io.md): Decentralized resource management game
 * [Slugroad](https://snailking.github.io/slugroad/game_xdai): Simple take the wheel game
 * [GUStakes](https://gustakes.gg/): Stake xDai on Gods Unchained matchups.
-* [FunFair Labs](https://funfair.io/funfair-labs-launches-this-friday/):  Payloads on xDai
 
 ### **More**
 

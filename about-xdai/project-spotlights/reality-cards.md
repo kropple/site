@@ -4,10 +4,10 @@ description: A new kind of NFT Prediction Market
 
 # Reality Cards
 
-Reality Cards has created their first xDai Market! Place bets on outcomes with NFTs that you "own" for a period of time.  If your outcome wins, you split a % of the pot based on ownership time and amount.
-
-{% hint style="info" %}
-Reality Cards on xDai is still in private beta. To try it out, reach out to the Reality Cards team on [Discord ](https://realitycards.io/discord)and they will set you up with a beta key! Learn more about the xDai deployment here: [https://medium.com/reality-cards/reality-cards-is-live-on-xdai-5348de9fc8fc](https://medium.com/reality-cards/reality-cards-is-live-on-xdai-5348de9fc8fc)
+{% hint style="warning" %}
+Reality Cards was initially developed on xDai, and the step-by-step below relates to initial platform development. Learn more about the xDai deployment here: [https://medium.com/reality-cards/reality-cards-is-live-on-xdai-5348de9fc8fc](https://medium.com/reality-cards/reality-cards-is-live-on-xdai-5348de9fc8fc).   
+  
+The [current version of Reality Cards](https://realitycards.io/) does not run on xDai, although future iterations may.
 {% endhint %}
 
 {% hint style="success" %}
@@ -47,10 +47,6 @@ In this new beta market, users have until September 20th to place their bet on w
 5\) View your current cards in the My CARDS section. This shows ownership stats and your remaining deposit.
 
 ![](../../.gitbook/assets/reality-mycards.jpg)
-
-{% hint style="info" %}
-Coming Soon -&gt; Event endings, winnings etc.
-{% endhint %}
 
 
 
