@@ -52,4 +52,5 @@ See the [example searchers templates ](https://docs.flashbots.net/flashbots-auct
 * [Nethermind Discord](https://discord.com/invite/PaCMRFdvWT) for MEV Questions
 * [Flashboys 2.0 paper that introduces MEV](https://ieeexplore.ieee.org/document/9152675)
 * [Flashbots docs](https://docs.flashbots.net/)
+* [Account Abstraction with Flashbots](https://medium.com/flashbots/flashbots-transparency-report-february-2021-8ac45b467d0a)
 
