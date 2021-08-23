@@ -51,6 +51,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Perpetual Protocol](https://perp.fi/):   Democratizing Futures and other derivatives. [Learn more about why they chose xDai](https://medium.com/@perpetualprotocol/why-we-chose-xdai-chain-to-scale-perpetual-protocol-5b6cfd6cf5aa).
 * [SushiSwap](https://exchange.sushi.com/#/swap): Cross-chain Dex
 * [Curve Finance](https://xdai.curve.fi/): High APR Liquidity Pools
+* [CowSwap](https://cowswap.exchange/#/swap): DEX Aggregator built on Gnosis Protocol v2 \(GPv2\) with protection against transaction frontrunning.
 * [BaoFinance](https://xdai.bao.finance/): Stake Sushiswap and Baoswap LP tokens to earn BAO
 * [Component Finance](https://xdai.component.finance/): Stable Coin Swap
 * [Swapr](https://swapr.eth.link/#/swap): Governance enabled AMM with multi-platform capabilities
@@ -73,7 +74,6 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Unidex](https://unidex.exchange/): Limit order platform
 * [Symmetric](https://xdai-pools.symmetric.exchange/): AMM \(Balancer Fork\) [Learn More](https://medium.com/cent-finance/symmetric-eb7a73b36a46)
 * [Hop](https://hop.exchange/): Cross-chain exchange/liquidity portal
-* [CowSwap](https://cowswap.exchange/#/swap): DEX Aggregator built on Gnosis Protocol v2 \(GPv2\) with protection against transaction frontrunning.
 * **Coin & Token Focused Projects**
   * [Rare Coin](https://rare.fyi/): an free-to-claim and ultra-rare currency anyone can farm.
   * [Fraction](https://rare.fyi/): Token supply of 1 allocated in fractions.

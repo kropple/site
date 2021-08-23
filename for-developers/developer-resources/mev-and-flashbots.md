@@ -17,6 +17,10 @@ If you are familiar with using [Flashbots on Ethereum](https://docs.flashbots.ne
     eth\_callBundle is not supported, it will be implemented in a future release.
 {% endhint %}
 
+{% hint style="info" %}
+If you are interested in decentralized trading with frontrunning protection, see [Cowswap](https://cowswap.exchange/#/swap), a Gnosis trading platform designed with MEV in mind.
+{% endhint %}
+
 ## What is MEV
 
 Miner - or Maximal - Extractable Value \(MEV\) refers to additional rewards block producers \(miners or validators in xDai's case\) realize by reordering transactions within a block. MEV incentives can increase chain congestion and gas prices as users and arbitrage bots compete for block space. In these scenarios, bots might continually submit txs with higher gas fees \(bidding wars\) in an attempt to capitalize on opportunities, and block producers will shift transactions to include txs with the highest gas prices first.  
