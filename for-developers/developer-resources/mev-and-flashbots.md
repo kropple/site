@@ -37,7 +37,7 @@ To enable privacy, eliminate frontrunning, and reduce failed bids, Flashbots Auc
 
 MEV Transactions can be bundled and sent to the Nethermind MEV relay on xDai using the [https://xdai-relay.nethermind.io](https://t.co/9X5lU6LWvr?amp=1) endpoint. Validators running the Nethermind client on xDai will include these bundles if it is profitable for them. 
 
-MEV transactions are typically useful to maintain privacy or during times of increased congestion, such as a DarkForest Round. Use cases may include those using Perpetual Protocol and Dark Forest players. [This example shows an accepted bundle on BlockScout](https://blockscout.com/xdai/mainnet/blocks/17663943/transactions) block 17663943. The first 2 included transactions were sent as a MEV bundle from `0x5b49B`
+MEV transactions are typically useful to maintain privacy or during times of increased congestion, such as a DarkForest Round. Use cases may include those using Perpetual Protocol and Dark Forest players. [This example shows an accepted bundle on BlockScout block 17663943](https://blockscout.com/xdai/mainnet/blocks/17663943/transactions). The first 2 included transactions were sent as a MEV bundle from `0x5b49B`
 
 Other interested users may include the following as xDai chain usage grows \(from the flashbots site\).
 
