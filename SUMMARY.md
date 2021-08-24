@@ -17,6 +17,7 @@
   * [Dark Forest](about-xdai/project-spotlights/dark-forest.md)
   * [Crypto stamp](about-xdai/project-spotlights/crypto-stamp.md)
   * [Swarm](about-xdai/project-spotlights/swarm.md)
+  * [Porini Foundation](about-xdai/project-spotlights/porini-foundation.md)
   * [DappNode](about-xdai/project-spotlights/dappnode.md)
   * [Kleros](about-xdai/project-spotlights/kleros.md)
   * [Component Finance](about-xdai/project-spotlights/component-finance.md)
