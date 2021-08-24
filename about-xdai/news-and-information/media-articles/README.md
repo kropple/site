@@ -6,6 +6,10 @@ description: Articles and explainers that feature or describe the xDai ecosystem
 
 ## In the News
 
+{% embed url="https://youtu.be/Wo4Rt7Tyuvw" caption="Igor at Smart Contract Summit \#1" %}
+
+
+
 {% embed url="https://ournetwork.substack.com/p/our-network-issue-79" caption="Our Network July 2021" %}
 
 {% embed url="https://decrypt.co/63437/cheap-gas-orchid-labs-is-using-xdai-to-drive-down-the-cost-of-its-vpn" caption="Decrypt March 2021" %}
