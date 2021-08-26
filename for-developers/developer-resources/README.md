@@ -4,6 +4,10 @@ description: General Information and Links
 
 # Developer Resources & Tools
 
+{% hint style="info" %}
+For assistance or questions please visit the [xDai discord channel](https://discord.gg/mPJ9zkq).
+{% endhint %}
+
 ## General Information
 
 | Block Size | Block Speed | Gas price | Patchset | Native token | Network ID |
@@ -109,6 +113,10 @@ There are two bridge implementations connecting xDai and the Ethereum Mainnet.
 #### OmniBridge Access
 
 * Omnibridge is located at [https://omni.xdaichain.com/](https://omni.xdaichain.com/). More information [including method calls here.](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension)
+
+## Compatible Testnets
+
+[POA Sokol Testnet](https://www.poa.network/for-developers/developer-resourses) is updated with similar specifications and runs the Nethermind Client.
 
 ## DApp Management & Developer Tools
 
