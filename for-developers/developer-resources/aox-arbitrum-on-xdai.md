@@ -19,7 +19,7 @@ For information on Arbitrum and usage basics, see the [Arbitrum docs](https://de
 | Inbox Contract | [0x2bd67c9b0045bc1B7cBD2b495E10265A372F830a](https://blockscout.com/xdai/mainnet/address/0x2bd67c9b0045bc1B7cBD2b495E10265A372F830a) |
 | Outbox Contract | [0x5877eF3A233A95A580a0c96aF88f1A08f1773959](https://blockscout.com/xdai/mainnet/address/0x5877eF3A233A95A580a0c96aF88f1A08f1773959) |
 
-![](../../.gitbook/assets/aox%20%281%29.png)
+![](../../.gitbook/assets/aox.png)
 
 ## Deposits to AoX
 
