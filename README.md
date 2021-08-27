@@ -5,9 +5,11 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 # Welcome to xDai
 
 {% hint style="success" %}
-**Latest News  
+**Latest News**  
   
- 🍣** Sushiswap incentives are here. [Learn more](about-xdai/project-spotlights/sushiswap.md) and get started at [https://app.sushi.com](https://app.sushi.com/swap) by selecting xDai in the network dropdown.  
+🌪 Tornado Cash is live on xDai. Select xDai from the dropdown for transactional privacy at [https://app.tornado.cash/](https://app.tornado.cash/) 
+
+**🍣** Sushiswap incentives are here. [Learn more](about-xdai/project-spotlights/sushiswap.md) and get started at [https://app.sushi.com](https://app.sushi.com/swap) by selecting xDai in the network dropdown.  
   
 ****⛱ Curve Finance on xDai! [Learn more](about-xdai/project-spotlights/curve-finance.md) or dive in here  [https://xdai.curve.fi/](https://xdai.curve.fi/).
 
