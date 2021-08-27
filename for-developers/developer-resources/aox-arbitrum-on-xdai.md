@@ -12,7 +12,7 @@ For information on Arbitrum and usage basics, see the [Arbitrum docs](https://de
 
 | Item | Value |
 | :--- | :--- |
-| RPC | [https://rpc.xdaichain.com/arbitrum](https://rpc.xdaichain.com/arbitrum) |
+| RPC | [https://arbitrum.xdaichain.com/](https://arbitrum.xdaichain.com/) |
 | WSS | [wss://arbitrum.xdaichain.com/wss](wss://arbitrum.xdaichain.com/wss) |
 | Chain ID | 42161 |
 | Rollup Contract | [0x21AB1Fc6b116dD577409E47b8a7Af87A72b892a2](https://blockscout.com/xdai/mainnet/address/0x21AB1Fc6b116dD577409E47b8a7Af87A72b892a2) |
