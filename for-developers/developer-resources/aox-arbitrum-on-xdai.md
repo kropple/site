@@ -14,18 +14,16 @@ For information on Arbitrum and usage basics, see the [Arbitrum docs](https://de
 | :--- | :--- |
 | RPC | [https://arbitrum.xdaichain.com/](https://arbitrum.xdaichain.com/) |
 | WSS | [wss://arbitrum.xdaichain.com/wss](wss://arbitrum.xdaichain.com/wss) |
-| Chain ID | 42161 |
-| Rollup Contract | [0x21AB1Fc6b116dD577409E47b8a7Af87A72b892a2](https://blockscout.com/xdai/mainnet/address/0x21AB1Fc6b116dD577409E47b8a7Af87A72b892a2) |
-| Inbox Contract | [0x2bd67c9b0045bc1B7cBD2b495E10265A372F830a](https://blockscout.com/xdai/mainnet/address/0x2bd67c9b0045bc1B7cBD2b495E10265A372F830a) |
-| Outbox Contract | [0x5877eF3A233A95A580a0c96aF88f1A08f1773959](https://blockscout.com/xdai/mainnet/address/0x5877eF3A233A95A580a0c96aF88f1A08f1773959) |
-
-![](../../.gitbook/assets/aox.png)
+| Chain ID | 200 |
+| Rollup Contract | [0xc6a64a792618d834ba7f4126274f57db043ce095](https://blockscout.com/xdai/mainnet/address/0xc6A64a792618D834ba7F4126274F57DB043CE095/transactions) |
+| Inbox Contract | [0x556c18a6fdcd52562ec1130212f6113e3f818335](https://blockscout.com/xdai/mainnet/address/0x556c18a6FDcd52562Ec1130212f6113e3F818335/transactions) |
+| Outbox Contract | [0x0532D745F467fE541620564166749586f9fFe799](https://blockscout.com/xdai/mainnet/address/0x0532D745F467fE541620564166749586f9fFe799/transactions) |
 
 ## Deposits to AoX
 
 Simple deposit functionality for users / bridge implementation is still in development. Devs can use the following ABI to call the  `depositEth` method. Use 10000000 for `maxSubmissionCost` and attach an amount of xDai tokens to the transaction. It may take several minutes for execution finalization. 
 
-* [Deposit Example Transaction](https://blockscout.com/xdai/mainnet/tx/0xacdd93bc41fada9fa6381fe99063d318e513e09842f252d150ff92185c8c937f)
+* [Deposit Example Transaction](https://blockscout.com/xdai/mainnet/tx/0x9cf6d6b352e5788ed2edea164431980d237c287ecf4a4ae0e7aca234ca9c42b1)
 * ABI ⬇ 
 
 ```text
