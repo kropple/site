@@ -19,7 +19,9 @@ We believe in open-source development and code transparency.
 | Kirill Fedoseev | TokenBridge, Research | [https://github.com/k1rill-fedoseev](https://github.com/k1rill-fedoseev) |
 | Leonid Tyurin | TokenBridge, Research | [https://github.com/LyzeOfKiel](https://github.com/LyzeOfKiel) |
 | Max Alekseenko | Application Development, xDai | [https://github.com/maxaleks](https://github.com/maxaleks) |
-| Andrew Gross | Technical Writer | [https://github.com/andogro](https://github.com/andogro) |
+| Andrew Gross | Technical Comms | [https://github.com/andogro](https://github.com/andogro) |
+| Ulyana Skladchikova | Product Manager | [https://github.com/ulyanas](https://github.com/ulyanas) |
+| Mojmir Racak | Community Manager | [https://github.com/Mojmir14](https://github.com/Mojmir14) |
 
 ## The History behind xDai
 
