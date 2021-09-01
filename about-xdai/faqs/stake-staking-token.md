@@ -4,7 +4,7 @@
 
 STAKE is a volatile token used as a staking token to protect the xDai chain. It enables delegated staking and community participation in xDai consensus. It is also used for [STAKE weighted proposal initiation and voting](../../for-users/governance/stake-weighted-voting/).
 
-You do not need STAKE to use the xDai chain for regular transactions. You only need STAKE if you want to be a validator or delegator on the xDai chain.
+You do not need STAKE to use the xDai chain for regular transactions. You only need STAKE if you want to be a validator or delegator on the xDai chain or to participate in governance.
 
 More on the [Dual Token Model](../../for-stakers/stake-token/stake-reward-mechanics/dual-token-model.md)
 
@@ -17,8 +17,8 @@ More on the [Dual Token Model](../../for-stakers/stake-token/stake-reward-mechan
 
 ## How do I get STAKE on xDai?
 
-* Move from Ethereum to xDai with the OmniBridge
-* Acquire on xDai with [Honeyswap](../project-spotlights/1hive/honeyswap.md)
+* Move STAKE from Ethereum to xDai with the [OmniBridge](https://omni.xdaichain.com/bridge).
+* Acquire on xDai with [Honeyswap](../project-spotlights/1hive/honeyswap.md), [SushiSwap](https://app.sushi.com/swap) or other [DEXs on xDai](../project-spotlights/#defi).
 
 ## What are the STAKE contract addresses?
 
@@ -41,9 +41,9 @@ Yes!
 * Staking on Ethereum with [EasyStaking](https://easy-staking.xdaichain.com/) 
 * Staking on xDai with [Public POSDAO](../../for-stakers/staking-protocol/)
 
-## When does public staking start on xDai?
+## Is public staking available on xDai?
 
-Public staking is [now active on xDai](../news-and-information/project-updates/public-posdao-announcement.md).
+Yes, public staking is [now active on xDai](../news-and-information/project-updates/public-posdao-announcement.md).
 
 ## How much STAKE will I need for public staking?
 

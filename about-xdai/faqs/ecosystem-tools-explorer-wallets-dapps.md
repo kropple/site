@@ -16,6 +16,8 @@ We are fortunate to have the support of quite a number of wallets, including som
 
 The biggest wallet use case is Burner Wallet - as this is really designed for small, stable payments and for conferences and events. We invite you to [check out our wallets page](../../for-users/wallets/) for more information.
 
+When using a wallet, you will use the same 0x address that you use on Ethereum, just connect to the xDai network to get started.
+
 ## How can I develop and deploy a DApp on xDai?
 
 Since xDai is an Ethereum-compatible sidechain, you can use the same tools \(like Truffle\), languages \(Solidity\) and environments you are used to using with Ethereum. With a few quick tweaks, your DApp can also be running on xDai. See [Smart Contract Deployment](../../for-developers/developer-resources/smart-contract-deployment.md) for details.

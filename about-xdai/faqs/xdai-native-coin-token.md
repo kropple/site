@@ -27,7 +27,7 @@ The xDai stablechain enables digital cash, supporting small denomination transac
 
 ## How can you mitigate stablecoin-based risks \(like broken stability pegs\) with xDai?
 
-The xDai bridge is expandable to include additional forms of collateral on the Ethereum side of the bridge. Currently Dai and Chai are both supported \(SAI was also supported prior to the shutdown\). More may be added in the future. Additional types of collateral can act to mitigate stability risks.
+The xDai bridge is expandable to include additional forms of collateral on the Ethereum side of the bridge. Additional types of collateral can act to mitigate stability risks, and may be introduced in the future.
 
 ## Are xDai or STAKE tokens considered securities?
 
