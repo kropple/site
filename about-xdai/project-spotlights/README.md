@@ -47,26 +47,47 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 
 ### DeFi
 
+#### Exchanges & Swaps
+
 * [Honeyswap](https://honeyswap.org/): xDai Dex \(Uniswap fork\)
-  * [HoneyComb](https://1hive.io/#/farm): LP Farming
 * [Perpetual Protocol](https://perp.fi/):   Democratizing Futures and other derivatives. [Learn more about why they chose xDai](https://medium.com/@perpetualprotocol/why-we-chose-xdai-chain-to-scale-perpetual-protocol-5b6cfd6cf5aa).
 * [SushiSwap](https://exchange.sushi.com/#/swap): Cross-chain Dex
-* [Curve Finance](https://xdai.curve.fi/): High APR Liquidity Pools
+* [Curve Finance](https://xdai.curve.fi/): 3Pool with wxDAI+USDC+USDT and CRV rewards
 * [CowSwap](https://cowswap.exchange/#/swap): DEX Aggregator built on Gnosis Protocol v2 \(GPv2\) with protection against transaction frontrunning.
 * [BaoFinance](https://xdai.bao.finance/): Stake Sushiswap and Baoswap LP tokens to earn BAO
 * [Component Finance](https://xdai.component.finance/): Stable Coin Swap
 * [Swapr](https://swapr.eth.link/#/swap): Governance enabled AMM with multi-platform capabilities
+* [LevinSwap](https://info.levinswap.org/home): DEX on xDai, includes RealT liquidity
 * [Xion Finance](https://xion.finance/): Earn Interest and trading fees with a one-click interface
 * [Elk.Finance](https://app.elk.finance/#/swap): Decentralized network for cross-chain liquidity
+* [Symmetric](https://xdai-pools.symmetric.exchange/): AMM \(Balancer Fork\) [Learn More](https://medium.com/cent-finance/symmetric-eb7a73b36a46)
+
+#### Farms \| Reward Token
+
+* [HoneyComb](https://1hive.io/#/farm)  \| XCOMB
+* [Sushiswap](https://app.sushi.com/farm)  \| SUSHI/STAKE
+* [Component Finance](https://xdai.component.finance/?tab=farmList&token0=1&token1=3)  \|   CMP
+* [Swapr](https://swapr.eth.link/#/pools) \| DXD
+* [Levinswap](%20https://farm.levinswap.org%20) \| LEVIN
+* [Baoswap](https://farms.baoswap.xyz) \| BAO
+* [Xion](https://xion.finance/farm) \| XGT
+* [Elk Finance](%20https://app.elk.finance) \| ELK
+* [Symmetric](https://xdai-pools.symmetric.exchange/#/explore)  \| SYMM
+
+#### Lending
+
+* [Agave](https://agave.finance/) DeFi Lending Protocol
+* [Kashi Lending](https://app.sushi.com/lend) by Sushi
+
+**DeFi Applications**
+
 * [Dmex](https://xdai.dmex.app/f): Decentralized Derivatives Exchange
-* [Unicrypt](https://unicrypt.network/): Yield Farming, Presale Platform and Liquidity Token Locker
+* [Unicrypt](https://unicrypt.network/): Presale Platform and Liquidity Token Locker
 * [DeFi Wizard](https://defiwizard.xyz/): DeFi Smart Contract Building Platform
 * [pNetwork](https://p.network/network): Cross-chain pBTC
 * [Deus](https://app.deus.finance/crosschain/xdai/synchronizer/): Stock and Commodities trading
 * [Hedgey Finance](https://www.hedgey.finance/): Decentralized Financial Derivatives Protocol
 * [YFX](https://help.yfx.com/portal/en/kb/articles/detailed-tutorial-on-using-yfx-layer-2-%E6%8E%92%E7%89%88%E9%99%84%E5%9B%BE-1-docx-1300#Login_to_YFX_on_MetaMask): Futures Trading Platform
-* [Agave](https://agave.finance/): DeFi Lending Protocol
-* [LevinSwap](https://info.levinswap.org/home): DEX on xDai, includes RealT liquidity
 * [DeBank](https://debank.com/): DeFi Dashboard
 * [MixSome](https://mixsome.cash/): DeFi Yield Flows
 * [DefiVille](https://defiville.finance): Tip with xDai in this gamified farming app
@@ -74,12 +95,13 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [DxSale](https://dxsale.network): Token mint, launch and lock platform.
 * [Rubic](https://rubic.exchange/cross-chain/bridge?chain=ETH): Cross-chain swaps
 * [Unidex](https://unidex.exchange/): Limit order platform
-* [Symmetric](https://xdai-pools.symmetric.exchange/): AMM \(Balancer Fork\) [Learn More](https://medium.com/cent-finance/symmetric-eb7a73b36a46)
 * [Hop](https://hop.exchange/): Cross-chain exchange/liquidity portal
-* **Coin & Token Focused Projects**
-  * [Rare Coin](https://rare.fyi/): an free-to-claim and ultra-rare currency anyone can farm.
-  * [Fraction](https://rare.fyi/): Token supply of 1 allocated in fractions.
-  * [MIVA Supertoken](https://docs.minerva.digital/miva-and-xdai-chain/miva-token): Streamable utility token for Minerva Wallet Users
+
+**Coin & Token Focused Projects**
+
+* [Rare Coin](https://rare.fyi/): an free-to-claim and ultra-rare currency anyone can farm.
+* [Fraction](https://rare.fyi/): Token supply of 1 allocated in fractions.
+* [MIVA Supertoken](https://docs.minerva.digital/miva-and-xdai-chain/miva-token): Streamable utility token for Minerva Wallet Users
 
 ### **NFT-based projects**
 
@@ -92,17 +114,19 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [NiftyChess](https://niftychess.com/): Preserve chess boards as NFTs
 * [Unique Bubbles](https://uniquebubbles.com/): Limited, unique and personalized NFTs created and owned by the community
 * [HashAvatars](https://thehashavatars.com/#/created-avatars): generated with a hash name on xDai
-* **NFT Marketplaces**
-  * [Cargo](https://cargo.build): Create, share, sell and buy digital collectibles
-  * [Unique.one](https://xdai.unique.one/): NFT Marketplace
-  * [Eporio](https://epor.io/): NFT Marketplace
-  * [Unifty](https://unifty.io/xdai/): NFT project hub for custom farms and collections.
-  * [XLR8R](https://xlr8r.io/xnft): Curated digital music NFT platform
-  * [TokenUp](https://www.tokenup.app/): Create, buy and sell NFTs
-  * [Snafu](https://www.nftsnafu.org/): Digital Artist Collective
-  * [Fraction.art](https://fraction.art/): Crowdsale platform for fractionalized art, v1 built on xDai.
-  * [PolkaDoge](https://nft.polkadoge.co/nft-collection/xdai-nft-market/): Memecoin NFT Marketplace
-  * [Foundation](https://foundation.app/): Emerging artist marketplace, v1 built on xDai. [More on their xDai Integration](https://foundation.app/blog/building-on-the-edge).
+
+**NFT Marketplaces**
+
+* [Cargo](https://cargo.build): Create, share, sell and buy digital collectibles
+* [Unique.one](https://xdai.unique.one/): NFT Marketplace
+* [Eporio](https://epor.io/): NFT Marketplace
+* [Unifty](https://unifty.io/xdai/): NFT project hub for custom farms and collections.
+* [XLR8R](https://xlr8r.io/xnft): Curated digital music NFT platform
+* [TokenUp](https://www.tokenup.app/): Create, buy and sell NFTs
+* [Snafu](https://www.nftsnafu.org/): Digital Artist Collective
+* [Fraction.art](https://fraction.art/): Crowdsale platform for fractionalized art, v1 built on xDai.
+* [PolkaDoge](https://nft.polkadoge.co/nft-collection/xdai-nft-market/): Memecoin NFT Marketplace
+* [Foundation](https://foundation.app/): Emerging artist marketplace, v1 built on xDai. [More on their xDai Integration](https://foundation.app/blog/building-on-the-edge).
 * Projects that use xDai for NFT minting include: 
   * [POAP](https://www.poap.xyz/)
   * [GitCoin](https://gitcoin.co/)
