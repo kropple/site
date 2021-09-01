@@ -16,7 +16,6 @@
 
 * The xDai Stable Chain has been live since October, 2018. 
 * POSDAO \(Proof-of-Stake\) consensus for selected validators was implemented April 1, 2020. 
-* Decentralized public staking with the STAKE token is coming Q1 2021.
 * More on [xDai'sPast](https://forum.poa.network/t/xdai-the-birth-of-the-stable-chain/2812)
 * More on [xDai's Future](../roadmap/)
 
@@ -31,6 +30,10 @@ xDai is an EVM chain located within the vast Ethereum ecosystem. xDai users are 
 * Explorer: [https://blockscout.com/xdai/mainnet](https://blockscout.com/xdai/mainnet)
 * xDai Bridge: [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/)
 
+**Wallet Addresses:**
+
+Since xDai is an EVM chain, you can use the same wallet address you use for Ethereum and Ethereum testnets. Simply connect to the xDai network with your externally owned 0x address to get started.
+
 ## Why xDai?
 
 xDai exists to support stable payments and digital cash transactions. Whereas Ethereum transaction costs are unpredictable, subject to congestion, and require several tokens \(for example DAI + Eth for gas\), xDAi transactions are fast, very inexpensive, and require a single token \(xDai\).
@@ -43,7 +46,7 @@ xDai also supports a decentralized, earth-friendly architecture with POSDAO cons
 
 Plans are multi-faceted and both short and long term. In the short term, we are focused on building out the public staking interface for POSDAO. This will enable anyone to participate in staking on the xDai chain.
 
-Long-term plans are related to features and updates to our infrastructural assets like TokenBridge & BlockScout, as well as establishing a fund for DApp development and eventual implementation of [HoneyBadger BFT](../../for-validators/consensus/honeybadger-bft-consensus/) into the protocol.
+Long-term plans are related to features and updates to our infrastructural assets like TokenBridge & BlockScout, as well as establishing a fund for DApp development and many other improvements.
 
 **Roadmaps:**
 
@@ -54,11 +57,11 @@ Long-term plans are related to features and updates to our infrastructural asset
 
 ## How does the xDai chain address scalability concerns? 5 second blocks are fast, but many chains offer even faster transactions.
 
-We are looking at both vertical and horizontal scalability opportunities to ensure xDai can scale as required. With vertical scalability xDai's validators optimize their nodes and apply protocol upgrades to push the limits of technologies. With horizontal scalability additional chains can be launched in the same manner and connected by the TokenBridge protocol. It's our vision of sharding in a realm based manner.
+We are looking at both vertical and horizontal scalability opportunities to ensure xDai can scale as required. With vertical scalability xDai's validators optimize their nodes and apply protocol upgrades to push the limits of technologies. With horizontal scalability additional chains can be launched in the same manner and connected by the TokenBridge protocol. It's our vision of sharding in a realm-based manner.
 
 ## What is the TPS \(transactions per second or tx/sec\) for the xDai Chain?
 
-It depends on the type of transaction being sent, for the simplest transactions the xDai chain can process 70 tx/sec.
+It depends on the type of transaction being sent, for the simplest transactions the xDai chain can process 70+ tx/sec.
 
 ## Is the xDai chain secure?
 
