@@ -43,6 +43,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Streamr](https://streamr.network/): Real-time data streams with scalable crowdsourced data sets.
 * [Orchid](https://www.orchid.com/): Pay-per-use VPN
 * [Swarm](https://www.ethswarm.org/): A global p2p network tasked for storing and distributing all of the world's data.
+* [Tornado](https://app.tornado.cash/): Private transactions on xDai
 
 ### DeFi
 
@@ -56,6 +57,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Component Finance](https://xdai.component.finance/): Stable Coin Swap
 * [Swapr](https://swapr.eth.link/#/swap): Governance enabled AMM with multi-platform capabilities
 * [Xion Finance](https://xion.finance/): Earn Interest and trading fees with a one-click interface
+* [Elk.Finance](https://app.elk.finance/#/swap): Decentralized network for cross-chain liquidity
 * [Dmex](https://xdai.dmex.app/f): Decentralized Derivatives Exchange
 * [Unicrypt](https://unicrypt.network/): Yield Farming, Presale Platform and Liquidity Token Locker
 * [DeFi Wizard](https://defiwizard.xyz/): DeFi Smart Contract Building Platform
@@ -63,7 +65,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Deus](https://app.deus.finance/crosschain/xdai/synchronizer/): Stock and Commodities trading
 * [Hedgey Finance](https://www.hedgey.finance/): Decentralized Financial Derivatives Protocol
 * [YFX](https://help.yfx.com/portal/en/kb/articles/detailed-tutorial-on-using-yfx-layer-2-%E6%8E%92%E7%89%88%E9%99%84%E5%9B%BE-1-docx-1300#Login_to_YFX_on_MetaMask): Futures Trading Platform
-* [Agave](https://agave.finance/): DeFi Lending Protocol \(coming soon\)
+* [Agave](https://agave.finance/): DeFi Lending Protocol
 * [LevinSwap](https://info.levinswap.org/home): DEX on xDai, includes RealT liquidity
 * [DeBank](https://debank.com/): DeFi Dashboard
 * [MixSome](https://mixsome.cash/): DeFi Yield Flows
