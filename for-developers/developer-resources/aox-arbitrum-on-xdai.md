@@ -4,9 +4,9 @@ description: Arbitrum Optimistic Rollup Deployment
 
 # AoX: Arbitrum on xDai
 
-Arbitrum has been deployed to xDai - AoX! We are currently working on configs, bridge installation and explorer integration. Look for more info and instructions coming soon.
+Arbitrum has been deployed to xDai - AoX! We are currently working on configs and bridge installation, [Blockscout is already configured for AoX](https://blockscout.com/xdai/aox/). Look for more info and instructions coming soon.
 
-For information on Arbitrum and usage basics, see the [Arbitrum docs](https://developer.offchainlabs.com/docs/developer_quickstart). Note that AoX is still being finalized on xDai, and some functionality is not yet available.
+For information on Arbitrum and usage basics, see the [Arbitrum docs](https://developer.offchainlabs.com/docs/developer_quickstart). Note that AoX is still being finalized on xDai, and some functionality is not yet available. 
 
 ## Basic Info
 
@@ -69,4 +69,22 @@ Once completed, it may take several minutes for the transaction to arrive at you
 ### Withdrawals
 
 _Instructions in process_
+
+### Contract Deployment
+
+#### Hardhat
+
+Simply use the xDai Arbitrum RPC url in your `hardhat.config.ts`:
+
+```text
+module.exports = {
+  solidity: '0.7.3',
+  networks: {
+    arbitrum: {
+      url: 'https://arbitrum.xdaichain.com/',
+      gasPrice: 0,
+    },
+  },
+}
+```
 
