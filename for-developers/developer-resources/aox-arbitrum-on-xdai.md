@@ -36,22 +36,23 @@ Simple deposit functionality for users / bridge implementation is still in devel
 ```text
 [
   {
-    "inputs": [
+    "inputs":[
       {
-         "internalType": "address[]",
-         "name": "_validator",
-         "type": "address[]"
-      },
-      {
-         "internalType": "bool[]",
-         "name": "_val",
-         "type": "bool[]"
+        "internalType":"uint256",
+        "name":"maxSubmissionCost",
+        "type":"uint256"
       }
     ],
-    "name": "setValidator",
-    "outputs": [],
-    "stateMutability": "nonpayable",
-    "type": "function"
+    "name":"depositEth",
+    "outputs":[
+      {
+        "internalType":"uint256",
+        "name":"",
+        "type":"uint256"
+      }
+    ],
+    "stateMutability":"payable",
+    "type":"function"
   }
 ]
 ```
