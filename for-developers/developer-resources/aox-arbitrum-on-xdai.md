@@ -57,16 +57,19 @@ Simple deposit functionality for users / bridge implementation is still in devel
 ]
 ```
 
-### MyCrypto Deposit Example
+### BlockScout Deposit Example
 
-1. Connect to the xDai chain and click **Send**.
-2. Choose the inbox contract as the recipient [0x556c18a6fdcd52562ec1130212f6113e3f818335](https://blockscout.com/xdai/mainnet/address/0x556c18a6FDcd52562Ec1130212f6113e3F818335/transactions)
-3. Click on Show Advanced Options and enter the encoded call for the depositEth method in the data field. Click Next to finalize the tx. `0x0f4d14e90000000000000000000000000000000000000000000000000000000000000000`
+1. Connect your wallet to blockscout.
+2. Go to [https://blockscout.com/xdai/mainnet/address/0x556c18a6FDcd52562Ec1130212f6113e3F818335/write-proxy](https://blockscout.com/xdai/mainnet/address/0x556c18a6FDcd52562Ec1130212f6113e3F818335/write-proxy)
+3. In the `depositEth` method
+   1. Enter 0 for maxSubmissionCost field
+   2. Enter the amount of xDai to deposit
+   3. Click `Write` and confirm in MetaMask
 
-![](../../.gitbook/assets/my-crypto-1.png)
+![](../../.gitbook/assets/bs-1%20%282%29.png)
 
 {% hint style="success" %}
-Once completed, it may take several minutes for the transaction to arrive at your address on the rollup. Switch to the rollup in Metamask to view the deposit.
+Once completed, it may take several minutes for the transaction to arrive at your address on the rollup. Switch to Arbitrum on xDai in Metamask to view the deposit.
 {% endhint %}
 
 ### Withdrawals
