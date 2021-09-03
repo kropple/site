@@ -14,5 +14,5 @@ description: Branding and Logos
 
 {% file src="../../.gitbook/assets/xdai\_alternative.ai" caption="Logo in AI format" %}
 
-{% file src="../../.gitbook/assets/logo\_.svg" caption="Logo in SVG format" %}
+{% file src="../../.gitbook/assets/xdai\_alternative \(1\).svg" caption="Logo in SVG format" %}
 
