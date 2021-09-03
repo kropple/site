@@ -7,9 +7,11 @@ description: Nethermind implements flashbots MEV  in v1.11.0
 ## QuickStart
 
 {% hint style="success" %}
-If you are familiar with using [Flashbots on Ethereum](https://docs.flashbots.net/flashbots-auction/searchers/quick-start/), get started now on xDai with API support from Nethermind!
+💡 [This tutorial from Nethermind](https://medium.com/nethermind-eth/how-to-run-the-flashbots-auction-mechanism-on-nethermind-d6dd7b7b9962) includes all the information you need to get started with a flashbots MEV auction!
 
-1. xDai MEV Endpoint: ****[**https://xdai-relay.nethermind.io**](https://t.co/9X5lU6LWvr?amp=1) **\(**rather than ****[relay.flashbots.net](https://relay.flashbots.net)\)
+Considerations:
+
+1. xDai MEV Endpoint: ****[https://xdai-relay.nethermind.io](https://t.co/9X5lU6LWvr?amp=1) ****
 2. Tx chain id: **100**
 3. Set appropriate gas price \(gas in xDai not Eth\)
 4.  Currently the **eth\_sendBundle** method is supported. 
@@ -33,19 +35,18 @@ To enable privacy, eliminate frontrunning, and reduce failed bids, Flashbots Auc
 
 ## Using Flashbots on xDai
 
-[Instructions for using the flashbots RPC endpoint](https://docs.flashbots.net/flashbots-auction/searchers/advanced/rpc-endpoint) to create and send transaction bundles are a good starting point. Note that the `eth_callBundle` method is not yet supported.
+* [Nethermind tutorial](https://medium.com/nethermind-eth/how-to-run-the-flashbots-auction-mechanism-on-nethermind-d6dd7b7b9962) to get started. 
+* [Instructions for using the flashbots RPC endpoint](https://docs.flashbots.net/flashbots-auction/searchers/advanced/rpc-endpoint) to create and send transaction bundles are a good starting point. Note that the `eth_callBundle` method is not yet supported. 
+* MEV Transactions can be bundled and sent to the Nethermind MEV relay on xDai using the [https://xdai-relay.nethermind.io](https://t.co/9X5lU6LWvr?amp=1) endpoint. Validators running the Nethermind client on xDai will include these bundles if it is profitable for them.  
+* MEV transactions are typically useful to maintain privacy or during times of increased congestion, such as a DarkForest Round. Use cases may include those using Perpetual Protocol and Dark Forest players. [This example shows an accepted bundle on BlockScout block 17663943](https://blockscout.com/xdai/mainnet/blocks/17663943/transactions). The first 2 included transactions were sent as a MEV bundle from 0x5b49B 
+* Other interested users may include the following as xDai chain usage grows \(from the flashbots site\).
 
-MEV Transactions can be bundled and sent to the Nethermind MEV relay on xDai using the [https://xdai-relay.nethermind.io](https://t.co/9X5lU6LWvr?amp=1) endpoint. Validators running the Nethermind client on xDai will include these bundles if it is profitable for them. 
+  * Bot operators seeking fast, risk free access to blockspace.
+  * DEX users looking for frontrunning protection on their transactions.
+  * Dapps with use cases for account abstraction or gasless transactions.
 
-MEV transactions are typically useful to maintain privacy or during times of increased congestion, such as a DarkForest Round. Use cases may include those using Perpetual Protocol and Dark Forest players. [This example shows an accepted bundle on BlockScout block 17663943](https://blockscout.com/xdai/mainnet/blocks/17663943/transactions). The first 2 included transactions were sent as a MEV bundle from `0x5b49B`
-
-Other interested users may include the following as xDai chain usage grows \(from the flashbots site\).
-
-1. Bot operators seeking fast, risk free access to blockspace.
-2. DEX users looking for frontrunning protection on their transactions.
-3. Dapps with use cases for account abstraction or gasless transactions.
-
-See the [example searchers templates ](https://docs.flashbots.net/flashbots-auction/searchers/example-searchers/simple-arbitrage-bot)as a resource to begin creating your own.
+  
+  See the [example searchers templates ](https://docs.flashbots.net/flashbots-auction/searchers/example-searchers/simple-arbitrage-bot)as a resource to begin creating your own.
 
 ## Additional Resources
 
