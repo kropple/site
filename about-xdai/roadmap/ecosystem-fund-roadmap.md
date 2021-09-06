@@ -58,6 +58,11 @@ We are exploring additional measures to ensure fund transparency and funding ali
 * ✅  STAKE liquidity support August 11, 2021
   * 500,000 STAKE[ https://etherscan.io/tx/0x7a4827bca51d27243ee107c0744bab9889893a29f1e25adc48ec883ad2917131](https://etherscan.io/tx/0x7a4827bca51d27243ee107c0744bab9889893a29f1e25adc48ec883ad2917131) [https://etherscan.io/tx/0x8410a98e606b6adcac65ac4aee9a1355074b86ac6445de871d3cc8b2c231ff2e](https://etherscan.io/tx/0x8410a98e606b6adcac65ac4aee9a1355074b86ac6445de871d3cc8b2c231ff2e)
 
+### Infrastructure/Ecosystem Support
+
+* ✅  Validator infrastructure upgrades and future node support September 4, 2011
+  * 86,702 STAKE [https://etherscan.io/tx/0x94ce03ff189b7a746568361409dcd0bf968f6bc7b37cdeb36dcbaa32cb502c16](https://etherscan.io/tx/0x94ce03ff189b7a746568361409dcd0bf968f6bc7b37cdeb36dcbaa32cb502c16)
+
 ### xDai Community Initiatives and Other Use Cases
 
 * Amount TBD
