@@ -60,7 +60,7 @@ We are exploring additional measures to ensure fund transparency and funding ali
 
 ### Infrastructure/Ecosystem Support
 
-* ✅  Validator infrastructure / future node support preparation September 4, 2011
+* ✅  Validator infrastructure / future node support preparation September 4, 2021
   * 86,702 STAKE [https://etherscan.io/tx/0x94ce03ff189b7a746568361409dcd0bf968f6bc7b37cdeb36dcbaa32cb502c16](https://etherscan.io/tx/0x94ce03ff189b7a746568361409dcd0bf968f6bc7b37cdeb36dcbaa32cb502c16)
 
 ### xDai Community Initiatives and Other Use Cases
