@@ -4,6 +4,17 @@ description: Audits of xDai and related infrastructure
 
 # Security Audits
 
+## OmniBridge v6.0 Smart Contracts Audit by ChainSecurity <a id="omnibridge-audit-by-chainsecurity"></a>
+
+**Completed:** September 7, 2021
+
+**Conclusion**: The assessment uncovered a number of potential issues which were resolved by the team. Two additional issues were acknowledged and largely mitigated by the team, and the original severities are no longer applicable. These upgrades to the Omnibridge provide additional functionality which will be implemented in the future.
+
+* **Contracts:** [https://github.com/poanetwork/omnibridge](https://github.com/poanetwork/omnibridge)
+* **Audit Report**
+
+{% file src="../.gitbook/assets/chainsecurity\_poa\_network\_omnibridge\_version\_6\_0\_audit.pdf" caption="ChainSecurity OmniBridge v6.0" %}
+
 ## POSDAO Audit by ChainSecurity <a id="omnibridge-audit-by-chainsecurity"></a>
 
 **Completed:** June 25, 2021

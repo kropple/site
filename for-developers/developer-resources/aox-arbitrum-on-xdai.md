@@ -80,7 +80,7 @@ _Instructions in process_
 
 #### Hardhat
 
-Simply use the xDai Arbitrum RPC url in your `hardhat.config.ts`:
+To adjust deployment, simply use the xDai Arbitrum RPC url in your `hardhat.config.ts`:
 
 ```text
 module.exports = {
@@ -93,4 +93,8 @@ module.exports = {
   },
 }
 ```
+
+{% hint style="info" %}
+For more info on Arbitrum and usage basics, please see the [Arbitrum docs](https://developer.offchainlabs.com/docs/developer_quickstart). You can work with Arbitrum on xDai as you would on Ethereum. 
+{% endhint %}
 
