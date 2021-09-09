@@ -73,6 +73,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Xion](https://xion.finance/farm) \| XGT
 * [Elk Finance](%20https://app.elk.finance) \| ELK
 * [Symmetric](https://xdai-pools.symmetric.exchange/#/explore)  \| SYMM
+* [Minerva Streaming Farm](https://farm.minerva.digital/) \| MIVA
 
 #### Lending
 
