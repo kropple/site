@@ -120,7 +120,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 
 * [Cargo](https://cargo.build): Create, share, sell and buy digital collectibles
 * [Unique.one](https://xdai.unique.one/): NFT Marketplace
-* [Eporio](https://epor.io/): NFT Marketplace
+* [Eporio](https://epor.io/): NFT Marketplace - Easily Create and Trade NFTs
 * [Unifty](https://unifty.io/xdai/): NFT project hub for custom farms and collections.
 * [XLR8R](https://xlr8r.io/xnft): Curated digital music NFT platform
 * [NiftyZone](https://www.niftyzone.com/): NFT marketplace specializing in Asia based artists
