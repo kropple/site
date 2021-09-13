@@ -126,12 +126,19 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [NiftyZone](https://www.niftyzone.com/): NFT marketplace specializing in Asia based artists
 * [TokenUp](https://www.tokenup.app/): Create, buy and sell NFTs
 * [Snafu](https://www.nftsnafu.org/): Digital Artist Collective
-* [Fraction.art](https://fraction.art/): Crowdsale platform for fractionalized art, v1 built on xDai.
+* [Fraction.art](https://fraction.art/): Crowdsale platform for fractionalized art, v1 built on xDai
 * [PolkaDoge](https://nft.polkadoge.co/nft-collection/xdai-nft-market/): Memecoin NFT Marketplace
 * [Foundation](https://foundation.app/): Emerging artist marketplace, v1 built on xDai. [More on their xDai Integration](https://foundation.app/blog/building-on-the-edge).
 * Projects that use xDai for NFT minting include: 
   * [POAP](https://www.poap.xyz/)
   * [GitCoin](https://gitcoin.co/)
+
+### **Token Distribution**
+
+* [Multisender:](https://multisender.app/) Batch send ERC20 tokens on xDai
+* [Disperse](https://disperse.app/): Send xDai or ERC20s to multiple addresses 
+* [Irorio](https://app.iroiro.social/#/):  Distribute tokens or NFTs
+* [SuperToken](%20https://rskcoins.xyz/xdai-generator): Generate and send tokens
 
 ### **Community Engagement**
 
