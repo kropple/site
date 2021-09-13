@@ -78,8 +78,8 @@ The xDai ecosystem continues to flourish with many new project migrations, integ
 | [Giveth](https://giveth.io/) | [Orchid](https://www.orchid.com/) | [BaoSwap](https://www.bao.finance/) | [Cargo](https://cargo.build) | [Peerion](https://peerion.io/pools/) |
 | [Tenderly](https://tenderly.co/) | [CardStack](https://cardstack.com/) | [Omen](https://xdai.omen.eth.link/#/liquidity) | [Eporio](https://epor.io/) |  |
 | [Ankr](https://www.ankr.com/) | [Request](https://request.network/en/) | [Swapr](https://swapr.eth.link/#/swap) | [Unique.One](https://www.unique.one/) |  |
-|  | [clr.fund](about-xdai/project-spotlights/clr-fund.md) | [Agave](https://agave.finance/) | [Chievmint](https://chiev.net/) |  |
-|  |  | [Component Finance](about-xdai/project-spotlights/component-finance.md) |  |  |
+| [Tornado Cash](https://tornado.cash/) | [clr. Fund](about-xdai/project-spotlights/clr-fund.md) | [Agave](https://agave.finance/) | [xlr8r](https://xlr8r.com/) |  |
+| [Token Multisender](https://multisender.app/) |  | [Component Finance](about-xdai/project-spotlights/component-finance.md) | [Genuino](https://www.genuino.world/world/sport) |  |
 
 ## **xDai Developers**
 
