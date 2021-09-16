@@ -34,6 +34,7 @@
   * [DAOHaus](about-xdai/project-spotlights/daohaus.md)
   * [Foundation](about-xdai/project-spotlights/foundation.md)
   * [Reality Cards](about-xdai/project-spotlights/reality-cards.md)
+  * [HashEx & CryptEx](about-xdai/project-spotlights/hashex-and-cryptex.md)
   * [xMoon Projects](about-xdai/project-spotlights/xmoon-projects/README.md)
     * [Exchange Dai for MOONs to use on Reddit](about-xdai/project-spotlights/xmoon-projects/exchange-dai-for-moons-to-use-on-reddit.md)
   * [Galleass.io](about-xdai/project-spotlights/galleass.io.md)
