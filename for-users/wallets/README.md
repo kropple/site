@@ -15,7 +15,7 @@ For STAKE on Ethereum, you can use any [Ethereum based wallet](https://ethereum.
 * [D'CENT Wallet](dcent.md)
 * [DEX Wallet](dex-wallet.md)
 * [DinoWallet](https://dinowallet.org/)
-* Frame
+* [Frame](frame.md)
 * [imToken](imtoken.md)
 * [Mt Pelerin](mt-pelerin.md)
 * [MetaMask](metamask/)
