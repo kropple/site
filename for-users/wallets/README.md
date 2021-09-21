@@ -11,10 +11,11 @@ For STAKE on Ethereum, you can use any [Ethereum based wallet](https://ethereum.
 * [Alpha Wallet](alpha-wallet/)
 * [Burner Wallet](burner-wallet/)
 * [Burner Wallet 2](burner-wallet-2.md)
-* Coinbase Wallet
+* [Coinbase Wallet](coinbase-wallet.md)
 * [D'CENT Wallet](dcent.md)
 * [DEX Wallet](dex-wallet.md)
 * [DinoWallet](https://dinowallet.org/)
+* Frame
 * [imToken](imtoken.md)
 * [Mt Pelerin](mt-pelerin.md)
 * [MetaMask](metamask/)
