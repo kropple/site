@@ -18,7 +18,7 @@ The HashEx and CryptEx team provide a number of services for xDai projects and u
 
 Security audits provide safety and credibility for projects. More details on HashEx services are available at [https://hashex.org/](https://hashex.org/)
 
-### **Cryptex Products**
+### **CryptEx Products**
 
 #### Liquidity Pool \(LP\) Locker
 
@@ -29,6 +29,8 @@ Internally and externally audited smart contracts for securely locking projectsâ
 Another smart contract product that locks tokens distributed to crypto teams upon creation of the token. Similar to the LP locker, this service locks team tokens for a specified duration and can vest tokens over multiple dates.
 
 How to lock Liquidity Tokens https://www.youtube.com/watch?v=Ls7kx5NU\_xo&t=102s
+
+More details about CryptEx products are available at [https://cryptexlock.me/](https://cryptexlock.me/)
 
 {% hint style="info" %}
 HashEx & CryptEx are independent projects deployed within the xDai ecosystem and is not affiliated with the xDai team or services. Please DYOR when selecting security auditing services.
