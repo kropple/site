@@ -5,7 +5,7 @@ description: Distributed community validation on xDai
 # Stake Beacon Chain \(R&D\)
 
 {% hint style="info" %}
-Stake Beacon Chain \(SBC\) is currently in R&D. Targeting a Q3 soft beta launch for small-scale, distributed staking. SBC is experimental and does not include any security guarantees.
+Stake Beacon Chain \(SBC\) is currently in R&D. Targeting an early Q4 soft beta launch for small-scale, distributed staking. A security audit is currently in process. 
 {% endhint %}
 
 ‌The Stake Beacon Chain offers a new consensus opportunity for the xDai chain. It is in early development, and will start with modified client implementations \(Prysm/Lighthouse\) to support faster blocks and built for a wider community of diverse validators.
@@ -90,7 +90,7 @@ Stake Beacon Chain \(SBC\) is currently in R&D. Targeting a Q3 soft beta launch 
   </tbody>
 </table>
 
-Validators with a small amount of STAKE \(32 STAKE\) will be able to stake and run a node through a simplified, step-by-step process similar to [Ethereum launchpad](https://launchpad.ethereum.org/en/).
+Validators with a small amount of STAKE \(32 STAKE\) will be able to stake and run a node through a simplified, step-by-step process.
 
 ‌STAKE will be locked in the contract and not available for immediate withdrawal, as is the case with the current Eth 2.0 deposit contract. Modifications to the deposit contract will enable ERC20 token deposits \(STAKE\) and additional upgradeability features.
 
@@ -100,7 +100,9 @@ The system will be designed to support 7 second blocks, significantly faster tha
 
 Early stakers will be incentivized by an APY of nearly 50% \(47.4%\) for securing the chain. This incentive is quickly reduced as more validators onboard. For example with 4096 validators it is 33.7%. A sustainable ~15% APY is achieved when the security goal of 20,000 validators is met.\*
 
-SBC will support all the same functionality and tools as Eth 2.0. While block times will slow slightly from the current 5 second model on xDai, blocks will be larger and over time rollups will provide the ability for additional transactional throughput and prioritization features.
+SBC will support all the same functionality and tools as Eth 2.0. While block times will slow slightly from the current 5 second model on xDai, blocks will be larger and over time rollups will provide the ability for additional transactional throughput and prioritization features. 
+
+Following the Eth1/Eth2 & xDai/SVC merges, a permissionless bridge structure \(no relayers/validators\) is planned since both chains will have the native capacity to validate one another's blocks.
 
 Currently, the xDai chain is secured by ~640K STAKE by validators and their delegators. The goal is to match or exceed this amount. With 32 STAKE per validator, the system will require 20K+ validators to achieve the same level of security.
 
