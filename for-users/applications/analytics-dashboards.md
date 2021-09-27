@@ -4,27 +4,38 @@ A variety of dashboards are available for viewing xDai network usage. For basic,
 
 ## Dune Analytics
 
-If you are interested in development or extending dune analytics for xDai, the  [Dune Analytics page](../../for-developers/developer-resources/dune-analytics.md) in the For Developers section is for you 🙂 .
+If you are interested in development or extending dune analytics for xDai, the [Dune Analytics page](../../for-developers/developer-resources/dune-analytics.md) in the For Developers section is for you🙂
 
 ### xDai Staking Dashboard
 
 * Includes statistics from EasyStaking on Ethereum and POSDAO staking on xDai
 * Link: [https://www.duneanalytics.com/maxaleks/xdai-staking](https://www.duneanalytics.com/maxaleks/xdai-staking)
 
-![](../../.gitbook/assets/posdao-dune.png)
+![September 2021](../../.gitbook/assets/xdai-staking%20%281%29.png)
 
 ### xDai Chain Usage Dashboard
 
 * Total Txs per day, transactions by project and active accounts. Includes info on transaction costs broken down by project.
 * Link: [https://duneanalytics.com/maxaleks/xDai-Usage](https://duneanalytics.com/maxaleks/xDai-Usage)
 
-![](../../.gitbook/assets/tx-day%20%282%29.png)
+![September 2021](../../.gitbook/assets/tx-day%20%283%29.png)
+
+### NFTs on xDai Dashboard
+
+* Volume, transfers, accounts and projects
+* Link: [https://dune.xyz/maxaleks/NFT-on-xDai](https://dune.xyz/maxaleks/NFT-on-xDai)
+
+![](../../.gitbook/assets/nfts-on-xdai.png)
 
 ## AnyBlock Analytics
 
-Network and token metrics are available for the xDai Chain [https://dashboards.anyblock.tools/ethereum/poa/xdai/network-metrics/](https://dashboards.anyblock.tools/ethereum/poa/xdai/network-metrics/)
+AnyBlock Analytics provides dashboards to assess and compare different metrics on xDai.
 
-![](../../.gitbook/assets/anyblock-analytics.png)
+* [Network Stats](http://bit.ly/networkxdai)
+* [Token & Token Comparisons](http://bit.ly/tokenxdai)
+* [Gas Stats](http://%20bit.ly/xdaigas1%C2%A0)
+
+![Transaction Details from AnyBlock Analytics ](../../.gitbook/assets/tx-details.png)
 
 ## Dapp Query Dashboards
 

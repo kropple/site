@@ -1,4 +1,4 @@
-# Applications
+# Applications & Metrics
 
 See the [Projects and DApps section](../../about-xdai/project-spotlights/) for DeFi apps and access, games, DAOs, NFTs and many other projects running within the xDai ecosystem. 
 

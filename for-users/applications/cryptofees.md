@@ -4,7 +4,7 @@ description: Daily transaction fee collection provides insights into real world 
 
 # CryptoFees
 
-[CryptoFees.info](https://cryptofees.info/) aggregates daily transaction \(tx\) fees for different chains and projects. Daily fees are shown as well as the 7 day average. Clicking on a project displays additional information including the fee model, data source and price/marketcap for the project.
+CryptoFees.info aggregates daily transaction \(tx\) fees for different chains and projects. Daily fees are shown as well as the 7 day average. Clicking on a project displays additional information including the fee model, data source and price/marketcap for the project.
 
 Fees are one metric that show real-world usage and adoption.  When users are paying fees to interact with a protocol, it means there is actual activity and economic value in what the protocol/chain offers. Here we can see **xDai is in the top 15** for daily collected tx fees, despite the low cost-per-tx.
 
