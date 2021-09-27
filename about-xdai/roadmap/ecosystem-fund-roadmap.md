@@ -66,8 +66,10 @@ We are exploring additional measures to ensure fund transparency and funding ali
 ### xDai Community Initiatives and Other Use Cases
 
 * Amount TBD
-* Community members can suggest usage for funds by creating a proposal and a linked snapshot where users can vote on proposed usage of the funds. This acts a signaling mechanism for the community and what innovations they would like to see on xDai. 
-* More on the [Decentralized Community Governance Process](../../for-users/governance/).
+* Community members can suggest usage for funds by creating a proposal and a linked snapshot where users can vote on proposed usage of the funds. This acts a signaling mechanism for the community and what innovations they would like to see on xDai. More on the [Decentralized Community Governance Process](../../for-users/governance/).
+
+### Funded/Proposed
+
 * ✅  **Community member support**.  A community member sent a large amount of STAKE accidentally to an unrecoverable address. They were able to prove their identity and mistake and the community voted to support this member, while the member pledged to burn 30% of the amount received to benefit STAKE holders.
   * 1,451.6036 STAKE sent May-08-2021 ****[https://etherscan.io/tx/0xfce79d4f6593b9b72c2763e49fd613b39a2a120403bf56241e6c49fc72eb5232](https://etherscan.io/tx/0xfce79d4f6593b9b72c2763e49fd613b39a2a120403bf56241e6c49fc72eb5232)
   * [Forum post](https://forum.poa.network/t/community-charity/5606)
@@ -75,6 +77,9 @@ We are exploring additional measures to ensure fund transparency and funding ali
 * ✅  **Community supported rebranding effort**. Raidguild branding proposal was widely supported by the community and funded from the xDai side. Coordination is currently ongoing with no definitive timeline in place. Updates can be followed on the forum post.
   * [Forum post](https://forum.poa.network/t/funding-proposal-xdai-rebrand/5351)
   * [Snapshot vote](https://snapshot.org/#/xdaistake.eth/proposal/QmcLWUoDzQeFtA7Emzjdt8ReaZHKza7T3sKKWrw3hK2emC)
+*  ☑\(_vote in progress_\)  **STAKE incentives for Agave on xDai.** Agave is requesting 40,000 STAKE for incentives paid out over a 1 year period. 
+  * [Forum post](https://forum.poa.network/t/proposal-to-match-stake-incentives-for-agave-on-xdai/7778)
+  * [Snapshot vote](https://snapshot.org/#/xdaistake.eth/proposal/QmRqNFqepncCrUjmvo6j4iPSDyewDAToXbBC6gveJQ81Cz)
 
 
 

@@ -123,7 +123,7 @@ We will research adopting other platforms such as Polkadot, Cosmos, Eth2 and [op
 
 ## POSDAO Phase 3
 
-🎯 **Target Date**: Q4**-**Q2 2021-22
+🎯 **Target Date**: Q2 2022
 
 A chain created specifically to leverage [POSDAO](../../for-validators/posdao-whitepaper.md), HoneyBadger BFT and Multi-Collateral DAI. This network will be designed from the ground up with our collaborative partners [LUKSO](https://www.lukso.network/) and [ARTIS](https://artis.eco/) to leverage [STAKE ](../../for-stakers/stake-token/)tokens and HBBFT consensus.
 
