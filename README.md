@@ -5,9 +5,11 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 # Welcome to xDai
 
 {% hint style="success" %}
-**Latest News**  
-  
-🌪 Tornado Cash is live on xDai. Select xDai from the dropdown for transactional privacy at [https://app.tornado.cash/](https://app.tornado.cash/) 
+ **News Updates**
+
+🗳 Use your [STAKE on xDai](https://blockscout.com/xdai/mainnet/token/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e/token-transfers) or [STAKE on Ethereum](https://etherscan.io/token/0x0Ae055097C6d159879521C384F1D2123D1f195e6) to [vote on snapshot](for-users/governance/stake-weighted-voting/).
+
+🌪 Tornado Cash is live. Select xDai from the dropdown for transactional privacy at [https://app.tornado.cash/](https://app.tornado.cash/) 
 
 **🍣** Sushiswap incentives are here. [Learn more](about-xdai/project-spotlights/sushiswap.md) and get started at [https://app.sushi.com](https://app.sushi.com/swap) by selecting xDai in the network dropdown.  
   
