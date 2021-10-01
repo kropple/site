@@ -4,6 +4,14 @@ description: Audits of xDai and related infrastructure
 
 # Security Audits
 
+## Stake Beacon Chain by ChainSecurity <a id="omnibridge-audit-by-chainsecurity"></a>
+
+**Completed:** October 1, 2021
+
+**Conclusion:** During the assessment one critical issue was found and fixed following the intermediate report. The remaining issues were of low severity and were fixed accordingly. The communication with the team was very responsive.
+
+**Audit Report**: [https://chainsecurity.com/security-audit/poa-network-stake-beacon-chain-sbc-deposit/](https://chainsecurity.com/security-audit/poa-network-stake-beacon-chain-sbc-deposit/)
+
 ## OmniBridge v6.0 Smart Contracts Audit by ChainSecurity <a id="omnibridge-audit-by-chainsecurity"></a>
 
 **Completed:** September 7, 2021
