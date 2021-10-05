@@ -13,14 +13,14 @@ The latest TokenBridge upgrade includes the ability to allocate Dai locked in th
 1. As a part of the bridge upgrade, an amount of locked Dai \([_Current Amount Locked - ~22,000,000 Dai_](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f?a=0x4aa42145aa6ebf72e164c9bbc74fbd3788045016) __\) is transferred to Compound.
 2. 1,000,000 Dai remains in the bridge contract as a reserve supporting daily operations.
 
-![](../../../.gitbook/assets/blank-diagram-2-.png)
+![](../../../.gitbook/assets/blank-diagram-2-%20%281%29.png)
 
 ### User Actions
 
 1. **Dai bridged from Ethereum to xDai:** Following the upgrade, any amount of Dai bridged from Ethereum to xDai ****is added to the bridge reserve. It is not automatically transferred to Compound.
-2. **xDai bridged from xDai to Ethereum:** Bridge requests from xDai to Ethereum will use the Dai in the reserve. If a request is initiated that exceeds the available reseve amount, the requested amount + 1,000,000 Dai is withdrawn immediately from Compound. The 1,000,000 Dai replenishes the reserve.
+2. **xDai bridged from xDai to Ethereum:** Bridge requests from xDai to Ethereum will use the Dai in the reserve. If a request is initiated that exceeds the available reserve amount, the requested amount exceeding the amount held in reserve + 1,000,000 Dai \(required reserve\) is withdrawn immediately from Compound. The 1,000,000 Dai replenishes the reserve.  `if current_reserve < requested  withdraw requested - current_reserve + required_reserve`
 
-![User flows Ethereum to xDai on top and xDai to Ethereum on bottom](../../../.gitbook/assets/users1.png)
+![](../../../.gitbook/assets/user2.png)
 
 ### Interest & Funds
 
