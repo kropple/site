@@ -10,8 +10,8 @@ The latest TokenBridge upgrade includes the ability to allocate Dai locked in th
 
 ### Initial Mechanisms
 
-1. As a part of the bridge upgrade, an amount of locked Dai \([_Current Amount Locked - ~22,000,000 Dai_](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f?a=0x4aa42145aa6ebf72e164c9bbc74fbd3788045016) __\) will be converted to cDai and transferred to Compound.
-2. 1,000,000 Dai will remain in the bridge contracts as a reserve supporting daily operations.
+1. As a part of the bridge upgrade, an amount of locked Dai \([_Current Amount Locked - ~22,000,000 Dai_](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f?a=0x4aa42145aa6ebf72e164c9bbc74fbd3788045016) __\) is transferred to Compound.
+2. 1,000,000 Dai remains in the bridge contract as a reserve supporting daily operations.
 
 ### User Actions
 
