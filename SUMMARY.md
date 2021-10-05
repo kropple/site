@@ -192,6 +192,7 @@
     * [xDai Bridge + Gnosis Safe App](for-users/bridges/converting-xdai-via-bridge/xdai-bridge-+-gnosis-safe-app.md)
     * [Troubleshoot Bridge Txs, UI, xDai.io, xmoon.exchange, MetaMask](for-users/bridges/converting-xdai-via-bridge/troubleshooting.md)
     * [xDai mechanics: How xDai is minted](for-users/bridges/converting-xdai-via-bridge/xdai-mechanics-how-xdai-is-minted.md)
+    * [Dai Compounding](for-users/bridges/converting-xdai-via-bridge/dai-compounding.md)
   * [OmniBridge: ERC20 Token Transfers](for-users/bridges/omnibridge/README.md)
     * [Exceptions and Special Cases](for-users/bridges/omnibridge/exceptions.md)
     * [Alternate Receiver](for-users/bridges/omnibridge/alternate-receiver.md)
