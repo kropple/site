@@ -26,7 +26,7 @@ The latest TokenBridge upgrade includes the ability to allocate Dai locked in th
 ### Upgradability / Governance
 
 1. Bridge governors can vote to turn off the compounding mechanism at any time. If turned off, all Dai tokens will be returned to the bridge contract.
-2. Bridge governors can vote to change the interest receiving address if required \(currently must be an EOA based on method limitations\).
+2. Bridge governors can vote to change the interest receiving address if required \(currently must be an EOA or a contract supporting [the `onInterestReceived` method](https://github.com/poanetwork/tokenbridge-contracts/blob/master/contracts/interfaces/IInterestReceiver.sol)\).
 
 ### Risks
 
