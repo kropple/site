@@ -32,7 +32,7 @@ Requires 3/5 signatures.
 
 ### Current xDai and AMB Bridges Governors
 
-Requires 7/13 signatures to pass a proposal. 
+Requires 9/16 signatures to pass a proposal. 
 
 * Gnosis
 * Metacartel
@@ -47,6 +47,9 @@ Requires 7/13 signatures to pass a proposal.
 * Giveth
 * Syncnode
 * M Conti
+* Peerion
+* 01Node
+* 1Hive
 
 ### Governance Management Operations
 
