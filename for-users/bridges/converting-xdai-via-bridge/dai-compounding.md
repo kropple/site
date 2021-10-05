@@ -20,6 +20,8 @@ The latest TokenBridge upgrade includes the ability to allocate Dai locked in th
 1. **Dai bridged from Ethereum to xDai:** Following the upgrade, any amount of Dai bridged from Ethereum to xDai ****is added to the bridge reserve. It is not automatically transferred to Compound.
 2. **xDai bridged from xDai to Ethereum:** Bridge requests from xDai to Ethereum will use the Dai in the reserve. If a request is initiated that exceeds the available reseve amount, the requested amount + 1,000,000 Dai is withdrawn immediately from Compound. The 1,000,000 Dai replenishes the reserve.
 
+![User flows Ethereum to xDai on top and xDai to Ethereum on bottom](../../../.gitbook/assets/users1.png)
+
 ### Interest & Funds
 
 1. Interest on the Dai supplied to Compound and COMP tokens will be collected periodically \(approximately monthly\) and transferred to an EOA through a manual method call. Funds will be used to support bridge operations such as gas refunds for users or other tbd mechanisms which can be discussed and decided on by the bridge governors.
@@ -28,7 +30,7 @@ The latest TokenBridge upgrade includes the ability to allocate Dai locked in th
 ### Upgradability / Governance
 
 1. Bridge governors can vote to turn off the compounding mechanism at any time. If turned off, all Dai tokens will be returned to the bridge contract.
-2. Bridge governors can vote to change the interest receiving address if required \(currently must be an EOA or a contract supporting [the `onInterestReceived` method](https://github.com/poanetwork/tokenbridge-contracts/blob/master/contracts/interfaces/IInterestReceiver.sol)\).
+2. Bridge governors can vote to change the interest receiving address if required \(currently must be an EOA or a contract supporting the [`onInterestReceived`](https://github.com/poanetwork/tokenbridge-contracts/blob/master/contracts/interfaces/IInterestReceiver.sol) method\).
 
 ### Risks
 
@@ -36,7 +38,7 @@ The latest TokenBridge upgrade includes the ability to allocate Dai locked in th
 2. Compound protocol is a trusted entity. If compromised the protocol could attack the contracts in various ways, e.g., through reentrancy or by simply stealing funds. 
 
 {% hint style="info" %}
-Note that TVL metrics displayed in sources such as [DeFiLama ](https://defillama.com/protocol/xdai-stake)and [DeFiPulse](https://defipulse.com/xdai) will reflect reflect different values once Dai is sent to Compound. We will incorporate metrics into the [xDai Bridge Dune Analytics Dashboard](https://dune.xyz/maxaleks/xDai-Bridge) to reflect current invested amount as well as locked reserve amount.
+Note: TVL metrics displayed in sources such as [DeFiLama ](https://defillama.com/protocol/xdai-stake)and [DeFiPulse](https://defipulse.com/xdai) will reflect reflect different values once Dai is sent to Compound. We will incorporate metrics into the [xDai Bridge Dune Analytics Dashboard](https://dune.xyz/maxaleks/xDai-Bridge) to reflect current invested amount as well as locked reserve amount.
 {% endhint %}
 
 ### OmniBridge Upgrade
