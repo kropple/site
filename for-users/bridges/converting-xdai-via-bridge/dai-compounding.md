@@ -4,7 +4,7 @@ description: Mechanism for additional value capture of Dai locked in the bridge
 
 # Dai Compounding
 
-_Updated October 5, 2021_
+_Updated October 6, 2021_
 
 The latest TokenBridge upgrade includes the ability to allocate Dai locked in the TokenBridge contract to the [Compound interest rate market](https://compound.finance/). Locked funds accumulate interest and COMP tokens, and these funds can be used to support bridge operations. 
 
