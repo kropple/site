@@ -10,7 +10,7 @@ The latest TokenBridge upgrade includes the ability to allocate Dai locked in th
 
 ### Initial Mechanisms
 
-1. As a part of the bridge upgrade, an amount of locked Dai \([_`Current Amount Locked(~22M)`_](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f?a=0x4aa42145aa6ebf72e164c9bbc74fbd3788045016) _`- 1,000,000 Dai`_\) is transferred to Compound.
+1. As a part of the bridge upgrade, an amount of locked Dai \([_`Current Amount Locked(~22M)`_](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f?a=0x4aa42145aa6ebf72e164c9bbc74fbd3788045016) _`-` `1,000,000 Dai`_\) is transferred to Compound.
 2. 1,000,000 Dai remains in the bridge contract as a reserve supporting daily operations.
 
 ![](../../../.gitbook/assets/compoundelements.png)
@@ -18,7 +18,7 @@ The latest TokenBridge upgrade includes the ability to allocate Dai locked in th
 ### User Actions
 
 1. **Dai bridged from Ethereum to xDai:** Following the upgrade, any amount of Dai bridged from Ethereum to xDai ****is added to the bridge reserve. It is not automatically transferred to Compound.
-2. **xDai bridged from xDai to Ethereum:** Bridge requests from xDai to Ethereum will use the Dai in the reserve. If a request is initiated that exceeds the available reserve amount, the requested amount exceeding the amount held in reserve + 1,000,000 Dai \(required reserve\) is withdrawn immediately from Compound. The 1,000,000 Dai replenishes the reserve.  `if current_reserve < requested  withdraw requested - current_reserve + required_reserve`
+2. **xDai bridged from xDai to Ethereum:** Bridge requests from xDai to Ethereum use the Dai in the reserve. If a request is initiated that exceeds the available reserve amount, the requested amount exceeding the reserve + 1,000,000 Dai \(required reserve\) is withdrawn immediately from Compound. The 1,000,000 Dai replenishes the reserve.  `if current_reserve < requested  withdraw requested - current_reserve + required_reserve`
 
 ![](../../../.gitbook/assets/user2.png)
 
@@ -38,7 +38,7 @@ The latest TokenBridge upgrade includes the ability to allocate Dai locked in th
 2. Compound protocol is a trusted entity. If compromised the protocol could attack the contracts in various ways, e.g., through reentrancy or by simply stealing funds. 
 
 {% hint style="info" %}
-Note: TVL metrics displayed in sources such as [DeFiLama ](https://defillama.com/protocol/xdai-stake)and [DeFiPulse](https://defipulse.com/xdai) will reflect reflect different values once Dai is sent to Compound. We will incorporate metrics into the [xDai Bridge Dune Analytics Dashboard](https://dune.xyz/maxaleks/xDai-Bridge) to reflect current invested amount as well as locked reserve amount.
+Note: TVL metrics displayed in sources such as [DeFiLama ](https://defillama.com/protocol/xdai-stake)and [DeFiPulse](https://defipulse.com/xdai) may reflect different values once Dai is sent to Compound. We will incorporate metrics into the [xDai Bridge Dune Analytics Dashboard](https://dune.xyz/maxaleks/xDai-Bridge) to reflect current invested amount as well as locked reserve amount.
 {% endhint %}
 
 ### OmniBridge Upgrade
