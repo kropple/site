@@ -2,7 +2,7 @@
 description: 18/09/2021 - 24/09/2021
 ---
 
-# ⚔️ xDai Weekly Recap - 24/17/2021
+# ⚔️ xDai Weekly Recap - 24/09/2021
 
 ![](../../../../.gitbook/assets/weekly-recap.png)
 
