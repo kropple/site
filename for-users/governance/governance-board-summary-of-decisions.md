@@ -27,5 +27,27 @@ The [Bridge Governance Board](./#bridge-governance-board) is responsible for ena
 ✅ **Governor Set Implemented:** January 22, 2020   
 ✅ **Oracle Implemented:** January 7, 2021 
 
+## Add 01Node & Peerion representatives to the Governance Board
 
+🗳 **Justification:**  Increase decentralization by extending the governance and the bridge validators set.
+
+✅ **Implemented:** September ****22, 2021 
+
+## Add 1Hive representative to the Governance Board
+
+🗳 **Justification:**  Increase decentralization by extending the governance and the bridge validators set.
+
+✅ **Implemented:** October ****04**,** 2021 
+
+## Upgrade Bridge Contracts
+
+🗳 **Justification:** Add new functionality including increased AMB request ability, contracts to send requests, and fix a security vulnerability identified through the Bug Bounty program.
+
+✅ **Implemented:** October 4**,** 2021 
+
+## Include Compounding for xDai Bridge
+
+🗳 **Justification:** Add compounding to support bridge operations. [Details here.](../bridges/converting-xdai-via-bridge/dai-compounding.md)
+
+✅ **Implemented:** October 6**,** 2021 
 
