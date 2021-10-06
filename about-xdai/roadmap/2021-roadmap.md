@@ -103,7 +103,7 @@ Update: We are currently working on a [ZeroPool](https://zeropool.network/) inte
 
 ## EIP-1559 Test Implementation
 
-🎯 **Target Date**: Q3 2021  
+🎯 **Target Date**: Q3-Q4 2021  
 ☑ **Status:** Research and implementation details in progress
 
 We are planning to implement a test implementation of [EIP 1559](https://eips.ethereum.org/EIPS/eip-1559)  to explore its dynamics and benefits for the xDai chain as well as the broader Ethereum ecosystem. With successful testing, we plan to activate on xDai. _More details available soon._
