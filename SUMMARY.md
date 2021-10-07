@@ -269,7 +269,7 @@
     * [Loopring Pay](for-stakers/stake-token/tools-supporting-stake/loopring-pay.md)
     * [Zapper](for-stakers/stake-token/tools-supporting-stake/zapper.md)
     * [Staking Rewards](for-stakers/stake-token/tools-supporting-stake/staking-rewards.md)
-  * [STAKE Reward Mechanics](for-stakers/stake-token/stake-reward-mechanics/README.md)
+  * [Reward Mechanics](for-stakers/stake-token/stake-reward-mechanics/README.md)
     * [Staking Rewards Comparison](for-stakers/stake-token/stake-reward-mechanics/staking-rewards-comparison.md)
     * [Dual Token Model Explainer](for-stakers/stake-token/stake-reward-mechanics/dual-token-model.md)
     * [Rewards in a Dual Token Environment](for-stakers/stake-token/stake-reward-mechanics/rewards-in-a-dual-token-environment.md)

@@ -2,7 +2,7 @@
 description: 'STAKE used for staking, rewards are distributed in STAKE, xDai and EXIT'
 ---
 
-# STAKE Reward Mechanics
+# Reward Mechanics
 
 With public POSDAO active, validator candidates and delegators can place STAKE into the protocol. The amount of STAKE placed determines the corresponding amount of STAKE minted and distributed at the end of a staking epoch. The final emission rate is determined through a risk assessment and community input. The current target is 15% APR.
 
