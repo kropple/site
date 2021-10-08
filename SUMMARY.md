@@ -64,6 +64,7 @@
 * [News & Information](about-xdai/news-and-information/README.md)
   * [Updates, Integrations and Weekly News](about-xdai/news-and-information/project-updates/README.md)
     * [2021 Weekly Updates](about-xdai/news-and-information/project-updates/2021-weekly-updates/README.md)
+      * [⚔️ xDai Weekly Recap - 08/10/2021](about-xdai/news-and-information/project-updates/2021-weekly-updates/xdai-weekly-recap-08-10-2021.md)
       * [⚔️ xDai Weekly Recap - 01/10/2021](about-xdai/news-and-information/project-updates/2021-weekly-updates/xdai-weekly-recap-01-10-2021.md)
       * [⚔️ xDai Weekly Recap - 24/09/2021](about-xdai/news-and-information/project-updates/2021-weekly-updates/xdai-weekly-recap-24-17-2021.md)
       * [⚔️ xDai Weekly Recap - 17/09/2021](about-xdai/news-and-information/project-updates/2021-weekly-updates/xdai-weekly-recap-17-09-2021.md)

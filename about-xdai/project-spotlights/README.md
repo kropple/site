@@ -89,7 +89,6 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Deus](https://app.deus.finance/crosschain/xdai/synchronizer/): Stock and Commodities trading
 * [Hedgey Finance](https://www.hedgey.finance/): Decentralized Financial Derivatives Protocol
 * [YFX](https://help.yfx.com/portal/en/kb/articles/detailed-tutorial-on-using-yfx-layer-2-%E6%8E%92%E7%89%88%E9%99%84%E5%9B%BE-1-docx-1300#Login_to_YFX_on_MetaMask): Futures Trading Platform
-* [DeBank](https://debank.com/): DeFi Dashboard
 * [MixSome](https://mixsome.cash/): DeFi Yield Flows
 * [DefiVille](https://defiville.finance): Tip with xDai in this gamified farming app
 * [Clover Finance](https://clover.finance/): Multi-chain indexing, compatibility and payments
@@ -97,6 +96,11 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Rubic](https://rubic.exchange/cross-chain/bridge?chain=ETH): Cross-chain swaps
 * [Unidex](https://unidex.exchange/): Limit order platform
 * [Hop](https://hop.exchange/): Cross-chain exchange/liquidity portal
+
+**DeFi Dashboards**
+
+* [DeBank](https://debank.com/): DeFi Dashboard
+* [Apy.Vision](https://apy.vision/): LP Positions
 
 **Coin & Token Focused Projects**
 
