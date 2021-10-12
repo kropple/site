@@ -5,54 +5,29 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 # Welcome to xDai
 
 {% hint style="success" %}
- **News Updates**
+** News Updates**
 
-🗳 Use your [STAKE on xDai](https://blockscout.com/xdai/mainnet/token/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e/token-transfers) or [STAKE on Ethereum](https://etherscan.io/token/0x0Ae055097C6d159879521C384F1D2123D1f195e6) to [vote on snapshot](for-users/governance/stake-weighted-voting/).
+🌪 [Tornado Cash](https://app.tornado.cash) is live. Select xDai from the dropdown for transactional privacy.
 
-🌪 Tornado Cash is live. Select xDai from the dropdown for transactional privacy at [https://app.tornado.cash/](https://app.tornado.cash/) 
+**🍣 **Sushiswap incentives are here. [Learn more](about-xdai/project-spotlights/sushiswap.md) or [get started](https://app.sushi.com) by selecting xDai in the network dropdown.
 
-**🍣** Sushiswap incentives are here. [Learn more](about-xdai/project-spotlights/sushiswap.md) and get started at [https://app.sushi.com](https://app.sushi.com/swap) by selecting xDai in the network dropdown.  
-  
-****⛱ Curve Finance on xDai! [Learn more](about-xdai/project-spotlights/curve-finance.md) or dive in here  [https://xdai.curve.fi/](https://xdai.curve.fi/).
+:beach_umbrella: Curve Finance on xDai! [Learn more](about-xdai/project-spotlights/curve-finance.md) or dive in at [https://xdai.curve.fi/](https://xdai.curve.fi)
 
-💌 [xDai Substack Newsletter](https://xdai.substack.com/) is now available with weekly updates and other news directly to your inbox.
+:love_letter: [xDai Substack Newsletter](https://xdai.substack.com) is now available with weekly updates and other news directly to your inbox.
 {% endhint %}
 
 ## xDai Stable Chain
 
-The xDai chain is a stable payments EVM \(Ethereum Virtual Machine\) blockchain designed for fast and inexpensive transactions. The chain uses a unique dual-token model; [xDai ](for-users/get-xdai-tokens/)is a stable token used for transactions, payments, and fees, and [STAKE](for-stakers/stake-token/) is a governance token used to support the underlying [POSDAO Proof-of-Stake](for-validators/posdao-whitepaper.md) consensus.
+The xDai chain is a stable payments EVM (Ethereum Virtual Machine) blockchain designed for fast and inexpensive transactions. The chain uses a unique dual-token model; [xDai ](for-users/get-xdai-tokens/)is a stable token used for transactions, payments, and fees, and [STAKE](for-stakers/stake-token/) is a governance token used to support the underlying [POSDAO Proof-of-Stake](for-validators/posdao-whitepaper.md) consensus.
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left">xDai &#x2694;</th>
-      <th style="text-align:left">STAKE &#x1F9B8;</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"><b>Purpose</b>
-      </td>
-      <td style="text-align:left">Stable Payments
-        <br />Transaction (gas) Fees</td>
-      <td style="text-align:left">
-        <p>Staking &amp; Protocol Protection</p>
-        <p>Community Governance</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Stability</b>
-      </td>
-      <td style="text-align:left">Stable to USD</td>
-      <td style="text-align:left">Volatile / Market Driven</td>
-    </tr>
-  </tbody>
-</table>
+|               | xDai ⚔                                           | STAKE 🦸                                                             |
+| ------------- | ------------------------------------------------ | -------------------------------------------------------------------- |
+| **Purpose**   | <p>Stable Payments<br>Transaction (gas) Fees</p> | <p>Staking &#x26; Protocol Protection</p><p>Community Governance</p> |
+| **Stability** | Stable to USD                                    | Volatile / Market Driven                                             |
 
-🌉 [xDai Bridges](about-xdai/faqs/bridges-xdai-bridge-and-omnibridge.md) provide the seamless ability to move tokens between chains using the unique [TokenBridge Architecture](https://docs.tokenbridge.net/). Tokens and arbitrary messages can also be passed across chain.
+🌉 [xDai Bridges](about-xdai/faqs/bridges-xdai-bridge-and-omnibridge.md) provide the seamless ability to move tokens between chains using the unique [TokenBridge Architecture](https://docs.tokenbridge.net). Tokens and arbitrary messages can also be passed across chain.
 
-[![](.gitbook/assets/xDai-bridge.svg)](https://bridge.xdaichain.com/) [![](.gitbook/assets/OmniBridge.svg)](https://omni.xdaichain.com/bridge)
+[![](.gitbook/assets/xDai-bridge.svg)](https://bridge.xdaichain.com) [![](.gitbook/assets/OmniBridge.svg)](https://omni.xdaichain.com/bridge)
 
 * [xDai Bridge](for-users/bridges/converting-xdai-via-bridge/): More info on converting Dai to xDai and bridge xDai to Dai on Ethereum.
 * [Omnibridge](for-users/bridges/omnibridge/): More info on bridging ERC20 tokens between Ethereum and xDai or between Binance Smart Chain and xDai. 
@@ -71,17 +46,17 @@ The xDai ecosystem continues to flourish with many new project migrations, integ
 
 ![](.gitbook/assets/xdai-projects.png)
 
-| Integrations | Infrastructure | DeFi | NFTs | DAOs |
-| :--- | :--- | :--- | :--- | :--- |
-| [Gnosis](about-xdai/project-spotlights/gnosis/) | [Origin Trail](https://origintrail.io/) | [HoneySwap](about-xdai/project-spotlights/1hive/honeyswap.md) | [POAP](https://www.poap.xyz/) | [DaoHaus](about-xdai/project-spotlights/daohaus.md) |
-| [Chainlink](about-xdai/project-spotlights/chainlink/) | [RealT](https://realt.co/) | [Perpetual Protocol](about-xdai/project-spotlights/perpetual-protocol.md) | [Nifty.Ink](about-xdai/project-spotlights/nifty.ink.md) | [Colony](https://colony.io/) |
-| [HOPR](https://hoprnet.org/) | [Circles UBI](about-xdai/project-spotlights/circles-ubi.md) | [Curve Finance](https://xdai.curve.fi/) | [Unifty](https://unifty.io) | [DXdao](https://dxdao.medium.com/) |
-| [Ramp Network](https://ramp.network/) | [Streamr](https://streamr.network/) | [SushiSwap](https://sushi.com/) | [Crypto Stamps](https://crypto.post.at/) | [RaidGuild](https://raidguild.org/) |
-| [Giveth](https://giveth.io/) | [Orchid](https://www.orchid.com/) | [BaoSwap](https://www.bao.finance/) | [Cargo](https://cargo.build) | [Peerion](https://peerion.io/pools/) |
-| [Tenderly](https://tenderly.co/) | [CardStack](https://cardstack.com/) | [Omen](https://xdai.omen.eth.link/#/liquidity) | [Eporio](https://epor.io/) |  |
-| [Ankr](https://www.ankr.com/) | [Request](https://request.network/en/) | [Swapr](https://swapr.eth.link/#/swap) | [Unique.One](https://www.unique.one/) |  |
-| [Tornado Cash](https://tornado.cash/) | [clr. Fund](about-xdai/project-spotlights/clr-fund.md) | [Agave](https://agave.finance/) | [xlr8r](https://xlr8r.com/) |  |
-| [Token Multisender](https://multisender.app/) |  | [Component Finance](about-xdai/project-spotlights/component-finance.md) | [Genuino](https://www.genuino.world/world/sport) |  |
+| Integrations                                          | Infrastructure                                              | DeFi                                                                      | NFTs                                                    | DAOs                                                |
+| ----------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------- |
+| [Gnosis](about-xdai/project-spotlights/gnosis/)       | [Origin Trail](https://origintrail.io)                      | [HoneySwap](about-xdai/project-spotlights/1hive/honeyswap.md)             | [POAP](https://www.poap.xyz)                            | [DaoHaus](about-xdai/project-spotlights/daohaus.md) |
+| [Chainlink](about-xdai/project-spotlights/chainlink/) | [RealT](https://realt.co)                                   | [Perpetual Protocol](about-xdai/project-spotlights/perpetual-protocol.md) | [Nifty.Ink](about-xdai/project-spotlights/nifty.ink.md) | [Colony](https://colony.io)                         |
+| [HOPR](https://hoprnet.org)                           | [Circles UBI](about-xdai/project-spotlights/circles-ubi.md) | [Curve Finance](https://xdai.curve.fi)                                    | [Unifty](https://unifty.io)                             | [DXdao](https://dxdao.medium.com)                   |
+| [Ramp Network](https://ramp.network)                  | [Streamr](https://streamr.network)                          | [SushiSwap](https://sushi.com)                                            | [Crypto Stamps](https://crypto.post.at)                 | [RaidGuild](https://raidguild.org)                  |
+| [Giveth](https://giveth.io)                           | [Orchid](https://www.orchid.com)                            | [BaoSwap](https://www.bao.finance)                                        | [Cargo](https://cargo.build)                            | [Peerion](https://peerion.io/pools/)                |
+| [Tenderly](https://tenderly.co)                       | [CardStack](https://cardstack.com)                          | [Omen](https://xdai.omen.eth.link/#/liquidity)                            | [Eporio](https://epor.io)                               |                                                     |
+| [Ankr](https://www.ankr.com)                          | [Request](https://request.network/en/)                      | [Swapr](https://swapr.eth.link/#/swap)                                    | [Unique.One](https://www.unique.one)                    |                                                     |
+| [Tornado Cash](https://tornado.cash)                  | [clr. Fund](about-xdai/project-spotlights/clr-fund.md)      | [Agave](https://agave.finance)                                            | [xlr8r](https://xlr8r.com)                              |                                                     |
+| [Token Multisender](https://multisender.app)          |                                                             | [Component Finance](about-xdai/project-spotlights/component-finance.md)   | [Genuino](https://www.genuino.world/world/sport)        |                                                     |
 
 ## **xDai Developers**
 
@@ -89,12 +64,12 @@ Development on xDai is easy and intuitive for Ethereum developers. xDai is an EV
 
 Any contract that works on the Ethereum mainnet can be redeployed to the xDai chain. On the xDai chain, transaction costs are minimized, and all fees and transactions are paid with a single token, xDai. **Many tools supporting Ethereum development** are compatible with xDai, including:
 
-* [TheGraph](https://thegraph.com/)
-* [Tenderly](https://tenderly.co/)
-* [Remix](https://remix-project.org/)
-* [OpenZeppelin](https://openzeppelin.com/)
-* [BlockNative](https://www.blocknative.com/)
-* [Gnosis Safe MultiSig](https://gnosis-safe.io/)
+* [TheGraph](https://thegraph.com)
+* [Tenderly](https://tenderly.co)
+* [Remix](https://remix-project.org)
+* [OpenZeppelin](https://openzeppelin.com)
+* [BlockNative](https://www.blocknative.com)
+* [Gnosis Safe MultiSig](https://gnosis-safe.io)
 * [Dune Analytics](https://duneanalytics.com/home)
 * Many more......
 
@@ -104,17 +79,16 @@ Any contract that works on the Ethereum mainnet can be redeployed to the xDai ch
 
 ## **Why xDai?**
 
-* ✅Fast transaction times \(5 seconds\) & low transaction fees \(500 tx for $.01\).
+* ✅Fast transaction times (5 seconds) & low transaction fees (500 tx for $.01).
 * ✅Digital cash. A stable chain is ideal for real world value exchange where 1 xDai = 1 US Dollar.
 * ✅A stable token for transactions & gas fees.
 * ✅A green, energy-efficient and [ecologically aware](about-xdai/news-and-information/xdai-energy-efficiency/) blockchain network.
 * ✅Permissionless delegated Proof-Of-Stake based consensus with public [POSDAO](for-validators/posdao-whitepaper.md).
 * ✅[STAKE token](for-stakers/stake-token/) for community consensus participation and incentives. 
-* ✅Wide-ranging Community Support \(see [xDai Validator Organizations](for-validators/about-xdai-validators/original-xdai-validators/)\).
+* ✅Wide-ranging Community Support (see [xDai Validator Organizations](for-validators/about-xdai-validators/original-xdai-validators/)).
 * ✅Extreme usability with tools like [Burner Wallet](for-users/wallets/burner-wallet/) & [Burner Wallet 2](for-users/wallets/burner-wallet-2.md).
 * ✅Growing ecosystem designed to support stable person-to-person transactions, micro transactions, [conference currencies](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/), [community currencies](about-xdai/use-cases/community-currencies.md), DeFi, NFTs, DAOs, games and more.
 * ✅Full-featured  [BlockScout Explorer](https://blockscout.com/xdai/mainnet).
 * ✅On-chain, decentralized [Random Number Generator](for-developers/on-chain-random-numbers/).
 * ✅Smart Contract, DApp & toolset compatibility with other Ethereum-based chains like Ethereum, Ethereum Classic, BSC and others.
 * ✅Experiencing the [magic of crypto](about-xdai/news-and-information/media-articles/crypto-influencers-on-xdai.md#anthony-pompliano) for the first time!
-
