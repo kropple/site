@@ -7,16 +7,16 @@ description: Instructions for setting up a Nethermind Client Node
 {% hint style="warning" %}
 Before getting started as a new validator, please follow the [Become a Candidate steps](../../for-stakers/staking-protocol/become-a-candidate-validator.md) to fund and setup your staking address. You will need this as well as information from the validator-candidates [Discord channel](https://discord.gg/mPJ9zkq) to complete the setup.
 
-Nethermind version -&gt;  [https://github.com/NethermindEth/nethermind/releases/tag/1.11.0](https://github.com/NethermindEth/nethermind/releases/tag/1.11.0) 
+Nethermind version ->  [https://github.com/NethermindEth/nethermind/releases/tag/1.11.0](https://github.com/NethermindEth/nethermind/releases/tag/1.11.0)&#x20;
 {% endhint %}
 
 {% hint style="info" %}
-**If you are migrating from a current OpenEthereum/Parity Node:** 
+**If you are migrating from a current OpenEthereum/Parity Node: **
 
-1. We recommend preparing through step 4 below \(update .env file\) on a clean instance, but **DO NOT launch \( do not proceed to step 5 `docker-compose up -d`\) until you have stopped your current instance**. 
+1. We recommend preparing through step 4 below (update .env file) on a clean instance, but **DO NOT launch ( do not proceed to step 5 `docker-compose up -d`) until you have stopped your current instance**.&#x20;
 2. Once your new node is prepared, stop your current OE/Parity instance
-   1. If using docker, stop with `docker-compose down` 
-   2. If using an ansible deploment playbook, uninstall with`sudo pip uninstall --yes ansible` or follow these instructions [https://howtoinstall.co/en/ubuntu/xenial/ansible?action=remove](https://howtoinstall.co/en/ubuntu/xenial/ansible?action=remove) 
+   1. If using docker, stop with `docker-compose down`&#x20;
+   2. If using an ansible deploment playbook, uninstall with`sudo pip uninstall --yes ansible` or follow these instructions [https://howtoinstall.co/en/ubuntu/xenial/ansible?action=remove](https://howtoinstall.co/en/ubuntu/xenial/ansible?action=remove)&#x20;
 3. Once you have confirmed your previous node is stopped, proceed with step 5 below and launch the new instance.  Initial sync should take about 15 minutes.
 {% endhint %}
 
@@ -30,7 +30,7 @@ Nethermind can be supported by a variety of cloud-based providers. Instructions 
 * CPU: minimum 2 cores
 * RAM: minimum 4GB
 * Disk: 50gb SSD
-* Open network ports: SSH port \(default 22 TCP\), 30303 UDP/TCP. For security purposes, close other ports.
+* Open network ports: SSH port (default 22 TCP), 30303 UDP/TCP. For security purposes, close other ports.
 * Check that you have git installed `git --version`
   * if not, install it following instructions [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
@@ -42,21 +42,20 @@ See the [Nethermind Docs](https://docs.nethermind.io/nethermind/) for additional
 
 Login to your node to begin.
 
-**For basic docker instructions**, see the github repo at [https://github.com/xdaichain/validator-node-dockerized/tree/nethermind\#readme](https://github.com/xdaichain/validator-node-dockerized/tree/nethermind#readme
-)
+**For basic docker instructions**, see the github repo at [https://github.com/xdaichain/validator-node-dockerized/tree/nethermind#readme](https://github.com/xdaichain/validator-node-dockerized/tree/nethermind#readme)
 
-### 1\) Install Docker Engine & Docker Compose
+### 1) Install Docker Engine & Docker Compose
 
 Installation instructions will vary based on OS. Follow the instructions here:
 
-* [https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/) 
+* [https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/)&#x20;
 * [https://docs.docker.com/compose/install/](https://docs.docker.com/compose/install/)
 
-### 2\) Sync Clock
+### 2) Sync Clock
 
 Your clock should by synchronized to prevent skipping block sealing.
 
- Enter`timedatectl status` , you should see similar output:
+&#x20;Enter`timedatectl status` , you should see similar output:
 
 ```bash
 Local time: Tue 2020-06-30 17:16:19 UTC
@@ -72,7 +71,7 @@ If **`System clock synchronized`** displays **`yes`**   you are ready to go, pro
 
 If not, you can either:
 
-* [x] synchronize clock with NTP servers \(allow **UDP** port **123** for both incoming and outgoing traffic\) or
+* [x] synchronize clock with NTP servers (allow **UDP** port **123** for both incoming and outgoing traffic) or
 * [x] use the following script to sync with google.com:
 
 Create `fixtime.sh` script and run it with `watch -n 60` command in a `screen`
@@ -86,22 +85,22 @@ watch -n 60 ./fixtime.sh
 
 Press `Ctrl+A+D` to leave the `screen`
 
-### 3\) Clone the Repo
+### 3) Clone the Repo
 
 ```bash
 $ git clone -b nethermind https://github.com/xdaichain/validator-node-dockerized
 $ cd validator-node-dockerized
 ```
 
-### 4\) Update .env File
+### 4) Update .env File
 
 {% hint style="info" %}
-You will need your private mining key to proceed \([see step 3 here to retrieve a key string using MetaMask](https://github.com/xdaichain/validator-node-dockerized/tree/nethermind#readme)\)
+You will need your private mining key to proceed ([see step 3 here to retrieve a key string using MetaMask](https://github.com/xdaichain/validator-node-dockerized/tree/nethermind#readme))
 {% endhint %}
 
 Copy `.env.example` to `.env` and configure the `.env` file. Define the following settings.
 
-```text
+```
 ETHSTATS_ID=[validator_name]
 ETHSTATS_CONTACT=[contact_email]
 ETHSTATS_SECRET=[netstat_secret_key]
@@ -109,33 +108,32 @@ KEY=[your_private_key_for_mining_address]
 SEQAPIKEY=[seq_api_key]
 ```
 
-* `ETHSTATS_ID` - The displayed name of your validator in [Netstats](https://dai-netstat.poa.network/)
-* `ETHSTATS_CONTACT` - Validator's contact \(e.g., e-mail\)
-* `ETHSTATS_SECRET` - Secret key to connect to Netstat \(Receive from admin of validator-candidates channel in Discord\)
-* `KEY` - Your mining address private key \(64 characters long **without leading `0x`**\)
-* `SEQAPIKEY` - An API key for [Seq](https://datalust.co/seq) log collector \(Receive from admin of validator-candidates channel in Discord\)
+* `ETHSTATS_ID` - The displayed name of your validator in [Netstats](https://dai-netstat.poa.network)
+* `ETHSTATS_CONTACT` - Validator's contact (e.g., e-mail)
+* `ETHSTATS_SECRET` - Secret key to connect to Netstat (Receive from admin of validator-candidates channel in Discord)
+* `KEY` - Your mining address private key (64 characters long **without leading `0x`**)
+* `SEQAPIKEY` - An API key for [Seq](https://datalust.co/seq) log collector (Receive from admin of validator-candidates channel in Discord)
 
-### 5\) Start the Node
+### 5) Start the Node
 
-```text
+```
 $ docker-compose up -d
 ```
 
-Once docker containers are created, the node will sync with the chain \(may take a while\).
+Once docker containers are created, the node will sync with the chain (may take a while).
 
-### 6\) Check Logs
+### 6) Check Logs
 
-To check the logs and verify operations \(look for the `Sealed block` log\).
+To check the logs and verify operations (look for the `Sealed block` log).
 
-```text
+```
 docker-compose logs -f nethermind
 ```
 
-### 7\) Setup Monitoring
+### 7) Setup Monitoring
 
 [This simple script](https://01node.com/quick-and-dirty-way-to-monitor-your-xdai-validator-nethermind/) can help you monitor your node and alert you if your node is down.
 
 {% hint style="success" %}
-Once your node is synced with the chain it will be ready for use. Assuming you have completed the other steps to Become a Candidate your node will be eligible to be a validator in the next staking epoch. If there are more than 19 active candidates, the validator set is chosen based on amount of STAKE \(provided by the validator and delegators\) as well as a random number.
+Once your node is synced with the chain it will be ready for use. Assuming you have completed the other steps to Become a Candidate your node will be eligible to be a validator in the next staking epoch. If there are more than 19 active candidates, the validator set is chosen based on amount of STAKE (provided by the validator and delegators) as well as a random number.
 {% endhint %}
-

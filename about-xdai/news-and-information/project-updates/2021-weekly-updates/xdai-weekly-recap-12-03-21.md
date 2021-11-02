@@ -4,12 +4,12 @@ description: 06 March -12 March 2021
 
 # ⚔️ xDai Weekly Recap - 12/03/21
 
-![](../../../../.gitbook/assets/green-and-black-modern-sales-marketing-presentation%20%2836%29.png)
+![](<../../../../.gitbook/assets/Green and Black Modern Sales Marketing Presentation (37).png>)
 
-## 👷♂ POSDAO & Protocol Updates
+## :man\_construction\_worker: POSDAO & Protocol Updates
 
 {% hint style="success" %}
-We are currently nearing the end of Epoch **47**. There are **16** validator pools with **242** delegators staking a total of **545,127** STAKE _\(as of 12/03/2021 18:00 UTC\)_.
+We are currently nearing the end of Epoch **47**. There are **16** validator pools with **242** delegators staking a total of **545,127** STAKE _(as of 12/03/2021 18:00 UTC)_.
 
 **This Week:**
 
@@ -23,13 +23,13 @@ Staking Statistics: [https://duneanalytics.com/maxaleks/xdai-staking](https://du
 
 ![](../../../../.gitbook/assets/marketcap1.png)
 
-## 🦋 Project News
+## :butterfly: Project News
 
-### SuperFluid 
+### SuperFluid&#x20;
 
-Superfluid streams now available on xDai. Already being incorporated by DAOs and others to provide regular, automated income streams. 
+Superfluid streams now available on xDai. Already being incorporated by DAOs and others to provide regular, automated income streams.&#x20;
 
-{% embed url="https://twitter.com/Superfluid\_HQ/status/1369676939913486337" %}
+{% embed url="https://twitter.com/Superfluid_HQ/status/1369676939913486337" %}
 
 ### Mt Pelerin
 
@@ -55,9 +55,9 @@ A new decentralized messaging platform from the FoundryDAO now on xDai. Uncensor
 
 ![](../../../../.gitbook/assets/smoke.png)
 
-{% embed url="https://smokesignal.eth.link/\#!/post?block=14825263&hash=0x4259f4a24052e0aad9968bc6c60cf029cc990546fe76c2a3a3d80c81e30a70d6" %}
+{% embed url="https://smokesignal.eth.link/#!/post?block=14825263&hash=0x4259f4a24052e0aad9968bc6c60cf029cc990546fe76c2a3a3d80c81e30a70d6" %}
 
-### FunFair 
+### FunFair&#x20;
 
 FunFair showcased their new multiplayer game in development on xDai called Payloads. Gameplay was smooth, fun and fast!
 
@@ -81,15 +81,13 @@ xDai is the first planned integration for Cargo, Coming Soon!
 
 Eporio introduced their NFT airdrops feature, allowing users to send NFTs to multiple users on xDai.
 
-{% embed url="https://twitter.com/eporio\_market/status/1368964198638776324" %}
+{% embed url="https://twitter.com/eporio_market/status/1368964198638776324" %}
 
 ### Nifty Chess Tournament
 
 Nifty Chess continues to bring NFTs to the chess world with tournaments and xDai airdrops!
 
 {% embed url="https://twitter.com/NiftyChess/status/1370414182521307137" %}
-
-
 
 
 

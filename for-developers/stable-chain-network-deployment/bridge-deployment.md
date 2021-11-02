@@ -1,4 +1,4 @@
-# 9\) Bridge Deployment
+# 9) Bridge Deployment
 
 {% hint style="success" %}
 Deploy the bridge after you have [reconfigured your instance](5-reconfigure-instances.md).
@@ -27,7 +27,7 @@ You will need tokens for deployment on the Foreign side of the bridge. This mean
 
 2\) Add the following addresses to the Certifier contract using the [MyCrypto method described previously](5-reconfigure-instances.md#call-contract-methods-using-mycrypto).
 
-a\) Use the `Master of Ceremony` address to call the `certify` method in the `Certifier` Contract. You will certify the following addresses, completing a separate transaction for each:
+a) Use the `Master of Ceremony `address to call the `certify` method in the `Certifier` Contract. You will certify the following addresses, completing a separate transaction for each:
 
 * VALIDATOR
 * DEPLOYMENT\_ACCOUNT
@@ -37,22 +37,22 @@ Certifier ABI: [https://raw.githubusercontent.com/parity-contracts/name-registry
 
 ## Configure and Deploy Bridge Contracts
 
-### 1\) Clone the Repo
+### 1) Clone the Repo
 
-```text
+```
 git clone -b develop https://github.com/poanetwork/tokenbridge-contracts.git
 cd tokenbridge-contracts
 ```
 
 {% hint style="info" %}
-If preferred, use Docker to get the latest image.   
+If preferred, use Docker to get the latest image. \
 `docker pull poanetwork/tokenbridge-contracts:latest`
 {% endhint %}
 
-### 2\) Copy the following example to create the `deploy/.env` file. 
+### 2) Copy the following example to create the `deploy/.env `file.&#x20;
 
-The example below uses the DAI Stablecoin for the ERC20\_Token\_Address. Y  [Mainnet](https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359) \| [Kovan](https://kovan.etherscan.io/address/0xc4375b7de8af5a38a93548eb8453a498222c4ff2)  
-  
+The example below uses the DAI Stablecoin for the ERC20\_Token\_Address. Y  [Mainnet](https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359) | [Kovan](https://kovan.etherscan.io/address/0xc4375b7de8af5a38a93548eb8453a498222c4ff2)\
+\
 You can select your own token if desired.
 
 {% hint style="info" %}
@@ -60,10 +60,10 @@ If using Docker, create a standalone file and name it `erc-to-native.config`
 {% endhint %}
 
 {% hint style="warning" %}
-Replace all variables templated with tags \(&lt;&gt;\) with actual values. [Learn more about variables here ](https://github.com/poanetwork/tokenbridge-contracts/blob/master/deploy/README.md#erc-to-native-bridge-mode-configuration-example)
+Replace all variables templated with tags (<>) with actual values. [Learn more about variables here ](https://github.com/poanetwork/tokenbridge-contracts/blob/master/deploy/README.md#erc-to-native-bridge-mode-configuration-example)
 {% endhint %}
 
-```text
+```
  BRIDGE_MODE=ERC_TO_NATIVE
  DEPLOYMENT_ACCOUNT_PRIVATE_KEY=<DEPLOYMENT_ACCOUNT_PRIVATE_KEY>
  DEPLOYMENT_GAS_LIMIT_EXTRA=0.2
@@ -120,21 +120,21 @@ Replace all variables templated with tags \(&lt;&gt;\) with actual values. [Lear
 _Optional:_ If you plan to use Etherscan or BlockScout for exploring your chain, find information on the correct parameters to include in the .env file here: [https://docs.tokenbridge.net/about-tokenbridge/features/contracts-verification-in-explorers](https://docs.tokenbridge.net/about-tokenbridge/features/contracts-verification-in-explorers)
 {% endhint %}
 
-### 3\) Deploy Contracts
+### 3) Deploy Contracts
 
 There are two options to deploy bridge contracts, you can use npm or docker. If using an official release, we recommend [Docker](https://www.docker.com/products/container-runtime).
 
 #### Docker
 
-Deploy with Docker \(here we have named the env file `erc-to-native.config` rather than .env\). More information on Docker deployment is [available here](https://github.com/poanetwork/tokenbridge-contracts/blob/master/README.md#deployment-in-the-docker-environment).
+Deploy with Docker (here we have named the env file `erc-to-native.config` rather than .env). More information on Docker deployment is [available here](https://github.com/poanetwork/tokenbridge-contracts/blob/master/README.md#deployment-in-the-docker-environment).
 
-```text
+```
 docker run -it --env-file ./erc-to-native.config poanetwork/tokenbridge-contracts:latest deploy.sh
 ```
 
 #### NPM
 
-```text
+```
 npm i
 npm run compile
 cd deploy
@@ -145,4 +145,3 @@ node deploy.js
 {% hint style="success" %}
 Next: [Deploy Consensus Contracts](deploy-consensus-contracts-on-moc-node.md)
 {% endhint %}
-

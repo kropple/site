@@ -10,9 +10,9 @@ For assistance or questions please visit the [xDai discord channel](https://disc
 
 ## General Information
 
-| Block Size | Block Speed | Gas price | Patchset | Native token | Network ID |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 17,000,000 Gas | 5 sec | 1 GWei | Berlin | xDai | 100 |
+| Block Size     | Block Speed | Gas price | Patchset | Native token | Network ID |
+| -------------- | ----------- | --------- | -------- | ------------ | ---------- |
+| 17,000,000 Gas | 5 sec       | 1 GWei    | Berlin   | xDai         | 100        |
 
 ## Blockchain Explorer
 
@@ -28,53 +28,30 @@ For assistance or questions please visit the [xDai discord channel](https://disc
 
 Main RPC is a load balancer with 4 nodes, health checks, and failover.
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Resource</th>
-      <th style="text-align:left">URL</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">JSON RPC endpoint</td>
-      <td style="text-align:left">
-        <p><a href="https://rpc.xdaichain.com/">https://rpc.xdaichain.com/</a>
-        </p>
-        <p>(alternative) <a href="https://xdai.poanetwork.dev/">https://xdai.poanetwork.dev</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">WebSockets WSS endpoint</td>
-      <td style="text-align:left">
-        <p>wss://rpc.xdaichain.com/wss</p>
-        <p>(alternative) wss://xdai.poanetwork.dev/wss</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Resource                | URL                                                                                                                                                                 |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| JSON RPC endpoint       | <p><a href="https://rpc.xdaichain.com">https://rpc.xdaichain.com/</a></p><p>(alternative) <a href="https://xdai.poanetwork.dev">https://xdai.poanetwork.dev</a></p> |
+| WebSockets WSS endpoint | <p>wss://rpc.xdaichain.com/wss</p><p>(alternative) wss://xdai.poanetwork.dev/wss</p>                                                                                |
 
 ### **Additional resources to connect to xDai network**
 
-| Resource | URL |  |
-| :--- | :--- | :--- |
-| JSON RPC endpoint over HTTP \(non-secure\) | [http://xdai.poanetwork.dev](http://xdai.poanetwork.dev/) |  |
-| JSON RPC endpoint via Cloudflare | [https://dai.poa.network](https://dai.poa.network) |  |
-| WebSockets WS \(non-secure\) | ws://xdai.poanetwork.dev:8546 |  |
-| Archive node | [https://xdai-archive.blockscout.com](https://xdai-archive.blockscout.com/) |  |
-| Network ID \(Decimal, Hexadecimal\) | 100 | 0x64 |
+| Resource                                 | URL                                                                        |      |
+| ---------------------------------------- | -------------------------------------------------------------------------- | ---- |
+| JSON RPC endpoint over HTTP (non-secure) | [http://xdai.poanetwork.dev](http://xdai.poanetwork.dev)                   |      |
+| JSON RPC endpoint via Cloudflare         | [https://dai.poa.network](https://dai.poa.network)                         |      |
+| WebSockets WS (non-secure)               | ws://xdai.poanetwork.dev:8546                                              |      |
+| Archive node                             | [https://xdai-archive.blockscout.com](https://xdai-archive.blockscout.com) |      |
+| Network ID (Decimal, Hexadecimal)        | 100                                                                        | 0x64 |
 
 🚀 **QuikNode** also supports xDai. Devs can get their own custom endpoint for DApps or other needs. [https://blog.quiknode.io/xdai-network-is-live-on-quiknode/](https://blog.quicknode.com/xdai-network-is-live-on-quiknode/)
 
-⚓ **Ankr** offers API endpoint access available with a free tier up to 100K requests/day. Additional paid tiers are available for developers. [https://www.ankr.com/](https://www.ankr.com/)
+:anchor: **Ankr** offers API endpoint access available with a free tier up to 100K requests/day. Additional paid tiers are available for developers. [https://www.ankr.com/](https://www.ankr.com)
 
-⏹ **GetBlock.io** provides fast and easy API connection services to an xDai archive node. Both free and paid levels available. [https://getblock.io/nodes/stake](https://getblock.io/nodes/stake
-)
+:stop\_button: **GetBlock.io **provides fast and easy API connection services to an xDai archive node. Both free and paid levels available. [https://getblock.io/nodes/stake](https://getblock.io/nodes/stake)
 
-🌎 **AnyBlock Analytics** provides a JSON-RPC professional service for users. As xDai validators, they have a deep understanding of the network as well as the broader Ethereum ecosystem. [https://www.anyblockanalytics.com/json-rpc](https://www.anyblockanalytics.com/json-rpc/?utm_source=xDAI&utm_medium=Organic-Social&utm_campaign=forum)
+:earth\_americas: **AnyBlock Analytics** provides a JSON-RPC professional service for users. As xDai validators, they have a deep understanding of the network as well as the broader Ethereum ecosystem. [https://www.anyblockanalytics.com/json-rpc](https://www.anyblockanalytics.com/json-rpc/)
 
-⏩ **Pocket** decentralized infrastructure, 1-click endpoints and monitoring. [https://www.portal.pokt.network](https://www.portal.pokt.network/#1). Learn more about their [multi-chain infrastructure](https://www.blog.pokt.network/the-portal-to-private-multi-chain-infrastructure/).
+:fast\_forward: **Pocket** decentralized infrastructure, 1-click endpoints and monitoring. [https://www.portal.pokt.network](https://www.portal.pokt.network/#1). Learn more about their [multi-chain infrastructure](https://www.blog.pokt.network/the-portal-to-private-multi-chain-infrastructure/).
 
 ### JSON-RPC Method Info
 
@@ -92,27 +69,27 @@ If using `eth_getLogs`to pull logs frequently WebSockets are recommended to push
 
 ## POSDAO Contracts
 
-POSDAO consensus is implemented in Solidity. Proxy contracts should be read for values such as [Random Numbers](../on-chain-random-numbers/) generated by the protocol. 
+POSDAO consensus is implemented in Solidity. Proxy contracts should be read for values such as [Random Numbers](../on-chain-random-numbers/) generated by the protocol.&#x20;
 
-✅ [List of current POSDAO contracts](https://github.com/poanetwork/poa-chain-spec/blob/dai/contracts.json#L9)
+:white\_check\_mark: [List of current POSDAO contracts](https://github.com/poanetwork/poa-chain-spec/blob/dai/contracts.json#L9)
 
 ## TokenBridge
 
 There are two bridge implementations connecting xDai and the Ethereum Mainnet.
 
-\*\*\*\*[**xDai Bridge**](https://docs.tokenbridge.net/xdai-bridge/about): ERC20-to-Native TokenBridge implementation, used for transferring Dai &lt;-&gt; xDai between Ethereum and the xDai chain.
+\*\*\*\*[**xDai Bridge**](https://docs.tokenbridge.net/xdai-bridge/about): ERC20-to-Native TokenBridge implementation, used for transferring Dai <-> xDai between Ethereum and the xDai chain.
 
 \*\*\*\*[**ETH-xDai Arbitrary Message Bridge**](https://docs.tokenbridge.net/eth-xdai-amb-bridge/about-the-eth-xdai-amb): AMB between Ethereum and xDai for data, token and message transfers. Includes the Ominibridge application for transfer of any ERC20 cross-chain.
 
 #### xDai Bridge Access
 
-* xDai Bridge UI at [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/)
+* xDai Bridge UI at [https://bridge.xdaichain.com/](https://bridge.xdaichain.com)
   * Interaction using method calls for smart contracts[ ](https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui)[https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui](https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui)
 * Bridge UI is built-in into AlphaWallet, BurnerWallet, BurnerFactory and other applications.
 
 #### OmniBridge Access
 
-* Omnibridge is located at [https://omni.xdaichain.com/](https://omni.xdaichain.com/). More information [including method calls here.](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension)
+* Omnibridge is located at [https://omni.xdaichain.com/](https://omni.xdaichain.com). More information [including method calls here.](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension)
 
 ## Compatible Testnets
 
@@ -126,34 +103,34 @@ See the dropdown menu under Developer Resources and Tools for tutorials related 
 
 * [Biconomy](https://medium.com/biconomy/biconomy-supports-xdai-chain-4d21d1f70222) allows for gasless transactions and improved DApp UX.
 * [TheGraph](https://thegraph.com) supports xDai data indexing, querying and display.
-* [CurveGrid MultiBaas](https://www.curvegrid.com/) provides smart contract deployment, interaction and updating capabilities through a web UI as well as a comprehensive REST API.
-* [3Box](https://www.3box.io/):  Externally Owned Account \(EOA\) addresses are the same on xDai as they are on other EVM networks, so no changes are needed to implement 3box functionality.
-* [BlockNative](https://docs.blocknative.com/) supports real-time notification & transaction monitoring and mempool streaming with API and SDK tools.
-* [Sourcify](https://sourcify.dev/) Smart Contract Source Verification. Contracts can also be verified with [BlockScout.](smart-contract-deployment.md)
+* [CurveGrid MultiBaas](https://www.curvegrid.com) provides smart contract deployment, interaction and updating capabilities through a web UI as well as a comprehensive REST API.
+* [3Box](https://www.3box.io):  Externally Owned Account (EOA) addresses are the same on xDai as they are on other EVM networks, so no changes are needed to implement 3box functionality.
+* [BlockNative](https://docs.blocknative.com) supports real-time notification & transaction monitoring and mempool streaming with API and SDK tools.
+* [Sourcify](https://sourcify.dev) Smart Contract Source Verification. Contracts can also be verified with [BlockScout.](smart-contract-deployment.md)
 * [Ethers.js](connect-to-xdai-with-ethers.js.md) lightweight javascript library - can be used as an alternative to [web3.js](https://web3js.readthedocs.io/en/v1.3.4/) for simple application development.
-* [Remix IDE](https://remix-project.org/):  It's easy to deploy to xDai with Remix, simply choose injected web3 and add the [xDai custom RPC to your metamask](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup).
-* [OpenZeppelin Defender: ](https://defender.openzeppelin.com/)Manage smart contract administration including access controls, upgrades, and pausing. Works with [Gnosis Safe](../../about-xdai/project-spotlights/gnosis/gnosis-safe.md) Multisig.
-* [Chainlink](https://docs.chain.link/docs/xdai-price-feeds): xDai Price Feeds integration. 
-* [Brownie](https://eth-brownie.readthedocs.io/en/stable/.): Smart Contract Development tool suite. For a video overview of Brownie Features, see this [tutorial series by the Curve Finance team](https://www.youtube.com/playlist?list=PLVOHzVzbg7bFUaOGwN0NOgkTItUAVyBBQ).
+* [Remix IDE](https://remix-project.org):  It's easy to deploy to xDai with Remix, simply choose injected web3 and add the [xDai custom RPC to your metamask](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup).
+* [OpenZeppelin Defender: ](https://defender.openzeppelin.com)Manage smart contract administration including access controls, upgrades, and pausing. Works with [Gnosis Safe](../../about-xdai/project-spotlights/gnosis/gnosis-safe.md) Multisig.
+* [Chainlink](https://docs.chain.link/docs/xdai-price-feeds): xDai Price Feeds integration.&#x20;
+* [Brownie](https://eth-brownie.readthedocs.io/en/stable/): Smart Contract Development tool suite. For a video overview of Brownie Features, see this [tutorial series by the Curve Finance team](https://www.youtube.com/playlist?list=PLVOHzVzbg7bFUaOGwN0NOgkTItUAVyBBQ).
 
 ### **Dashboards & Monitoring**
 
-* [Dune Analytics](https://www.duneanalytics.com/): Dune supports xDai for data queries and custom dashboards. Visualize and compare data between contracts and chains \(xDai and Ethereum support\). Existing Dashboards:
+* [Dune Analytics](https://www.duneanalytics.com): Dune supports xDai for data queries and custom dashboards. Visualize and compare data between contracts and chains (xDai and Ethereum support). Existing Dashboards:
   * [Staking Dashboard](https://duneanalytics.com/maxaleks/xdai-staking)
   * [Chain Usage Dashboard](https://duneanalytics.com/maxaleks/xDai-Usage)
-* [Tenderly](https://tenderly.co/) dashboard supports xDai transaction inspection - smart contracts can also be pushed to the dashboard for real-time monitoring.
-* [Chainbeat](https://chainbeat.io/) provides monitoring and analytics tools for DApp developers.
-* [Dappquery](https://dappquery.com/) analytics dashboard, customizable visualizations, smart contract alerts and scalable GraphQL API.
+* [Tenderly](https://tenderly.co) dashboard supports xDai transaction inspection - smart contracts can also be pushed to the dashboard for real-time monitoring.
+* [Chainbeat](https://chainbeat.io) provides monitoring and analytics tools for DApp developers.
+* [Dappquery](https://dappquery.com) analytics dashboard, customizable visualizations, smart contract alerts and scalable GraphQL API.
 
 ### **Token Faucets**
 
 **xDai Faucet**
 
-* [https://blockscout.com/xdai/mainnet/faucet](https://blockscout.com/xdai/mainnet/faucet) An xDai faucet to quickly get .01 xDai and start using the chain right away! 
+* [https://blockscout.com/xdai/mainnet/faucet](https://blockscout.com/xdai/mainnet/faucet) An xDai faucet to quickly get .01 xDai and start using the chain right away!&#x20;
 
 **Test Token Faucets**
 
-* [Token faucet](https://erc20faucet.com/) allows you to easily create ERC20 FAU tokens for testing purposes.
+* [Token faucet](https://erc20faucet.com) allows you to easily create ERC20 FAU tokens for testing purposes.
 * [Weenus ERC20 ](https://github.com/bokkypoobah/WeenusTokenFaucet)is also available to use for testing purposes.
 
 ![Tenderly Dashboard Gas Profiler example](../../.gitbook/assets/tenderly.png)
@@ -161,11 +138,14 @@ See the dropdown menu under Developer Resources and Tools for tutorials related 
 ## **Additional Resources**
 
 * **General Migration Guide:** A fun and easy xDai migration guide from DAOHaus: [https://medium.com/daohaus-club/daohaus-xdai-dapp-migration-83dca1fc590a](https://medium.com/daohaus-club/daohaus-xdai-dapp-migration-83dca1fc590a)
-* **GasRelay tutorial** by Portis. With a few lines of code, gas fees are shifted to DApp owners rather than users, creating an intuitive user experience. [https://docs.portis.io/\#/gas-relay](https://docs.portis.io/#/gas-relay)
-* **WebSockets Endpoint** \(can be useful to setup BlockScout for xDai\) [wss://rpc.xdaichain.com/wss](wss://rpc.xdaichain.com/wss)
-* **Archive Fullnode Endpoint** \(Useful for setting up BlockScout for xDai\) [https://xdai-archive.blockscout.com](https://xdai-archive.blockscout.com)
-* **Chain** [**spec**](https://github.com/poanetwork/poa-chain-spec/blob/dai/spec.json) **files** and known [bootnodes](https://github.com/poanetwork/poa-chain-spec/blob/dai/bootnodes.txt) of the xDai network [https://github.com/poanetwork/poa-chain-spec/tree/dai](https://github.com/poanetwork/poa-chain-spec/tree/dai)
-* **Netstats**, an overview of xDai Chain nodes [http://dai-netstat.poa.network](http://dai-netstat.poa.network/)
-* **Anyblock Index** \(aka [http://eth.events](http://eth.events)\), so you can query it via the Elasticsearch API or search in PostgreSQL: [https://account.anyblock.tools/status/](https://account.anyblock.tools/status/)
+* **GasRelay tutorial** by Portis. With a few lines of code, gas fees are shifted to DApp owners rather than users, creating an intuitive user experience.\
+  [https://docs.portis.io/#/gas-relay](https://docs.portis.io/#/gas-relay)
+* **WebSockets Endpoint** (can be useful to setup BlockScout for xDai)\
+  [wss://rpc.xdaichain.com/wss](wss://rpc.xdaichain.com/wss)
+* **Archive Fullnode Endpoint** (Useful for setting up BlockScout for xDai)\
+  [https://xdai-archive.blockscout.com](https://xdai-archive.blockscout.com)
+* **Chain **[**spec**](https://github.com/poanetwork/poa-chain-spec/blob/dai/spec.json)** files** and known [bootnodes](https://github.com/poanetwork/poa-chain-spec/blob/dai/bootnodes.txt) of the xDai network\
+  [https://github.com/poanetwork/poa-chain-spec/tree/dai](https://github.com/poanetwork/poa-chain-spec/tree/dai)
+* **Netstats**, an overview of xDai Chain nodes [http://dai-netstat.poa.network](http://dai-netstat.poa.network)
+* **Anyblock Index** (aka [http://eth.events](http://eth.events)), so you can query it via the Elasticsearch API or search in PostgreSQL: [https://account.anyblock.tools/status/](https://account.anyblock.tools/status/)
 * **Gnosis Safe** [on xDai.](../../about-xdai/project-spotlights/gnosis/gnosis-safe.md)
-

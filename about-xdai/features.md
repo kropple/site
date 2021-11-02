@@ -10,7 +10,7 @@ A stable coin means peace of mind. Predictable currencies allow buyers and selle
 
 ## STAKE Multi-Chain Staking & GovernanceToken
 
-The STAKE token on xDai is used by validators and delegators to secure the xDai chain. Users may participate in chain consensus, either as validators running xDai nodes, or delegators placing stake on those nodes. Participants place STAKE to secure the chain, and receive rewards in both STAKE and xDai \(for validators\) thanks to[ unique reward mechanics](../for-stakers/stake-token/stake-reward-mechanics/).
+The STAKE token on xDai is used by validators and delegators to secure the xDai chain. Users may participate in chain consensus, either as validators running xDai nodes, or delegators placing stake on those nodes. Participants place STAKE to secure the chain, and receive rewards in both STAKE and xDai (for validators) thanks to[ unique reward mechanics](../for-stakers/stake-token/stake-reward-mechanics/).
 
 STAKE also serves in a governance capacity. Community members can [create and vote on proposals](../for-users/governance/stake-weighted-voting/) to change or update the protocol. These changes are then taken into consideration by the xDai validators and team.
 
@@ -18,13 +18,13 @@ Additional chains will also have the opportunity to use STAKE to secure their ch
 
 ## Neutral Network
 
-The xDai chain provides a vital public utility for users - the ability to transfer stable value free of speculative concerns, volatility, or FUD \(fear, uncertainty & doubt\). xDai is an independent network, built to support transactions that hold value. When DAI is bridged to xDai, it moves to a platform with a clear, transparent purpose; secure & stable transactions on a fast, neutral network.
+The xDai chain provides a vital public utility for users - the ability to transfer stable value free of speculative concerns, volatility, or FUD (fear, uncertainty & doubt). xDai is an independent network, built to support transactions that hold value. When DAI is bridged to xDai, it moves to a platform with a clear, transparent purpose; secure & stable transactions on a fast, neutral network.
 
 Open governance, open access, and token stability create a trusted environment for users as well as applications built on top of xDai.
 
-## Scalability 
+## Scalability&#x20;
 
-xDai supports low cost, stable transactions for projects and users. high Ethereum gas prices and congestion have made it difficult for the ecosystem to function efficiently. xDai provides a compatible chain for projects requiring nano-transactions or complex transactions that may be prohibitively expensive on Ethereum. xDai can scale both vertically \(infrastructure and chain parameter optimization\) and horizontally \(additional chain deployments\) to meet capacity requirements. 
+xDai supports low cost, stable transactions for projects and users. high Ethereum gas prices and congestion have made it difficult for the ecosystem to function efficiently. xDai provides a compatible chain for projects requiring nano-transactions or complex transactions that may be prohibitively expensive on Ethereum. xDai can scale both vertically (infrastructure and chain parameter optimization) and horizontally (additional chain deployments) to meet capacity requirements.&#x20;
 
 ## On-Chain Randomness
 
@@ -32,9 +32,9 @@ Using a RANDAO-based Random Number Generator, validators on xDai produce random 
 
 ## POSDAO Green Consensus
 
-The xDai Stable Chain uses a delegated Proof of Stake \(DPOS\) consensus mechanism called POSDAO. The [POSDAO white paper](../for-validators/posdao-whitepaper.md) describes all aspects of this new consensus protocol including a complete overview of the theory, rationale, security, and a detailed implementation section.
+The xDai Stable Chain uses a delegated Proof of Stake (DPOS) consensus mechanism called POSDAO. The [POSDAO white paper](../for-validators/posdao-whitepaper.md) describes all aspects of this new consensus protocol including a complete overview of the theory, rationale, security, and a detailed implementation section.
 
-📗[ More on xDai's energy efficient network](news-and-information/xdai-energy-efficiency/)
+:green\_book:[ More on xDai's energy efficient network](news-and-information/xdai-energy-efficiency/)
 
 ## Bridges to Ethereum
 
@@ -42,14 +42,13 @@ Two bridges connect the xDai Chain to the Ethereum mainnet, supporting seamless 
 
 ### L2 Chain Bridges
 
-Additional bridges exist to move tokens between xDai and other EVM chains, including moving assets between [Binance Smart Chain](https://bsc-to-xdai-omnibridge.web.app/) and Polygon \(using the [xpollinate Connext state channel bridge](https://www.xpollinate.io/)\).
+Additional bridges exist to move tokens between xDai and other EVM chains, including moving assets between [Binance Smart Chain](https://bsc-to-xdai-omnibridge.web.app) and Polygon (using the [xpollinate Connext state channel bridge](https://www.xpollinate.io)).
 
 ### Bridged Tokens
 
-View tokens bridged to xDai from Ethereum with the [OmniBridge UI ](https://xdai-omnibridge.web.app/)built by [RaidGuild](https://raidguild.org/).
+View tokens bridged to xDai from Ethereum with the [OmniBridge UI ](https://xdai-omnibridge.web.app)built by [RaidGuild](https://raidguild.org).
 
 * [Tokens bridged from Ethereum](https://blockscout.com/xdai/mainnet/bridged-tokens/eth)
 * [Tokens bridged from BSC](https://blockscout.com/xdai/mainnet/bridged-tokens/bsc)
 
-{% embed url="https://blockscout.com/xdai/mainnet/bridged-tokens" caption="" %}
-
+{% embed url="https://blockscout.com/xdai/mainnet/bridged-tokens" %}

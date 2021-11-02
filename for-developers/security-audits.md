@@ -4,7 +4,7 @@ description: Audits of xDai and related infrastructure
 
 # Security Audits
 
-## Stake Beacon Chain by ChainSecurity <a id="omnibridge-audit-by-chainsecurity"></a>
+## Stake Beacon Chain by ChainSecurity <a href="omnibridge-audit-by-chainsecurity" id="omnibridge-audit-by-chainsecurity"></a>
 
 **Completed:** October 1, 2021
 
@@ -12,7 +12,7 @@ description: Audits of xDai and related infrastructure
 
 **Audit Report**: [https://chainsecurity.com/security-audit/poa-network-stake-beacon-chain-sbc-deposit/](https://chainsecurity.com/security-audit/poa-network-stake-beacon-chain-sbc-deposit/)
 
-## OmniBridge v6.0 Smart Contracts Audit by ChainSecurity <a id="omnibridge-audit-by-chainsecurity"></a>
+## OmniBridge v6.0 Smart Contracts Audit by ChainSecurity <a href="omnibridge-audit-by-chainsecurity" id="omnibridge-audit-by-chainsecurity"></a>
 
 **Completed:** September 7, 2021
 
@@ -21,9 +21,11 @@ description: Audits of xDai and related infrastructure
 * **Contracts:** [https://github.com/poanetwork/omnibridge](https://github.com/poanetwork/omnibridge)
 * **Audit Report**
 
-{% file src="../.gitbook/assets/chainsecurity\_poa\_network\_omnibridge\_version\_6\_0\_audit.pdf" caption="ChainSecurity OmniBridge v6.0" %}
+{% file src="../.gitbook/assets/ChainSecurity_POA_Network_Omnibridge_Version_6_0_audit.pdf" %}
+ChainSecurity OmniBridge v6.0
+{% endfile %}
 
-## POSDAO Audit by ChainSecurity <a id="omnibridge-audit-by-chainsecurity"></a>
+## POSDAO Audit by ChainSecurity <a href="omnibridge-audit-by-chainsecurity" id="omnibridge-audit-by-chainsecurity"></a>
 
 **Completed:** June 25, 2021
 
@@ -34,7 +36,7 @@ description: Audits of xDai and related infrastructure
 
 {% embed url="https://chainsecurity.com/security-audit/poa-network-posdao/" %}
 
-## OmniBridge Audit by ChainSecurity <a id="omnibridge-audit-by-chainsecurity"></a>
+## OmniBridge Audit by ChainSecurity <a href="omnibridge-audit-by-chainsecurity" id="omnibridge-audit-by-chainsecurity"></a>
 
 **Completed:** April 27, 2021
 
@@ -42,9 +44,11 @@ description: Audits of xDai and related infrastructure
 
 **Contracts:** [https://github.com/poanetwork/omnibridge](https://github.com/poanetwork/omnibridge)​
 
-{% embed url="https://chainsecurity.com/security-audit/poa-network-omnibridge/" caption="ChainSecurity Audit Report" %}
+{% embed url="https://chainsecurity.com/security-audit/poa-network-omnibridge/" %}
+ChainSecurity Audit Report
+{% endembed %}
 
-## TokenBridge Audit by Quantstamp \(covers OmniBridge\)
+## TokenBridge Audit by Quantstamp (covers OmniBridge)
 
 **Completed:** November 6, 2020
 
@@ -62,13 +66,15 @@ description: Audits of xDai and related infrastructure
 
 **Conclusion:** All high/medium/low risk issues resolved.
 
-{% file src="../.gitbook/assets/xdai-easy-staking-final-report.pdf" caption="Easy Staking Final Audit Report by Quantstamp" %}
+{% file src="../.gitbook/assets/XDai Easy Staking - Final Report.pdf" %}
+Easy Staking Final Audit Report by Quantstamp
+{% endfile %}
 
-## TokenBridge Audit by Quantstamp \(covers xDai bridge functionality\)
+## TokenBridge Audit by Quantstamp (covers xDai bridge functionality)
 
 **Completed:** January 8, 2020
 
-**Conclusion**: All high risk issues resolved and low risk issues addressed. [More information available in this post](%20https://forum.poa.network/t/quantstamp-security-audit-for-tokenbridge-contracts-completed/3233).
+**Conclusion**: All high risk issues resolved and low risk issues addressed. [More information available in this post](https://forum.poa.network/t/quantstamp-security-audit-for-tokenbridge-contracts-completed/3233).
 
 **Contracts:** Revised in version 3.3.0 to address audit. [https://github.com/poanetwork/tokenbridge-contracts/releases/tag/3.3.0](https://github.com/poanetwork/tokenbridge-contracts/releases/tag/3.3.0)
 
@@ -80,8 +86,8 @@ description: Audits of xDai and related infrastructure
 
 #### **STAKE Token Distribution Audit**
 
-**Completed:** June 24, 2020  
-  
+**Completed:** June 24, 2020\
+\
 **Conclusion**: No High or Medium risks, all low and informational risks addressed
 
 {% hint style="success" %}
@@ -92,11 +98,11 @@ description: Audits of xDai and related infrastructure
 
 In the original audit,  the working name for the staking token was DPOS. This changed to STAKE.
 
-**DPOS Audit Completed:** September 5, 2019  
-  
-**Conclusion**: All risks resolved.   
-  
-**Contracts:** Version 1.0.1 addressed items in audit.  
+**DPOS Audit Completed:** September 5, 2019\
+\
+**Conclusion**: All risks resolved. \
+\
+**Contracts:** Version 1.0.1 addressed items in audit.\
 [https://github.com/xdaichain/stake-token/releases/tag/v1.0.1](https://github.com/xdaichain/stake-token/releases/tag/v1.0.1)
 
 {% hint style="success" %}
@@ -118,4 +124,3 @@ The token constitutes a VFA in terms of Maltese law. Please contact [team@xdaich
 {% hint style="success" %}
 [POSDAO v1 Consensus Contracts audit](https://forum.poa.network/t/security-audits-of-posdao-consensus-contracts/2921)
 {% endhint %}
-

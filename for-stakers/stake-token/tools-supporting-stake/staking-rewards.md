@@ -10,9 +10,8 @@ To use the calculator, go to [https://www.stakingrewards.com/earn/xdai/calculate
 
 Chose your reward option and enter the amount you will stake.
 
-![](../../../.gitbook/assets/staking-1.jpg)
+![](<../../../.gitbook/assets/staking 1.jpg>)
 
 Next you can change other parameters including the amount of time and amount staked in the protocol. Rewards will adjust to show your total reward rate along with the associated annualized rate.
 
-### 
-
+###

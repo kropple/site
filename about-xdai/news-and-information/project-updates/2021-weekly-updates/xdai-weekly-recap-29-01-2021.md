@@ -4,24 +4,24 @@ description: 23 January - 29 January 2021
 
 # ⚔️ xDai Weekly Recap - 29/01/2021
 
-![](../../../../.gitbook/assets/green-and-black-modern-sales-marketing-presentation%20%2829%29.png)
+![](<../../../../.gitbook/assets/Green and Black Modern Sales Marketing Presentation (27).png>)
 
 ## POSDAO & Protocol Updates
 
 {% hint style="success" %}
-Epoch **42** has started, with **15** validator pools and **149** delegators staking a total of **447,425** STAKE _\(as of 29/01/2021 16:50 UTC\)_.
+Epoch **42** has started, with **15** validator pools and **149** delegators staking a total of **447,425** STAKE _(as of 29/01/2021 16:50 UTC)_.
 {% endhint %}
 
 Updated staking statistics for POSDAO on xDai & EasyStaking on Ethereum are available on the Dune Analytics Dashboard at [https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)
 
-We are working to display additional statistics around expected APY for delegators within the staking application on BlockScout with plans to publish next week. Staking rewards vary based on several factors including the current quality of a validator's work \(number of block skips\) as well as the number of delegators in a pool. This display will help inform delegators when deciding which pools to stake into.
+We are working to display additional statistics around expected APY for delegators within the staking application on BlockScout with plans to publish next week. Staking rewards vary based on several factors including the current quality of a validator's work (number of block skips) as well as the number of delegators in a pool. This display will help inform delegators when deciding which pools to stake into.
 
 * **Pool Rewards**: Based on number of blocks produced relative to other validators in the set during a staking epoch
 * **Delegator Rewards**: Vary based on how many delegators are in a pool and how many tokens a delegator has staked relative to other pool delegators.
 
 ### xDai Network Transaction Milestone
 
-10 Million Txs and counting on xDai! 
+10 Million Txs and counting on xDai!&#x20;
 
 {% embed url="https://twitter.com/xdaichain/status/1355081556407300099" %}
 
@@ -32,7 +32,7 @@ The Snapshot protocol is setup for voting by address rather than multi-sig contr
 * [Learn how to delegate](../../../../for-users/governance/stake-weighted-voting/delegate-stake-voting-weight-with-gnosis-safe.md)
 * [xDai Snapshot Portal](https://snapshot.page/#/xdaistake.eth)
 
-## 💸 Wallets
+## :money\_with\_wings: Wallets
 
 See the [wallets section](../../../../for-users/wallets/) for more on the growing list of wallets that provide native support for xDai.
 
@@ -48,7 +48,7 @@ Torus add native xDai support to their OAuth enabled wallet.
 
 {% embed url="https://www.xdaichain.com/for-users/wallets/torus-wallet" %}
 
-## 🦋 Project Updates
+## :butterfly: Project Updates
 
 ### Perpetual Protocol
 
@@ -58,8 +58,8 @@ Congrats to Perpetual Protocol - 7 weeks to the 3 comma club!
 
 ### Colony
 
-A powerful DAO framework that makes it easy for people all around the world to build the trustless, decentralized organizations of the future. Coming to Ethereum and xDai soon \(contracts 95% complete - soft launch scheduled for Feb\).  
-  
+A powerful DAO framework that makes it easy for people all around the world to build the trustless, decentralized organizations of the future. Coming to Ethereum and xDai soon (contracts 95% complete - soft launch scheduled for Feb).\
+\
 See the video below for a detailed run through and a sneak peak of many amazing platform features.
 
 {% embed url="https://twitter.com/joincolony/status/1354809654199480320" %}
@@ -71,8 +71,6 @@ Gnosis, Perpetual Protocol and others are using Dune Analytics on xDai to displa
 {% embed url="https://twitter.com/perpprotocol/status/1352617192693481475" %}
 
 {% embed url="https://twitter.com/gnosisPM/status/1353753109642817545" %}
-
-
 
 
 

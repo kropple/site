@@ -6,13 +6,13 @@ description: 8 August 2020 - 14 August 2020
 
 
 
-![](../../../../.gitbook/assets/green-and-black-modern-sales-marketing-presentation%20%281%29.png)
+![](<../../../../.gitbook/assets/Green and Black Modern Sales Marketing Presentation (1).png>)
 
-## 🥩 EasyStaking
+## :cut\_of\_meat: EasyStaking
 
 ### ✅ EasyStaking enabled on BitMax
 
-Easy Staking launched on Wednesday, August 5. BitMax has now incorporated EasyStaking as their staking application, adding a large chunk of STAKE to the contract. If you were already staking with the pre-staking program, you don't need to do anything, your STAKE will automatically be transferred to EasyStaking \(without paying gas fees to stake\)
+Easy Staking launched on Wednesday, August 5. BitMax has now incorporated EasyStaking as their staking application, adding a large chunk of STAKE to the contract. If you were already staking with the pre-staking program, you don't need to do anything, your STAKE will automatically be transferred to EasyStaking (without paying gas fees to stake)
 
 [Learn More about EasyStaking with BitMax](https://bitmax.io/#/staking/investment-product-details/STAKE-S)
 
@@ -24,15 +24,15 @@ Easy Staking launched on Wednesday, August 5. BitMax has now incorporated EasySt
 
 We added an FAQ for questions we've received so far about EasyStaking and STAKE. Look for additional questions to be added in the future.
 
-💡[EasyStaking FAQs](../../../faqs/easystaking-faq.md)
+:bulb:[EasyStaking FAQs](../../../faqs/easystaking-faq.md)
 
-## 👷♀ Dev & Project Updates
+## :woman\_construction\_worker: Dev & Project Updates
 
 ### ✅ JOON Landing! First personal token transferred from Ethereum to xDai
 
 The Roll network mints branded, personal digital tokens unique to an individual's online presence.  However, ETH gas fees have made it difficult to transfer and use personal tokens. The JOON token became the first Roll personal token to cross from the Ethereum Mainnet to xDai.
 
-{% embed url="https://twitter.com/makoto\_inoue/status/1292938438010904577" %}
+{% embed url="https://twitter.com/makoto_inoue/status/1292938438010904577" %}
 
 ### ✅ MooniSwap Exchange
 
@@ -40,35 +40,34 @@ The Roll network mints branded, personal digital tokens unique to an individual'
 
 {% embed url="https://twitter.com/xdaichain/status/1293127586432851968" %}
 
-## 📰 Media
+## :newspaper: Media
 
-### ✅ Lead Architect Alex Kolotov presents at EDCON 2020 on Multi-token ERC20 transfers from Ethereum -&gt; xDai
+### ✅ Lead Architect Alex Kolotov presents at EDCON 2020 on Multi-token ERC20 transfers from Ethereum -> xDai
 
-{% embed url="https://www.youtube.com/watch?v=WMubACRjS\_4" %}
+{% embed url="https://www.youtube.com/watch?v=WMubACRjS_4" %}
 
 ### ✅ OMG Comparison Article
 
 With all the recent Layer 2 scaling talk, we added another comparison article which compares the OMG Network to xDai. While both provide scaling, xDai wins out when it comes to flexibility, cost, and time in production. [Read the article here](../../comparisons/omg-network.md)
 
-![](../../../../.gitbook/assets/green-and-black-corporate-comparison-chart.png)
+![](<../../../../.gitbook/assets/Green and Black Corporate Comparison Chart.png>)
 
-### ✅  Twitter 👀 on xDai
+### ✅  Twitter :eyes: on xDai
 
 The xDai Chain has received a lot of coverage from Twitter influencers this week. As gas fees continue to rise on Ethereum, many people are looking for scaling solutions now. xDai is primed and ready to handle this upcoming migration.
 
-{% embed url="https://twitter.com/evan\_van\_ness/status/1293892072576032768" %}
+{% embed url="https://twitter.com/evan_van_ness/status/1293892072576032768" %}
 
 {% embed url="https://twitter.com/graphprotocol/status/1293943437755113472" %}
 
 {% embed url="https://twitter.com/jgarzik/status/1294295223842091010?s=19" %}
 
-## 🦸♂ Community
+## :man\_superhero: Community
 
 ### ✅ Twitter Banner Design Contest Ongoing
 
-We’ve launched a contest to design our Twitter banner with prizes in STAKE. **Entries due by August 20**. If you are a designer, or know one, forward on the info to help elevate the xDai STAKE visual game!   
-  
+We’ve launched a contest to design our Twitter banner with prizes in STAKE. **Entries due by August 20**. If you are a designer, or know one, forward on the info to help elevate the xDai STAKE visual game! \
+\
 Add your entry here:[ https://airtable.com/shrWqBjOHBzsdIdDI](https://airtable.com/shrWqBjOHBzsdIdDI)
 
 {% embed url="https://twitter.com/xdaichain/status/1288519372571639808" %}
-

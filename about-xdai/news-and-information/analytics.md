@@ -11,23 +11,23 @@ xDai is tightly integrated with [Dune Analytics](../../for-developers/developer-
 ### xDai Chain Usage
 
 * Transactions, Active Accounts, Tx Fees, Tx by Project, Gas Usage.
-*  [https://duneanalytics.com/maxaleks/xDai-Usage](https://duneanalytics.com/maxaleks/xDai-Usage)
+* &#x20;[https://duneanalytics.com/maxaleks/xDai-Usage](https://duneanalytics.com/maxaleks/xDai-Usage)
 
-![Transactions Per Day/Per Month/ Daily Transactions by Project](../../.gitbook/assets/xdai-usage-1.png)
+![Transactions Per Day/Per Month/ Daily Transactions by Project](../../.gitbook/assets/xDai-usage-1.png)
 
-### xDai Staking 
+### xDai Staking&#x20;
 
-* Staking on Ethereum \(EasyStaking\) and xDai. Total Staked, \# of Participants, Rewards, Delegators. 
-*  [https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)
+* Staking on Ethereum (EasyStaking) and xDai. Total Staked, # of Participants, Rewards, Delegators.&#x20;
+* &#x20;[https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)
 
-![Validator Pools, Total STAKE Staked on xDai, Amount Staked/Unstaked per day](../../.gitbook/assets/xdai-staking.png)
+![Validator Pools, Total STAKE Staked on xDai, Amount Staked/Unstaked per day](../../.gitbook/assets/xDai-staking.png)
 
 ### xDai Bridge
 
 * Total DAI Value Locked, Transfers, Transfer Volume, Unique Accounts.
 * [https://duneanalytics.com/maxaleks/xDai-Bridge](https://duneanalytics.com/maxaleks/xDai-Bridge)
 
-![DAI Locked over Time, Accounts over Time, Transfers by Amount, Alternate Receiver Usage](../../.gitbook/assets/xdai-bridge%20%281%29.png)
+![DAI Locked over Time, Accounts over Time, Transfers by Amount, Alternate Receiver Usage](../../.gitbook/assets/xDai-bridge.png)
 
 ### OmniBridge
 
@@ -42,8 +42,6 @@ xDai is tightly integrated with [Dune Analytics](../../for-developers/developer-
 * [https://duneanalytics.com/maxaleks/Omnibridge-Stablecoins](https://duneanalytics.com/maxaleks/Omnibridge-Stablecoins)
 
 ![Daily Unique Accounts, Daily Stablecoin Transfers, Stablecoin TVL over time](../../.gitbook/assets/stablecoins.png)
-
-
 
 
 

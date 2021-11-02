@@ -4,14 +4,14 @@ description: Resolving bridge issues
 
 # Troubleshoot Bridge Txs, UI, xDai.io, xmoon.exchange, MetaMask
 
-Bridge transactions can take some time \(hours in extreme cases\) to complete depending on Ethereum mainnet congestion. Try these actions first if your transaction has been **pending for 10 minutes or more** \(and you don't want to wait any more time\). Actions differ depending on if you are transferring from xDai to Dai or [Dai to xDai](troubleshooting.md#dai-to-xdai-transaction-is-taking-a-long-time).
+Bridge transactions can take some time (hours in extreme cases) to complete depending on Ethereum mainnet congestion. Try these actions first if your transaction has been **pending for 10 minutes or more** (and you don't want to wait any more time). Actions differ depending on if you are transferring from xDai to Dai or [Dai to xDai](troubleshooting.md#dai-to-xdai-transaction-is-taking-a-long-time).
 
-If you are using OmniBridge for other ERC20 tokens \(not xDai &lt;-&gt; Dai\) please see the [OmniBridge page](../omnibridge/). **This guide only addresses issues with xDai to Dai transfers.**
+If you are using OmniBridge for other ERC20 tokens (not xDai <-> Dai) please see the [OmniBridge page](../omnibridge/). **This guide only addresses issues with xDai to Dai transfers.**
 
 {% hint style="info" %}
 **Things to know**
 
-* A bridge exit \(moving from xDai to Dai\) requires **2 transactions**, **one to initiate the transfer** on xDai, and a **2nd to claim DAI on Ethereum**.
+* A bridge exit (moving from xDai to Dai) requires **2 transactions**, **one to initiate the transfer** on xDai, and a **2nd to claim DAI on Ethereum**.
 * To process the **2nd transaction**, you will need to **switch to Ethereum Mainnet in Metamask** and **you will need Ether to pay gas fees.**
 * The **2nd transaction may take quite a long time**, it is being processed on Ethereum. You can set a higher gas price if you want to speed it up. [**Instructions**](troubleshooting.md#dai-to-xdai-transaction-is-taking-a-long-time)**.**
 * If you closed the UI before starting the 2nd transaction, you can come back and to complete later. [**Instructions**](troubleshooting.md#i-used-the-xdai-bridge-ui)**.**
@@ -24,7 +24,7 @@ We are doing some periodic maintenance and optimization on the Bridge and are no
 
 ## I Only See Bridging in 1 Direction
 
-The bridge is dynamic and supports bi-directional bridging**. It will shift automatically when you update your web3wallet \(MetaMask\) to the correct chain**. When you are on Ethereum Mainnet, you will see the Eth-Mainnet to xDai chain side, and when you are on xDai, you will see the xDai to Eth Mainnet side. You can adjust which side through the Bridge toggle in menu, however to initiate a transfer you will need your wallet set to the correct chain.
+The bridge is dynamic and supports bi-directional bridging**. It will shift automatically when you update your web3wallet (MetaMask) to the correct chain**. When you are on Ethereum Mainnet, you will see the Eth-Mainnet to xDai chain side, and when you are on xDai, you will see the xDai to Eth Mainnet side. You can adjust which side through the Bridge toggle in menu, however to initiate a transfer you will need your wallet set to the correct chain.
 
 ![](../../../.gitbook/assets/toggle.gif)
 
@@ -33,19 +33,19 @@ The bridge is dynamic and supports bi-directional bridging**. It will shift auto
 A new bridge decentralization feature means **withdrawals now require 2 steps**. You must
 
 1. initiate the bridge transaction on xDai
-2. Claim your Dai on Ethereum. 
+2. Claim your Dai on Ethereum.&#x20;
 
 There are currently different bridging UIs, and depending on the UI you may need to take different steps to complete the process.
 
-* \*\*\*\*[**xDai bridg**e](troubleshooting.md#i-used-the-xdai-bridge-ui) at [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/) \(or [http://dai-bridge.poa.network/](http://dai-bridge.poa.network/) - this is another URL for the same app\)
+* \*\*\*\*[**xDai bridg**e](troubleshooting.md#i-used-the-xdai-bridge-ui) at [https://bridge.xdaichain.com/](https://bridge.xdaichain.com) (or [http://dai-bridge.poa.network/](http://dai-bridge.poa.network) - this is another URL for the same app)
 * [**Burner Wallet**](troubleshooting.md#i-used-burner-wallet-at-xdai-io) at [xDai.io](https://xdai.io)
-* \*\*\*\*[**xMoon exchange**](troubleshooting.md#i-used-xmoon-exchange) at [https://xmoon.exchange/](https://xmoon.exchange/)
+* \*\*\*\*[**xMoon exchange**](troubleshooting.md#i-used-xmoon-exchange) at [https://xmoon.exchange/](https://xmoon.exchange)
 
 ## I Used the xDai Bridge UI
 
 When using the xDai bridge, we recommend Chrome and MetaMask. It is also useful to disable ad blockers, as there are popups which guide you through the process. [A successful transfer process is documented here](moving-xdai-to-dai.md).
 
-If you submitted a tx on xDai, but not complete the claim process, return to the Bridge Ui and connect your MetaMask \(MM\) wallet with the account you used previously.
+If you submitted a tx on xDai, but not complete the claim process, return to the Bridge Ui and connect your MetaMask (MM) wallet with the account you used previously.
 
 1\) Switch MetaMask to the ETH Mainnet. If you have unclaimed txs you should see the following popup. Click on **History**.
 
@@ -75,10 +75,10 @@ If you initiated a transfer from Burner Wallet, it likely is stuck on the Waitin
 
 You can retrieve the pending transaction using the MetaMask interface. [Learn more here.](find-a-transaction-hash.md#find-transaction-hash-in-metamask)
 
-1. Go to the Bridge UI at [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/)
+1. Go to the Bridge UI at [https://bridge.xdaichain.com/](https://bridge.xdaichain.com)
 2. Switch your MetaMask wallet to the ETH Mainnet
-3. Click on **History.** You will see any unclaimed transactions_. \(You can also filter unclaimed transactions\)_ 
-4. Press the **Claim button** to process**.** _\(will not appear until 6+ minutes after the transaction\)_
+3. Click on **History.** You will see any unclaimed transactions_. (You can also filter unclaimed transactions)_&#x20;
+4. Press the **Claim button** to process**.** _(will not appear until 6+ minutes after the transaction)_
 5. **Confirm** transaction in MetaMask and wait for tx validation.
 
 {% hint style="warning" %}
@@ -105,11 +105,11 @@ In this case, you'll want to export your private key into MetaMask to finish the
 
 ![](../../../.gitbook/assets/a4.jpg)
 
-5\) Go to the Bridge UI at [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/)
+5\) Go to the Bridge UI at [https://bridge.xdaichain.com/](https://bridge.xdaichain.com)
 
 1. Switch your MetaMask wallet to the ETH Mainnet
-2. Click on **History.** You will see any unclaimed transactions_. \(You can also filter unclaimed transactions\)_ 
-3. Press the **Claim button** to process**.** _\(will not appear until 6+ minutes after the transaction\)_
+2. Click on **History.** You will see any unclaimed transactions_. (You can also filter unclaimed transactions)_&#x20;
+3. Press the **Claim button** to process**.** _(will not appear until 6+ minutes after the transaction)_
 4. **Confirm** transaction in MetaMask and wait for tx validation.
 
 {% hint style="warning" %}
@@ -124,24 +124,24 @@ You will need some ETH in your wallet to pay gas fees and finalize the transacti
 
 7\) Add DAI as a custom token in MetaMask to view your DAI balance in the wallet.
 
-![](../../../.gitbook/assets/a10%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.jpg)
+![](<../../../.gitbook/assets/a10 (2) (2) (2) (2) (2) (2) (2) (2) (2) (1).jpg>)
 
-![](../../../.gitbook/assets/a11%20%282%29%20%282%29%20%282%29%20%283%29%20%283%29%20%283%29%20%282%29%20%281%29.jpg)
+![](<../../../.gitbook/assets/a11 (2) (2) (2) (3) (3) (3) (2) (3).jpg>)
 
-![](../../../.gitbook/assets/a12.jpg)
+![](<../../../.gitbook/assets/a12 (1).jpg>)
 
 ## I Used **xmoon.exchange**
 
-### I'm connected to the xmoon.exchange with MetaMask \(or another 3rd party wallet through wallet connect\)
+### I'm connected to the xmoon.exchange with MetaMask (or another 3rd party wallet through wallet connect)
 
 You can retrieve the pending transaction using the MetaMask interface. [Learn more here.](find-a-transaction-hash.md#find-transaction-hash-in-metamask)
 
 Once you have copied the transaction on xDai
 
-1. Go to the Bridge UI at [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/)
+1. Go to the Bridge UI at [https://bridge.xdaichain.com/](https://bridge.xdaichain.com)
    1. Switch your MetaMask wallet to the ETH Mainnet
-   2. Click on **History.** You will see any unclaimed transactions_. \(You can also filter unclaimed transactions\)_ 
-   3. Press the **Claim button** to process**.** _\(will not appear until 6+ minutes after the transaction\)_
+   2. Click on **History.** You will see any unclaimed transactions_. (You can also filter unclaimed transactions)_&#x20;
+   3. Press the **Claim button** to process**.** _(will not appear until 6+ minutes after the transaction)_
    4. **Confirm** transaction in MetaMask and wait for tx validation.
 
 {% hint style="warning" %}
@@ -152,7 +152,7 @@ The claim will process and you can view your Dai on Ethereum with the same walle
 
 ## Gas fees For an Exit Claim are Very High! How Can I Reduce Them?
 
-You can check current gas prices at [https://ethgas.watch/](https://ethgas.watch/). If they are high at the moment, you may want to wait until later to process your transaction. [https://ethereumprice.org/gas/](https://ethereumprice.org/gas/) can help you plan for the best time of day to make the claim transaction.
+You can check current gas prices at [https://ethgas.watch/](https://ethgas.watch). If they are high at the moment, you may want to wait until later to process your transaction. [https://ethereumprice.org/gas/](https://ethereumprice.org/gas/) can help you plan for the best time of day to make the claim transaction.
 
 If you want to go ahead with the claim, try setting MetaMask to SLOW. This may take longer to process but can save you on tx fees. You can also click on Advanced to see additional metrics and choose an exact gas price for your transaction. [More information available here](https://metamask.zendesk.com/hc/en-us/articles/360015488771-How-to-Adjust-Gas-Price-and-Gas-Limit-).
 
@@ -162,7 +162,7 @@ If you want to go ahead with the claim, try setting MetaMask to SLOW. This may t
 
 1. Selecting the pending transaction in MetaMask.
 2. Clicking Speed Up.
-3. Paying the additional gas to try and get it through more quickly. 
+3. Paying the additional gas to try and get it through more quickly.&#x20;
 
 Otherwise, it will likely be in a pending state until the congestion breaks up. If it remains in a pending state on MetaMask for a long time, see [Resetting MetaMask ](troubleshooting.md#transaction-not-showing-on-blockscout-or-etherscan-resetting-metamask)below.
 
@@ -170,7 +170,7 @@ Otherwise, it will likely be in a pending state until the congestion breaks up. 
 
 ## Transaction Not Showing on BlockScout or Etherscan - Resetting MetaMask.
 
-If you initiated a transaction but don't see a pending transaction the Block Explorer \(in either direction, if originating from xDai check [BlockScout](https://blockscout.com/xdai/mainnet), if Ethereum check [Etherscan](https://etherscan.io/)\) try resetting your MetaMask account to clear your transaction history.
+If you initiated a transaction but don't see a pending transaction the Block Explorer (in either direction, if originating from xDai check [BlockScout](https://blockscout.com/xdai/mainnet), if Ethereum check [Etherscan](https://etherscan.io)) try resetting your MetaMask account to clear your transaction history.
 
 This can be useful to clear up:
 
@@ -181,7 +181,7 @@ This can be useful to clear up:
 Imported accounts will not repopulate win your wallet with this method, so be sure you have access to a private key or seed phrase to restore these in a reset account.
 {% endhint %}
 
-{% embed url="https://metamask.zendesk.com/hc/en-us/articles/360015488891-Resetting-an-Account" caption="" %}
+{% embed url="https://metamask.zendesk.com/hc/en-us/articles/360015488891-Resetting-an-Account" %}
 
 This [troubleshooting guide from 1Hive](https://forum.1hive.org/t/troubleshooting-problems-on-metamask/215) is also helpful for instructions on resetting and dealing with other MetaMask issues.
 
@@ -197,4 +197,3 @@ To use a Ledger you need to allow contract data in order to interact with smart 
 6. Retry your transaction.
 
 For more help with Ledger, please see their [support docs](https://support.ledger.com/hc/en-us).
-

@@ -4,17 +4,17 @@ description: 30 May 2020 - 5 June 2020
 
 # ⚔️ xDai Weekly Recap - 05/06/2020
 
-## 📡 $STAKE
+## :satellite: $STAKE
 
-### ✅ 672K+ STAKE now pre-staked in BitMax StakeVault Program 
+### ✅ 672K+ STAKE now pre-staked in BitMax StakeVault Program&#x20;
 
 See regular updates and details on the [Pre-Staking Program](../pre-staking-program.md) page
 
-Follow the latest stats on Bitmax Twitter - [https://twitter.com/BitMax\_Official](https://twitter.com/BitMax_Official)
+Follow the latest stats on Bitmax Twitter - [https://twitter.com/BitMax\_Official](https://twitter.com/BitMax\_Official)
 
-![](../../../../.gitbook/assets/stake-staked%20%282%29%20%281%29.png)
+![](<../../../../.gitbook/assets/stake-staked (2) (1).png>)
 
-## 📰 Media
+## :newspaper: Media
 
 ### ✅ BlockFolio Signal
 
@@ -30,11 +30,11 @@ BlockTalks is running a content creation challenge until 20 June. Write an artic
 
 ![](../../../../.gitbook/assets/content-creation.png)
 
-## 🏢 Features & Development
+## :office: Features & Development
 
-### ✅ $STAKE & $xDai on Discord with [tip.cc](https://tip.cc/) bot
+### ✅ $STAKE & $xDai on Discord with [tip.cc](https://tip.cc) bot
 
-xDai has been functional with the tip.cc bot for some time, now it can be used with STAKE as well on any Discord server where [https://tip.cc/](https://tip.cc/) is installed. Join the xDai channel and participate in airdrops, games and more.
+xDai has been functional with the tip.cc bot for some time, now it can be used with STAKE as well on any Discord server where [https://tip.cc/](https://tip.cc) is installed. Join the xDai channel and participate in airdrops, games and more.
 
 [https://discord.com/invite/mPJ9zkq](https://discord.com/invite/mPJ9zkq)
 
@@ -44,13 +44,11 @@ Our UI for public staking is undergoing testing with different parameters. It wi
 
 {% embed url="https://twitter.com/xdaichain/status/1268815571346493441" %}
 
-##  🦸♂ Community
+## &#x20;:man\_superhero: Community
 
-Community engagement is strong and members and followers continue to grow. This week community member Romeo Dre worked with Mihail Kiselev to create a STAKE \(steak\) themed telegram animated sticker pack. 
+Community engagement is strong and members and followers continue to grow. This week community member Romeo Dre worked with Mihail Kiselev to create a STAKE (steak) themed telegram animated sticker pack.&#x20;
 
-![](../../../../.gitbook/assets/stake-pic.png)
+![](../../../../.gitbook/assets/stake=pic.png)
 
-  
-  
-
-
+\
+\

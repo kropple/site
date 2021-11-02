@@ -1,12 +1,12 @@
-# 10\) Deploy Consensus Contracts \(on MoC node\)
+# 10) Deploy Consensus Contracts (on MoC node)
 
 {% hint style="success" %}
 Deploy consensus contracts after [Bridge Deployment](bridge-deployment.md)
 {% endhint %}
 
-1\) Clone the repo into the moc folder \(`:/home/moc`\)
+1\) Clone the repo into the moc folder (`:/home/moc`)
 
-```text
+```
 sudo git clone https://github.com/poanetwork/poa-network-consensus-contracts
 cd poa-network-consensus-contracts
 npm i
@@ -14,7 +14,7 @@ npm i
 
 2\) Set `gasPrice` to `0` in `truffle.js`
 
-```text
+```
 diff --git a/truffle.js b/truffle.js
 index d76a15e..8edbdaf 100644
 --- a/truffle.js
@@ -38,7 +38,7 @@ index d76a15e..8edbdaf 100644
 
 **Example:**
 
-```text
+```
 // These values must be changed before deploy
 uint256 public constant blockRewardAmount = 0 ether; 
 uint256 public constant emissionFundsAmount = 0 ether;
@@ -57,21 +57,21 @@ function bridgesAllowed() public pure returns(address[bridgesAllowedLength]) {
 
 4\) Deploy Contracts
 
-```text
+```
 $ DEPLOY_POA=true SAVE_TO_FILE=true MASTER_OF_CEREMONY=0xMASTER_OF_CEREMONY ./node_modules/.bin/truffle migrate --reset --network sokol
 ```
 
 ## Set the RewardByBlock Contract Address
 
-1\) Launch `tokenbridge-contracts/deploy/src/utils/setBlockReward.js.` The `0xBLOCK_REWARD` is located in the `poa-network-consensus-contracts/contracts.json` file.
+1\) Launch `tokenbridge-contracts/deploy/src/utils/setBlockReward.js. `The `0xBLOCK_REWARD` is located in the `poa-network-consensus-contracts/contracts.json` file.
 
-```text
+```
 HOME_BRIDGE_ADDRESS=0xHOME_BRIDGE_CONTRACT_ADDRESS BLOCK_REWARD_ADDRESS=0xBLOCK_REWARD  DEPLOYMENT_ACCOUNT_PRIVATE_KEY=HOME_OWNER_PRIVATE_KEY node deploy/src/utils/setBlockReward.js
 ```
 
 ## Update `spec.json` to create a Hard Fork
 
-1\) Add the addresses of `PoaNetworkConsensus` and `RewardByBlock` contracts \(making a hard fork\).
+1\) Add the addresses of `PoaNetworkConsensus` and `RewardByBlock` contracts (making a hard fork).
 
 * Add a number of hard fork's transition block and the address of `PoaNetworkConsensus` contract to `engine.authorityRound.params.validators.multi` section, add `blockRewardContractAddress` and `blockRewardContractTransition` params to `engine.authorityRound.params` section:
 
@@ -79,7 +79,7 @@ HOME_BRIDGE_ADDRESS=0xHOME_BRIDGE_CONTRACT_ADDRESS BLOCK_REWARD_ADDRESS=0xBLOCK_
 Change `1234` to the number of a future block.
 {% endhint %}
 
-```text
+```
 "validators": {
   "multi": {
     "0": {
@@ -98,21 +98,19 @@ Change `1234` to the number of a future block.
 
 2\) Restart Parity on Moc Node
 
-```text
+```
 sudo systemctl restart poa-parity && sleep 10 && sudo systemctl restart poa-netstats
 ```
 
 and wait until the hard fork's block number is reached and `RewardByBlock` is activated.
 
-3\) Replace the updated `spec.json` on all the other network nodes \(bootnode, explorer, validators\). Also, restart Parity on the `bootnode` launched earlier: 
+3\) Replace the updated `spec.json` on all the other network nodes (bootnode, explorer, validators). Also, restart Parity on the `bootnode` launched earlier:&#x20;
 
-\`\`
+``
 
 `sudo systemctl restart poa-parity && sleep 10 && sudo systemctl restart poa-netstats`
 
 {% hint style="success" %}
 Next: [Generate Keys](generate-keys.md)
 {% endhint %}
-
-
 

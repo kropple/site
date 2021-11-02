@@ -1,22 +1,22 @@
 ---
-description: 'Use the exchange page to move ETH -> DAI -> xDai, or to send ETH or DAI.'
+description: Use the exchange page to move ETH -> DAI -> xDai, or to send ETH or DAI.
 ---
 
 # Exchange Currencies
 
 {% hint style="warning" %}
- xDai to Dai exchange requires an extra step where tokens must be claimed on Ethereum. The bridge at [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/) is the recommended method for this exchange.
+&#x20;xDai to Dai exchange requires an extra step where tokens must be claimed on Ethereum. The bridge at [https://bridge.xdaichain.com/](https://bridge.xdaichain.com) is the recommended method for this exchange.
 
 If you have used the Burner Wallet to exchange currencies and have not received, go to the xDai bridge and connect with your burner account to claim your Dai. [More troubleshooting info is available here](../../../bridges/converting-xdai-via-bridge/troubleshooting.md).
 {% endhint %}
 
-You can transfer currencies directly within the wallet interface - from ETH -&gt; DAI and DAI -&gt; xDai, or in the reverse direction from xDai -&gt; DAI and DAI -&gt; ETH.  This all-in-one interface makes it easy to initiate and complete transfers.
+You can transfer currencies directly within the wallet interface - from ETH -> DAI and DAI -> xDai, or in the reverse direction from xDai -> DAI and DAI -> ETH.  This all-in-one interface makes it easy to initiate and complete transfers.
 
 To start, Click **Exchange.**
 
 ![](../../../../.gitbook/assets/bw-exchange1.png)
 
-## Exchange ETH -&gt; DAI -&gt; xDai
+## Exchange ETH -> DAI -> xDai
 
 You can use the burner wallet interface to transform your Eth into xDai, without needing to go through an exchange or use the Bridge UI. You will need some extra Eth to pay gas fees for the transfers.
 
@@ -28,13 +28,13 @@ You can use the burner wallet interface to transform your Eth into xDai, without
 
 ![](../../../../.gitbook/assets/amount-and-send1.png)
 
- 3\) You will now have Dai in your wallet. To convert to xDai, press the **Dai to xDai** button.
+&#x20;3\) You will now have Dai in your wallet. To convert to xDai, press the **Dai to xDai **button.
 
 ![Next transfer DAI to xDai](../../../../.gitbook/assets/dai-to-xdai.png)
 
 4\) Enter the amount in USD to send and click **Send**. The app will automatically transfer the amount through the xDai bridge.
 
-![Enter amount and click Send](../../../../.gitbook/assets/amount-and-send%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
+![Enter amount and click Send](<../../../../.gitbook/assets/amount-and-send (1) (1) (1) (1) (1) (1) (1).png>)
 
 ![Waiting for Bridge - typically takes less than 1 minute](../../../../.gitbook/assets/wait-tfor-bridge.png)
 
@@ -44,9 +44,9 @@ You can use the burner wallet interface to transform your Eth into xDai, without
 
 ![](../../../../.gitbook/assets/bw-ex-1.png)
 
-## Exchange xDai -&gt; DAI -&gt; ETH
+## Exchange xDai -> DAI -> ETH
 
-1\) Press **xDai to DAI** button. 
+1\) Press **xDai to DAI** button.&#x20;
 
 ![](../../../../.gitbook/assets/transfer-1.png)
 
@@ -65,4 +65,3 @@ You can use the burner wallet interface to transform your Eth into xDai, without
 5\) Wait for the transfer to be processed by the exchange.
 
 ![](../../../../.gitbook/assets/transfer-5.png)
-

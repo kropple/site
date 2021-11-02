@@ -2,30 +2,30 @@
 
 ## Gnosis Safe on xDai
 
-* Safe Application on xDai: [https://xdai.gnosis-safe.io/app/\#/welcome](https://xdai.gnosis-safe.io/app/#/welcome)
+* Safe Application on xDai: [https://xdai.gnosis-safe.io/app/#/welcome](https://xdai.gnosis-safe.io/app/#/welcome)
 * Safe Tutorials by Gnosis: [https://help.gnosis-safe.io/en/](https://help.gnosis-safe.io/en/)
 
 ## Connect a Wallet
 
-There are several options including MetaMask, hardware wallets, and WalletConnect. WalletConnect allows you to use a 3rd party wallet on your mobile device. 
+There are several options including MetaMask, hardware wallets, and WalletConnect. WalletConnect allows you to use a 3rd party wallet on your mobile device.&#x20;
 
-1\) Go to the Safe application on xDai at [https://xdai.gnosis-safe.io/app/\#/welcome](https://xdai.gnosis-safe.io/app/#/welcome). Click Connect.
+1\) Go to the Safe application on xDai at [https://xdai.gnosis-safe.io/app/#/welcome](https://xdai.gnosis-safe.io/app/#/welcome). Click Connect.
 
-![](../../../.gitbook/assets/connect1%20%281%29.jpg)
+![](<../../../.gitbook/assets/connect1 (1).jpg>)
 
-2\) Chose your wallet. 
+2\) Chose your wallet.&#x20;
 
 {% hint style="info" %}
 We recommend MetaMask.
 {% endhint %}
 
-![](../../../.gitbook/assets/connect2%20%281%29.jpg)
+![](<../../../.gitbook/assets/connect2 (1).jpg>)
 
 ### Connecting with MetaMask
 
 1\) Select the MetaMask option in the connect wallet menu. Check that the correct MetaMask account is active and connected to the xDai Network. [Need to add xDai to your MetaMask?](../../../for-users/wallets/metamask/metamask-setup.md)
 
-![](../../../.gitbook/assets/mm-connect.jpg)
+![](../../../.gitbook/assets/MM-connect.jpg)
 
 {% hint style="success" %}
 For more information, see this article by Gnosis: [https://help.gnosis-safe.io/en/articles/4552860-how-to-use-the-gnosis-safe-on-xdai-with-metamask](https://help.gnosis-safe.io/en/articles/4552860-how-to-use-the-gnosis-safe-on-xdai-with-metamask)
@@ -33,7 +33,7 @@ For more information, see this article by Gnosis: [https://help.gnosis-safe.io/e
 
 ### Connecting with WalletConnect
 
-Current WalletConnect functionality is limited to wallets that support xDai. You can use MetaMask Mobile with wallet connect if you have setup the [xDai custom RPC](../../../for-users/wallets/metamask/metamask-setup.md). 
+Current WalletConnect functionality is limited to wallets that support xDai. You can use MetaMask Mobile with wallet connect if you have setup the [xDai custom RPC](../../../for-users/wallets/metamask/metamask-setup.md).&#x20;
 
 {% hint style="info" %}
 Note: Some features may not work as expected on xDai, currently we recommend using MetaMask browser extension.
@@ -41,7 +41,7 @@ Note: Some features may not work as expected on xDai, currently we recommend usi
 
 If you choose to use WalletConnect, select the WalletConnect option in the connect wallet menu. Scan the QR code with your application and accept the message to connect in your mobile wallet.
 
-![](../../../.gitbook/assets/img_2372.png)
+![](../../../.gitbook/assets/IMG\_2372.PNG)
 
 ## Create A New Safe
 
@@ -67,7 +67,7 @@ If you choose to use WalletConnect, select the WalletConnect option in the conne
 
 ![](../../../.gitbook/assets/safe4.jpg)
 
-5\) During deployment you can check safe creation on BlockScout. Click the link to view progress. 
+5\) During deployment you can check safe creation on BlockScout. Click the link to view progress.&#x20;
 
 ![](../../../.gitbook/assets/safe6.jpg)
 
@@ -91,11 +91,11 @@ You can connect to WalletConnect to interact with supported DApps using Gnosis S
 
 ![Follow instructions on right side to complete the process](../../../.gitbook/assets/safewallet2.jpg)
 
-3\) Visit the application and connect to your wallet. This will differ based on the application \(the DApp must be deployed on xDai\). Here we use Nifty.ink.
+3\) Visit the application and connect to your wallet. This will differ based on the application (the DApp must be deployed on xDai). Here we use Nifty.ink.
 
 ![](../../../.gitbook/assets/safewallet3.jpg)
 
-![Click on WalletConnect](../../../.gitbook/assets/safe-walletc.jpg)
+![Click on WalletConnect](<../../../.gitbook/assets/safe walletc.jpg>)
 
 ![Copy the QR code as an image and save to your clipboard.](../../../.gitbook/assets/safewallet4.jpg)
 
@@ -109,7 +109,5 @@ You can connect to WalletConnect to interact with supported DApps using Gnosis S
 
 
 
- 
-
-
+&#x20;
 

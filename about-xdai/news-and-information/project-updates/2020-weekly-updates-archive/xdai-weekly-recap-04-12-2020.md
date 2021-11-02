@@ -7,36 +7,36 @@ description: 27 November - 04 December 2020
 This week we continued our work on public staking, welcomed the new Ramp direct fiat integration, and were featured in a writeup by Bankless.
 
 {% hint style="info" %}
-Note that we will skip several weekly updates over the holiday season. **We did not publish a recap last week, and will skip several weeks at the end of the month.** 
+Note that we will skip several weekly updates over the holiday season. **We did not publish a recap last week, and will skip several weeks at the end of the month. **
 {% endhint %}
 
-![December 04, 2020 Weekly Update](../../../../.gitbook/assets/green-and-black-modern-sales-marketing-presentation%20%2821%29.png)
+![December 04, 2020 Weekly Update](<../../../../.gitbook/assets/Green and Black Modern Sales Marketing Presentation (21).png>)
 
-## \*\*\*\*💶 **Ramp Fiat -&gt; xDai** 
+## ****:euro: **Ramp Fiat -> xDai **
 
-Although this announcement occurred last week, we did not include in a weekly update and wanted to highlight this important milestone. A direct fiat-to-xDai onramp has been on our [Roadmap for a long time](../../../roadmap/#fiat-to-xdai-onramp)! We had previously worked with other providers without success, and were excited this collaboration with [Ramp Network](https://ramp.network/) could come to fruition. Ramp is currently [available in many countries](https://support.ramp.network/en/article/what-countries-do-you-support-1ua7sn1/), and they plan to integrate US customers in the near future. Their simple SDK or hosted option allows projects to easily add direct xDai purchases to their apps. We look forward to these integrations, removing one more obstacle for users and creating a seamless crypto experience.
+Although this announcement occurred last week, we did not include in a weekly update and wanted to highlight this important milestone. A direct fiat-to-xDai onramp has been on our [Roadmap for a long time](../../../roadmap/#fiat-to-xdai-onramp)! We had previously worked with other providers without success, and were excited this collaboration with [Ramp Network](https://ramp.network) could come to fruition. Ramp is currently [available in many countries](https://support.ramp.network/en/article/what-countries-do-you-support-1ua7sn1/), and they plan to integrate US customers in the near future. Their simple SDK or hosted option allows projects to easily add direct xDai purchases to their apps. We look forward to these integrations, removing one more obstacle for users and creating a seamless crypto experience.
 
 {% embed url="https://twitter.com/xdaichain/status/1331631434973458435" %}
 
-## 👨🏫 Public Staking / POSDAO Tutorials
+## :man\_teacher: Public Staking / POSDAO Tutorials
 
-We released several tutorials from our test environment where we are busy testing the protocol in anticipation of Public POSDAO. 
+We released several tutorials from our test environment where we are busy testing the protocol in anticipation of Public POSDAO.&#x20;
 
 ### Staking Quick Overview
 
-{% embed url="https://www.youtube.com/watch?v=ekfQzIcBEp0&feature=emb\_logo" %}
+{% embed url="https://www.youtube.com/watch?v=ekfQzIcBEp0&feature=emb_logo" %}
 
 ### Become a Delegator
 
-{% embed url="https://youtu.be/DVSqVaut\_Vc" %}
+{% embed url="https://youtu.be/DVSqVaut_Vc" %}
 
-## 📰 Bankless xDai Feature
+## :newspaper: Bankless xDai Feature
 
 xDai was featured in the Thursday Thoughts post by Bankless. This article describes the features that make xDai a viable and available scalability solution.
 
 {% embed url="https://twitter.com/RyanSAdams/status/1334619713951961099" %}
 
-## 🥇 GitCoin GR8 Sponsorship
+## :first\_place: GitCoin GR8 Sponsorship
 
 We are sponsoring a $3000 Dai bounty for hackers participating in the GR8 hackathon. We are looking for projects to build or fork dapps to xDai and also to add features for the bridge infrastructure. Learn more and apply here - the hackathon ends in 13 days so get started now!
 
@@ -46,7 +46,7 @@ Many projects building on xDai are also competing for quadratic grant funds, che
 
 {% embed url="https://gitcoin.co/grants/?keyword=xdai" %}
 
-## 🦋 Project Integrations & Updates
+## :butterfly: Project Integrations & Updates
 
 ### OpenZeppelin Defender
 
@@ -58,9 +58,9 @@ This integration was announced the previous week but not included in a weekly up
 
 Telegram users can now easily track STAKE trades across multiple DEXS, including Honeyswap on xDai as well as Balancer and Uniswap. The bot is available here:
 
-{% embed url="https://t.me/UniRocket\_STAKE" %}
+{% embed url="https://t.me/UniRocket_STAKE" %}
 
-### Protofire 
+### Protofire&#x20;
 
 Protofire is an original xDai chain validator, and has also received a [grant to spearhead the xDai chainlink integration](https://blog.chain.link/protofire-receives-a-chainlink-community-grant-for-an-integration-with-xdai/). In the previous week Manu Garcia, CTO of Protofire, presented at the Ethereum Buenos Aires meetup on the features and future of xDai.
 
@@ -76,9 +76,7 @@ Protofire is an original xDai chain validator, and has also received a [grant to
 
 
 
- 
-
-
+&#x20;
 
 
 

@@ -8,18 +8,18 @@ Arbitrum has been deployed to xDai - AoX! This unofficial instance was deployed 
 
 We are currently working on configs and bridge installation, [Blockscout is already configured for AoX](https://blockscout.com/xdai/aox/). Look for more info and instructions coming soon.
 
-For information on Arbitrum and usage basics, see the [Arbitrum docs](https://developer.offchainlabs.com/docs/developer_quickstart). Note that AoX is still being finalized on xDai, and some functionality is not yet available. 
+For information on Arbitrum and usage basics, see the [Arbitrum docs](https://developer.offchainlabs.com/docs/developer\_quickstart). Note that AoX is still being finalized on xDai, and some functionality is not yet available.&#x20;
 
 ## Basic Info
 
-| Item | Value |
-| :--- | :--- |
-| RPC | [https://arbitrum.xdaichain.com/](https://arbitrum.xdaichain.com/) |
-| WSS | [wss://arbitrum.xdaichain.com/wss](wss://arbitrum.xdaichain.com/wss) |
-| Chain ID | 200 |
-| Explorer | [https://blockscout.com/xdai/aox/](https://blockscout.com/xdai/aox/) |
+| Item            | Value                                                                                                                                             |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| RPC             | [https://arbitrum.xdaichain.com/](https://arbitrum.xdaichain.com)                                                                                 |
+| WSS             | [wss://arbitrum.xdaichain.com/wss](wss://arbitrum.xdaichain.com/wss)                                                                              |
+| Chain ID        | 200                                                                                                                                               |
+| Explorer        | [https://blockscout.com/xdai/aox/](https://blockscout.com/xdai/aox/)                                                                              |
 | Rollup Contract | [0xc6a64a792618d834ba7f4126274f57db043ce095](https://blockscout.com/xdai/mainnet/address/0xc6A64a792618D834ba7F4126274F57DB043CE095/transactions) |
-| Inbox Contract | [0x556c18a6fdcd52562ec1130212f6113e3f818335](https://blockscout.com/xdai/mainnet/address/0x556c18a6FDcd52562Ec1130212f6113e3F818335/transactions) |
+| Inbox Contract  | [0x556c18a6fdcd52562ec1130212f6113e3f818335](https://blockscout.com/xdai/mainnet/address/0x556c18a6FDcd52562Ec1130212f6113e3F818335/transactions) |
 | Outbox Contract | [0x0532D745F467fE541620564166749586f9fFe799](https://blockscout.com/xdai/mainnet/address/0x0532D745F467fE541620564166749586f9fFe799/transactions) |
 
 ## MetaMask Custom Network
@@ -28,12 +28,12 @@ For information on Arbitrum and usage basics, see the [Arbitrum docs](https://de
 
 ## Deposits to AoX
 
-Simple deposit functionality for users / bridge implementation is still in development. Devs can use the following ABI to call the  `depositEth` method. Use 0 for `maxSubmissionCost` and attach an amount of xDai tokens to the transaction. It may take several minutes for execution finalization. 
+Simple deposit functionality for users / bridge implementation is still in development. Devs can use the following ABI to call the  `depositEth `method. Use 0 for `maxSubmissionCost` and attach an amount of xDai tokens to the transaction. It may take several minutes for execution finalization.&#x20;
 
 * [Deposit Example Transaction](https://blockscout.com/xdai/mainnet/tx/0x9cf6d6b352e5788ed2edea164431980d237c287ecf4a4ae0e7aca234ca9c42b1)
-* ABI ⬇ 
+* ABI :arrow\_down:&#x20;
 
-```text
+```
 [
   {
     "inputs":[
@@ -64,9 +64,9 @@ Simple deposit functionality for users / bridge implementation is still in devel
 3. In the `depositEth` method
    1. Enter 0 for maxSubmissionCost field
    2. Enter the amount of xDai to deposit
-   3. Click `Write` and confirm in MetaMask
+   3. Click `Write `and confirm in MetaMask
 
-![](../../.gitbook/assets/bs-1%20%282%29.png)
+![](<../../.gitbook/assets/bs-1 (4).png>)
 
 {% hint style="success" %}
 Once completed, it may take several minutes for the transaction to arrive at your address on the rollup. Switch to Arbitrum on xDai in Metamask to view the deposit.
@@ -82,7 +82,7 @@ _Instructions in process_
 
 To adjust deployment, simply use the xDai Arbitrum RPC url in your `hardhat.config.ts`:
 
-```text
+```
 module.exports = {
   solidity: '0.7.3',
   networks: {
@@ -95,6 +95,5 @@ module.exports = {
 ```
 
 {% hint style="info" %}
-For more info on Arbitrum and usage basics, please see the [Arbitrum docs](https://developer.offchainlabs.com/docs/developer_quickstart). You can work with Arbitrum on xDai as you would on Ethereum. 
+For more info on Arbitrum and usage basics, please see the [Arbitrum docs](https://developer.offchainlabs.com/docs/developer\_quickstart). You can work with Arbitrum on xDai as you would on Ethereum.&#x20;
 {% endhint %}
-

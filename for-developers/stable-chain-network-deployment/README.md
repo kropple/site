@@ -5,13 +5,13 @@ description: Instructions for deploying an xDai-like network on AWS
 # Stable Chain Network Deployment
 
 {% hint style="info" %}
-**Stable Chain Deployment Instructions \(AWS\)**
+**Stable Chain Deployment Instructions (AWS)**
 
-These advanced instructions are for developers interested in deploying their own xDai-like \(or other ERC20 Stable Token\) Network. They are not required to run or interact with the xDai Stable Chain. This process is a bit involved, so grab a ☕ and settle in!
+These advanced instructions are for developers interested in deploying their own xDai-like (or other ERC20 Stable Token) Network. They are not required to run or interact with the xDai Stable Chain. This process is a bit involved, so grab a :coffee: and settle in!
 {% endhint %}
 
 {% hint style="warning" %}
-If you experience issues during installation, feel free to contact us on the [POA support forum](https://forum.poa.network/c/support/6). 
+If you experience issues during installation, feel free to contact us on the [POA support forum](https://forum.poa.network/c/support/6).&#x20;
 {% endhint %}
 
 #### The following topics cover an AWS deployment:
@@ -36,6 +36,4 @@ If you experience issues during installation, feel free to contact us on the [PO
 * [B: Launching Bridge UI](appendix-b-launching-bridge-ui.md)
 * [C: Governance DApp Setup and Configuration](appendix-c-governance-dapps.md)
 * [D: Using MyCrypto to make contract calls during setup](appendix-d-call-contract-methods-using-mycrypto.md)
-
-
 

@@ -4,16 +4,16 @@ description: 29 May - 04 June 2021
 
 # ⚔️ xDai Weekly Recap - 04/06/2021
 
-![](../../../../.gitbook/assets/weekly-update%20%282%29.png)
+![](<../../../../.gitbook/assets/weekly-update (1).png>)
 
 ## POSDAO Updates
 
 {% hint style="success" %}
-The protocol is currently in Epoch **59.**  
-  
-There are **17** validator pools with **278** delegators - over 200 of them are unique - staking a total of **652,442** STAKE.  
-  
-High pool APY is currently **28.88%**, low is **5.5%** _\(stats as of 04/06/2021 16:00 UTC\)_.
+The protocol is currently in Epoch **59.**\
+****\
+****There are **17** validator pools with **278** delegators - over 200 of them are unique - staking a total of **652,442 **STAKE.\
+\
+High pool APY is currently **28.88%**, low is **5.5% **_(stats as of 04/06/2021 16:00 UTC)_.
 
 * Staking Statistics: [https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)
 * Staking Platform: [https://blockscout.com/xdai/mainnet/validators](https://blockscout.com/xdai/mainnet/validators)
@@ -27,7 +27,7 @@ Another new validator pool onboarded to POSDAO, bringing the current total to 17
 
 ### Staking on xDai
 
-Over 650K STAKE is now protecting the protocol on xDai. In the past month \(since May 4\) the amount has increased from 558069 to 652442, a nearly 15% increase in STAKE protecting the protocol . Source: [https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)
+Over 650K STAKE is now protecting the protocol on xDai. In the past month (since May 4) the amount has increased from 558069 to 652442, a nearly 15% increase in STAKE protecting the protocol . Source: [https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)
 
 ![](../../../../.gitbook/assets/staked-per-day1.png)
 
@@ -37,11 +37,11 @@ Dune Analytics dashboards now include transaction fee metrics, including total t
 
 ![](../../../../.gitbook/assets/txfees-mo.png)
 
-## 🦋 Project Updates
+## :butterfly: Project Updates
 
 ### HoneyComb Farm
 
-High yield HoneyComb farms launched on the [Honeyswap](https://honeyswap.org/) platform. Farming has already brought additional liquidity to the ecosystem, resulting in an ATH for Honeyswap.
+High yield HoneyComb farms launched on the [Honeyswap](https://honeyswap.org) platform. Farming has already brought additional liquidity to the ecosystem, resulting in an ATH for Honeyswap.
 
 {% embed url="https://twitter.com/Honeyswap/status/1400108191606743042" %}
 
@@ -67,7 +67,7 @@ Ankr continues to support xDai and is building out their docs to include easy se
 
 ### Peerion
 
-Peerion is bringing liquid staking to STAKE holders. Now users with a minimum of 20 STAKE can participate in consensus by joining the peerion validator pool co-op. 
+Peerion is bringing liquid staking to STAKE holders. Now users with a minimum of 20 STAKE can participate in consensus by joining the peerion validator pool co-op.&#x20;
 
 {% embed url="https://twitter.com/PeerionDAO/status/1400831457321390080" %}
 
@@ -77,13 +77,11 @@ Users can withdraw DATA for free and utilize HoneySwap to trade earnings.
 
 {% embed url="https://twitter.com/swashapp/status/1400807738083524612" %}
 
-### Darkforest 
+### Darkforest&#x20;
 
-Darkforest continues to dominate on xDai, accounting for more than 50% of xDai transactions and 36% of gas usage on June 3! UX improvements like auto-confirmation with a burner wallet are helping drive massive usage from this popular application. 
+Darkforest continues to dominate on xDai, accounting for more than 50% of xDai transactions and 36% of gas usage on June 3! UX improvements like auto-confirmation with a burner wallet are helping drive massive usage from this popular application.&#x20;
 
 ![Tx by project](../../../../.gitbook/assets/darkforest.png)
 
 ![Gas usage by project](../../../../.gitbook/assets/df-gas-usage.png)
-
-
 

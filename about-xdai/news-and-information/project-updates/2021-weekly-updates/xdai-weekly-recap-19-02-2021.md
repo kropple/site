@@ -4,11 +4,11 @@ description: 13 February -19 February 2021
 
 # ⚔️ xDai Weekly Recap - 19/02/2021
 
-![](../../../../.gitbook/assets/green-and-black-modern-sales-marketing-presentation%20%2834%29.png)
+![](<../../../../.gitbook/assets/Green and Black Modern Sales Marketing Presentation (33).png>)
 
-## 💡 Project Updates
+## :bulb: Project Updates
 
-Multiple projects went live on xDai this week along with several big project updates, alpha, beta and pre-sale launches!  🚀 
+Multiple projects went live on xDai this week along with several big project updates, alpha, beta and pre-sale launches!  :rocket:&#x20;
 
 ### Colony Soft Launch
 
@@ -18,7 +18,7 @@ Colony v2 is a powerful, practical and flexible DAO framework. The new user inte
 
 ### Baoswap Alpha
 
-BAO Finance is readying for an early March launch. The alpha version of BAOSwap \(Uniswap fork\) went live on xDai for user testing.
+BAO Finance is readying for an early March launch. The alpha version of BAOSwap (Uniswap fork) went live on xDai for user testing.
 
 {% embed url="https://twitter.com/thebaoman/status/1361726064658112512" %}
 
@@ -28,13 +28,13 @@ $TRAC staking launch resulted in 70M+ Trac locked in a matter of hours! Origin t
 
 ![](../../../../.gitbook/assets/boarding.png)
 
-{% embed url="https://twitter.com/origin\_trail/status/1362446737462419460" %}
+{% embed url="https://twitter.com/origin_trail/status/1362446737462419460" %}
 
 ### UniCrypt Lockers and Token Launchpad
 
 Unicrypt Network Team platform launched with Liquidity Lockers and a Decentralized Launchpad, supporting both Uniswap on Mainnet and HoneySwap on xDai!
 
-{% embed url="https://twitter.com/UNCX\_token/status/1362389673528672261" %}
+{% embed url="https://twitter.com/UNCX_token/status/1362389673528672261" %}
 
 ### HOPR Pre-Sale Token Launch
 
@@ -46,11 +46,11 @@ Preparations are underway for the HOPR token pre-sale launch on xDai. The presal
 
 Omen Prediction Market is live on xDai, and to celebrate users Omen airdropped 5.00 xDai to all addresses who have used Omen on Mainnet in the past. This is more than enough to drop in on the platform and try make a few predictions!
 
-{% embed url="https://twitter.com/Omen\_eth/status/1361818547668742145‌" %}
+{% embed url="https://twitter.com/Omen_eth/status/1361818547668742145‌" %}
 
 ### Mt Pelerin
 
-The Mt Pelerin Bridge Protocol is a free and open source platform for asset issuance, distribution and management. 
+The Mt Pelerin Bridge Protocol is a free and open source platform for asset issuance, distribution and management.&#x20;
 
 {% embed url="https://twitter.com/mtpelerin/status/1361650053778137088‌" %}
 
@@ -58,15 +58,13 @@ The Mt Pelerin Bridge Protocol is a free and open source platform for asset issu
 
 Unifty is a Multi-chain  hub for NFT projects to create custom farms and NFT collections with just a few clicks. The new  ERC1155 bridge is live, letting users mint, build farms on xDai then seamlessly move stake and move NFTs to Ethereum
 
-{% embed url="https://twitter.com/unifty\_io/status/1360037669829500935" %}
+{% embed url="https://twitter.com/unifty_io/status/1360037669829500935" %}
 
 ### Nifty Chess
 
 A winning project at Eth Denver, Nifty Chess lets users save boards from chess games as NFTs on xDai. Games, moves and boards can be minted and shared as one-of-a-kind digital tokens.
 
 {% embed url="https://niftychess.com/" %}
-
-
 
 
 

@@ -4,7 +4,7 @@ description: 06 June 2020 - 12 June 2020
 
 # ⚔️ xDai Weekly Recap - 12/06/2020
 
-## 📰 Articles & Media
+## :newspaper: Articles & Media
 
 ### ✅ xDai vs Matic
 
@@ -32,7 +32,7 @@ BlockTalks content creation challenge is ongoing until 20 June. Write an article
 
 ![](../../../../.gitbook/assets/content-creation.png)
 
-## 🏢 Development
+## :office: Development
 
 ### ✅ EasyStaking ongoing development
 
@@ -42,17 +42,15 @@ We continue to refine our model for [easy staking](../../../../for-stakers/easy-
 * Dynamic display continually updates your STAKE rewards
 * Built-in staking calculator
 
-![Test implementation \(emission in hours rather than days\)](../../../../.gitbook/assets/easystaking-beta.gif)
+![Test implementation (emission in hours rather than days)](<../../../../.gitbook/assets/EasyStaking Beta.gif>)
 
-##  🦸♂ Community
+## &#x20;:man\_superhero: Community
 
-Social Engagement and Telegram followers continue to grow and engage with each other in meaningful dialogue. We'd like to thank our respectful and thoughtful community members who are eager to learn more about xDai and STAKE and bring about real-world crypto adoption. 
+Social Engagement and Telegram followers continue to grow and engage with each other in meaningful dialogue. We'd like to thank our respectful and thoughtful community members who are eager to learn more about xDai and STAKE and bring about real-world crypto adoption.&#x20;
 
 * [Telegram](https://t.me/xdaistable) community has grown to 11K followers
 * Since May the [xDai Twitter](https://twitter.com/xdaichain) following has increased by over 50%.
-* [BlockFolio Signal ](https://blockfolio.com/coin/STAKE_3)integration increases audience reach.
+* [BlockFolio Signal ](https://blockfolio.com/coin/STAKE\_3)integration increases audience reach.
 
-  
-  
-
-
+\
+\

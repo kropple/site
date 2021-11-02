@@ -2,7 +2,7 @@
 
 ## Chainbeat Dashboard on xDai
 
-Blockchains are designed to receive and catalog a constant stream of data. Without the right analytic tools, data quickly becomes overwhelming and difficult to analyze. Dashboards are becoming an essential blockchain feature, and the xDai [ChainBeat](https://chainbeat.io/) integration makes it easy to gain valuable insights around token usage and smart contract interaction.
+Blockchains are designed to receive and catalog a constant stream of data. Without the right analytic tools, data quickly becomes overwhelming and difficult to analyze. Dashboards are becoming an essential blockchain feature, and the xDai [ChainBeat](https://chainbeat.io) integration makes it easy to gain valuable insights around token usage and smart contract interaction.
 
 The ChainBeat interface is amazingly simple to use. Sign up, plugin a smart contract address, and then checkout the resulting insights. The dashboard allows you to look through and analyze many different metrics including transaction & token volume, events, & user insights like active and new users.  You can drill down into each of these metrics to get granular info, setup alerts, and export data in a csv format.
 
@@ -26,11 +26,10 @@ On xDai, the Safaru token is a local currency now circulating among Kenyan commu
 
 ![](../../.gitbook/assets/chain3.png)
 
-Insights are now available to explore! 
+Insights are now available to explore!&#x20;
 
 ## **Creating a public report**
 
-To create a custom report you can share, go the Report Studio. Here you can create different ****widgets to display with different types of data. The Chainbeat Report Studio tutorial walks you through the process here:  [https://chainbeat.io/reports/help](https://chainbeat.io/reports/help)  
-  
+To create a custom report you can share, go the Report Studio. Here you can create different** **widgets to display with different types of data. The Chainbeat Report Studio tutorial walks you through the process here:  [https://chainbeat.io/reports/help](https://chainbeat.io/reports/help)\
+\
 Chainbeat makes it easy to monitor smart contracts and get useful information about usage. For more on this integration, see this Chainbeat Medium post: [https://medium.com/chainbeat/poa-xdai-integrated-into-chainbeat-5e26412c3c72](https://medium.com/chainbeat/poa-xdai-integrated-into-chainbeat-5e26412c3c72)
-

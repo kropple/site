@@ -11,9 +11,9 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 
 **🍣 **Sushiswap incentives are here. [Learn more](about-xdai/project-spotlights/sushiswap.md) or [get started](https://app.sushi.com) by selecting xDai in the network dropdown.
 
-:beach_umbrella: Curve Finance on xDai! [Learn more](about-xdai/project-spotlights/curve-finance.md) or dive in at [https://xdai.curve.fi/](https://xdai.curve.fi)
+:beach\_umbrella: Curve Finance on xDai! [Learn more](about-xdai/project-spotlights/curve-finance.md) or dive in at [https://xdai.curve.fi/](https://xdai.curve.fi)
 
-:love_letter: [xDai Substack Newsletter](https://xdai.substack.com) is now available with weekly updates and other news directly to your inbox.
+:love\_letter: [xDai Substack Newsletter](https://xdai.substack.com) is now available with weekly updates and other news directly to your inbox.
 {% endhint %}
 
 ## xDai Stable Chain
@@ -30,7 +30,7 @@ The xDai chain is a stable payments EVM (Ethereum Virtual Machine) blockchain de
 [![](.gitbook/assets/xDai-bridge.svg)](https://bridge.xdaichain.com) [![](.gitbook/assets/OmniBridge.svg)](https://omni.xdaichain.com/bridge)
 
 * [xDai Bridge](for-users/bridges/converting-xdai-via-bridge/): More info on converting Dai to xDai and bridge xDai to Dai on Ethereum.
-* [Omnibridge](for-users/bridges/omnibridge/): More info on bridging ERC20 tokens between Ethereum and xDai or between Binance Smart Chain and xDai. 
+* [Omnibridge](for-users/bridges/omnibridge/): More info on bridging ERC20 tokens between Ethereum and xDai or between Binance Smart Chain and xDai.&#x20;
 
 🔎 [BlockScout Block Explorer](https://blockscout.com/xdai/mainnet) provides transactional transparency, custom features and a portal for xDai apps such as xDai staking, the xDai faucet, cross-chain bridge access and monitoring.
 
@@ -44,7 +44,7 @@ Brand new to xDai? [Get started here](for-users/getting-started-with-xdai.md).
 
 The xDai ecosystem continues to flourish with many new project migrations, integrations, applications, and a mature toolset for developers. Explore the depth of the xDai ecosystem in the [Project & DApps](about-xdai/project-spotlights/) section.
 
-![](.gitbook/assets/xdai-projects.png)
+![](.gitbook/assets/xDai-projects.png)
 
 | Integrations                                          | Infrastructure                                              | DeFi                                                                      | NFTs                                                    | DAOs                                                |
 | ----------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------- |
@@ -75,7 +75,7 @@ Any contract that works on the Ethereum mainnet can be redeployed to the xDai ch
 
 🛠 See [Developer Resources and Tools](for-developers/developer-resources/) to get up-and-running quickly.
 
-![BlockScout Explorer for xDai](.gitbook/assets/screen-shot-2021-07-30-at-3.14.04-pm.png)
+![BlockScout Explorer for xDai](<.gitbook/assets/Screen Shot 2021-07-30 at 3.14.04 PM.png>)
 
 ## **Why xDai?**
 
@@ -84,7 +84,7 @@ Any contract that works on the Ethereum mainnet can be redeployed to the xDai ch
 * ✅A stable token for transactions & gas fees.
 * ✅A green, energy-efficient and [ecologically aware](about-xdai/news-and-information/xdai-energy-efficiency/) blockchain network.
 * ✅Permissionless delegated Proof-Of-Stake based consensus with public [POSDAO](for-validators/posdao-whitepaper.md).
-* ✅[STAKE token](for-stakers/stake-token/) for community consensus participation and incentives. 
+* ✅[STAKE token](for-stakers/stake-token/) for community consensus participation and incentives.&#x20;
 * ✅Wide-ranging Community Support (see [xDai Validator Organizations](for-validators/about-xdai-validators/original-xdai-validators/)).
 * ✅Extreme usability with tools like [Burner Wallet](for-users/wallets/burner-wallet/) & [Burner Wallet 2](for-users/wallets/burner-wallet-2.md).
 * ✅Growing ecosystem designed to support stable person-to-person transactions, micro transactions, [conference currencies](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/), [community currencies](about-xdai/use-cases/community-currencies.md), DeFi, NFTs, DAOs, games and more.

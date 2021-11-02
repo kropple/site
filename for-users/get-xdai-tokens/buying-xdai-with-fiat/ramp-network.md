@@ -4,7 +4,7 @@ description: A Fiat -> xDai Gateway
 
 # Ramp Network: Fiat Gateway
 
-A Fiat-xDai gateway is now available for banking customers in more than 40 countries \([complete list](https://support.ramp.network/en/article/what-countries-do-you-support-1ua7sn1/)\) with [Ramp](https://ramp.network/). Users can use a debit card or bank transfer to receive xDai directly, including instant Euro-based conversions.
+A Fiat-xDai gateway is now available for banking customers in more than 40 countries ([complete list](https://support.ramp.network/en/article/what-countries-do-you-support-1ua7sn1/)) with [Ramp](https://ramp.network). Users can use a debit card or bank transfer to receive xDai directly, including instant Euro-based conversions.
 
 {% hint style="success" %}
 Visit the [Ramp Network Hosted Gateway](https://ramp.network/buy/?swapAsset=XDAI) to exchange for xDai now.
@@ -13,7 +13,7 @@ Visit the [Ramp Network Hosted Gateway](https://ramp.network/buy/?swapAsset=XDAI
 ![](../../../.gitbook/assets/ramp.png)
 
 * Ramp FAQs: [https://support.ramp.network/en/](https://support.ramp.network/en/)
-* Applications on xDai can easily add the Ramp Network to their flow, look for integrations coming soon. 👇 
+* Applications on xDai can easily add the Ramp Network to their flow, look for integrations coming soon. :point\_down:&#x20;
 
 ### Integration Docs for Developers
 
@@ -28,6 +28,4 @@ There are 2 options to integrate Ramp network with an application on xDai.
 
 
 
-  
-
-
+\

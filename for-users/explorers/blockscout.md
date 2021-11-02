@@ -8,5 +8,4 @@ With BlockScout you can:
 * access blockchain data via API functions
 * read and verify smart contracts
 
-![](../../.gitbook/assets/blockscout%20%281%29.png)
-
+![](../../.gitbook/assets/blockscout.png)

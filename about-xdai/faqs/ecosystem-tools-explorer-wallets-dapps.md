@@ -5,10 +5,10 @@
 BlockScout is a full-featured, open-source explorer that supports xDai. It lets you explore all transactional aspects on chain.
 
 * BlockScout access: [https://blockscout.com/xdai/mainnet](https://blockscout.com/xdai/mainnet)
-* BlockScout docs: [https://docs.blockscout.com/](https://docs.blockscout.com/)
+* BlockScout docs: [https://docs.blockscout.com/](https://docs.blockscout.com)
 * A second explorer is supported by AnyBlock Analytics and available at [https://explorer.anyblock.tools/ethereum/poa/xdai/](https://explorer.anyblock.tools/ethereum/poa/xdai/)
 
-📊 For usage statistics, see the [Dune Analytics Dashboard](https://duneanalytics.com/maxaleks/xDai-Usage).
+:bar\_chart: For usage statistics, see the [Dune Analytics Dashboard](https://duneanalytics.com/maxaleks/xDai-Usage).
 
 ## **What wallets are available to use with xDai?**
 
@@ -20,33 +20,32 @@ When using a wallet, you will use the same 0x address that you use on Ethereum, 
 
 ## How can I develop and deploy a DApp on xDai?
 
-Since xDai is an Ethereum-compatible sidechain, you can use the same tools \(like Truffle\), languages \(Solidity\) and environments you are used to using with Ethereum. With a few quick tweaks, your DApp can also be running on xDai. See [Smart Contract Deployment](../../for-developers/developer-resources/smart-contract-deployment.md) for details.
+Since xDai is an Ethereum-compatible sidechain, you can use the same tools (like Truffle), languages (Solidity) and environments you are used to using with Ethereum. With a few quick tweaks, your DApp can also be running on xDai. See [Smart Contract Deployment](../../for-developers/developer-resources/smart-contract-deployment.md) for details.
 
 ## MetaMask isn't working, what should I do?
 
-This usually happens due to a MetaMask \(MM\) update and can be fixed by resaving the xDai custom network in MM. If you haven't setup xDai for MM yet, [see these instructions](../../for-users/wallets/metamask/metamask-setup.md).
+This usually happens due to a MetaMask (MM) update and can be fixed by resaving the xDai custom network in MM. If you haven't setup xDai for MM yet, [see these instructions](../../for-users/wallets/metamask/metamask-setup.md).
 
 ### Resaving / Resetting xDai on MetaMask
 
-1\) Go to **My Accounts** -&gt; **Settings**.
+1\) Go to **My Accounts** -> **Settings**.
 
-![](../../.gitbook/assets/mm1%20%282%29.png)
+![](<../../.gitbook/assets/MM1 (1).png>)
 
 2\) Scroll down and select **Networks**.
 
-![](../../.gitbook/assets/mm2%20%281%29.png)
+![](../../.gitbook/assets/MM2.png)
 
 3\) Scroll and select **xDai**.
 
-![](../../.gitbook/assets/mm3%20%281%29.png)
+![](../../.gitbook/assets/MM3.png)
 
-4\) Check parameters are correct and click **Save** \([ more info on parameters](../../for-users/wallets/metamask/metamask-setup.md)\). If issues persist, try switching to a [different RPC endpoint](../../for-developers/developer-resources/#json-rpc-endpoints) following the same instructions.
+4\) Check parameters are correct and click **Save** ([ more info on parameters](../../for-users/wallets/metamask/metamask-setup.md)). If issues persist, try switching to a [different RPC endpoint](../../for-developers/developer-resources/#json-rpc-endpoints) following the same instructions.
 
 {% hint style="info" %}
-Some users have also reported that adding "Mainnet" to the Network Name \(the first field\) can cause issues. In the example below, we just call the network "xDai".
+Some users have also reported that adding "Mainnet" to the Network Name (the first field) can cause issues. In the example below, we just call the network "xDai".
 {% endhint %}
 
-![](../../.gitbook/assets/mm4.png)
+![](../../.gitbook/assets/MM4.png)
 
 ### \*\*\*\*
-

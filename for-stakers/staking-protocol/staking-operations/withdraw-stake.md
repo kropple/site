@@ -18,10 +18,10 @@ Stake can be withdrawn from a pool and deposited back to your web3 wallet addres
 * The amount of stake ordered for withdrawal may be increased or decreased.
 
 {% hint style="warning" %}
-\*_**Note:**_ _You cannot add, move or withdraw stake when the staking window is closed. This occurs at the very end of each staking epoch \(~ the final 6 hours\), where all staking actions are inactive._
+\*_**Note:**_ _You cannot add, move or withdraw stake when the staking window is closed. This occurs at the very end of each staking epoch (\~ the final 6 hours), where all staking actions are inactive._
 {% endhint %}
 
-### Immediate Withdrawal Instructions \(Available Now\):
+### Immediate Withdrawal Instructions (Available Now):
 
 {% embed url="https://youtu.be/OMLaFv5xJpI" %}
 
@@ -31,18 +31,18 @@ Stake can be withdrawn from a pool and deposited back to your web3 wallet addres
 
 2\) Click the Withdraw icon next to the pool you would like to withdraw from. The icon will only appear if a withdrawal of some type is possible.
 
-![](../../../.gitbook/assets/withdraw1%20%281%29.png)
+![](<../../../.gitbook/assets/withdraw1 (1).png>)
 
-3\) The maximum amount you can withdraw is shown next to Available Now _\(See below for order withdrawal instructions if you do not see Available Now\)_.  
+3\) The maximum amount you can withdraw is shown next to Available Now _(See below for order withdrawal instructions if you do not see Available Now)_. &#x20;
 
-1. Enter in an amount up to the Available Now amount. If you do not have current active STAKE and enter the full amount, you will be removed from the pool. \(In the example below we are already Staking 1000, so removing the 1200 will not result in leaving the pool\).
+1. Enter in an amount up to the Available Now amount. If you do not have current active STAKE and enter the full amount, you will be removed from the pool. (In the example below we are already Staking 1000, so removing the 1200 will not result in leaving the pool).
 2. Click the **Withdraw Now** button and follow the web3 wallet prompts to confirm the transaction.
 
 ![Enter any amount up to the Available Now amount](../../../.gitbook/assets/available-now.png)
 
 4\) Once the transaction is processed, the withdrawn amount will be immediately reflected in your balance.
 
-### Ordered Withdrawal Instructions \(You Can Order\)
+### Ordered Withdrawal Instructions (You Can Order)
 
 {% embed url="https://youtu.be/CgER1v2xZqs" %}
 
@@ -52,18 +52,17 @@ Stake can be withdrawn from a pool and deposited back to your web3 wallet addres
 
 2\) Click the Withdraw icon next to the active validator pool you would like to withdraw from. The icon will only appear if a withdrawal of some type is possible.
 
-![](../../../.gitbook/assets/withdraw1%20%281%29%20%281%29.png)
+![](<../../../.gitbook/assets/withdraw1 (1) (1).png>)
 
 3\) Enter the amount to order. If an order is available, you will see the amount you staked and the **Amount Available after the current epoch**. You can order the entire amount to exit the pool at the end of the staking epoch, or order any amount to withdraw up to the minimum amount required to stay in the pool.
 
-![](../../../.gitbook/assets/order-withdrawal.png)
+![](<../../../.gitbook/assets/order-withdrawal (1).png>)
 
 4\) Click the **Order Withdrawal** button and follow the web3 wallet prompts to confirm the transaction.
 
 5\) Once you have placed an order, you can **adjust the amount ordered during the current staking epoch**. Open the withdrawal icon and you will see your staked amount, the total amount available, and a new **already ordered** item, which will show the amount previously entered in step 3.
 
 1. To order an additional amount to withdraw, follow steps 3 and 4 to complete an additional transaction, adding this amount to your previous order.
-2. To **reduce the amount ordered \(action can only be performed during the same epoch\), enter a - in front of the number**. For example, if you have already ordered 500, but want to reduce that to 300, enter -200 in the amount field. This will adjust the order to 300.
+2. To **reduce the amount ordered (action can only be performed during the same epoch), enter a - in front of the number**. For example, if you have already ordered 500, but want to reduce that to 300, enter -200 in the amount field. This will adjust the order to 300.
 
 6\) The order will process at the end of the staking epoch, and your funds will be available to claim. If you ordered your entire stake from the pool, you will no longer be a delegator with that pool.
-

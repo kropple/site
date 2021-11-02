@@ -6,8 +6,8 @@ description: Universal Basic Income within a community of trust
 
 Circles is a basic income made to promote local economies. CRC tokens are minted daily on the xDai chain for members who can use and trade them within their communities.
 
-* Learn More at [https://joincircles.net/](https://joincircles.net/)
-* The UBI application is here: [https://circles.garden/](https://circles.garden/)
+* Learn More at [https://joincircles.net/](https://joincircles.net)
+* The UBI application is here: [https://circles.garden/](https://circles.garden)
 * Article about Circles and xDai: [https://www.coindesk.com/circles-ubi-guide-ethereum-xdai](https://www.coindesk.com/circles-ubi-guide-ethereum-xdai)
 
 {% hint style="info" %}
@@ -16,7 +16,7 @@ Once you create an account you will need 3 people who are already participating 
 
 ## Get Started
 
-1\) Go to [https://circles.garden/](https://circles.garden/) and click on Sign up. If you already have an account, click login to enter your 24 word seed phrase.
+1\) Go to [https://circles.garden/](https://circles.garden) and click on Sign up. If you already have an account, click login to enter your 24 word seed phrase.
 
 ![](../../.gitbook/assets/circlesn1.jpg)
 
@@ -24,7 +24,7 @@ Once you create an account you will need 3 people who are already participating 
 
 ![](../../.gitbook/assets/circles-n2.jpg)
 
-3\) Enter a username, then an email. Once done, you will be presented with a seed phrase. 
+3\) Enter a username, then an email. Once done, you will be presented with a seed phrase.&#x20;
 
 {% hint style="warning" %}
 **Save your seed phrase in a safe place! Account details are stored locally, and if you clear local storage you will need this to log back into your account.**
@@ -36,7 +36,7 @@ Once you create an account you will need 3 people who are already participating 
 
 ![](../../.gitbook/assets/cseed.jpg)
 
-![](../../.gitbook/assets/cphoto%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.jpg)
+![](<../../.gitbook/assets/cphoto (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).jpg>)
 
 4\) Once your account is created, you will need to be verified through a trust process. Share your link with others who are already verified and whom you trust in the community.
 
@@ -64,11 +64,11 @@ You can send an amount of CRC to as a payment for goods and services to people i
 
 ![](../../.gitbook/assets/circes4.png)
 
-3\) To view previous transactions, both inward and outward bound, select **Activity Log** in the navigation menu. 
+3\) To view previous transactions, both inward and outward bound, select **Activity Log** in the navigation menu.&#x20;
 
 ## Viewing your Circles Account in BlockScout
 
-BlockScout block explorer has integrated a Circles theme for contracts related to Circles interaction. This includes all user accounts. 
+BlockScout block explorer has integrated a Circles theme for contracts related to Circles interaction. This includes all user accounts.&#x20;
 
 1\) Navigate to **Settings**.
 
@@ -86,11 +86,9 @@ BlockScout block explorer has integrated a Circles theme for contracts related t
 
 ![](../../.gitbook/assets/settings4.png)
 
-5\) Select the **Tokens** tab to see your current CRC holdings. Each account has a unique CRC token, so you can see that 20 tokens have been sent to you from another user \(1\) as well as your own 102.22 native CRC UBI tokens \(2\).
+5\) Select the **Tokens** tab to see your current CRC holdings. Each account has a unique CRC token, so you can see that 20 tokens have been sent to you from another user (1) as well as your own 102.22 native CRC UBI tokens (2).
 
 ![](../../.gitbook/assets/settings5.png)
-
-
 
 
 

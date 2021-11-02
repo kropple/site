@@ -5,12 +5,12 @@ description: Setup your custom RPC to connect to Metamask
 # Metamask Setup
 
 {% hint style="warning" %}
-Note: Sending tokens to exchanges or other addresses you do not control may result in a loss of funds if the address is not supported by xDai. For example, sending tokens to Coinbase, Trustwallet, etc directly from the xDai network. 
+Note: Sending tokens to exchanges or other addresses you do not control may result in a loss of funds if the address is not supported by xDai. For example, sending tokens to Coinbase, Trustwallet, etc directly from the xDai network.&#x20;
 
 **Bridge to your address on Ethereum first, then transfer!**
 
-* **xDai - Dai Bridge:** [http://bridge.xdaichain.com/](http://bridge.xdaichain.com/)
-* **OmniBridge \(for all other ERC20 Tokens\):** [https://omni.xdaichain.com/](https://omni.xdaichain.com/)
+* **xDai - Dai Bridge:** [http://bridge.xdaichain.com/](http://bridge.xdaichain.com)
+* **OmniBridge (for all other ERC20 Tokens):** [https://omni.xdaichain.com/](https://omni.xdaichain.com)
 {% endhint %}
 
 ## Setting up MetaMask for xDai
@@ -20,7 +20,7 @@ See instructions below for manual entry.
 
 Quick Methods
 
-1. [Chainlist](https://chainlist.org/). Click xDai to add You may still need to add BlockScout as the Block Explorer.
+1. [Chainlist](https://chainlist.org). Click xDai to add You may still need to add BlockScout as the Block Explorer.
 2. [Sushiswap](https://app.sushi.com/swap). With MetaMask enabled on Ethereum, click on the network dropdown and select xDai. MetaMask will ask for approval to add the xDai chain.
 {% endhint %}
 
@@ -33,7 +33,7 @@ Quick Methods
 2\) In the "Custom RPC" Settings, add in the xDai network details and click **Save**:
 
 * Network Name: **xDai**
-* New RPC URL: [**https://rpc.xdaichain.com/**](https://rpc.xdaichain.com/)
+* New RPC URL: [**https://rpc.xdaichain.com/**](https://rpc.xdaichain.com)
 * Chain ID: **0x64**
 * Symbol: **xDai**
 * Block Explorer URL: [**https://blockscout.com/xdai/mainnet**](https://blockscout.com/xdai/mainnet/)
@@ -58,9 +58,9 @@ When bridging tokens from Ethereum, BSC or elsewhere you may need to add the cus
 
 The easiest way is to click on the fox icon in BlockScout or OmniBridge for the token you are adding, then complete the process through the MetaMask popup.
 
-![](../../../.gitbook/assets/foxes%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
+![](../../../.gitbook/assets/foxes.png)
 
-If you want to add manually in MetaMask, go to **Assets** -&gt; **Add Token**, Paste in the address \(symbol and decimals should populate if you are connected to xDai\) and save.
+If you want to add manually in MetaMask, go to **Assets** -> **Add Token**, Paste in the address (symbol and decimals should populate if you are connected to xDai) and save.
 
 ## Connecting to a Hardware Wallet
 
@@ -69,4 +69,3 @@ Instructions for using MetaMask with a Ledger or Trezor: [https://metamask.zende
 ## Troubleshooting Issues
 
 This [troubleshooting guide from 1Hive](https://forum.1hive.org/t/troubleshooting-problems-on-metamask/215) is helpful if you are experiencing issues with MetaMask and xDai.
-

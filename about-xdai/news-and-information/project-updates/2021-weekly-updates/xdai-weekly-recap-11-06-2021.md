@@ -4,16 +4,16 @@ description: 05 June - 11 June 2021
 
 # ⚔️ xDai Weekly Recap - 11/06/2021
 
-![](../../../../.gitbook/assets/weekly%20%281%29.png)
+![](<../../../../.gitbook/assets/weekly (1) (1).png>)
 
 ## POSDAO & Protocol Updates
 
 {% hint style="success" %}
-The protocol is currently in Epoch **60.**  
-  
-There are **17** validator pools with **286** delegators - over 200 of them are unique - staking a total of **664,361** STAKE.  
-  
-High pool APY is currently **20.6%**, low is **6.45%** _\(stats as of 11/06/2021 16:00 UTC\)_.
+The protocol is currently in Epoch **60.**\
+****\
+****There are **17** validator pools with **286** delegators - over 200 of them are unique - staking a total of **664,361 **STAKE.\
+\
+High pool APY is currently **20.6%**, low is **6.45% **_(stats as of 11/06/2021 16:00 UTC)_.
 
 * Staking Statistics: [https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)
 * Staking Platform: [https://blockscout.com/xdai/mainnet/validators](https://blockscout.com/xdai/mainnet/validators)
@@ -23,7 +23,7 @@ High pool APY is currently **20.6%**, low is **6.45%** _\(stats as of 11/06/2021
 
 Externally owned accounts on xDai represent a fair amount of volume, especially when related to account activity and overall transactions. We added this metric to see how EOAs are using xDai in relation to larger project utilization of the chain. The usage dashboard is available at [https://duneanalytics.com/maxaleks/xDai-Usage](https://duneanalytics.com/maxaleks/xDai-Usage)
 
-![Active Accounts by Project/Day](../../../../.gitbook/assets/eoa-view-1%20%281%29.png)
+![Active Accounts by Project/Day](<../../../../.gitbook/assets/eoa-view-1 (1).png>)
 
 ![Transactions by Project/Day](../../../../.gitbook/assets/eoa-view-2.png)
 
@@ -39,17 +39,17 @@ BlockScout Block Explorer is conducting a survey to collect user feedback on the
 
 {% embed url="https://twitter.com/blockscoutcom/status/1402988585435889677" %}
 
-## 🦋 Project Updates
+## :butterfly: Project Updates
 
-### 📡 Dark Forest Round 1 Completed
+### :satellite: Dark Forest Round 1 Completed
 
 Dark Forest Round 1 was a big success on xDai, accounting for a big increase in transactions, usage and users. Get ready, round 2 starts shortly!
 
-{% embed url="https://twitter.com/darkforest\_eth/status/1402038721151598594" %}
+{% embed url="https://twitter.com/darkforest_eth/status/1402038721151598594" %}
 
-### 🏡 RealT Real Estate
+### :house\_with\_garden: RealT Real Estate
 
-RealT tokenized real estate continues to sell quickly. In a volatile market environment real-world assets with more predictable yields \(and predictable pricing on xDai\) provide some much needed balance! 
+RealT tokenized real estate continues to sell quickly. In a volatile market environment real-world assets with more predictable yields (and predictable pricing on xDai) provide some much needed balance!&#x20;
 
 {% embed url="https://twitter.com/RealTPlatform/status/1401841554008981505" %}
 
@@ -61,7 +61,7 @@ Another innovation from the Minerva team -  NFTs that come with a MIVA stream at
 
 ### Eporio
 
-Eporio is partnering with Minerva to provide a marketplace forstreaming “Farm Position” NFTs \(FP NFTs, for short\), making them completely tradeable and visible to users.
+Eporio is partnering with Minerva to provide a marketplace forstreaming “Farm Position” NFTs (FP NFTs, for short), making them completely tradeable and visible to users.
 
 {% embed url="https://lab10collective.medium.com/minerva-wallet-partners-with-eporio-to-enable-trading-of-streaming-nfts-e15ef0a28490" %}
 
@@ -81,7 +81,7 @@ Farming continues to gain traction on the HoneySwap Platform, with additional li
 
 ### Peerion Validator Pool
 
-Peerion validator pool for liquid staking has reached goal \# 2 \(5000+ STAKE\) and continues to add more stakers in anticipation of launch.
+Peerion validator pool for liquid staking has reached goal # 2 (5000+ STAKE) and continues to add more stakers in anticipation of launch.
 
 {% embed url="https://twitter.com/PeerionDAO/status/1403353072869466112" %}
 
@@ -91,7 +91,5 @@ Peerion validator pool for liquid staking has reached goal \# 2 \(5000+ STAKE\) 
 
 
 
- 
-
-
+&#x20;
 

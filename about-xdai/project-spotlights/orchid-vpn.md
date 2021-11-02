@@ -9,9 +9,8 @@ Orchid is now utilizing the xDai chain to provide pay-as-you go VPN for the glob
 * [Orchid **on iOS/MacOS**](https://apps.apple.com/app/apple-store/id1474884867)
 * _Android Coming Soon_
 
-This new payments model lets users pay for actual usage \(rather than a monthly fee regardless of usage\) and provides privacy for users. By leveraging xDai, Orchid is available and accessible for many more users all over the world. xDai usage is abstracted behind the scenes, enabling a fast and predictable payment structure. 
+This new payments model lets users pay for actual usage (rather than a monthly fee regardless of usage) and provides privacy for users. By leveraging xDai, Orchid is available and accessible for many more users all over the world. xDai usage is abstracted behind the scenes, enabling a fast and predictable payment structure.&#x20;
 
 Learn more about the [xDai - Orchid integration here](https://blog.orchid.com/starting-today-it-only-costs-1-to-get-started-with-orchid/).
 
-![Graphic from Orchid Website](../../.gitbook/assets/orchidblog_xdai_1.jpeg)
-
+![Graphic from Orchid Website](../../.gitbook/assets/OrchidBlog\_xDAI\_1.jpeg)

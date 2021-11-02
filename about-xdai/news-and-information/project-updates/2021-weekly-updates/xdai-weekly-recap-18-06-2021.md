@@ -4,24 +4,24 @@ description: 12 June - 18 June 2021
 
 # ⚔️ xDai Weekly Recap - 18/06/2021
 
-![](../../../../.gitbook/assets/weekly-update%20%283%29.png)
+![](<../../../../.gitbook/assets/weekly-update (2).png>)
 
 ## POSDAO & Protocol Updates
 
 {% hint style="success" %}
-The protocol is currently in Epoch **61.**  
-  
-There are **17** validator pools with **293** delegators - over 200 of them are unique - staking a total of **624,782** STAKE.  
-  
-High pool APY is currently **19.46%**, low is **7.11%** _\(stats as of 18/06/2021 15:00 UTC\)_.
+The protocol is currently in Epoch **61.**\
+****\
+****There are **17** validator pools with **293** delegators - over 200 of them are unique - staking a total of **624,782 **STAKE.\
+\
+High pool APY is currently **19.46%**, low is **7.11% **_(stats as of 18/06/2021 15:00 UTC)_.
 
 * Staking Statistics: [https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)
 * Staking Platform: [https://blockscout.com/xdai/mainnet/validators](https://blockscout.com/xdai/mainnet/validators)
 {% endhint %}
 
-## Bridge Governance 
+## Bridge Governance&#x20;
 
-The bridge governance board is composed of 13 members who are responsible for managing bridge operations on both sides of the bridge \(contracts are deployed on the Ethereum and xDai side\). 7/13 signatures are required to approve any management proposal.
+The bridge governance board is composed of 13 members who are responsible for managing bridge operations on both sides of the bridge (contracts are deployed on the Ethereum and xDai side). 7/13 signatures are required to approve any management proposal.
 
 A [new summary page](../../../../for-users/governance/governance-board-summary-of-decisions.md) shows updates and decisions from the bridge board of governors. The most recent measure passed by the board reduced USDC withdrawal fees to 0 for 3 months.
 
@@ -35,7 +35,7 @@ BlockScout now supports Vyper Smart Contract verification.
 
 
 
-## 🦋 Project Updates
+## :butterfly: Project Updates
 
 ### Gnosis Safe
 
@@ -43,9 +43,9 @@ Gnosis Safe added a default xDai bridge app to make it easy for multi-sigs to us
 
 {% embed url="https://twitter.com/xdaichain/status/1404737851829411845" %}
 
-### 🌎 xDai World
+### :earth\_americas: xDai World
 
-A [portal into the world of xDai Apps](https://www.xdai.world/) and projects building on xDai from DAOSquare
+A [portal into the world of xDai Apps](https://www.xdai.world) and projects building on xDai from DAOSquare
 
 {% embed url="https://twitter.com/DAOSquare/status/1404798650304417799" %}
 
@@ -89,7 +89,7 @@ Tutorial for devs and other users looking to create Data Unions on xDai.
 
 Prediction markets are in full swing on xDai with Euro2020! This guide shows anyone how to place a prediction with Omen on xDai.
 
-{% embed url="https://twitter.com/Omen\_eth/status/1405174340065374209" %}
+{% embed url="https://twitter.com/Omen_eth/status/1405174340065374209" %}
 
 ### Gitcoin Grants Round 10
 
@@ -105,5 +105,4 @@ Innovative projects on xDai are raising funds in round 10. Support your favorite
 
 
 
- 
-
+&#x20;

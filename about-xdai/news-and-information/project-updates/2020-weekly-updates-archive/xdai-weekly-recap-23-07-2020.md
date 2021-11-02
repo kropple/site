@@ -4,7 +4,7 @@ description: 18 July 2020 - 23 July 2020
 
 # ⚔️ xDai Weekly Recap - 23/07/2020
 
-##  📡 Token & Exchange News
+## &#x20;:satellite: Token & Exchange News
 
 ### ✅ Foundation and Advisor Token Releases: Foundation pledges 100% of token release until end of year to EasyStaking
 
@@ -18,9 +18,9 @@ To support the protocol, the xDai Foundation announced that all token releases t
 
 Stake and stakers continue to increase in the BitMax pre-staking StakeVault program. As we approach the end of the current staking initiative on August 6, BitMax will inform users and stakers about staking options going forward. [View more pre-staking details here](../pre-staking-program.md).
 
-![](../../../../.gitbook/assets/stake-chart%20%282%29.png)
+![](<../../../../.gitbook/assets/stake-chart (2).png>)
 
-## 🏢 Development
+## :office: Development
 
 ### ✅ Unit Protocol
 
@@ -30,7 +30,6 @@ Unit Protocol is a new decentralized borrowing protocol designed to provide a lo
 
 ### ✅ Reddit Bake-Off Preview
 
-We have been working hard on the Reddit Bake-off challenge. In this short video, we provide a sneak-peak of our load script as 1400 Claim transactions \(simulating reddit users claiming MOON token distributions\) are processed in less than 2 minutes.
+We have been working hard on the Reddit Bake-off challenge. In this short video, we provide a sneak-peak of our load script as 1400 Claim transactions (simulating reddit users claiming MOON token distributions) are processed in less than 2 minutes.
 
 {% embed url="https://youtu.be/Ot1BT1QjKNY" %}
-

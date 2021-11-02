@@ -8,12 +8,12 @@ description: >-
 
 **When:** May 10-11, 2019
 
-**Where:** New York City
+**Where: **New York City
 
-**What:** Following up on the success from EthDenver 2019,  a revamped burner wallet was used to distribute xDai, **RAD** & **xP+** tokens to participants. RAD tokens were used food, xP+ for the Helena prediction market, and xDai for transactions. 
+**What:** Following up on the success from EthDenver 2019,  a revamped burner wallet was used to distribute xDai, **RAD** & **xP+** tokens to participants. RAD tokens were used food, xP+ for the Helena prediction market, and xDai for transactions.&#x20;
 
-**Read more here**  
-[**https://medium.com/@austin\_48503/burner-wallet-ethereal-was-rad-bf56b68ac3bc**](https://medium.com/@austin_48503/burner-wallet-ethereal-was-rad-bf56b68ac3bc)\*\*\*\*
+**Read more here**\
+[**https://medium.com/@austin\_48503/burner-wallet-ethereal-was-rad-bf56b68ac3bc**](https://medium.com/@austin\_48503/burner-wallet-ethereal-was-rad-bf56b68ac3bc)****
 
 ![radwallet.io - xP+ tokens not pictured](../../../.gitbook/assets/radwallet.io.png)
 
@@ -22,6 +22,4 @@ description: >-
 {% embed url="https://twitter.com/ChrisCCrowley/status/1127180917997539329" %}
 
 {% embed url="https://twitter.com/rmgarciap/status/1126941967991152640" %}
-
-
 

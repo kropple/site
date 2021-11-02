@@ -4,29 +4,29 @@ description: 23 May 2020 - 29 May 2020
 
 # ⚔️ xDai Weekly Recap - 29/05/2020
 
-## 🔓 Distributions
+## :unlock: Distributions
 
 ### ✅ Private investors receive 10% STAKE release and ongoing daily distributions begin
 
-Initial investors hold a total of 1,970,951 STAKE tokens. On May 27, 10% of this amount was released \(~ 197,095\). Each day for the next 224 days an additional 5,719.20 tokens will be released to private investors. Investors must [actively claim amounts](../../../../for-stakers/stake-token/get-stake/claim-stake.md) in order to receive them.
+Initial investors hold a total of 1,970,951 STAKE tokens. On May 27, 10% of this amount was released (\~ 197,095). Each day for the next 224 days an additional 5,719.20 tokens will be released to private investors. Investors must [actively claim amounts](../../../../for-stakers/stake-token/get-stake/claim-stake.md) in order to receive them.
 
-See [unlock dates and circulating supply](../../../../for-stakers/stake-token/stake-token-distribution/unlock-dates-and-circulating-supply.md) for more details on upcoming releases \(next % release scheduled for July 22, 2020\)     
+See [unlock dates and circulating supply](../../../../for-stakers/stake-token/stake-token-distribution/unlock-dates-and-circulating-supply.md) for more details on upcoming releases (next % release scheduled for July 22, 2020)    &#x20;
 
 **Private Investors release schedule**
 
-| Date | Percentage | Type | Rounded Amount |
-| :--- | :--- | :--- | :--- |
-| 29.04.2020 | 25%  | 1 time | 492,738 |
-| 27.05.2020 ~ 13:02:59 UTC | 10% | 1 time | 197,095 |
-| 28.05.2020 - 06.01.2021 | 65%  | Daily | 5,719.2 \(per day\) |
+| Date                       | Percentage | Type   | Rounded Amount    |
+| -------------------------- | ---------- | ------ | ----------------- |
+| 29.04.2020                 | 25%        | 1 time | 492,738           |
+| 27.05.2020 \~ 13:02:59 UTC | 10%        | 1 time | 197,095           |
+| 28.05.2020 - 06.01.2021    | 65%        | Daily  | 5,719.2 (per day) |
 
-## 📡 Listings
+## :satellite: Listings
 
 ### ✅ **TokenInsight Rating Added to CoinMarketCap**
 
 Listing: [https://coinmarketcap.com/currencies/xdai/](https://coinmarketcap.com/currencies/xdai/)
 
-Note that ****some values on the CMC listing remain in “?” status. This will shift as data is verified and reporting accuracy confirmed. To get the current circulating supply, see [https://supply.xdaichain.com/](https://supply.xdaichain.com/)
+Note that** **some values on the CMC listing remain in “?” status. This will shift as data is verified and reporting accuracy confirmed. To get the current circulating supply, see [https://supply.xdaichain.com/](https://supply.xdaichain.com)
 
 {% embed url="https://twitter.com/xdaichain/status/1265360044910088193" %}
 
@@ -36,15 +36,15 @@ The Token List is an accurate directory of authentic tokens on Ethereum. Integra
 
 {% embed url="https://twitter.com/defipulse/status/1264270756780937217" %}
 
-### ✅ 🎉BitMax Pre-Staking StakeVault nears 600 participants
+### ✅ :tada:BitMax Pre-Staking StakeVault nears 600 participants
 
 Since its inception, more participants have tried the pre-staking program every day! See the details on the [Pre-Staking Program](../pre-staking-program.md) page.
 
-Follow the latest stats on Bitmax Twitter - [https://twitter.com/BitMax\_Official](https://twitter.com/BitMax_Official)
+Follow the latest stats on Bitmax Twitter - [https://twitter.com/BitMax\_Official](https://twitter.com/BitMax\_Official)
 
-![](../../../../.gitbook/assets/chart-4-%20%281%29.png)
+![](<../../../../.gitbook/assets/chart (4) (1).png>)
 
-## 📰 Media
+## :newspaper: Media
 
 ### ✅ AMA with BlockTalks
 
@@ -62,11 +62,9 @@ The YellowBlock team continues to support xDai and STAKE. This video provides a 
 
 {% embed url="https://twitter.com/TeddyCleps/status/1265671262606508032" %}
 
-## 🏢 Development
+## :office: Development
 
 ### ✅ xDai POSDAO on OpenEthereum
 
-As we move towards public POSDAO, xDai is already functioning in a PoS context written in Solidity.  [https://github.com/poanetwork/posdao-contracts](https://github.com/poanetwork/posdao-contracts). Starting from v3.0.0, the OpenEthereum client supports all POSDAO features [https://github.com/openethereum/openethereum](https://github.com/openethereum/openethereum). 3.0.0 has been released for several weeks, and POSDAO is functioning as expected, including random number generation, malicious reporting, and transactional consensus with the current validator set. 
-
-
+As we move towards public POSDAO, xDai is already functioning in a PoS context written in Solidity.  [https://github.com/poanetwork/posdao-contracts](https://github.com/poanetwork/posdao-contracts). Starting from v3.0.0, the OpenEthereum client supports all POSDAO features [https://github.com/openethereum/openethereum](https://github.com/openethereum/openethereum). 3.0.0 has been released for several weeks, and POSDAO is functioning as expected, including random number generation, malicious reporting, and transactional consensus with the current validator set.&#x20;
 

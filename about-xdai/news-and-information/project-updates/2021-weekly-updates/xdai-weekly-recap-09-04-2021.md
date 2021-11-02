@@ -4,7 +4,7 @@ description: 3 April - 9 April 2021
 
 # ⚔️ xDai Weekly Recap - 09/04/2021
 
-![](../../../../.gitbook/assets/april-9-update.png)
+![](../../../../.gitbook/assets/April-9-update.png)
 
 ## 📽️ Project News & Updates
 
@@ -16,11 +16,11 @@ description: 3 April - 9 April 2021
 
 ### 💳 CardStack
 
-[Cardstack ](https://cardstack.com/)announces Card Pay payment and reward network integration with xDai. 
+[Cardstack ](https://cardstack.com)announces Card Pay payment and reward network integration with xDai.&#x20;
 
 {% embed url="https://medium.com/cardstack/cardstack-integrates-with-xdai-30e2fbd9d5aa" %}
 
-###   📜 Request Network
+### &#x20; 📜 Request Network
 
 [Request](https://request.network) integrates with xDai to provide invoicing and crypto payment services with low fees!
 
@@ -28,13 +28,13 @@ description: 3 April - 9 April 2021
 
 ### 🏦 DeBank
 
-[DeBank](https://debank.com/) has added support for DeFi projects on xDai. The DeBank dashboard provides easy insight and cross-chain portfolio management.
+[DeBank](https://debank.com) has added support for DeFi projects on xDai. The DeBank dashboard provides easy insight and cross-chain portfolio management.
 
 {% embed url="https://medium.com/debank/xdai-debank-announcement-3b13e158bd92" %}
 
 ### 🖥️ Ankr API
 
-[Ankr](https://www.ankr.com/) is now integrated with xDai and instructions are available for using their API services.
+[Ankr](https://www.ankr.com) is now integrated with xDai and instructions are available for using their API services.
 
 {% embed url="https://twitter.com/ankr/status/1380083730132389892" %}
 
@@ -56,9 +56,8 @@ TokenPocket announced they support xDai - users will be able to connect their wa
 
 {% embed url="https://tokenpocket-gm.medium.com/tokenpocket-has-reached-a-strategy-collaboration-with-xdai-chain-57739f01d8f7" %}
 
-###   🦈 Mixsome Cash
+### &#x20; 🦈 Mixsome Cash
 
 Mixsome is running on xDai with their DeFi action flows, all with varying APYs. Transactions are bundled and simplified to give more DeFi access to new users.
 
 {% embed url="https://mixsome-cash.medium.com/mixsome-xdai-feeless-defi-ac254ac8eab" %}
-

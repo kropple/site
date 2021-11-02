@@ -4,9 +4,9 @@ description: Supports xDai addresses including Honeyswap DEX and manual imports
 
 # Crypto Tax Calculator
 
-[Crypto Tax Calculator](https://cryptotaxcalculator.io/) directly supports many exchanges across the ecosystem including the xDai Network. It is easy to add and customize transactions by address to prepare taxes for many different countries.  For detailed instructions on usage including Bridge and Honeyswap, please see the [Crypto Tax Calculator guide.](https://cryptotaxcalculator.io/exchanges/xdai-tax/)
+[Crypto Tax Calculator](https://cryptotaxcalculator.io) directly supports many exchanges across the ecosystem including the xDai Network. It is easy to add and customize transactions by address to prepare taxes for many different countries.  For detailed instructions on usage including Bridge and Honeyswap, please see the [Crypto Tax Calculator guide.](https://cryptotaxcalculator.io/exchanges/xdai-tax/)
 
-![](../../.gitbook/assets/cryptotax1.png)
+![](../../.gitbook/assets/cryptoTax1.png)
 
 ## Getting Started
 
@@ -18,13 +18,13 @@ For xDai, enter xDai into the search field or scroll down and select.
 
 2\) Enter your xDai wallet address into CryptoTaxCalculator, provide an optional nickname, and click **Add Wallet**. It is possible to add multiple wallet addresses after you add the first.
 
-![](../../.gitbook/assets/wallet1.png)
+![](<../../.gitbook/assets/wallet1 (1).png>)
 
-2a\) You will see a "Wallet Syncing" message while Crypto Tax Calculator syncs and categorize your data. 
+2a) You will see a "Wallet Syncing" message while Crypto Tax Calculator syncs and categorize your data.&#x20;
 
-![](../../.gitbook/assets/wallet2%20%281%29.png)
+![](<../../.gitbook/assets/wallet2 (1).png>)
 
-2b\) It is also possible to  manually import CSV data. More on this process: [https://cryptotaxcalculator.io/guides/simple-manual-csv-import/](https://cryptotaxcalculator.io/guides/simple-manual-csv-import/)
+2b) It is also possible to  manually import CSV data. More on this process: [https://cryptotaxcalculator.io/guides/simple-manual-csv-import/](https://cryptotaxcalculator.io/guides/simple-manual-csv-import/)
 
 3\) Once data is imported, manually categorize any unknown or mislabeled items with the Transaction dropdown menu.
 
@@ -39,6 +39,4 @@ There is no data available for txs receiving xDai via the xDai Bridge, or other 
 4\) When all transactions are properly categorized and any additional transactions added manually, proceed to Generate a Report. Costs to create the report vary based on individual usage and needs.
 
 ![](../../.gitbook/assets/crypto-tax-report.png)
-
-
 

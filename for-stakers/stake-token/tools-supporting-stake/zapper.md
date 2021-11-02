@@ -6,7 +6,7 @@ description: STAKE LP Basics on Zapper
 
 The Zapper Dashboard is really helpful for organizing DeFi investments, especially with all of the protocols, platforms and other instruments you may be using within the DeFi ecosystem.
 
-You will connect your wallet to the application at [https://zapper.fi/](https://zapper.fi/) to start. You can also login with the defiportal.eth ENS to get an idea of all of the dashboard and how it might work for you. For more on Zapper and all you can accomplish, please see the [Zapper docs](https://docs.zapper.fi/).
+You will connect your wallet to the application at [https://zapper.fi/](https://zapper.fi) to start. You can also login with the defiportal.eth ENS to get an idea of all of the dashboard and how it might work for you. For more on Zapper and all you can accomplish, please see the [Zapper docs](https://docs.zapper.fi).
 
 1\) To access STAKE liquidity pools, go to Invest and Filter by STAKE in the Explore Opportunities search box.
 
@@ -28,6 +28,4 @@ You will connect your wallet to the application at [https://zapper.fi/](https://
 
 
 
-  
-
-
+\

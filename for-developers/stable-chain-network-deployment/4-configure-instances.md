@@ -1,4 +1,4 @@
-# 4\) Initial Instance Configurations
+# 4) Initial Instance Configurations
 
 {% hint style="success" %}
 Configure instances after [launching playbooks](3-download-and-configure-playbook.md).
@@ -6,13 +6,13 @@ Configure instances after [launching playbooks](3-download-and-configure-playboo
 
 1\) Return to root folder of the deployment-playbooks repository
 
-```text
+```
 cd ..
 ```
 
-2\) Copy your ssh public key \(replace `id_rsa.pub` with correct name\)
+2\) Copy your ssh public key (replace `id_rsa.pub` with correct name)
 
-```text
+```
 cat ~/.ssh/id_rsa.pub > files/admins.pub
 cp files/admins.pub files/ssh_validator.pub
 cp files/admins.pub files/ssh_bootnode.pub
@@ -23,7 +23,7 @@ cp files/admins.pub files/ssh_moc.pub
 
 * Replace value of `GENESIS_NETWORK_NAME` with name of the network
 * replace value of `MOC_ADDRESS` with address of MoC that you generated
-* \(optionally\) replace value of `BLK_GAS_LIMIT` to increase/decrease default block gas limit
+* (optionally) replace value of `BLK_GAS_LIMIT` to increase/decrease default block gas limit
 
 ## **Instance Creation**
 
@@ -39,9 +39,9 @@ The following instances will be configured one-by-one. For each instance you wil
 
 ### **Netstat Server**
 
-1\) Create the ****ansible configuration file for netstat node
+1\) Create the** **ansible configuration file for netstat node
 
-```text
+```
 cat group_vars/all.yml.network group_vars/netstat.yml.example > group_vars/all.yml
 ```
 
@@ -51,7 +51,7 @@ cat group_vars/all.yml.network group_vars/netstat.yml.example > group_vars/all.y
 
 3\) In the base directory , create a `hosts` file with the following content,  replacing 1.2.3.4 with IP address previously generated for the netstat server.
 
-```text
+```
 [netstat]
 1.2.3.4
 
@@ -61,19 +61,19 @@ cat group_vars/all.yml.network group_vars/netstat.yml.example > group_vars/all.y
 
 4\) Launch the playbook, it should complete without errors
 
-```text
+```
 ansible-playbook -i hosts site.yml
 ```
 
 {% hint style="success" %}
-Open [http://1.2.3.4:3000](http://1.2.3.4:3000/) - you should see an empty dashboard similar to [https://core-netstat.poa.network/](https://core-netstat.poa.network/)
+Open [http://1.2.3.4:3000](http://1.2.3.4:3000) - you should see an empty dashboard similar to [https://core-netstat.poa.network/](https://core-netstat.poa.network)
 {% endhint %}
 
 ### **MoC node**
 
 1\) Create ansible configuration file for moc node
 
-```text
+```
 cat group_vars/all.yml.network group_vars/moc.yml.example > group_vars/all.yml
 ```
 
@@ -88,7 +88,7 @@ cat group_vars/all.yml.network group_vars/moc.yml.example > group_vars/all.yml
 
 3\) Create `hosts` file with the following content, replacing 1.2.3.4 with IP address previously generated for the moc server.
 
-```text
+```
 [moc]
 1.2.3.4
 
@@ -98,7 +98,7 @@ cat group_vars/all.yml.network group_vars/moc.yml.example > group_vars/all.yml
 
 4\) Launch the playbook, it should complete without errors
 
-```text
+```
 ansible-playbook -i hosts site.yml
 ```
 
@@ -106,7 +106,7 @@ ansible-playbook -i hosts site.yml
 
 1\) Create ansible configuration file for bootnode
 
-```text
+```
 cat group_vars/all.yml.network group_vars/bootnode.yml.example > group_vars/all.yml
 ```
 
@@ -119,7 +119,7 @@ cat group_vars/all.yml.network group_vars/bootnode.yml.example > group_vars/all.
 
 3\) Create `hosts` file with the following content, replacing 1.2.3.4 with IP address previously generated for the bootnode server.
 
-```text
+```
 [bootnode]
 1.2.3.4
 
@@ -129,7 +129,7 @@ cat group_vars/all.yml.network group_vars/bootnode.yml.example > group_vars/all.
 
 4\) Launch the playbook, it should complete without errors.
 
-```text
+```
 ansible-playbook -i hosts site.yml
 ```
 
@@ -137,7 +137,7 @@ ansible-playbook -i hosts site.yml
 
 1\) Create ansible configuration file
 
-```text
+```
 cat group_vars/all.yml.network group_vars/validator.yml.example > group_vars/all.yml
 ```
 
@@ -147,13 +147,13 @@ cat group_vars/all.yml.network group_vars/validator.yml.example > group_vars/all
 * `NODE_ADMIN_EMAIL` - this email will also be displayed in netstat dashboard, e.g. "[validator@example.com](mailto:moc@example.com)"
 * `NETSTATS_SERVER` - insert url http://NETSTAT\_IP:3000 of the netstat server
 * `NETSTATS_SECRET` - network secret, same as for netstat server
-* `MINING_KEYFILE` - content of **validator's** json keystore file, enclosed in single quotes
+* `MINING_KEYFILE` - content of **validator's **json keystore file, enclosed in single quotes
 * `MINING_ADDRESS` - validator address `0x...`
 * `MINING_KEYPASS` - password for the keystore file
 
 3\) Create `hosts` file with the following content, substituting the correct ip addresses of validator servers.
 
-```text
+```
 [validator]
 1.2.3.4
 
@@ -163,7 +163,7 @@ cat group_vars/all.yml.network group_vars/validator.yml.example > group_vars/all
 
 4\) Launch the playbook, it should complete without errors.
 
-```text
+```
 ansible-playbook -i hosts site.yml
 ```
 
@@ -177,17 +177,17 @@ Login to each of the following nodes
 
 * MoC
 * Bootnode
-* Validators \(3x\) and do the following:
+* Validators (3x) and do the following:
 
 1\) Stop parity service
 
-```text
+```
 sudo systemctl stop poa-parity
 ```
 
 2\) Erase parity data folder
 
-```text
+```
 sudo rm -rf /home/ROLE/parity_data/{network,cache,chains} /home/ROLE/logs/parity.log
 ```
 
@@ -198,8 +198,7 @@ To ensure services are properly shut down, you can check service status with `su
 {% endhint %}
 
 {% hint style="success" %}
-You should now have bootstrapped configuration files.  
-  
+You should now have bootstrapped configuration files.\
+\
 Next: [Reconfigure Instances](5-reconfigure-instances.md)
 {% endhint %}
-

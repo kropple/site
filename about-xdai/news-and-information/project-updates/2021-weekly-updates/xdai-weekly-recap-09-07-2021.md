@@ -8,20 +8,20 @@ description: 03/07/2021 - 09/07/2021
 
 ## Sign up for Weekly Updates via Email
 
-Having trouble keeping up with the news? We've started a [Substack site](https://xdai.substack.com/) for weekly updates and breaking project integrations and news. Sign up to get updates delivered right to your inbox and consolidate your information flow!
+Having trouble keeping up with the news? We've started a [Substack site](https://xdai.substack.com) for weekly updates and breaking project integrations and news. Sign up to get updates delivered right to your inbox and consolidate your information flow!
 
 {% hint style="success" %}
-💌 [Sign up to receive weekly email updates](https://xdai.substack.com/) 💌 
+:love\_letter: [Sign up to receive weekly email updates](https://xdai.substack.com) :love\_letter:&#x20;
 {% endhint %}
 
 ## POSDAO & Protocol Updates
 
 {% hint style="success" %}
-The protocol is currently in Epoch **63.**  
-  
-There are **17** validator pools with **365 delegators\(** ⬆ **5.5%** from previous week\) ****staking a total of **657,860 STAKE \(** ⬆ **1.2%** from previous week\).  
-  
-High pool APY is currently **20.15%**, low is **0%** _\(stats as of 25/06/2021 15:00 UTC - currently one node operator is down resulting in 0% APR for that validator and delegators\)_.
+The protocol is currently in Epoch **63.**\
+****\
+****There are **17** validator pools with **365 delegators( **:arrow\_up: **5.5%** from previous week)** **staking a total of **657,860 STAKE ( **:arrow\_up: **1.2% **from previous week).\
+\
+High pool APY is currently **20.15%**, low is **0% **_(stats as of 25/06/2021 15:00 UTC - currently one node operator is down resulting in 0% APR for that validator and delegators)_.
 
 * Staking Statistics: [https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)
 * Staking Platform: [https://blockscout.com/xdai/mainnet/](https://blockscout.com/xdai/mainnet/validators)
@@ -67,7 +67,7 @@ Unidex limit order platform is expanding to the xDai network.
 
 {% embed url="https://unidexfinance.medium.com/unidex-limit-order-expansion-more-36cfe2e33a5" %}
 
-### Symmetric 
+### Symmetric&#x20;
 
 Symmetric AMM is live on xDai.
 
@@ -90,6 +90,4 @@ The XLR8R curated digital music NFT platform launched its beta version on xDai. 
 ### Pillar.fi Welcomes xDai Users
 
 {% embed url="https://twitter.com/pillarwallet/status/1413529106755424258" %}
-
-
 

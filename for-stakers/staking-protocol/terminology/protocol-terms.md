@@ -28,22 +28,22 @@ There are plans to explore pluggable consensus options in future iterations of t
 
 ### Block/Bridge Rewards
 
-Validators and their delegators receive rewards in exchange for securing the chain. **Rewards are divided equally among each validator pool participating in the current staking epoch**. After each staking epoch, reward funds collected by validator pools are available for validators and delegators to claim using the [claim function](../staking-operations/claim-stake.md). 
+Validators and their delegators receive rewards in exchange for securing the chain. **Rewards are divided equally among each validator pool participating in the current staking epoch**. After each staking epoch, reward funds collected by validator pools are available for validators and delegators to claim using the [claim function](../staking-operations/claim-stake.md).&#x20;
 
 Within each pool, these rewards are further divided based on the reward.
 
 {% hint style="info" %}
-Details of the reward mechanism process are subject to change as we fine tune the model. 
+Details of the reward mechanism process are subject to change as we fine tune the model.&#x20;
 {% endhint %}
 
 Rewards take two forms; block and bridge rewards.
 
-* Block rewards are allocated in STAKE, and sent to the validator pool \(validators & delegators\) responsible for creating and signing a block. **Transaction fees in xDai are given to validators only \(not the validator pool\)**.
-* Bridge rewards are collected whenever funds \(either xDai or STAKE\) are moved into or out of the chain. An entrance or exit fee may be charged, and this fee is equally distributed to all validator pools in the validator set which are active when the funds are bridged. Fee amounts are customizable through governance decisions and are currently TBD.
+* Block rewards are allocated in STAKE, and sent to the validator pool (validators & delegators) responsible for creating and signing a block. **Transaction fees in xDai are given to validators only (not the validator pool)**.
+* Bridge rewards are collected whenever funds (either xDai or STAKE) are moved into or out of the chain. An entrance or exit fee may be charged, and this fee is equally distributed to all validator pools in the validator set which are active when the funds are bridged. Fee amounts are customizable through governance decisions and are currently TBD.
 
 Reward funds collected by validator pools are distributed amongst the validator and the delegators according to the reward distribution rules at the end of each staking epoch.
 
-![Configurable Reward Structure](../../../.gitbook/assets/block_bridge_rewards.png)
+![Configurable Reward Structure](../../../.gitbook/assets/Block\_Bridge\_rewards.png)
 
 STAKE is the staking token, and xDai is the Native Coin. The 70/30 Split rules are subject to change and detailed in the [fees section](protocol-terms.md#fees).
 
@@ -51,22 +51,25 @@ STAKE is the staking token, and xDai is the Native Coin. The 70/30 Split rules a
 
 TokenBridge instances are used to connect two chains to one another, allowing for asset conversion from 1 chain to the other. The basic mechanism involves bridge smart contracts which lock assets on one side and mint them on the other. When the assets are moved back across the bridge, they are burned and unlocked. Bridges have their own set of validators which monitor token transfers and a [governing board responsible for updates to the bridge and bridge parameters. ](../../../about-xdai/faqs/bridges-xdai-bridge-and-omnibridge.md#what-is-the-bridge-governance-board)
 
-![DPOS token is the STAKE token](../../../.gitbook/assets/bridge_1.png)
+![DPOS token is the STAKE token](../../../.gitbook/assets/Bridge\_1.png)
 
 The xDai Stable Chain currently operates with two bridges:
 
-1. **xDai Bridge**: An ERC20-to-Native Bridge where DAI may be converted to xDai and vice versa. When Dai is “bridged”, the specified amount of DAI is locked in a contract and a corresponding amount of xDai is minted on the xDai Stable chain. During this minting process, a TBD fee is collected for validators. For example, if the bridge fee is 1% and 100 DAI are “bridged”, 99 xDai are transferred to the user’s wallet and 1 xDai is equally distributed amongst the current validator pools\). When converted back, an exit fee may also be collected in the same manner. Any collected fees are distributed to validators and delegators at the end of a staking epoch. xDai Bridge link: [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/)  
-2. **OmniBridge** An all purpose ERC20 and ERC677 bridge where tokens on the Ethereum mainnet are converted to equivilant tokens on xDai. A fee may also be collected on entrance/exit and distributed to current validator pools. OmniBridge link: [https://omni.xdaichain.com/](https://omni.xdaichain.com/)
+1. **xDai Bridge**: An ERC20-to-Native Bridge where DAI may be converted to xDai and vice versa. When Dai is “bridged”, the specified amount of DAI is locked in a contract and a corresponding amount of xDai is minted on the xDai Stable chain. During this minting process, a TBD fee is collected for validators. For example, if the bridge fee is 1% and 100 DAI are “bridged”, 99 xDai are transferred to the user’s wallet and 1 xDai is equally distributed amongst the current validator pools). When converted back, an exit fee may also be collected in the same manner. Any collected fees are distributed to validators and delegators at the end of a staking epoch.\
+   xDai Bridge link: [https://bridge.xdaichain.com/](https://bridge.xdaichain.com)\
+   &#x20;
+2. **OmniBridge **An all purpose ERC20 and ERC677 bridge where tokens on the Ethereum mainnet are converted to equivilant tokens on xDai. A fee may also be collected on entrance/exit and distributed to current validator pools.\
+   OmniBridge link: [https://omni.xdaichain.com/](https://omni.xdaichain.com)
 
 Future bridge implementations will extend the multi-staking capability of the STAKE token, allowing additional chains to use STAKE  as a staking token via bridge connections.
 
-![Additional chains connected by TokenBridge instances](../../../.gitbook/assets/bridge_2.png)
+![Additional chains connected by TokenBridge instances](../../../.gitbook/assets/Bridge\_2.png)
 
-### DPOS \(Delegated Proof of Stake\)
+### DPOS (Delegated Proof of Stake)
 
-Delegated Proof of Stake \(DPOS\) is an extension of Proof of Stake - a consensus model that provides rewards to chain validators in exchange for providing an amount of tokens as stake. This staking process incentivizes validators to act in the best interests of the network, as their stake will be impacted \(frozen\) if malicious behavior is detected.
+Delegated Proof of Stake (DPOS) is an extension of Proof of Stake - a consensus model that provides rewards to chain validators in exchange for providing an amount of tokens as stake. This staking process incentivizes validators to act in the best interests of the network, as their stake will be impacted (frozen) if malicious behavior is detected.
 
-To increase decentralization in this model and encourage wider community participation, the **DPOS model allows any token holders to deposit STAKE**. Delegators do this by placing stake on potential validator pools \(either current validators who may be elected to the next validator set, or candidates who are not currently validators\).
+To increase decentralization in this model and encourage wider community participation, the** DPOS model allows any token holders to deposit STAKE**. Delegators do this by placing stake on potential validator pools (either current validators who may be elected to the next validator set, or candidates who are not currently validators).
 
 Delegators do not participate in block production themselves, but provide leverage to candidates they feel will make good validators. If these candidates are selected, rewards are divided amongst the validator and their delegators.
 
@@ -76,13 +79,13 @@ For more information on DPOS, see: [https://steemit.com/dpos/@dantheman/dpos-con
 
 ### Emission Curve, Emission Schedule
 
-The emission curve or schedule refers to the total amount of tokens that will be generated by a platform. The STAKE token will be released according to a [unique emission schedule](../../stake-token/stake-token-distribution/). 
+The emission curve or schedule refers to the total amount of tokens that will be generated by a platform. The STAKE token will be released according to a [unique emission schedule](../../stake-token/stake-token-distribution/).&#x20;
 
 xDai emission rates will not be determined by the protocol, as xDai correlates 1:1 with DAI, and the amount of xDai is always equal to the amount of DAI locked in the bridge smart contract.
 
-### Epoch \(Staking Epoch\)
+### Epoch (Staking Epoch)
 
-The time duration \(in blocks\) for which the validator set is selected. On the xDai Stable Chain AuRa implementation, each staking epoch lasts for 120992 blocks, which corresponds to a one-week timeframe with 5 second blocks. This value is configurable for other chains adopting the protocol.
+The time duration (in blocks) for which the validator set is selected. On the xDai Stable Chain AuRa implementation, each staking epoch lasts for 120992 blocks, which corresponds to a one-week timeframe with 5 second blocks. This value is configurable for other chains adopting the protocol.
 
 ### Epoch Number
 
@@ -92,8 +95,8 @@ The number of the current staking epoch. The staking epoch increments every 1209
 
 Fees are collected from users of the xDai chain and divided amongst validator pools. Fees are charged for bridge events and transactions.
 
-* **Bridge fees**: A transaction percentage fee may be charged whenever tokens are locked or unlocked in a bridge contract. Entrance and exit fees may be collected for both Dai &lt;-&gt; xDai transfers \(collected in xDai\) as well as STAKE \(mainnet\) &lt;-&gt; STAKE \(xDai chain\) transfers \(collected in STAKE\). Assessed bridge fees are split equally between validator pools active at the end of staking epoch. Fee percentages are determined through the [Bridge Governing Process](../../../about-xdai/faqs/bridges-xdai-bridge-and-omnibridge.md#what-is-the-bridge-governance-board).
-* **Transaction Fees \(Gas fees\)**: Transaction fees are assessed for any xDai transactions such as sending xDai to another wallet or interacting with a smart contract. These fees are currently sent to the validator who seals the block in which the transactions take place \(transaction fees are not split among pool participants, they are only received by the validator\). Currently, transaction fees on the xDai chain are extremely low. As chain usage grows, these fees may be redirected to support additional aspects of the protocol. 
+* **Bridge fees**: A transaction percentage fee may be charged whenever tokens are locked or unlocked in a bridge contract. Entrance and exit fees may be collected for both Dai <-> xDai transfers (collected in xDai) as well as STAKE (mainnet) <-> STAKE (xDai chain) transfers (collected in STAKE). Assessed bridge fees are split equally between validator pools active at the end of staking epoch. Fee percentages are determined through the [Bridge Governing Process](../../../about-xdai/faqs/bridges-xdai-bridge-and-omnibridge.md#what-is-the-bridge-governance-board).
+* **Transaction Fees (Gas fees)**: Transaction fees are assessed for any xDai transactions such as sending xDai to another wallet or interacting with a smart contract. These fees are currently sent to the validator who seals the block in which the transactions take place (transaction fees are not split among pool participants, they are only received by the validator). Currently, transaction fees on the xDai chain are extremely low. As chain usage grows, these fees may be redirected to support additional aspects of the protocol.&#x20;
 
 ### Hard Cap
 
@@ -107,8 +110,8 @@ Candidates and validators are responsible for maintaining a node capable of veri
 
 Block rewards are shared by all validator pools participating in consensus. Rewards are distributed to validator pools according to the following rules:
 
-1. Each pool within the validator set receives an equal share of the reward \(if all validators always produce blocks and don’t skip\) at the end of staking epoch. Skips will results in a lower reward share. If there are too many skips, [a validator pool can be banned](operational-terms.md#ban).
-2. Pool rewards are distributed proportionally \(can be minimums set, currently proportional based on stake\).
+1. Each pool within the validator set receives an equal share of the reward (if all validators always produce blocks and don’t skip) at the end of staking epoch. Skips will results in a lower reward share. If there are too many skips, [a validator pool can be banned](operational-terms.md#ban).
+2. Pool rewards are distributed proportionally (can be minimums set, currently proportional based on stake).
 
 Rewards are tallied and stored in a smart contract as each block is closed, and are distributed at the end of each staking epoch.
 
@@ -116,17 +119,17 @@ Detailed examples are available in the POSDAO whitepaper. [POSDAO white paper](h
 
 ### Secret Number, Randomness Beacon
 
-The protocol implements a random number generator similar to ​RANDAO​, which is used to select a set of validators from the group of candidates at the start of each staking epoch. This number is used to add random variation to validator selection, although candidates with larger pools have a higher likelihood of selection to a validator set for each staking epoch \(candidates with higher stakes are probabilistically selected as validators for more staking epochs\).
+The protocol implements a random number generator similar to ​RANDAO​, which is used to select a set of validators from the group of candidates at the start of each staking epoch. This number is used to add random variation to validator selection, although candidates with larger pools have a higher likelihood of selection to a validator set for each staking epoch (candidates with higher stakes are probabilistically selected as validators for more staking epochs).
 
-This random number is generated by the current validator set during the staking epoch. Generation consists of several commits and reveal rounds, resulting in a cumulative process where entropy increases over the course of the epoch. If a validator skips revealing their secret number too often, or fails to reveal it in the last collection round \(which can influence selection for the next validator set\), they are treated as malicious and [banned](operational-terms.md#ban).
+This random number is generated by the current validator set during the staking epoch. Generation consists of several commits and reveal rounds, resulting in a cumulative process where entropy increases over the course of the epoch. If a validator skips revealing their secret number too often, or fails to reveal it in the last collection round (which can influence selection for the next validator set), they are treated as malicious and [banned](operational-terms.md#ban).
 
 ### STAKE token
 
-STAKE is the staking token for the xDai Stable Chain. It is an ERC20 equivalent \(ERC677\) on the Ethereum mainnet, and an ERC20 equivalent \(ERC677\) when bridged to the xDai chain. STAKE can be obtained through various [centralized and decentralized exchange listings](https://www.coingecko.com/en/coins/xdai-stake).
+STAKE is the staking token for the xDai Stable Chain. It is an ERC20 equivalent (ERC677) on the Ethereum mainnet, and an ERC20 equivalent (ERC677) when bridged to the xDai chain. STAKE can be obtained through various [centralized and decentralized exchange listings](https://www.coingecko.com/en/coins/xdai-stake).
 
 ### Technical Requirements
 
-In order to run a node, certain technical requirements should be met. 
+In order to run a node, certain technical requirements should be met.&#x20;
 
 Minimal system requirements:
 
@@ -134,19 +137,18 @@ Minimal system requirements:
 * CPU: minimum 2 cores
 * RAM: minimum 4GB
 * Disk: SSD minimum 50GB
-* Open network ports: SSH port \(default 22 TCP\), 30303 TCP/UDP. For security purposes, close other ports.
+* Open network ports: SSH port (default 22 TCP), 30303 TCP/UDP. For security purposes, close other ports.
 
 ### Withdrawal Rules
 
-Withdrawals are allowed during the [open staking window](operational-terms.md#staking-window).  
+Withdrawals are allowed during the [open staking window](operational-terms.md#staking-window). &#x20;
 
-* **Only STAKE placed in the current staking epoch may be immediately withdrawn from a validator’s pool**. 
+* **Only STAKE placed in the current staking epoch may be immediately withdrawn from a validator’s pool**.&#x20;
 * An order for withdrawal can be placed on an active validating pool. The ordered amount can be claimed during subsequent staking epochs.
-* Any amount of STAKE including the entire stake amount \(minus any stake currently ordered for withdrawal and not yet claimed\) can be withdrawn from an active candidate during the staking window.
+* Any amount of STAKE including the entire stake amount (minus any stake currently ordered for withdrawal and not yet claimed) can be withdrawn from an active candidate during the staking window.
 * If an order for withdrawal has been placed, the amount can be changed during a staking epoch. To add an additional amount to withdraw, simply enter the additional amount. To withdraw a lower amount, enter a negative number to reduce the ordered amount. A transaction is created for each adjustment.
 * Stake may be withdrawn during the open staking window from an inactive validator, as long as that validator is not banned. If banned, the banned until date will show the date when stake may be withdrawn from the pool.
 
 {% hint style="info" %}
-See more details in the [Staking Operations -&gt; Withdraw Stake](../staking-operations/withdraw-stake.md) section.
+See more details in the [Staking Operations -> Withdraw Stake](../staking-operations/withdraw-stake.md) section.
 {% endhint %}
-

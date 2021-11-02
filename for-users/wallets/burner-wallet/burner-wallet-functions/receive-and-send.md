@@ -1,16 +1,16 @@
 ---
-description: 'xDai, ETH & DAI'
+description: xDai, ETH & DAI
 ---
 
 # Receive & Send
 
 Sending & Receiving is intuitive, and is based around QR codes for mobile. You can also copy/paste addresses for other formats. Primary usage is for sending and receiving xDai, however you can also send/receive ETH and DAI through the Burner Wallet.
 
-## Receive \(xDai or ETH/Dai\)
+## Receive (xDai or ETH/Dai)
 
 1\) Click the Receive button.
 
-![](../../../../.gitbook/assets/bw-receive-1%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
+![](<../../../../.gitbook/assets/bw-receive-1 (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 2\) The Sender can scan the QR, or you can copy the address and send manually.
 
@@ -20,13 +20,13 @@ Note that the wallet address is functional on both the Ethereum Mainnet and the 
 
 ![](../../../../.gitbook/assets/bw-received.png)
 
-Here we received some xDai and ETH \(in 2 separate transactions, one sent from the xDai chain and one from the ETH mainnet\)
+Here we received some xDai and ETH (in 2 separate transactions, one sent from the xDai chain and one from the ETH mainnet)
 
-3\) Click View on BlockScout to see transfers for this wallet address. Transactions will appear below, including any chat transactions \(that's right, besides sending tx you can also send and receive messages!\)
+3\) Click View on BlockScout to see transfers for this wallet address. Transactions will appear below, including any chat transactions (that's right, besides sending tx you can also send and receive messages!)
 
 ![Check xDai transactions on BlockScout](../../../../.gitbook/assets/bw-viewonbs.png)
 
-![xDai transaction](../../../../.gitbook/assets/blockscout.png)
+![xDai transaction](../../../../.gitbook/assets/BlockScout.png)
 
 You can also switch to the Ethereum mainnet to check your address on the mainnet, if you've transferred any Eth or Dai.
 
@@ -41,13 +41,13 @@ You can also switch to the Ethereum mainnet to check your address on the mainnet
 2\) **Enter Details:**
 
 * Click the orange square to open scanner, or paste in an address
-* Enter amount of xDai to send \(you cannot send Eth or Dai\)
+* Enter amount of xDai to send (you cannot send Eth or Dai)
 * Enter an optional message to appear with your transaction
 * Click **Send**
 
-![](../../../../.gitbook/assets/bw-send%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
+![](<../../../../.gitbook/assets/bw-send (2) (2) (2) (2) (2) (2) (2) (2) (2) (1).png>)
 
-3\) It will send very quickly \(due to xDai speed\)
+3\) It will send very quickly (due to xDai speed)
 
 ![](../../../../.gitbook/assets/bw-note.png)
 
@@ -74,4 +74,3 @@ You can also send DAI or ETH from your Burner Wallet - this functionality is on 
 4\) Follow progress in the app. When complete, balances will reflect the new amounts.
 
 ![](../../../../.gitbook/assets/bw-exchange4.png)
-

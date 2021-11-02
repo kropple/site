@@ -7,7 +7,7 @@ Dappquery is a community driven analytics tool for xDai Dapps which includes the
 * Dozens of visualization chart types 💹
 * Blend multiple blockchain protocols data like IPFS, ENS etc. in one chart along with xDai contract data.
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](<../../.gitbook/assets/image (8).png>)
 
 {% hint style="info" %}
 More details on **xDai + Dappquery**: [https://dappquery.com/integration/xdai](https://dappquery.com/integration/xdai)
@@ -19,22 +19,22 @@ More details on **xDai + Dappquery**: [https://dappquery.com/integration/xdai](h
 
 ### Steps to connect your xDai Subgraph
 
-* Signup/Login to [https://dappquery.com/](https://dappquery.com/)
+* Signup/Login to [https://dappquery.com/](https://dappquery.com)
 * Click the **My Project Button** in the header.
-* Click the **Connect SubGraph** button**.**
+* Click the **Connect SubGraph **button**.**
 * Fill details about your Dapp ✍️
 * Select platform as "POA" and network as "xDAi".
 * Input your subgraph endpoint.
 * Enter your website.
 * Click **Register**.
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](<../../.gitbook/assets/image (9).png>)
 
 ### Steps to connect your xDai Smart Contract
 
-* Signup/Login to [https://dappquery.com/](https://dappquery.com/)
+* Signup/Login to [https://dappquery.com/](https://dappquery.com)
 * Click the **My Project Button** in the header.
-* Click the **Connect Smart Contract** button**.**
+* Click the **Connect Smart Contract **button**.**
 * Fill details about your Dapp ✍️
 * Select platform as "POA" and network as "xDAi".
 * Search and add your contract address using the autocomplete feature.
@@ -54,9 +54,9 @@ More details on **xDai + Dappquery**: [https://dappquery.com/integration/xdai](h
 
 Track metrics and dashboards of popular xDai Dapps on the xDai explorer: [https://dappquery.com/category/xdai](https://dappquery.com/category/xdai)
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](<../../.gitbook/assets/image (9) (2).png>)
 
-## **Example** Dashboards
+## **Example **Dashboards
 
 ### **Dark Forest Leaderboard and Player Dashboard**
 
@@ -68,9 +68,9 @@ Track metrics and dashboards of popular xDai Dapps on the xDai explorer: [https:
 
 **Player Dashboard**: [https://dappquery.com/dapp/dark-forest-player-dashboard-10061](https://dappquery.com/dapp/dark-forest-player-dashboard-10061)
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](<../../.gitbook/assets/image (10).png>)
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](<../../.gitbook/assets/image (11).png>)
 
 ### **OmniBridge Dashboard**
 
@@ -78,11 +78,9 @@ Track metrics and dashboards of popular xDai Dapps on the xDai explorer: [https:
 
 **Dashboard Link**: [https://dappquery.com/dapp/omnibridge-10019](https://dappquery.com/dapp/omnibridge-10019)
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](<../../.gitbook/assets/image (12).png>)
 
-![](../../.gitbook/assets/image%20%2811%29.png)
-
-
+![](<../../.gitbook/assets/image (14).png>)
 
 
 

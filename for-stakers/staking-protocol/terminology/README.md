@@ -6,11 +6,11 @@ description: Staking Terms are linked below
 
 The POSDAO staking algorithm introduces many concepts and terms. Find links to common terms below. Terms are subdivided into 3 categories:
 
-**Protocol:** Terms related to the underlying POSDAO protocol such as reward mechanism, emissions, bridge functionality and protocol rules.
+**Protocol: **Terms related to the underlying POSDAO protocol such as reward mechanism, emissions, bridge functionality and protocol rules.
 
 **Participant:** Terms related to consensus keepers - candidates, validators and delegators who protect the chain.
 
-**Operational:** Terms related to actions a participant might take when adding, moving or removing stake. Also relates to terminology in the UI such as stakes ratio and balances. 
+**Operational:** Terms related to actions a participant might take when adding, moving or removing stake. Also relates to terminology in the UI such as stakes ratio and balances.&#x20;
 
 
 
@@ -63,4 +63,3 @@ The POSDAO staking algorithm introduces many concepts and terms. Find links to c
 * [Stakes Ratio](operational-terms.md#stakes-ratio)
 {% endtab %}
 {% endtabs %}
-

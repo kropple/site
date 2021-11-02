@@ -4,25 +4,25 @@ description: September 12 - September 18 2020
 
 # ⚔️ xDai Weekly Recap - 18/09/2020
 
-![](../../../../.gitbook/assets/green-and-black-modern-sales-marketing-presentation%20%2811%29.png)
+![](<../../../../.gitbook/assets/Green and Black Modern Sales Marketing Presentation (11).png>)
 
-## 🤝 Integrations on xDai
+## :handshake: Integrations on xDai
 
-🎉 2 Big Announcements this week!
+:tada: 2 Big Announcements this week!
 
-### ✅ 🦉 Gnosis
+### :white\_check\_mark: :owl: Gnosis
 
 Gnosis partnership announced! We're so excited for Gnosis to start deploying their entire tech stack on xDai and begin solving the Ethereum gas crisis.
 
 {% embed url="https://blog.gnosis.pm/gnosis-protocol-and-xdai-partnership-1de0e48fb14b" %}
 
-### ✅ HOPR
+### :white\_check\_mark: HOPR
 
 The HOPR Network incentivized testnet is running on xDai. HOPR testnet participants will be the first to gain access to future ERC-20 HOPR tokens, which will be distributed with the HOPR mainnet launch in late 2020.
 
 {% embed url="https://medium.com/hoprnet/hopr-partners-with-xdai-to-launch-incentivized-testnet-for-network-level-data-privacy-3503721d0374" %}
 
-## 🦋 Migrations
+## :butterfly: Migrations
 
 ### ✅  Commons Stack & Conviction Voting
 
@@ -40,19 +40,19 @@ The HOPR Network incentivized testnet is running on xDai. HOPR testnet participa
 
 {% embed url="https://twitter.com/santteegt/status/1306094916544745472" %}
 
-###  ✅  EthicHub
+### &#x20;✅  EthicHub
 
 {% embed url="https://twitter.com/xdaichain/status/1306411298729668608" %}
 
-## 💻 Development News
+## :computer: Development News
 
-###  ✅  Round 2 Liquidity Pool Distributions
+### &#x20;✅  Round 2 Liquidity Pool Distributions
 
 LP distributions went out to the top 100 liquidity pools. Distributions included those participating in SakeSwap.
 
 {% embed url="https://twitter.com/xdaichain/status/1305577600983605248" %}
 
-###  ✅  WalletConnect Integration with EasyStaking
+### &#x20;✅  WalletConnect Integration with EasyStaking
 
 See our [simple instructions](../../../../for-stakers/easy-staking/instructions/walletconnect.md) for connecting your wallet to EasyStaking.
 
@@ -70,12 +70,11 @@ See our [simple instructions](../../../../for-stakers/easy-staking/instructions/
 
 {% embed url="https://twitter.com/xdaichain/status/1305606841016242176" %}
 
-## 🎨 Design Contests
+## :art: Design Contests
 
 Two art contests are still ongoing - prizes for Nifty Ink and Twitter Banner designs:
 
 * Nifty: [https://forms.gle/LJGSDWTauwAFWVZi7](https://forms.gle/LJGSDWTauwAFWVZi7)
 * Twitter: [https://airtable.com/shrWqBjOHBzsdIdDI](https://airtable.com/shrWqBjOHBzsdIdDI)
 
-## 
-
+##

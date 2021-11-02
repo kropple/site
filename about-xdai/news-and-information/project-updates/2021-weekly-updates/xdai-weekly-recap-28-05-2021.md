@@ -4,28 +4,28 @@ description: 22 May - 28 May 2021
 
 # ⚔️ xDai Weekly Recap - 28/05/2021
 
-![](../../../../.gitbook/assets/weekly-update-5-28%20%281%29.png)
+![](<../../../../.gitbook/assets/weekly-update-5-28 (1).png>)
 
-## 👷♀ POSDAO Updates
+## :woman\_construction\_worker: POSDAO Updates
 
 {% hint style="success" %}
-The protocol is currently in Epoch **58.**  
-  
-There are **16** validator pools with **272** delegators staking a total of **608,769** STAKE - over 75% of the total STAKE supply on xDai.
+The protocol is currently in Epoch **58.**\
+****\
+****There are **16** validator pools with **272** delegators staking a total of **608,769 **STAKE - over 75% of the total STAKE supply on xDai.
 
-The new Stakefish pool has the highest amount staked, with 97K+ in the pool.  
-  
-High pool APY is currently **18.28%**, low is **10.92%** _\(stats as of 28/05/2021 14:30 UTC\)_.
+The new Stakefish pool has the highest amount staked, with 97K+ in the pool.\
+\
+High pool APY is currently **18.28%**, low is **10.92% **_(stats as of 28/05/2021 14:30 UTC)_.
 
 * Staking Statistics: [https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)
 * Staking Platform: [https://blockscout.com/xdai/mainnet/validators](https://blockscout.com/xdai/mainnet/validators)
 {% endhint %}
 
-## ✏ Protocol Updates
+## :pencil2: Protocol Updates
 
 ### Prior Pending Claims Amnesty
 
-Assets worth more than 360K were sent to users on Ethereum from prior pending claims from the xDaiBridge and the Omnibridge. These assets consisted of pending claims where users had not completed the process on mainnet. Many had been in the contract for months. The funds were released from the bridge contracts and the xDai team paid the tx fees totaling 9.65 ETH for over 1000 transactions. This was a one-time event with no immediate plans for future amnesty. 
+Assets worth more than 360K were sent to users on Ethereum from prior pending claims from the xDaiBridge and the Omnibridge. These assets consisted of pending claims where users had not completed the process on mainnet. Many had been in the contract for months. The funds were released from the bridge contracts and the xDai team paid the tx fees totaling 9.65 ETH for over 1000 transactions. This was a one-time event with no immediate plans for future amnesty.&#x20;
 
 **xDai Bridge**
 
@@ -37,7 +37,7 @@ Assets worth more than 360K were sent to users on Ethereum from prior pending cl
 
 **OmniBridge**
 
-* Amount: 200K+ USD value 
+* Amount: 200K+ USD value&#x20;
 * Addresses: 570
 * Tx Fees: 6.06 ETH
 * USD equivalent: $15,200.00
@@ -57,13 +57,13 @@ _\*Only non-contract wallets with a 0 xDai balance receive xDai._
 
 xDai continues to see month-over-month usage and transactional growth. 6.3M transactions have been processed in the past 30 days. Source: [https://duneanalytics.com/maxaleks/xDai-Usage](https://duneanalytics.com/maxaleks/xDai-Usage)
 
-![Month over Month Txs on xDai](../../../../.gitbook/assets/3-txpermonth%20%281%29.png)
+![Month over Month Txs on xDai](<../../../../.gitbook/assets/3 - txpermonth.png>)
 
-![Source: AnyBlock Analytics](../../../../.gitbook/assets/may2021.png)
+![Source: AnyBlock Analytics](<../../../../.gitbook/assets/may2021 (1).png>)
 
 ### Gas Usage per Day
 
-A new metric was added to measure gas use percentage. Gas usage is often a more telling metric than txs per day, as it captures the total use for all types of transactions, including resource intensive ones \(some complex contract transactions can exceed 7M gas for 1 tx for example\). Several high resource transactions can fill an entire block.
+A new metric was added to measure gas use percentage. Gas usage is often a more telling metric than txs per day, as it captures the total use for all types of transactions, including resource intensive ones (some complex contract transactions can exceed 7M gas for 1 tx for example). Several high resource transactions can fill an entire block.
 
 ![](../../../../.gitbook/assets/gas-usage.png)
 
@@ -71,13 +71,13 @@ A new metric was added to measure gas use percentage. Gas usage is often a more 
 
 Over 600K STAKE is now protecting the protocol on xDai, over 75% of STAKE supply available on the network. Source: [https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)
 
-![](../../../../.gitbook/assets/total-staked-1.png)
+![](<../../../../.gitbook/assets/total staked -1.png>)
 
-## 🦋 Project Updates
+## :butterfly: Project Updates
 
-### DarkForest v0.6 
+### DarkForest v0.6&#x20;
 
-A new round of darkforest is live on xDai! DF transactions have already surpassed Perpetual Protocol to claim the \#1 spot for most daily txs by a single application on xDai.
+A new round of darkforest is live on xDai! DF transactions have already surpassed Perpetual Protocol to claim the #1 spot for most daily txs by a single application on xDai.
 
 ![](../../../../.gitbook/assets/df-may.png)
 
@@ -85,7 +85,7 @@ A new round of darkforest is live on xDai! DF transactions have already surpasse
 
 ### Clover Finance Integration
 
-{% embed url="https://twitter.com/clover\_finance/status/1397942389436608519" %}
+{% embed url="https://twitter.com/clover_finance/status/1397942389436608519" %}
 
 ### Orchid on Android
 
@@ -95,15 +95,13 @@ A new round of darkforest is live on xDai! DF transactions have already surpasse
 
 10K in rewards for the new market contest. Top 5 markets win 1500 xDAI and 750 REP on xDXdao Next 5 markets win 500 xDAI and 250 REP on xDXdao.
 
-{% embed url="https://twitter.com/Omen\_eth/status/1396572004774400000" %}
+{% embed url="https://twitter.com/Omen_eth/status/1396572004774400000" %}
 
 ### DxSale xDai Support
 
 DxSale application allows users to create, launch and secure tokens. They offer multi-chain support and now include xDai support.
 
 {% embed url="https://dxsale.network/" %}
-
-
 
 
 
