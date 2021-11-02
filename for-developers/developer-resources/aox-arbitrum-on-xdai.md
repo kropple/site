@@ -18,9 +18,9 @@ For information on Arbitrum and usage basics, see the [Arbitrum docs](https://de
 | WSS             | [wss://arbitrum.xdaichain.com/wss](wss://arbitrum.xdaichain.com/wss)                                                                              |
 | Chain ID        | 200                                                                                                                                               |
 | Explorer        | [https://blockscout.com/xdai/aox/](https://blockscout.com/xdai/aox/)                                                                              |
-| Rollup Contract | [0xc6a64a792618d834ba7f4126274f57db043ce095](https://blockscout.com/xdai/mainnet/address/0xc6A64a792618D834ba7F4126274F57DB043CE095/transactions) |
-| Inbox Contract  | [0x556c18a6fdcd52562ec1130212f6113e3f818335](https://blockscout.com/xdai/mainnet/address/0x556c18a6FDcd52562Ec1130212f6113e3F818335/transactions) |
-| Outbox Contract | [0x0532D745F467fE541620564166749586f9fFe799](https://blockscout.com/xdai/mainnet/address/0x0532D745F467fE541620564166749586f9fFe799/transactions) |
+| Rollup Contract | [0xB17F1CaF8aceA14B9Bb877E67EAAde785E7D6F39](https://blockscout.com/xdai/mainnet/address/0xB17F1CaF8aceA14B9Bb877E67EAAde785E7D6F39/transactions) |
+| Inbox Contract  | [0x9ab4bf8a231854ce5983c5fd69664859f717359d](https://blockscout.com/xdai/mainnet/address/0x9Ab4bf8A231854ce5983C5fd69664859F717359D/transactions) |
+| Outbox Contract | [0xD4319f5F233d907382911c5c3Ceea3cc68921c20](https://blockscout.com/xdai/mainnet/address/0xD4319f5F233d907382911c5c3Ceea3cc68921c20/transactions) |
 
 ## MetaMask Custom Network
 
