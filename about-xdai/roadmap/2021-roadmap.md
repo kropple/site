@@ -72,7 +72,7 @@ Following the Berlin HF, the gas limit per block was raised from 12.5M to 17M, r
 An NFT bridge to allow users easy portability between xDai and Ethereum for all ERC721 tokens. This will improve interoperability and provide options for NFT minting and cross-chain transfers.
 
 {% hint style="info" %}
-_Update: Bridge is operational, UI is in development.  _[_More information_](https://docs.tokenbridge.net/eth-xdai-amb-bridge/nft-omnibridge-extension)__
+_Update: Bridge is fully operational  _[_More information_](../../for-users/bridges/nft-omnibridge.md)__
 {% endhint %}
 
 ![UI Preview](../../.gitbook/assets/nft-bridge.png)
@@ -84,9 +84,17 @@ _Update: Bridge is operational, UI is in development.  _[_More information_](htt
 
 We will begin accepting applications for developers and projects requiring support for wave 1 of the Grants Program. Grants awards are TBD as we compile the early submissions and will announce once the program is live.
 
+## L2 scalability and composability for token transfers on xDai
+
+:dart: **Target Date**: Research ongoing, no definitive end date.
+
+:white\_check\_mark: **Status:** Phase 1 complete with [AOX Arbitrum implementation on xDai](../../for-developers/developer-resources/aox-arbitrum-on-xdai.md).&#x20;
+
+We will research adopting other platforms such as Polkadot, Cosmos, Eth2 and [optimistic rollups](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/optimistic\_rollups/) deployed to xDai to implement a scalability solution on xDai. This will enable scaling of transfers (up to 1000x) for native tokens and synthetic tokens on top of xDai.&#x20;
+
 ## **Privacy Preserving Transactions**
 
-:dart: **Target Date:** Q3 2021\
+:dart: **Target Date:** Q4 2021\
 :ballot\_box\_with\_check: **Status:** In process, defining requirements and exploring approaches
 
 Implementation of additional zero-knowledge protocols and private transactions into xDai.
@@ -101,25 +109,34 @@ We plan to research and implement privacy preserving transactions on xDai direct
 Update: We are currently working on a [ZeroPool](https://zeropool.network) integration with the bridge infrastructure to provide transaction encryption capabilities.
 {% endhint %}
 
-## EIP-1559 Test Implementation
+## EIP-1559 Implementation
 
 :dart: **Target Date**: Q3-Q4 2021\
-:ballot\_box\_with\_check: **Status:** Research and implementation details in progress
+:ballot\_box\_with\_check: **Status:** Scheduled: [More Information](../../for-validators/hard-forks/london-eip-1559-or-2021-11-11-or-19040000.md)
 
-We are planning to implement a test implementation of [EIP 1559](https://eips.ethereum.org/EIPS/eip-1559)  to explore its dynamics and benefits for the xDai chain as well as the broader Ethereum ecosystem. With successful testing, we plan to activate on xDai. _More details available soon._
+Following a successful test phase, we will activate the London Hardfork including [EIP 1559](https://eips.ethereum.org/EIPS/eip-1559) on xDai. This will change the fee structure to include a Base Fee for transactions. More on the [EIP-1559 integration on xDai](eip-1559.md).
 
 ## STAKE Beacon Chain
 
-:dart: **Target Date**: Q3 2021\
+:dart: **Target Date**: Q4 2021\
 :ballot\_box\_with\_check: **Status:** Research and development
 
-In addition to the EIP-1559 implementation we are preparing a STAKE beacon chain deployment. STAKE holders will be able to become validators on this beacon chain implementation with a very small allocation of STAKE (exact amount TBD, likely 1-10 STAKE). This will mark a first step towards additional decentralization and allow anyone to participate in the beacon chain experience. The chain will be initially be supported by a single client implementations. _More details coming soon._
+In addition to the EIP-1559 implementation we are preparing a STAKE beacon chain deployment. STAKE holders will be able to become validators on this beacon chain implementation with a very small allocation of STAKE or a tbd wrapped token (32). This will mark a first step towards additional decentralization and allow anyone to participate in the beacon chain experience. The chain will be initially be supported 2 client implementations, Lighthouse and Prysm. [_More details_](../../for-validators/consensus/sbc/)__
 
-## L2 scalability and composability for token transfers on xDai
+## Synthetic Asset Exploration and Implementation
 
-:dart: **Target Date**: Research ongoing, no definitive end date.
+:dart: **Target Date**: Q1 2022\
+:ballot\_box\_with\_check: **Status:** In process. 50% implementation with additional research upcoming.
 
-We will research adopting other platforms such as Polkadot, Cosmos, Eth2 and [optimistic rollups](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/optimistic\_rollups/) deployed to xDai to implement a scalability solution on xDai. This will enable scaling of transfers (up to 1000x) for native tokens and synthetic tokens on top of xDai.&#x20;
+Explore and implement collateral-based synthetic asset creation on xDai. We plan to leverage an UMA-based protocol. UMA (Universal Market Access) is an open-source infrastructure for deploying and enforcing synthetic assets.&#x20;
+
+There is currently  a reference implementation where sUSD can be transferred from the Ethereum Mainnet to the xDai chain and back. [sUSD example](https://docs.tokenbridge.net/eth-xdai-amb-bridge/susd-bridge-extension/transfer-susd-through-the-bridge-extension).
+
+## Eth 2 Post-Merge Trustless Bridge&#x20;
+
+:dart: **Target Date**: 2022
+
+A primary need in a multi-chain environment is a secure, cross-chain communication channel. We will begin work on a mechanism to connect two independent ETH2.0 chains and their respective execution layers (e.g. a bridge between ETH2.0 and [SBC](https://www.xdaichain.com/for-validators/consensus/sbc)). This bridge will rely directly on beacon chain validators to synchronize blocks between chains.
 
 ## POSDAO Phase 3
 
@@ -127,19 +144,11 @@ We will research adopting other platforms such as Polkadot, Cosmos, Eth2 and [op
 
 A chain created specifically to leverage [POSDAO](../../for-validators/posdao-whitepaper.md), HoneyBadger BFT and Multi-Collateral DAI. This network will be designed from the ground up with our collaborative partners [LUKSO](https://www.lukso.network) and [ARTIS](https://artis.eco) to leverage [STAKE ](../../for-stakers/stake-token/)tokens and HBBFT consensus.
 
-## Synthetic Asset Exploration and Implementation
-
-:dart: **Target Date**: Q4 2021\
-:ballot\_box\_with\_check: **Status:** In process. 50% implementation with additional research upcoming.
-
-Explore and implement collateral-based synthetic asset creation on xDai. We plan to leverage an UMA-based protocol. UMA (Universal Market Access) is an open-source infrastructure for deploying and enforcing synthetic assets.&#x20;
-
-There is currently  a reference implementation where sUSD can be transferred from the Ethereum Mainnet to the xDai chain and back. [sUSD example](https://docs.tokenbridge.net/eth-xdai-amb-bridge/susd-bridge-extension/transfer-susd-through-the-bridge-extension).
-
 ## Change Log
 
 | Update       | Items                                                                                                                                                                                                                                                           |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| _02.11.2021_ | <ul><li>Update L2 Scalability to Complete with AOX implementation</li><li>Adjust target dates for synthetic assets implementation</li><li>Add trustless bridge implementation</li></ul>                                                                         |
 | _27.07.2021_ | <p></p><ul><li>Update NFT Omnibridge Beta to complete</li><li>Update Grant Program submissions to complete</li><li>Add STAKE Beacon chain roadmap item</li></ul>                                                                                                |
 | _13.07.2021_ | <p></p><ul><li>Update POSDAO improvements to complete</li><li>Update several target dates to reflect current status</li></ul>                                                                                                                                   |
 | _19.05.2021_ | <p></p><ul><li>Update Berlin HF to complete</li><li>Adjust date for NFT Omnibridge to Q2-Q3, add UI prototype image</li><li>Adjust EIP1559 to Q2-Q3</li></ul>                                                                                                   |
