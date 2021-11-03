@@ -4,7 +4,7 @@
 
 We continue to add items and adjust priorities as the year unfolds. See the [2020 Roadmap](2020-roadmap-completed-items.md) for items completed in 2020, and the changelog for any adjustments and additions.
 
-_Last update: July 27, 2021 | _[_Changelog_](./#change-log)__
+_Last update: November 3, 2021 | _[_Changelog_](./#change-log)__
 
 {% hint style="warning" %}
 The xDai project roadmap is a high-level strategic plan designed to guide xDai research and development. **Target dates and details are reviewed regularly by the team and subject to move, adjust and change as the project evolves**. Note that only completed items ( :white\_check\_mark: Status: Complete) are considered achieved project milestones.
@@ -148,7 +148,7 @@ A chain created specifically to leverage [POSDAO](../../for-validators/posdao-wh
 
 | Update       | Items                                                                                                                                                                                                                                                           |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| _02.11.2021_ | <ul><li>Update L2 Scalability to Complete with AOX implementation</li><li>Adjust target dates for synthetic assets implementation</li><li>Add trustless bridge implementation</li></ul>                                                                         |
+| _03.11.2021_ | <ul><li>Update L2 Scalability to Complete with AOX implementation</li><li>Adjust target dates for synthetic assets implementation</li><li>Add trustless bridge implementation</li></ul>                                                                         |
 | _27.07.2021_ | <p></p><ul><li>Update NFT Omnibridge Beta to complete</li><li>Update Grant Program submissions to complete</li><li>Add STAKE Beacon chain roadmap item</li></ul>                                                                                                |
 | _13.07.2021_ | <p></p><ul><li>Update POSDAO improvements to complete</li><li>Update several target dates to reflect current status</li></ul>                                                                                                                                   |
 | _19.05.2021_ | <p></p><ul><li>Update Berlin HF to complete</li><li>Adjust date for NFT Omnibridge to Q2-Q3, add UI prototype image</li><li>Adjust EIP1559 to Q2-Q3</li></ul>                                                                                                   |
