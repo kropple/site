@@ -12,15 +12,18 @@ For information on Arbitrum and usage basics, see the [Arbitrum docs](https://de
 
 ## Basic Info
 
-| Item            | Value                                                                                                                                             |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| RPC             | [https://arbitrum.xdaichain.com/](https://arbitrum.xdaichain.com)                                                                                 |
-| WSS             | [wss://arbitrum.xdaichain.com/wss](wss://arbitrum.xdaichain.com/wss)                                                                              |
-| Chain ID        | 200                                                                                                                                               |
-| Explorer        | [https://blockscout.com/xdai/aox/](https://blockscout.com/xdai/aox/)                                                                              |
-| Rollup Contract | [0xB17F1CaF8aceA14B9Bb877E67EAAde785E7D6F39](https://blockscout.com/xdai/mainnet/address/0xB17F1CaF8aceA14B9Bb877E67EAAde785E7D6F39/transactions) |
-| Inbox Contract  | [0x9ab4bf8a231854ce5983c5fd69664859f717359d](https://blockscout.com/xdai/mainnet/address/0x9Ab4bf8A231854ce5983C5fd69664859F717359D/transactions) |
-| Outbox Contract | [0xD4319f5F233d907382911c5c3Ceea3cc68921c20](https://blockscout.com/xdai/mainnet/address/0xD4319f5F233d907382911c5c3Ceea3cc68921c20/transactions) |
+| Item                             | Value                                                                                                                                                                               |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| RPC                              | [https://arbitrum.xdaichain.com/](https://arbitrum.xdaichain.com)                                                                                                                   |
+| WSS                              | [wss://arbitrum.xdaichain.com/wss](wss://arbitrum.xdaichain.com/wss)                                                                                                                |
+| Chain ID                         | 200                                                                                                                                                                                 |
+| Explorer                         | [https://blockscout.com/xdai/aox/](https://blockscout.com/xdai/aox/)                                                                                                                |
+| Rollup Contract                  | [0xB17F1CaF8aceA14B9Bb877E67EAAde785E7D6F39](https://blockscout.com/xdai/mainnet/address/0xB17F1CaF8aceA14B9Bb877E67EAAde785E7D6F39/transactions)                                   |
+| Inbox Contract                   | [0x9ab4bf8a231854ce5983c5fd69664859f717359d](https://blockscout.com/xdai/mainnet/address/0x9Ab4bf8A231854ce5983C5fd69664859F717359D/transactions)                                   |
+| Outbox Contract                  | [0xD4319f5F233d907382911c5c3Ceea3cc68921c20](https://blockscout.com/xdai/mainnet/address/0xD4319f5F233d907382911c5c3Ceea3cc68921c20/transactions)                                   |
+| Contracts version                | [7897c3](https://github.com/OffchainLabs/arbitrum/tree/7897c37760f38bd342a2c5d512fcfe74e082cf78)                                                                                    |
+| Arb OS version                   | [48](https://github.com/OffchainLabs/arb-os/blob/7bfd973868c8a666fa51734c4cba5627df000f95/arb\_os/arbos.mexe)                                                                       |
+| Sequencer/Validator docker image | [v1.0.0-2b628f8](https://hub.docker.com/layers/offchainlabs/arb-node/v1.0.0-2b628f8/images/sha256-be32b6cb1af726495bc40be5863931b145cb54b2ba5c95e3e4af950b19c23f38?context=explore) |
 
 ## MetaMask Custom Network
 
