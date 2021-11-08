@@ -13,6 +13,7 @@ More on the [Dual Token Model](../../for-stakers/stake-token/stake-reward-mechan
 * From another user on the Ethereum Mainnet (Wallet transfer, airdrop, payment)
 * From a centralized exchange. STAKE is offered at [Huobi Global](https://www.huobi.com/en-us/exchange/),  [AscendEX (formerly BitMax)](https://bitmax.io/#/trade/usdt/stake) and others.
 * From a decentralized exchange. Stake is offered at [UniSwap](https://uniswap.exchange/swap/0x0ae055097c6d159879521c384f1d2123d1f195e6) and others.&#x20;
+* Bridging POA to WPOA and [performing a token swap](https://www.poa.network/for-users/about-poa-token/poa-merger-and-stake-swap).
 * For a full list see [https://www.coingecko.com/en/coins/xdai-stake#markets](https://www.coingecko.com/en/coins/xdai-stake#markets)
 
 ## How do I get STAKE on xDai?
@@ -40,6 +41,22 @@ Yes!&#x20;
 
 * Staking on Ethereum with [EasyStaking](https://easy-staking.xdaichain.com)&#x20;
 * Staking on xDai with [Public POSDAO](../../for-stakers/staking-protocol/)
+
+## STAKE with DeFi: How do I trade / farm / lend STAKE?
+
+There are many DeFi applications on xDai. Here you can trade with STAKE, lend or borrow STAKE, or add STAKE to different liquidity pools. Below is a short list. For more on what is possible in the xDai ecosystem, see [xdai.world](https://www.xdai.world).
+
+* [HoneyComb](https://1hive.io/#/farm)  | XCOMB
+* [Sushiswap](https://app.sushi.com/farm)  | SUSHI/STAKE
+* [Component Finance](https://xdai.component.finance/?tab=farmList\&token0=1\&token1=3)  |  CMP
+* [Swapr](https://swapr.eth.link/#/pools) | DXD
+* [Levinswap](https://farm.levinswap.org) | LEVIN
+* [Baoswap](https://farms.baoswap.xyz) | BAO
+* [Xion](https://xion.finance/farm) | XGT
+* [Elk Finance](https://app.elk.finance) | ELK
+* [Symmetric](https://xdai-pools.symmetric.exchange/#/explore)  | SYMM
+* [Minerva Streaming Farm](https://farm.minerva.digital) | MIVA
+* [Agave](https://agave.finance) Lending | CPT
 
 ## Is public staking available on xDai?
 

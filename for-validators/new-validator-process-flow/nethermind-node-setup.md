@@ -7,7 +7,7 @@ description: Instructions for setting up a Nethermind Client Node
 {% hint style="warning" %}
 Before getting started as a new validator, please follow the [Become a Candidate steps](../../for-stakers/staking-protocol/become-a-candidate-validator.md) to fund and setup your staking address. You will need this as well as information from the validator-candidates [Discord channel](https://discord.gg/mPJ9zkq) to complete the setup.
 
-Nethermind version ->  [https://github.com/NethermindEth/nethermind/releases/tag/1.11.6](https://github.com/NethermindEth/nethermind/releases/tag/1.11.6)
+Nethermind version ->  [https://github.com/NethermindEth/nethermind/releases/tag/1.11.7](https://github.com/NethermindEth/nethermind/releases/tag/1.11.7)
 {% endhint %}
 
 {% hint style="info" %}
@@ -18,6 +18,17 @@ Nethermind version ->  [https://github.com/NethermindEth/nethermind/releases/tag
    1. If using docker, stop with `docker-compose down`&#x20;
    2. If using an ansible deploment playbook, uninstall with`sudo pip uninstall --yes ansible` or follow these instructions [https://howtoinstall.co/en/ubuntu/xenial/ansible?action=remove](https://howtoinstall.co/en/ubuntu/xenial/ansible?action=remove)&#x20;
 3. Once you have confirmed your previous node is stopped, proceed with step 5 below and launch the new instance.  Initial sync should take about 15 minutes.
+{% endhint %}
+
+{% hint style="info" %}
+**If you need to update to Nethermind Latest Version** (ie for London Hardfork)
+
+1. Set docker image as image: nethermind/nethermind:latest
+2.  `docker pull nethermind/nethermind:latest`
+
+    `docker-compose down`
+
+    `docker-compose up -d`
 {% endhint %}
 
 ## Validator Node Specs

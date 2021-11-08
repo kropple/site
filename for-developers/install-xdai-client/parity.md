@@ -9,7 +9,7 @@ description: xDai with POSDAO runs on OpenEthereum v3.2.5
 {% hint style="warning" %}
 **Updating OE**
 
-:white\_check\_mark: Please update to `v3.3.0`which contains the London hard fork transitions: [https://github.com/openethereum/openethereum/releases/tag/v3.3.0-rc.14](https://github.com/openethereum/openethereum/releases/tag/v3.3.0-rc.14)
+:white\_check\_mark: Please update to `v3.3.0 RC15 `which contains the London hard fork transitions: [https://github.com/openethereum/openethereum/releases/tag/v3.3.0-rc.15](https://github.com/openethereum/openethereum/releases/tag/v3.3.0-rc.15)
 {% endhint %}
 
 {% hint style="success" %}

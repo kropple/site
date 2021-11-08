@@ -3,9 +3,9 @@
 
 
 {% hint style="warning" %}
-A majority of xDai validators are now running the Nethermind client. The latest version includes support for [MEV via flashbots](https://docs.flashbots.net/flashbots-auction/overview) and increased default xDAI TxPool size from 1024 transactions to 2048.\
+A majority of xDai validators are now running the Nethermind client. The latest version 1.11.7 includes support for the London HF on xDai.\
 \
-Version [https://github.com/NethermindEth/nethermind/releases/tag/1.11.0](https://github.com/NethermindEth/nethermind/releases/tag/1.11.0) \
+Version [https://github.com/NethermindEth/nethermind/releases/tag/1.11.7](https://github.com/NethermindEth/nethermind/releases/tag/1.11.7)\
 Ethstats: [https://dai-netstat.poa.network/](https://dai-netstat.poa.network)
 {% endhint %}
 

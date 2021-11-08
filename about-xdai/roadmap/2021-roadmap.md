@@ -112,7 +112,7 @@ Update: We are currently working on a [ZeroPool](https://zeropool.network) integ
 ## EIP-1559 Implementation
 
 :dart: **Target Date**: Q3-Q4 2021\
-:ballot\_box\_with\_check: **Status:** Scheduled: [More Information](../../for-validators/hard-forks/london-eip-1559-or-2021-11-11-or-19040000.md)
+:ballot\_box\_with\_check: **Status:** Scheduled: [More Information](../../for-validators/hard-forks/london-eip-1559-or-2021-11-12-or-19040000.md)
 
 Following a successful test phase, we will activate the London Hardfork including [EIP 1559](https://eips.ethereum.org/EIPS/eip-1559) on xDai. This will change the fee structure to include a Base Fee for transactions. More on the [EIP-1559 integration on xDai](eip-1559.md).
 
