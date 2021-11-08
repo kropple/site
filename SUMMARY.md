@@ -410,7 +410,7 @@
     * [SBC Validator Requirements & Responsibilities](for-validators/consensus/sbc/sbc-validator-requirements-and-responsibilities.md)
     * [Technical Prerequisites](for-validators/consensus/sbc/technical-prerequisites.md)
 * [Hard Forks](for-validators/hard-forks/README.md)
-  * [London EIP-1559 | 2021 -11-12 | #19040000](for-validators/hard-forks/london-eip-1559-or-2021-11-12-or-19040000.md)
+  * [London EIP-1559 | 2021 -11-12 | #19040000](for-validators/hard-forks/london-eip-1559-or-2021-11-11-or-19040000.md)
   * [2021-05-17 | #16101500](for-validators/hard-forks/2021-05-17-or-16101500.md)
   * [2020-04-01 | #9186425](for-validators/hard-forks/2020-04-01-or-9186425.md)
   * [2019-12-12 | #7298030](for-validators/hard-forks/2019-12-12-or-7298030.md)
