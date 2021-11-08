@@ -22,6 +22,10 @@ More on the [Dual Token Model](../../for-stakers/stake-token/stake-reward-mechan
 * Bridging POA to WPOA and [performing a token swap](https://www.poa.network/for-users/about-poa-token/poa-merger-and-stake-swap).
 * Purchase STAKE on xDai directly on [AscendEX](https://ascendex.com/en/global-digital-asset-platform).
 
+{% hint style="warning" %}
+Note: **STAKE deposits on xDai are only available on AscenDEX**. For Huobi, Gate and other exchanges you need to bridge STAKE to Ethereum first.** Do not send STAKE on xDai directly to those exchanges without bridging first**.  If you have additional questions, please ask in the [discord #support channel](https://discord.gg/mPJ9zkq).&#x20;
+{% endhint %}
+
 ## What are the STAKE contract addresses?
 
 Ethereum Mainnet\
