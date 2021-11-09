@@ -33,7 +33,7 @@ For information on Arbitrum and usage basics, see the [Arbitrum docs](https://de
 
 Simple deposit functionality for users / bridge implementation is still in development. Devs can use the following ABI to call the  `depositEth `method. Use 0 for `maxSubmissionCost` and attach an amount of xDai tokens to the transaction. It may take several minutes for execution finalization.&#x20;
 
-* [Deposit Example Transaction](https://blockscout.com/xdai/mainnet/tx/0x9cf6d6b352e5788ed2edea164431980d237c287ecf4a4ae0e7aca234ca9c42b1)
+* [Deposit Example Transaction](https://blockscout.com/xdai/mainnet/tx/0x2827e6b8c0c16b1a924910fb98488ebf2fb49303814773b252b16b7f67c0a83e)
 * ABI :arrow\_down:&#x20;
 
 ```
@@ -63,7 +63,7 @@ Simple deposit functionality for users / bridge implementation is still in devel
 ### BlockScout Deposit Example
 
 1. Connect your wallet to blockscout.
-2. Go to [https://blockscout.com/xdai/mainnet/address/0x556c18a6FDcd52562Ec1130212f6113e3F818335/write-proxy](https://blockscout.com/xdai/mainnet/address/0x556c18a6FDcd52562Ec1130212f6113e3F818335/write-proxy)
+2. Go to [the Write Proxy tab in the AoX Inbox contract](https://blockscout.com/xdai/mainnet/address/0x9Ab4bf8A231854ce5983C5fd69664859F717359D/write-proxy)
 3. In the `depositEth` method
    1. Enter 0 for maxSubmissionCost field
    2. Enter the amount of xDai to deposit
