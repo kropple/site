@@ -4,7 +4,7 @@
 
 We continue to add items and adjust priorities as the year unfolds. See the [2020 Roadmap](2020-roadmap-completed-items.md) for items completed in 2020, and the changelog for any adjustments and additions.
 
-_Last update: November 3, 2021 | _[_Changelog_](./#change-log)__
+_Last update: November 15, 2021 | _[_Changelog_](./#change-log)__
 
 {% hint style="warning" %}
 The xDai project roadmap is a high-level strategic plan designed to guide xDai research and development. **Target dates and details are reviewed regularly by the team and subject to move, adjust and change as the project evolves**. Note that only completed items ( :white\_check\_mark: Status: Complete) are considered achieved project milestones.
@@ -92,6 +92,13 @@ We will begin accepting applications for developers and projects requiring suppo
 
 We will research adopting other platforms such as Polkadot, Cosmos, Eth2 and [optimistic rollups](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/optimistic\_rollups/) deployed to xDai to implement a scalability solution on xDai. This will enable scaling of transfers (up to 1000x) for native tokens and synthetic tokens on top of xDai.&#x20;
 
+## EIP-1559 Implementation
+
+:dart: **Target Date**: Q3-Q4 2021\
+:white\_check\_mark: **Status:** HF November 12, 2021
+
+Following a successful test phase, we will activate the London Hardfork including [EIP 1559](https://eips.ethereum.org/EIPS/eip-1559) on xDai. This will change the fee structure to include a Base Fee for transactions. More on the [EIP-1559 integration on xDai](eip-1559.md).
+
 ## **Privacy Preserving Transactions**
 
 :dart: **Target Date:** Q4 2021\
@@ -109,12 +116,7 @@ We plan to research and implement privacy preserving transactions on xDai direct
 Update: We are currently working on a [ZeroPool](https://zeropool.network) integration with the bridge infrastructure to provide transaction encryption capabilities.
 {% endhint %}
 
-## EIP-1559 Implementation
-
-:dart: **Target Date**: Q3-Q4 2021\
-:ballot\_box\_with\_check: **Status:** Scheduled: [More Information](../../for-validators/hard-forks/london-eip-1559-or-2021-11-11-or-19040000.md)
-
-Following a successful test phase, we will activate the London Hardfork including [EIP 1559](https://eips.ethereum.org/EIPS/eip-1559) on xDai. This will change the fee structure to include a Base Fee for transactions. More on the [EIP-1559 integration on xDai](eip-1559.md).
+##
 
 ## STAKE Beacon Chain
 
@@ -148,6 +150,7 @@ A chain created specifically to leverage [POSDAO](../../for-validators/posdao-wh
 
 | Update       | Items                                                                                                                                                                                                                                                           |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| _15.22.2021_ | <ul><li>Update EIP-1559 / London HF to complete </li></ul>                                                                                                                                                                                                      |
 | _03.11.2021_ | <ul><li>Update L2 Scalability to Complete with AOX implementation</li><li>Adjust target dates for synthetic assets implementation</li><li>Add trustless bridge implementation</li></ul>                                                                         |
 | _27.07.2021_ | <p></p><ul><li>Update NFT Omnibridge Beta to complete</li><li>Update Grant Program submissions to complete</li><li>Add STAKE Beacon chain roadmap item</li></ul>                                                                                                |
 | _13.07.2021_ | <p></p><ul><li>Update POSDAO improvements to complete</li><li>Update several target dates to reflect current status</li></ul>                                                                                                                                   |

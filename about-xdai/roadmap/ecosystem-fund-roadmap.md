@@ -21,7 +21,7 @@ Here we offer some initial use cases for the fund. We will continue to expand th
 Funding amounts are approximate and provided in STAKE. We will include additional details such as tx hashes, gnosis safe addresses and other data as they become available.
 
 {% hint style="success" %}
-We are exploring additional measures to ensure fund transparency and funding alignment with community and development needs. Look for more updates soon re: fund allocation governance and reporting.
+We are exploring additional measures to ensure fund transparency and funding alignment with community and development needs.&#x20;
 {% endhint %}
 
 ### Gnosis Partnership
@@ -88,6 +88,11 @@ Community members can suggest usage for funds by creating a proposal and a linke
   * [Snapshot vote](https://snapshot.org/#/xdaistake.eth/proposal/QmRqNFqepncCrUjmvo6j4iPSDyewDAToXbBC6gveJQ81Cz)
   * :white\_check\_mark: Month 1 of STAKE liquidity for Agave incentives October 24, 2021.
     * 3,720 STAKE [https://etherscan.io/tx/0x228d652b1c565ebd0ffabb1c65a2a143e6d226e5b2e17ee28141d9e8970bab29](https://etherscan.io/tx/0x228d652b1c565ebd0ffabb1c65a2a143e6d226e5b2e17ee28141d9e8970bab29)[https://blockscout.com/poa/xdai/tx/0xdacc602304de2b9cab9657427f3c388459e38142f751b5a546419d5ac79e6ab2](https://blockscout.com/poa/xdai/tx/0xdacc602304de2b9cab9657427f3c388459e38142f751b5a546419d5ac79e6ab2)&#x20;
+* :white\_check\_mark:  **STAKE incentives for Symmetric on xDai.** Agave is requesting \~100K in STAKE for incentives paid out over a 6 month period.&#x20;
+  * [Forum post](https://forum.poa.network/t/proposal-to-match-stake-incentives-for-symmetric-ticker-symm-on-xdai/7985)
+  * [Snapshot vote](https://snapshot.org/#/xdaistake.eth/proposal/QmdPnb235sFcuJBDph5U6KcyC6Gk157kH9MgQQfy23GAaZ)
+  * :white\_check\_mark: Month 1 of STAKE liquidity for Agave incentives November 15, 2021
+    * 1,330 STAKE [https://etherscan.io/tx/0x0b9ceb0dc049877c82bc01c863af8a3ac66e64ddd843e6f0ed86329135e62964](https://etherscan.io/tx/0x0b9ceb0dc049877c82bc01c863af8a3ac66e64ddd843e6f0ed86329135e62964)
 
 
 
