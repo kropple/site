@@ -42,7 +42,7 @@ Gnosis holders will benefit significantly from the launch of the COW and SAFE to
 
 ## 4. What changes will be made to the GNO issuance policy and distribution methodology?
 
-400k GNO held by the DAO (currently 200m USD) will be used to incentivize adoption of Gnosis Chain. The DAO (i.e. all current GNO holders) holds 8m GNO. It is likely that the DAO will decide to burn some of these tokens.
+400k GNO held by the DAO (currently \~190m USD) will be used to incentivize adoption of Gnosis Chain. The DAO (i.e. all current GNO holders) holds 8m GNO. It is likely that the DAO will decide to burn some of these tokens.
 
 ## 5. **How can the merge benefit the xDai community with respect to the STAKE holders?**
 
@@ -60,7 +60,7 @@ These types of metrics will be eloped by a newly created team dedicated to marke
 
 ## **8. How would the merge affect the existing projects like xDai Punks, xDai Tigers or even De-Fi Platforms like Agave and 1Hive ?**
 
-GnosisDAO will reserve 400k GNO (\~$190 million) to develop the Gnosis Chain ecosystem and incentivize usage. GnosisDAO can consider adding liquidity to various DeFi protocols on the xDAI chain to support their adoption, including Agave and 1Hive. Aspiring NFT projects like xDai Punks, xDai Tigers and xDai Bots may consider rebranding to support the Gnosis brand (although xDai will still be the native transactional token, so no changes are required.&#x20;
+GnosisDAO will reserve 400k GNO (\~$190 million) to develop the Gnosis Chain ecosystem and incentivize usage. GnosisDAO can consider adding liquidity to various DeFi protocols on the xDAI chain to support their adoption, including Agave and 1Hive. Aspiring NFT projects like xDai Punks, xDai Tigers and xDai Bots may consider rebranding to support the Gnosis brand (although xDai will still be the native transactional token, so no changes are required).&#x20;
 
 ### **Related: **What will be the native/gas token of the Gnosis Chain?
 
