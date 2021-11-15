@@ -1,6 +1,6 @@
 # xDai / Gnosis Merger AMA
 
-* **Time & Date**: 18:00 UTC November 15,2021
+* **Time & Date**: 18:00 UTC November 15, 2021.
 * **Place:** xDai <> Gnosis AMA Channel in xDai Discord. \
   Discord invite link: https://discord.gg/mPJ9zkq
 * **AMA will be recorded and posted on YouTube**, you can then find it here: https://www.youtube.com/channel/UC93IarcktP0-dZzpI\_vvO3g/videos
