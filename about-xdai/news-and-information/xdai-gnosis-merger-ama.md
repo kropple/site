@@ -109,7 +109,7 @@ Our hope is that both orgs, along with users of the new chain, will benefit. In 
 \
 **Gnosis: **xDai has been committed to building excellent technology that makes Ethereum compatibility scaleable from the get go and is fully aligned with the Gnosis values of fostering network effects without locking users in. Both xDai and Gnosis believe in the power of decentralized technology to empower individuals. However, with the gas price development on Eth1 as it stands, the once very inclusive Ethereum needs compatible layer ones to not price out all users but the biggest whales. To us, xDai is that solution.
 
-## 16. I would like to know why Gnosis? In addition to providing money, Gnosis has other ways to raise the STAKE ecosystem? Who will be the CEO after the merger? Will the STAKE team stay in the new company? Does the merger affect the original ecological project? ? For example SUSHI
+## 16. I would like to know why Gnosis? In addition to providing money, Gnosis has other ways to raise the STAKE ecosystem? Who will be the CEO after the merger? Will the STAKE team stay in the new company? Does the merger affect the original ecosystem projects - for example SUSHI?
 
 **In addition to providing money, Gnosis has other ways to raise the STAKE ecosystem?**
 
