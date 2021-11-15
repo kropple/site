@@ -11,7 +11,7 @@ Representatives from xDai (Igor Barinov) and Gnosis (Stefan George) will answer 
 
 ## Questions from the Community
 
-We include some questions and answers here. Some questions were redundant and not included, or edited for clarity.
+We include some questions and answers here from the initial form sent out to the community. Some questions were redundant and not included, or edited for clarity. We will update with the recording and other relevant questions after the AMA.
 
 ## 1. What motivated the developers to propose this?
 
