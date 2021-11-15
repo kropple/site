@@ -56,7 +56,7 @@ There will be many more validators with the beacon chain, along with random vali
 
 ## **7. What exactly are the metrics/statistics of some of the 'marketing objectives' / branding strength is Gnosis offering?**
 
-These types of metrics will be eloped by a newly created team dedicated to marketing and project/application growth. There will be a strong commitment to growing and promoting the chain. Expect marketing initiatives with defined, transparent goals that have not been possible so far with xDai’s limited marketing resources.
+These types of metrics will be developed by a newly created team dedicated to marketing and project/application growth. There will be a strong commitment to growing and promoting the chain. Expect marketing initiatives with defined, transparent goals that have not been possible so far with xDai’s limited marketing resources.
 
 ## **8. How would the merge affect the existing projects like xDai Punks, xDai Tigers or even De-Fi Platforms like Agave and 1Hive ?**
 
