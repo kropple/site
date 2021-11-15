@@ -162,6 +162,7 @@
     * [xDai Chain: Basic Overview Presentation](about-xdai/news-and-information/media-articles/xdai-chain-basic-overview-presentation.md)
     * [Crypto Influencers on xDai](about-xdai/news-and-information/media-articles/crypto-influencers-on-xdai.md)
     * [Dai Derivatives: How xDai fits into the DeFi ecosystem](about-xdai/news-and-information/media-articles/dai-derivatives-how-xdai-and-chai-fit-into-the-defi-ecosystem.md)
+  * [xDai / Gnosis Merger AMA](about-xdai/news-and-information/xdai-gnosis-merger-ama.md)
 * [Roadmaps](about-xdai/roadmap/README.md)
   * [2021 Base Roadmap](about-xdai/roadmap/2021-roadmap.md)
   * [Ecosystem Fund Roadmap](about-xdai/roadmap/ecosystem-fund-roadmap.md)
