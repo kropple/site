@@ -5,9 +5,11 @@
   Discord invite link: https://discord.gg/mPJ9zkq
 * **AMA will be recorded and posted on YouTube**, you can then find it here: https://www.youtube.com/channel/UC93IarcktP0-dZzpI\_vvO3g/videos
 
-Representatives from xDai (Igor Barinov) and Gnosis (Stefan George) will answer questions about the proposed merger.  Questions have been collected throughout the past week and some are listed below. Please take a look before the AMA to get some context and see responses to popular questions.&#x20;
+Representatives from xDai (Igor Barinov) and Gnosis (Stefan George) answered questions about the proposed merger.  Questions were also collected throughout the past week and some are listed below. Questions below the AMA video give some additional context and see responses to popular questions that may not have been raised during the call.&#x20;
 
 [The proposal is available here for reference](https://forum.gnosis.io/t/gip-16-gnosis-chain-xdai-gnosis-merge/1904).
+
+{% embed url="https://www.youtube.com/watch?v=XLHqA495rvY" %}
 
 ## Questions from the Community
 
