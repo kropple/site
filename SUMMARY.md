@@ -221,6 +221,7 @@
     * [Mobile DApp Browser](for-users/wallets/alpha-wallet/mobile-dapp-browser.md)
     * [Importing an existing account to Alpha Wallet](for-users/wallets/alpha-wallet/importing-an-existing-account-to-alpha-wallet.md)
     * [Using WalletConnect with Alpha Wallet](for-users/wallets/alpha-wallet/using-walletconnect-with-alpha-wallet.md)
+  * [Brave Native](for-users/wallets/brave-native.md)
   * [Burner Wallet](for-users/wallets/burner-wallet/README.md)
     * [Basic Burner Wallet Functions](for-users/wallets/burner-wallet/burner-wallet-functions/README.md)
       * [Receive & Send](for-users/wallets/burner-wallet/burner-wallet-functions/receive-and-send.md)
