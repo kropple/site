@@ -8,6 +8,8 @@ description: Dai is converted to Chai, resulting in additional interest accumula
 Update October 08 2020: Chai conversion has been disabled through a governance vote. It was costing extra fees for users and the savings rate was set to 0 for a prolonged period. The governors may revisit at a later time or look to introduce another mechanism for incentivization.\
 \
 [Proposal and Decision](https://forum.poa.network/t/disable-chai-token-support-to-safe-gas-for-deposit-and-withdrawal-operations/3936)
+
+**This info is referenced here for historical purposes only, the mechanics and methods are not currently operational.**
 {% endhint %}
 
 ![](../../../../.gitbook/assets/xdai-chai.png)
