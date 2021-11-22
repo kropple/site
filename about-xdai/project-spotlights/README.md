@@ -61,6 +61,8 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [ELK Bridge](https://app.elk.finance/#/elknet): Transfer ELK between xDai, Avalanche, Polygon, Fantom, BSC & Huobi Eco.
 * [Poly.Network](https://poly.network): Multi cross-chain transfers. [Follow this guide to move any asset. ](https://medium.com/poly-network/poly-network-now-supports-transfer-of-assets-from-any-supported-chains-to-xdai-chain-63faf96b4787)
 * [Mt Pelerin Bridge Wallet](https://www.mtpelerin.com/blog/mps-now-live-on-xdai): Move MPS security tokens between Ethereum and xDai with a built-in swap button.
+* [XP.Network](https://xp.network): Multi-chain bridge with NFT focus
+* [Prism Network](https://www.prismnetwork.io): Cross-chain ecosystem
 
 ### DeFi
 
@@ -143,9 +145,10 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [NiftyChess](https://niftychess.com): Preserve chess boards as NFTs
 * [Unique Bubbles](https://uniquebubbles.com): Limited, unique and personalized NFTs created and owned by the community
 * [HashAvatars](https://thehashavatars.com/#/created-avatars): generated with a hash name on xDai
-* [xDai Tigers](https://xdaitigers.com): Own a tiger with special privileges on xDai.
+* [xDai Tigers](https://xdaitigers.com): Own a tiger with special privileges on xDai
 * [Knockoff](https://www.knockoff.lol/#/): Imitation creation of your favorite NFTs
 * [NFT Calendar](https://nftcalendar.io/b/xdai/): Listing space for ongoing and upcoming NFT drops
+* [xDaiPunks](https://xdaipunks.com): 3D Punk NFTs on the xDai Chain
 
 **NFT Marketplaces**
 
@@ -255,3 +258,4 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Unlock Protocol](https://unlock-protocol.com): Content, apps, and community management
 * [CryptoSurvey](https://dapp.cryptosurvey.market/surveys): Incentivized surveys
 * [Synapse Network](https://synapse.network): Multi-chain project investment platform
+* [Swash](https://swashapp.io): Data ownership & economy
