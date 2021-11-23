@@ -26,7 +26,7 @@ Others who want to vote must withdraw STAKE from a protocol to participate. Once
 * Swapr
 {% endhint %}
 
-## Vote on an Existing proposal
+## Vote on an Existing Proposal
 
 1\) Go to the xDai Snapshot Page: [https://snapshot.page/#/xdaistake.eth](https://snapshot.page/#/xdaistake.eth) and join the xDai Chain space if you haven't already.
 
