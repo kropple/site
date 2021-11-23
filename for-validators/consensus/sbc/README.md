@@ -5,40 +5,40 @@ description: Distributed community validation on xDai
 # Stake Beacon Chain (SBC)
 
 {% hint style="info" %}
-Stake Beacon Chain (SBC) is currently in R\&D. Targeting an early Q4 soft beta launch for small-scale, distributed staking. A security audit is currently in process.&#x20;
+Stake Beacon Chain (SBC) is currently in R\&D. Targeting a Q4 soft launch for small-scale, distributed staking. A security audit has been completed and is [available here](./#sbc-security-audit).&#x20;
 {% endhint %}
 
-‌The Stake Beacon Chain offers a new consensus opportunity for the xDai chain. It is in early development, and will start with modified client implementations (Prysm/Lighthouse) to support faster blocks and built for a wider community of diverse validators.
+‌The Stake Beacon Chain offers a new consensus opportunity for the xDai chain. It  will start with modified client implementations (Prysm/Lighthouse) to support faster blocks and built for a wider community of diverse validators.
 
 ‌While the Eth 2.0 staking deposit contract has attracted an impressive number of validators (200K+), these validators must each contribute 32 ETH to participate. This amount is out of reach for many blockchain users. In addition, centralized exchanges are pooling funds to create largely connected staking pools which may limit overall decentralization.
 
 **‌**The SBC is designed for users with small staking amounts who still want to participate as independent validators within an **Ethereum-consistent and real-world value environment**. It provides a similar experience and uses a similar methodology for validator set rotation to prevent collusion. With a lower-stakes chain, the amount staked can also be lower while providing security and protection through enhanced decentralization.
 
-## **Initial SBC Parameters**
+## **Proposed SBC Parameters**
 
 | **Variable**                                    | **Value**                                                                                                                                                 |
 | ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Required STAKE                                  | 32 STAKE                                                                                                                                                  |
-| Block times                                     | 7 seconds                                                                                                                                                 |
+| Block times                                     | 5 seconds                                                                                                                                                 |
 | Validator Slots per Epoch                       | 16 ([_N > 1 honest proposer/epoch as per V. Buterin_](https://notes.ethereum.org/@vbuterin/rkhCgQteN?type=view#Why-32-ETH-validator-sizes))               |
 | Validators per slot                             | 128** (**[_explanation on minimum committee size_](https://medium.com/@chihchengliang/minimum-committee-size-explained-67047111fa20)_) _                  |
-| Epoch times                                     | 1.85 minutes                                                                                                                                              |
+| Epoch times                                     | 80 seconds                                                                                                                                                |
 | Slashing                                        | Repeated reductions to 16 STAKE then removal                                                                                                              |
 | Clients                                         | Ongoing testing with Prysm and Lighthouse clients.                                                                                                        |
 | Custom Deposit Contract                         | <ul><li>ERC20-enabled deposits</li><li>Upgradeability</li><li>Claiming on accidental locks</li><li>Custom network keys generation (deposit-cli)</li></ul> |
 | Explorer                                        | Modified version of [beaconcha.in](http://beaconcha.in)                                                                                                   |
-| MVP for launch (pending system tolerance tests) | <p>2048 validators<br>65,536 STAKE</p><p>47.4% APY</p>                                                                                                    |
-| Security Goal Prior to Merge                    | <p>20K+ validators</p><p>640K+ STAKE</p><p>15% APY</p>                                                                                                    |
+| MVP for launch (pending system tolerance tests) | <p>4096 validators<br>131,072 STAKE equivalent</p><p>83% APY</p>                                                                                          |
+| Security Goal Prior to Merge                    | <p>50K+ validators</p><p>1.6M+ STAKE equivalent</p><p>23% APY</p>                                                                                         |
 
-Validators with a small amount of STAKE (32 STAKE) will be able to stake and run a node through a simplified, step-by-step process.
+Validators with a small amount of STAKE (32 STAKE equivalent) will be able to stake and run a node through a simplified, step-by-step process.
 
 ‌STAKE will be locked in the contract and not available for immediate withdrawal, as is the case with the current Eth 2.0 deposit contract. Modifications to the deposit contract will enable ERC20 token deposits (STAKE) and additional upgradeability features.
 
 STAKE will be deposited from the xDai side, significantly reducing transaction costs. Once active, stakers will receive a staking derivative which can be used to earn additional incentives on aligned DEXs within the xDai ecosystem.
 
-The system will be designed to support 7 second blocks, significantly faster than the 12 second blocks on Eth 2.0. Slashing will also be incorporated in accordance with the Eth 2.0 contracts, where stakers will be slashed for incongruous behavior and deactivated once the 16 STAKE minimum threshold is reached for failure to properly run a node.
+The system will be designed to support 5 second blocks, significantly faster than the 12 second blocks on Eth 2.0. Slashing will also be incorporated in accordance with the Eth 2.0 contracts, where stakers will be slashed for incongruous behavior and deactivated once the 16 STAKE minimum threshold is reached for failure to properly run a node.
 
-Early stakers will be incentivized by an APY of nearly 50% (47.4%) for securing the chain. This incentive is quickly reduced as more validators onboard. For example with 4096 validators it is 33.7%. A sustainable \~15% APY is achieved when the security goal of 20,000 validators is met.\*
+Early stakers will be incentivized by an APY of 80%+ for securing the chain. This incentive is quickly reduced as more validators onboard.&#x20;
 
 SBC will support all the same functionality and tools as Eth 2.0. While block times will slow slightly from the current 5 second model on xDai, blocks will be larger and over time rollups will provide the ability for additional transactional throughput and prioritization features.&#x20;
 

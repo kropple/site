@@ -9,7 +9,7 @@ Since SBC is a smaller-stakes environment, it is a great place to refine new ski
 
 ### xDai Node
 
-To process validator deposits it is recommended to run your own xDai node. It will be possible to link SBC to an existing node through a JSON RPC endpoint, however we recommend running your own node to promote decentralization. xDai Nodes can be run with 2 clients and the following recommended minimum specs:
+To process validator deposits it is recommended to run your own xDai node. It will be possible to link SBC to an existing node through a JSON RPC endpoint, however we recommend running your own node to enhance decentralization. xDai Nodes can be run with 2 clients and the following recommended minimum specs:
 
 * OS: Ubuntu (Nethermind & OE), Windows & MacOs (Nethermind only)
 * CPU: 2 cores
