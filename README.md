@@ -4,14 +4,20 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 
 # Welcome to xDai
 
+{% hint style="warning" %}
+**xDai/Gnosis** **Merge Proposal & Voting**
+
+* A merger proposal between Gnosis and xDai has been submitted. The proposal is currently in the final discussion phase prior to community voting.&#x20;
+  * [View and Comment here](https://forum.gnosis.io/t/gip-16-gnosis-chain-xdai-gnosis-merge/1904).
+* Snapshot Voting will **begin on Monday 29 November and continue through Monday 6 December**. STAKE token holders can use STAKE on Ethereum or STAKE on xDai, delegated STAKE from a mulitsig, and STAKE locked in various protocols such as Uniswap, Sushiswap and Agave to vote.&#x20;
+  * [Learn more about who can vote and the snapshot voting process here](for-users/governance/stake-weighted-voting/).
+* The voting link will be added here once it is created.
+{% endhint %}
+
 {% hint style="success" %}
 ** News Updates**
 
-🌪 [Tornado Cash](https://app.tornado.cash) is live. Select xDai from the dropdown for transactional privacy.
-
-**🍣 **Sushiswap incentives are here. [Learn more](about-xdai/project-spotlights/sushiswap.md) or [get started](https://app.sushi.com) by selecting xDai in the network dropdown.
-
-:beach\_umbrella: Curve Finance on xDai! [Learn more](about-xdai/project-spotlights/curve-finance.md) or dive in at [https://xdai.curve.fi/](https://xdai.curve.fi)
+:beach\_umbrella: Curve Finance incentives on xDai! [Learn more](https://twitter.com/xdaichain/status/1463184293346390021) or dive in at [https://xdai.curve.fi/](https://xdai.curve.fi)
 
 :love\_letter: [xDai Substack Newsletter](https://xdai.substack.com) is now available with weekly updates and other news directly to your inbox.
 {% endhint %}
