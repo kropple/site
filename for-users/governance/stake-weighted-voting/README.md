@@ -27,7 +27,11 @@ Others who want to vote must withdraw STAKE from a protocol to participate. Once
 
 
 
-    _**Note**: Multisig wallet holders on xDai are not be able to delegate voting power due to limitations of Snapshot. Snapshot's delegation contract is deployed on Ethereum Mainnet. _[_More info_](https://docs.snapshot.org/guides/delegation)_._
+    _**Note**: Multisig wallet holders on xDai are not able to delegate voting power due to limitations of Snapshot. Snapshot's delegation contract is deployed on Ethereum Mainnet. _[_More info_](https://docs.snapshot.org/guides/delegation)_. _
+
+    _As a workaround, you can consider temporarily sending STAKE tokens to a regular address for the delegation. You will be able to withdraw STAKE and send it back to a multisig wallet after your voting, there is no need to wait until the voting is completed._
+
+_ _
 {% endhint %}
 
 ## Vote on an Existing Proposal
