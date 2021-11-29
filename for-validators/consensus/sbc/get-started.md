@@ -8,7 +8,7 @@ description: Preparing and running an independent validator node
 Instructions are in process and not yet complete. Testnet implementation only.
 {% endhint %}
 
-## 1) Setup and run your xDai node&#x20;
+## 1) Setup and run an xDai node&#x20;
 
 You can select either OpenEthereum or Nethermind as your client of choice. Follow these instructions to get started:
 
@@ -40,15 +40,16 @@ These instructions use native python, see the `Readme` for other options.
    2. Choose a password to store validator keystore(s) (you will need this password later for beacon client implementation, so save securely).
    3. Write down your 24 word mnemonic (KEEP OFFLINE).
    4. Confirm you mnemonic.
-   5. deposit data and keystore.json files will be created in a newly created validator\_keys folder.
+   5. Deposit data and keystore.json files will be created in a newly created validator\_keys folder.
 
 ## 3) Choose beacon chain client and setup a node
 
-Current instructions use Sokol testnet implementation_._ **Node should be completely synced before proceeding to step 4: Deposit Staking Token**
+Current instructions use Sokol testnet implementation_._ **Node should be completely synced before proceeding to step 4: Deposit Staking Token.**
 
 ### Prysm
 
-Follow the instructions here: [https://github.com/openethereum/sbc-prysm-launch/tree/gbc-testnet](https://github.com/openethereum/sbc-prysm-launch/tree/gbc-testnet)
+* Follow the instructions here: [https://github.com/openethereum/sbc-prysm-launch/tree/gbc-testnet](https://github.com/openethereum/sbc-prysm-launch/tree/gbc-testnet)
+* [Discord for questions](https://discord.gg/z9efH7e)
 
 Once complete, check the sync status of your node:
 
@@ -64,7 +65,18 @@ curl http://localhost:3500/eth/v1alpha1/node/syncing
 
 ### Lighthouse
 
-Follow the instructions here: [https://github.com/openethereum/sbc-lighthouse-launch/tree/gbc-testnet](https://github.com/openethereum/sbc-lighthouse-launch/tree/gbc-testnet)
+* Follow the instructions here: [https://github.com/openethereum/sbc-lighthouse-launch/tree/gbc-testnet](https://github.com/openethereum/sbc-lighthouse-launch/tree/gbc-testnet)
+* [Lighthouse Discord server for questions](https://discord.gg/uC7TuaH)
+
+### **Verify your connection**
+
+Verify the connection between your SBC beacon node and client.
+
+```json
+ curl -H "Content-Type: application/json" -X POST --data
+'{"jsonrpc":"2.0","method":"web3_clientVersion","params":[],"id":67}' 
+http://<YourServerLocation>:8545
+```
 
 ## 4) Deposit staking token&#x20;
 
@@ -73,3 +85,8 @@ Follow the instructions here: [https://github.com/openethereum/sbc-lighthouse-la
 ## 5) Check status
 
 &#x20;[https://beacon.blockscout.com/ ](https://beacon.blockscout.com)
+
+Install Prometheus and Grafana Monitoring:
+
+* Lighthouse [https://github.com/sigp/lighthouse-metrics](https://github.com/sigp/lighthouse-metrics)
+* Prysm [https://docs.prylabs.network/docs/prysm-usage/monitoring/grafana-dashboard/](https://docs.prylabs.network/docs/prysm-usage/monitoring/grafana-dashboard/)

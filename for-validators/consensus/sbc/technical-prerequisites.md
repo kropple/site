@@ -13,6 +13,49 @@ A reliable internet connection is key - bandwidth should not be throttled or cap
 
 Note that synching xDai may take up to 12 hours depending on your setup.&#x20;
 
+### Security
+
+When setting up hardware or a VM, use proper security measures including securing the root account, setting up a firewall, and forwarding necessary ports to the correct machines from the router based on the client you choose for running xDai and the beacon chain.
+
+* OpenEthereum: 30303 TCP/UDP
+* Nethermind: 30303 TCP/UDP
+* Lighthouse: 9000 TCP/UDP
+* Prysm: 12000 UDP, 13000 TCP
+
+### Time Sync
+
+Your clock should by synchronized to prevent skipping block sealing.
+
+&#x20;Enter`timedatectl status` , you should see similar output:
+
+```bash
+Local time: Tue 2020-06-30 17:16:19 UTC
+Universal time: Tue 2020-06-30 17:16:19 UTC
+RTC time: Tue 2020-06-30 17:16:19
+Time zone: Etc/UTC (UTC, +0000)
+System clock synchronized: yes
+systemd-timesyncd.service active: yes
+RTC in local TZ: no
+```
+
+If **`System clock synchronized`** displays **`yes`**   you are good to go.
+
+If not, you can either:
+
+* [x] synchronize clock with NTP servers (allow **UDP** port **123** for both incoming and outgoing traffic) or
+* [x] use the following script to sync with google.com:
+
+Create `fixtime.sh` script and run it with `watch -n 60` command in a `screen`
+
+```bash
+echo sudo date -s '"$(wget -qSO- --max-redirect=0 google.com 2>&1 | grep Date: | cut -d' ' -f5-8)Z"' > fixtime.sh
+chmod +x fixtime.sh
+screen -S time
+watch -n 60 ./fixtime.sh
+```
+
+Press `Ctrl+A+D` to leave the `screen`
+
 ## Node Requirements
 
 Recommended requirements are met when using Dappnode preconfigured hardware.
