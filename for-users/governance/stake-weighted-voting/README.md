@@ -16,8 +16,8 @@ Note that proposals are not automatically enacted, and some community proposals 
 5. POSDAO validators (xDai Chain).
 6. POSDAO delegators (xDai Chain).
 7. STAKE liquidity providers for HoneySwap (xDai Chain). Staked LP token holders are eligible for voting.
-8. STAKE deposited in Agave (xDai chain). Snapshot voting power based on ratio of available liquidity to total liquidity.
-9. STAKE delegated via Gnosis safe (Ethereum Mainnet). [More info.](delegate-stake-voting-weight-with-gnosis-safe.md)
+8. STAKE deposited in Agave (xDai chain). Snapshot voting power based on ratio of available liquidity to total liquidity (amount borrowed is not considered for voting power). **Voting power will be less than the amount deposited based on this ratio**.
+9. STAKE delegated via Gnosis safe (Ethereum Mainnet only). [More info.](delegate-stake-voting-weight-with-gnosis-safe.md)
 
 Others who want to vote must withdraw STAKE from a protocol to participate. Once the voting period is complete, STAKE can be moved back. Examples of protocols on xDai not supported by snapshot voting include:
 
@@ -29,7 +29,7 @@ Others who want to vote must withdraw STAKE from a protocol to participate. Once
 
     _**Note**: Multisig wallet holders on xDai are not able to delegate voting power due to limitations of Snapshot. Snapshot's delegation contract is deployed on Ethereum Mainnet. _[_More info_](https://docs.snapshot.org/guides/delegation)_. _
 
-    _As a workaround, you can consider temporarily sending STAKE tokens to a regular address. You will be able to withdraw STAKE and send it back to a multisig wallet after your voting, there is no need to wait until the voting is completed._
+    _As a workaround, you can consider temporarily sending STAKE tokens to a regular address. You will be able to withdraw STAKE and send it back to a multisig wallet after you vote, there is no need to wait until the snapshot voting period is complete._
 
 _ _
 {% endhint %}
