@@ -411,6 +411,7 @@
   * [Stake Beacon Chain (SBC)](for-validators/consensus/sbc/README.md)
     * [SBC Validator Requirements & Responsibilities](for-validators/consensus/sbc/sbc-validator-requirements-and-responsibilities.md)
     * [Technical Prerequisites](for-validators/consensus/sbc/technical-prerequisites.md)
+    * [Get Started](for-validators/consensus/sbc/get-started.md)
 * [Hard Forks](for-validators/hard-forks/README.md)
   * [London EIP-1559 | 2021 -11-12 | #19040000](for-validators/hard-forks/london-eip-1559-or-2021-11-11-or-19040000.md)
   * [2021-05-17 | #16101500](for-validators/hard-forks/2021-05-17-or-16101500.md)
@@ -421,7 +422,7 @@
   * [Spec.json update](for-validators/hard-forks/spec.json-update.md)
 * [POSDAO Whitepaper](for-validators/posdao-whitepaper.md)
 
-## Contact & Media Info <a href="media" id="media"></a>
+## Contact & Media Info <a href="#media" id="media"></a>
 
 * [xDai Dev Team](media/xdai-dev-team.md)
 * [Social Media & Community Channels](media/social-media.md)
@@ -429,6 +430,6 @@
   * [Buttons](media/media-kit/buttons.md)
 * [Contact us](media/contact-us.md)
 
-## Careers <a href="careers-1" id="careers-1"></a>
+## Careers <a href="#careers-1" id="careers-1"></a>
 
 * [Elixir Developer (BlockScout)](careers-1/elixir-developer-blockscout.md)
