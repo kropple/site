@@ -16,7 +16,7 @@ Note that proposals are not automatically enacted, and some community proposals 
 5. POSDAO validators (xDai Chain).
 6. POSDAO delegators (xDai Chain).
 7. STAKE liquidity providers for HoneySwap (xDai Chain). Staked LP token holders are eligible for voting.
-8. STAKE deposited in Agave (xDai chain). Snapshot voting power based on ratio of available liquidity to total liquidity (amount borrowed is not considered for voting power). **Voting power will be less than the amount deposited based on this ratio**.
+8. STAKE deposited in Agave (xDai chain). Snapshot voting power based on ratio of available liquidity to total liquidity (amount borrowed within the protocol is not considered when determining voting power). **Voting power will be less than the amount deposited based on this ratio**.
 9. STAKE delegated via Gnosis safe (Ethereum Mainnet only). [More info.](delegate-stake-voting-weight-with-gnosis-safe.md)
 
 Others who want to vote must withdraw STAKE from a protocol to participate. Once the voting period is complete, STAKE can be moved back. Examples of protocols on xDai not supported by snapshot voting include:
