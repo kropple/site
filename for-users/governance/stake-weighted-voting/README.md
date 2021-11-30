@@ -23,15 +23,13 @@ Others who want to vote must withdraw STAKE from a protocol to participate. Once
 
 * Elk finance
 * Symmetric
-*   Swapr
+* Swapr
 
+_**Note**: Multisig wallet holders on xDai are not able to delegate voting power due to limitations of Snapshot. Snapshot's delegation contract is deployed on Ethereum Mainnet._ [_More info_](https://docs.snapshot.org/guides/delegation)_._&#x20;
 
+_As a workaround, you can consider temporarily sending STAKE tokens to a regular address. You will be able to withdraw STAKE and send it back to a multisig wallet after you vote, there is no need to wait until the snapshot voting period is complete._
 
-    _**Note**: Multisig wallet holders on xDai are not able to delegate voting power due to limitations of Snapshot. Snapshot's delegation contract is deployed on Ethereum Mainnet. _[_More info_](https://docs.snapshot.org/guides/delegation)_. _
-
-    _As a workaround, you can consider temporarily sending STAKE tokens to a regular address. You will be able to withdraw STAKE and send it back to a multisig wallet after you vote, there is no need to wait until the snapshot voting period is complete._
-
-_ _
+&#x20;__&#x20;
 {% endhint %}
 
 ## Vote on an Existing Proposal
@@ -54,13 +52,13 @@ _ _
 
 ![](../../../.gitbook/assets/snapshot4.png)
 
-6\) You can switch your vote by choosing another selection and voting again.
-
 ## Create a Proposal
 
-Community members can create a proposal for a vote. This is the first step in suggesting or enacting an upgrade. If accepted by the community, the xDai team will assess the viability of the idea and see what next steps are required. **A passed vote does not guarantee a protocol change, but is viewed as a community suggestion and taken into consideration by the team.**
+Community members can create a proposal for a vote. This is the first step in suggesting or enacting an upgrade. Creating a proposal currently requires a minimum of 10 STAKE in a wallet.
 
-1\) Go to the xDai Snapshot Page: [https://snapshot.page/#/xdaistake.eth](https://snapshot.page/#/xdaistake.eth) and connect your  web3 wallet.
+If accepted by the community, the xDai team will assess the viability of the idea and see what next steps are required. **A passed vote does not guarantee a protocol change, but is viewed as a community suggestion and taken into consideration by the team.**
+
+1\) Go to the xDai Snapshot Page: [https://snapshot.page/#/xdaistake.eth](https://snapshot.page/#/xdaistake.eth) and connect your web3 wallet.
 
 2\) Click on New Proposal.
 
