@@ -1,11 +1,15 @@
 # STAKE weighted voting with Snapshot
 
-STAKE holders participate in the governance process through a [snapshot integration](https://snapshot.page/#/xdaistake.eth). Community members can vote on proposals and introduce proposals for voting by other members. Once a proposal passes, the xDai team works with validators to support the protocol update.&#x20;
+STAKE holders participate in the governance process through a snapshot integration.&#x20;
 
-Note that proposals are not automatically enacted, and some community proposals may not be accepted depending on the viability of the idea or total STAKE amount/ number of voters participating.
+🗳 [xDai Voting Page](https://snapshot.org/#/xdaistake.eth)
+
+Community members can vote on proposals and introduce proposals for voting by other members. Once a proposal passes, the xDai team works with validators to support the protocol update.&#x20;
+
+Note that **proposals are not automatically enacted, and some community proposals may not be accepted depending on the viability of the idea or total STAKE amount/ number of voters participating.**
 
 {% hint style="info" %}
-**Who can Vote?**
+### **Who can Vote?**
 
 [Snapshot](https://docs.snapshot.org) voters can use STAKE balances on Ethereum & on xDai. Those holding STAKE in the following ways can vote without needing to change any allocations or parameters.
 
@@ -28,8 +32,6 @@ Others who want to vote must withdraw STAKE from a protocol to participate. Once
 _**Note**: Multisig wallet holders on xDai are not able to delegate voting power due to limitations of Snapshot. Snapshot's delegation contract is deployed on Ethereum Mainnet._ [_More info_](https://docs.snapshot.org/guides/delegation)_._&#x20;
 
 _As a workaround, you can consider temporarily sending STAKE tokens to a regular address. You will be able to withdraw STAKE and send it back to a multisig wallet after you vote, there is no need to wait until the snapshot voting period is complete._
-
-&#x20;__&#x20;
 {% endhint %}
 
 ## Vote on an Existing Proposal
