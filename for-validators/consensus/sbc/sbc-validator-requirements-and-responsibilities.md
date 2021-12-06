@@ -2,6 +2,8 @@
 
 {% hint style="warning" %}
 Staking is not yet available for the SBC. We will provide additional details about the process shortly.
+
+If you are interested in becoming a beacon chain validator in the future, please [fill out this form](https://airtable.com/shrrzJsRLa767gpcQ) and we will contact you regarding next steps.
 {% endhint %}
 
 Before getting started, it is important to have an understanding of your responsibilities as a validator. As an ETH2-mirrored environment with lower stakes, validating on the SBC involves many of the same responsibilities as validating on ETH2. Educating and familiarizing yourself with the [Eth2 Launchpad Advisories](https://launchpad.ethereum.org/en/overview) is a good way to get up to speed quickly.
