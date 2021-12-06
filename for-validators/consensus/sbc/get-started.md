@@ -5,6 +5,12 @@ description: Preparing and running an independent validator node
 # Get Started
 
 {% hint style="warning" %}
+If you are interested in running a node in the future, please [fill out this form](https://airtable.com/shrrzJsRLa767gpcQ) and we will contact you to start the setup.
+{% endhint %}
+
+## Instructions in Development
+
+{% hint style="danger" %}
 Instructions are in process and not yet complete. Testnet implementation only.
 {% endhint %}
 
