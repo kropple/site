@@ -111,6 +111,12 @@ Minimum & Recommended specifications for running Prysm or Lighthouse clients:
 * 256 GB solid state storage
 * 100 Mb/s download, 20 Mb/s upload broadband connection
 
+## Ready to Get Started?
+
+{% hint style="info" %}
+If you are interested in running a node in the future, please [fill out this form](https://airtable.com/shrrzJsRLa767gpcQ) and we will contact you to start the setup.
+{% endhint %}
+
 
 
 
