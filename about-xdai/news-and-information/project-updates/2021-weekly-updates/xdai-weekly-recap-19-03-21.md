@@ -9,7 +9,7 @@ description: 13 March -19 March 2021
 ## :man\_construction\_worker: POSDAO & Protocol Updates
 
 {% hint style="success" %}
-Epoch **48 **ends around 22:30 UTC March 20. There are **16** validator pools with **253** delegators staking a total of **545,127** STAKE. Highest pool APY is currently **20.77%**, lowest is **10.54%.**_(stats as of 19/03/2021 16:00 UTC)_.\
+Epoch **48** ends around 22:30 UTC March 20. There are **16** validator pools with **253** delegators staking a total of **545,127** STAKE. Highest pool APY is currently **20.77%**, lowest is **10.54%.**_(stats as of 19/03/2021 16:00 UTC)_.\
 \
 Staking Statistics: [https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)
 
@@ -31,7 +31,7 @@ The new icon is designed to make it easy to add new bridged tokens to your xDai 
 
 ### xDai collaborates with Immunefi to offer $2 Million Bug Bounty for Bridge.&#x20;
 
-**This is the largest know bug bounty currently in the Defi Space! **As xDai usage continues to grow, security of user funds is our number one priority. Immunify is leading the way in the white hat space, and this collaboration sets a new standard for security. We plan to offer additional bounties for our other applications to provide xDai users piece of mind with the xDai protocol.
+**This is the largest know bug bounty currently in the Defi Space!** As xDai usage continues to grow, security of user funds is our number one priority. Immunify is leading the way in the white hat space, and this collaboration sets a new standard for security. We plan to offer additional bounties for our other applications to provide xDai users piece of mind with the xDai protocol.
 
 {% embed url="https://medium.com/immunefi/xdai-stake-hosts-2-000-000-bug-bounty-on-immunefi-3760e0687616" %}
 

@@ -21,7 +21,7 @@ Stake Beacon Chain (SBC) is currently in R\&D. Targeting a Q4 soft launch for sm
 | Required STAKE                                  | 32 STAKE                                                                                                                                                  |
 | Block times                                     | 5 seconds                                                                                                                                                 |
 | Validator Slots per Epoch                       | 16 ([_N > 1 honest proposer/epoch as per V. Buterin_](https://notes.ethereum.org/@vbuterin/rkhCgQteN?type=view#Why-32-ETH-validator-sizes))               |
-| Validators per slot                             | 128** (**[_explanation on minimum committee size_](https://medium.com/@chihchengliang/minimum-committee-size-explained-67047111fa20)_) _                  |
+| Validators per slot                             | 128 **(**[_explanation on minimum committee size_](https://medium.com/@chihchengliang/minimum-committee-size-explained-67047111fa20)_)_                   |
 | Epoch times                                     | 80 seconds                                                                                                                                                |
 | Slashing                                        | Repeated reductions to 16 STAKE then removal                                                                                                              |
 | Clients                                         | Ongoing testing with Prysm and Lighthouse clients.                                                                                                        |
@@ -47,7 +47,7 @@ Following the Eth1/Eth2 & xDai/SBC merges, a permissionless bridge structure (no
 Currently, the xDai chain is secured by \~640K STAKE by validators and their delegators. The goal is to match or exceed this amount. With 32 STAKE per validator, the system will require 20K+ validators to achieve the same level of security.
 
 {% hint style="info" %}
-\*[_ARP Calculator available here_](https://www.desmos.com/calculator/svnsuuyhf9)_ where the Y axis is APR and the X axis is the number of validators divided by 100 and shifted by 20 (2048 validators at point 0, 4096 validators at point \~20, 20'000 validators at \~180)._
+\*[_ARP Calculator available here_](https://www.desmos.com/calculator/svnsuuyhf9) _where the Y axis is APR and the X axis is the number of validators divided by 100 and shifted by 20 (2048 validators at point 0, 4096 validators at point \~20, 20'000 validators at \~180)._
 
 * F - some block reward factor
 * T - time between blocks

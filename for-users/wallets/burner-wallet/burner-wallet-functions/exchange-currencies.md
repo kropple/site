@@ -28,7 +28,7 @@ You can use the burner wallet interface to transform your Eth into xDai, without
 
 ![](../../../../.gitbook/assets/amount-and-send1.png)
 
-&#x20;3\) You will now have Dai in your wallet. To convert to xDai, press the **Dai to xDai **button.
+&#x20;3\) You will now have Dai in your wallet. To convert to xDai, press the **Dai to xDai** button.
 
 ![Next transfer DAI to xDai](../../../../.gitbook/assets/dai-to-xdai.png)
 

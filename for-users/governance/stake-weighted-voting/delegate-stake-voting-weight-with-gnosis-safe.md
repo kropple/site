@@ -36,7 +36,7 @@ STAKE held in an EOA (externally owned address) on Ethereum and [staked on EasyS
 
 ![](../../../.gitbook/assets/confirmed.png)
 
-8\) **Logout from your Safe address **in snapshot and click Connect to **login with the address you have delegated to**.&#x20;
+8\) **Logout from your Safe address** in snapshot and click Connect to **login with the address you have delegated to**.&#x20;
 
 ![Logout the safe address](../../../.gitbook/assets/logout.png)
 

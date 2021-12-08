@@ -60,7 +60,7 @@ LP incentives are distributed on average every 7 days - the exact distribution d
 * LP STAKE reward distributions dashboard:\
   [https://stake-reward-distribution.xdaichain.com/](https://stake-reward-distribution.xdaichain.com)
 
-Liquidity pool providers will also receive STAKE incentives from the Easy Staking application. Users who put funds into an ETH/STAKE liquidity pool on Uniswap will be eligible for these additional incentives. **Note only the top 100 LPs receive additional STAKE. **
+Liquidity pool providers will also receive STAKE incentives from the Easy Staking application. Users who put funds into an ETH/STAKE liquidity pool on Uniswap will be eligible for these additional incentives. **Note only the top 100 LPs receive additional STAKE.**&#x20;
 
 &#x20;Here's an example of how it works for :man\_farmer: Bob:
 

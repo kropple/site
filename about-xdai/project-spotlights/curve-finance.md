@@ -43,7 +43,7 @@ From the homepage, you will see the option to swap using existing pools.
 
 {% hint style="info" %}
 Note, for **DAI you will need to use wrapped xDai**, not standard xDai. The easiest way to convert Dai to wxDai is with [wrapeth](https://wrapeth.com).\
-[_Additional info about wrapped xDai_](../../for-developers/developer-resources/wrapped-xdai.md)_. _
+[_Additional info about wrapped xDai_](../../for-developers/developer-resources/wrapped-xdai.md)_._&#x20;
 {% endhint %}
 
 ![](../../.gitbook/assets/swapping.png)

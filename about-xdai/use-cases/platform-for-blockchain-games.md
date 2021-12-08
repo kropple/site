@@ -9,7 +9,7 @@ description: >-
 When transaction fees and speeds are a known quantity, developers can plan and execute accordingly, and players can be onboarded quickly with low barriers to entry.
 
 {% hint style="success" %}
-**See the **[**DarkForest Project**](../project-spotlights/dark-forest.md)** for an in-depth overview of a cutting-edge blockchain game on xDai.**
+**See the** [**DarkForest Project**](../project-spotlights/dark-forest.md) **for an in-depth overview of a cutting-edge blockchain game on xDai.**
 {% endhint %}
 
 ## Games Case Study:  DAOG
@@ -27,7 +27,7 @@ Instant onboarding is available for players through pre-created accounts funded 
 Because many micro transactions are occurring simultaneously across a decentralized group of players, it's vital to use a chain with low, predicable costs and high speeds. The xDai chain is a natural fit for multi-player game environments.&#x20;
 
 {% hint style="success" %}
-**Play the alpha version now at **[**https://daog.io**](https://daog.io)****
+**Play the alpha version now at** [**https://daog.io**](https://daog.io)****
 {% endhint %}
 
 ## DAOG Update 9/2019

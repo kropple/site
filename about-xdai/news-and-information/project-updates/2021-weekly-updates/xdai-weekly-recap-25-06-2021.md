@@ -11,9 +11,9 @@ description: 19 June - 25 June 2021
 {% hint style="success" %}
 The protocol is currently in Epoch **62.**\
 ****\
-****There are **17** validator pools with **328 delegators( **:arrow\_up: **11%** from previous week)** **staking a total of **643,380 STAKE ( **:arrow\_up: **3% **from previous week).\
+****There are **17** validator pools with **328 delegators(** :arrow\_up: **11%** from previous week) **** staking a total of **643,380 STAKE (** :arrow\_up: **3%** from previous week).\
 \
-High pool APY is currently **17.63%**, low is **13.8% **_(stats as of 25/06/2021 15:00 UTC)_.
+High pool APY is currently **17.63%**, low is **13.8%** _(stats as of 25/06/2021 15:00 UTC)_.
 
 * Staking Statistics: [https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)
 * Staking Platform: [https://blockscout.com/xdai/mainnet/](https://blockscout.com/xdai/mainnet/validators)

@@ -22,10 +22,10 @@ $ node -v
 $ npm install --save ethers
 ```
 
-_**Common issues: **_
+_**Common issues:**_&#x20;
 
 * node-gyp failure ([installation instructions](https://github.com/nodejs/node-gyp#installation)). Check that your python version is compatible w/instructions above.&#x20;
-* stale cache. Clear your npm cache with the `npm cache clean `command.
+* stale cache. Clear your npm cache with the `npm cache clean` command.
 
 3\) Connect to xDai via ethers. You can copy/paste this script into your own code editor. Save this file as `index.js`
 

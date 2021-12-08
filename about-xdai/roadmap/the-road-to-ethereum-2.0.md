@@ -14,7 +14,7 @@ We are following all Ethereum mainnet updates / forks (Berlin, London - EIP1559,
 During the 2.0 transition, we will see which outcome(s) support the best use-case for xDai stable chain projects and users. As a community member, feel free to voice your opinion about future directions for xDai and STAKE as well [in our forum](https://forum.poa.network/c/xdai-chain/xdai-proposals/43).  Below are several possible scenarios.&#x20;
 
 {% hint style="warning" %}
-_Please note that all of these approaches are possibilities for future directions. We do not have a _:crystal\_ball: _and new opportunities may present themselves as the space evolves._
+_Please note that all of these approaches are possibilities for future directions. We do not have a_ :crystal\_ball: _and new opportunities may present themselves as the space evolves._
 {% endhint %}
 
 ### **1) xDai incorporated into Ethereum 2.0 as a roll-up or shard chain**
@@ -25,10 +25,10 @@ More recent discussions have centered on roll-ups in Ethereum 2.0 ([2](https://e
 
 In either case, the STAKE token would continue to provide value as a source of transactional prioritization. For example, in a roll-up scenario, PoS with STAKE could continue whereby users deposit STAKE into the roll-up contract and the amount of STAKE staked along with a random number determines who submits batched transactions (along with deterrents/punishment for fraudulent behavior).  There is also an opportunity for [MEV auctions](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788) where holders could bid amounts of STAKE with the highest bidder earning the right to submit a batch.
 
-_1) _[_https://blog.ethereum.org/2021/01/20/the-state-of-eth2-january-2021/_](https://blog.ethereum.org/2021/01/20/the-state-of-eth2-january-2021/)__\
-_2) _[_https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698_](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698)__
+_1)_ [_https://blog.ethereum.org/2021/01/20/the-state-of-eth2-january-2021/_](https://blog.ethereum.org/2021/01/20/the-state-of-eth2-january-2021/)__\
+_2)_ [_https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698_](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698)__
 
-### **2)  EVM Chain Consortium **
+### **2)  EVM Chain Consortium**&#x20;
 
 We cannot predict when Ethereum 2.0 will be fully operational or what exact form it will take. In the meantime, EVM chains including xDai, [Polygon](https://polygon.technology), [BSC](https://www.binance.org/en/smartChain) and others continue to gain traction, users, and projects. As the available tooling expands and becomes easier to use, many users may decide to stay within the chain architecture they are currently using.&#x20;
 

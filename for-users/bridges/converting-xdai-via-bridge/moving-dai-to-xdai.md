@@ -18,7 +18,7 @@ _Note: If you change the dropdown on the page (ETH Mainnet) but not in MetaMask,
 
 2\) Enter the amount of Dai you would like to transfer to xDai, and click the **Transfer** button.
 
-3\) The web3 wallet window will open with transaction details. Default gas price is fine, if you would like a faster transaction you can increase. Click **Submit or Confirm **(depending on wallet) to process the transaction.
+3\) The web3 wallet window will open with transaction details. Default gas price is fine, if you would like a faster transaction you can increase. Click **Submit or Confirm** (depending on wallet) to process the transaction.
 
 ![](../../../.gitbook/assets/confirm.png)
 

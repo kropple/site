@@ -6,7 +6,7 @@ description: Custom Burner Wallet and Digital Gemstone NFT Experience
 
 **When:** 06—07 April 2021
 
-**Where: **Global Virtual Event, hosted by Japan
+**Where:** Global Virtual Event, hosted by Japan
 
 **What:** The [Global Technology Governance Summit (GTGS)](https://www.weforum.org/events/global-technology-governance-summit-2021) is presented by the World Economic Forum and hosted by Japan in 2021. The summit aims to be the foremost global multistakeholder gathering dedicated to ensuring the responsible design and deployment of emerging technologies through public-private collaboration.&#x20;
 

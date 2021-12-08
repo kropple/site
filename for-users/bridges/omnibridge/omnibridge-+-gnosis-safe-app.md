@@ -7,7 +7,7 @@ description: OmniBridge custom app instructions
 OmniBridge is compatible with the Gnosis Safe apps interface, allowing for bridge interaction and ERC20 transfers between xDai and Ethereum using a Multisig Wallet. The following instructions are for bridging **ERC20s between Ethereum and the xDai chain**. To transfer xDai to Dai and vice versa, see the [xDai Bridge + Gnosis Safe](../converting-xdai-via-bridge/xdai-bridge-+-gnosis-safe-app.md) instructions.
 
 {% hint style="warning" %}
-Each Gnosis Safe is deployed independently on the xDai chain and/or Ethereum. Cross-chain safes do not share the same contract addresses (even when they have the same owners etc), so it is** important to use the Alternate Recipient Address feature** when bridging with a safe.
+Each Gnosis Safe is deployed independently on the xDai chain and/or Ethereum. Cross-chain safes do not share the same contract addresses (even when they have the same owners etc), so it is **important to use the Alternate Recipient Address feature** when bridging with a safe.
 {% endhint %}
 
 ## Add the App
@@ -31,10 +31,10 @@ Each Gnosis Safe is deployed independently on the xDai chain and/or Ethereum. Cr
 
 ## Bridge App on Origin Chain: Initiating a Transaction
 
-5\) Open the application and interact with the bridge as you normally would to begin the transfer process.** **In this example we bridge from xDai to Ethereum.
+5\) Open the application and interact with the bridge as you normally would to begin the transfer process. **** In this example we bridge from xDai to Ethereum.
 
 {% hint style="warning" %}
-Note that when bridging with a safe you will set an alternate receiver. This may be a 2nd safe contract on the receiving chain or an individual address to receive the funds.** If you bridge without setting a Recipient Address, your funds may be lost.**
+Note that when bridging with a safe you will set an alternate receiver. This may be a 2nd safe contract on the receiving chain or an individual address to receive the funds. **If you bridge without setting a Recipient Address, your funds may be lost.**
 {% endhint %}
 
 To set an Alternate Recipient, click on **Advanced**, then enter in the **0x address** into the Recipient Address box that will receive funds on the receiving chain. You can set a Gnosis safe address on the receiving chain as the recipient or another accessible address. Complete the rest of the information (token type and amount to transfer) and click **Request**. If you need more details related to OmniBridge transfers, see the [OmniBridge Instructions Page](./).
@@ -53,11 +53,11 @@ Once the first transaction is processed, close the safe application and switch c
 
 In this example, we sent STAKE from xDai to a Gnosis Safe address on Ethereum. To claim this transaction, login to Gnosis Safe on Ethereum and open the OmniBridge Application (you may need to [add it using the steps above](omnibridge-+-gnosis-safe-app.md#add-the-app) if you have not added previously)
 
-7\) You should see the claim screen, click the** Claim** button to begin the process. If you do not see this screen, click on **History** at the top of the OmniBridge app.
+7\) You should see the claim screen, click the **Claim** button to begin the process. If you do not see this screen, click on **History** at the top of the OmniBridge app.
 
 ![](../../../.gitbook/assets/omni-1.png)
 
-8\) Click the** Claim** button.
+8\) Click the **Claim** button.
 
 ![](<../../../.gitbook/assets/omni-2 (1).png>)
 

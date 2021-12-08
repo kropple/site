@@ -6,7 +6,7 @@ You must either retain the minimum amount of stake in the pool (to remain in the
 
 ### **When Stake can be Moved:**
 
-* STAKE placed on an **active candidate pool who is not a current validator**, or STAKE placed on **an inactive candidate pool, **can be moved at any time.\*
+* STAKE placed on an **active candidate pool who is not a current validator**, or STAKE placed on **an inactive candidate pool,** can be moved at any time.\*
 * Stake placed on an active validator pool can be moved **during the same staking epoch in which it was placed**. It cannot be moved once it is active protecting the protocol.
 * Stake cannot be moved or withdrawn from a banned pool until the ban is complete.
 
@@ -20,7 +20,7 @@ Moving STAKE from one pool to another in a test environment
 
 ## Move STAKE Instructions
 
-1\) Locate the pool you would like to **move stake from **(the source pool), and click the move stake icon. This icon will only appear if moving stake is a current option.
+1\) Locate the pool you would like to **move stake from** (the source pool), and click the move stake icon. This icon will only appear if moving stake is a current option.
 
 ![](<../../../.gitbook/assets/withdraw1 (2).png>)
 
@@ -34,7 +34,7 @@ Moving STAKE from one pool to another in a test environment
 
 ![](<../../../.gitbook/assets/withdraw2 (1).png>)
 
-3\) When you select the target pool, the modal will change to display information about the **source pool** (the current pool you are delegating to) and the **target pool **(where you are moving your STAKE).
+3\) When you select the target pool, the modal will change to display information about the **source pool** (the current pool you are delegating to) and the **target pool** (where you are moving your STAKE).
 
 4\) To proceed, click the **Move Stake** button. Confirm the transaction through the web3 wallet interface.
 

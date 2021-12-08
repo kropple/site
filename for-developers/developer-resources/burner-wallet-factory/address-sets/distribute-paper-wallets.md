@@ -4,7 +4,7 @@ description: Distribute loaded paper wallets to crypto event participants
 
 # Distribute Paper Wallets
 
-1\) Go to the Distribution page and select the **Address Set **you created in the [Address Sets](./) instruction. Click on **PRINT/DOWNLOAD PAPER WALLETS **on the Account Set page.
+1\) Go to the Distribution page and select the **Address Set** you created in the [Address Sets](./) instruction. Click on **PRINT/DOWNLOAD PAPER WALLETS** on the Account Set page.
 
 ![](../../../../.gitbook/assets/paperwall1.png)
 

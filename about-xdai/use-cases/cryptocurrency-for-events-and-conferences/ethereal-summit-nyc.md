@@ -8,7 +8,7 @@ description: >-
 
 **When:** May 10-11, 2019
 
-**Where: **New York City
+**Where:** New York City
 
 **What:** Following up on the success from EthDenver 2019,  a revamped burner wallet was used to distribute xDai, **RAD** & **xP+** tokens to participants. RAD tokens were used food, xP+ for the Helena prediction market, and xDai for transactions.&#x20;
 

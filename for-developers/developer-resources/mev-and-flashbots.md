@@ -11,7 +11,7 @@ description: Nethermind implements flashbots MEV  in v1.11.0
 
 Considerations:
 
-1. xDai MEV Endpoint:** **[https://xdai-relay.nethermind.io](https://t.co/9X5lU6LWvr?amp=1)** **
+1. xDai MEV Endpoint: **** [https://xdai-relay.nethermind.io](https://t.co/9X5lU6LWvr?amp=1) ****&#x20;
 2. Tx chain id: **100**
 3. Set appropriate gas price (gas in xDai not Eth)
 4.  &#x20;Currently the **eth\_sendBundle** method is supported.&#x20;

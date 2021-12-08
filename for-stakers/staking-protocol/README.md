@@ -23,7 +23,7 @@ Public Staking preview (older interface)&#x20;
 
 1. STAKE & xDai Tokens: You will need [STAKE tokens ](../stake-token/get-stake/)on xDai for staking and xDai for any staking transactions (such as placing, moving or withdrawing stake) or other on-chain transactions.&#x20;
 
-### **Staking Actions **
+### **Staking Actions**&#x20;
 
 1. [Become a Delegator](become-a-delegator.md)**.** Stake on current candidates and validators.
 2. [Become a Candidate](become-a-candidate-validator.md)**:** Configure an xDai node and place the minimum required stake to become a candidate.

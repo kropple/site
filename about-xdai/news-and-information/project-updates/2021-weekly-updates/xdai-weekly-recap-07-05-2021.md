@@ -13,7 +13,7 @@ The protocol is currently in Epoch **55.**\
 ****\
 ****There are **16** validator pools with **261** delegators staking a total of **578,082** STAKE, a 30K+ increase in amount staked from the previous week. \
 \
-High pool APY is currently **19.07%**, low is **12.89% **_(stats as of 07/05/2021 17:00 UTC)_.
+High pool APY is currently **19.07%**, low is **12.89%** _(stats as of 07/05/2021 17:00 UTC)_.
 
 * Staking Statistics: [https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)
 * Staking Platform: [https://blockscout.com/xdai/mainnet/validators](https://blockscout.com/xdai/mainnet/validators)
@@ -91,7 +91,7 @@ Top 10 according to [https://ethhole.link/project/xDai](https://ethhole.link/pro
 
 The date and block number have been announced for the xDai upgrade to Berlin. All validators and any projects using xDai should update their nodes. (OpenEthereum v3.2.5, Nethermind v1.10.67)
 
-* Date: **May 17 **
+* Date: **May 17**&#x20;
 * Block: **#16101500**
 
 ### Client Support

@@ -10,7 +10,7 @@ description: 16 May 2020 - 22 May 2020
 
 Listing: [https://coinmarketcap.com/currencies/xdai/](https://coinmarketcap.com/currencies/xdai/)
 
-Note that** **some values like circulating supply are still in “?” status. This will shift as data is verified and reporting accuracy confirmed. To get current circulating supply, see [https://supply.xdaichain.com/](https://supply.xdaichain.com)
+Note that **** some values like circulating supply are still in “?” status. This will shift as data is verified and reporting accuracy confirmed. To get current circulating supply, see [https://supply.xdaichain.com/](https://supply.xdaichain.com)
 
 {% embed url="https://twitter.com/xdaichain/status/1262772122528727040" %}
 
@@ -24,7 +24,7 @@ In addition to being listed on UniSwap V1, STAKE is also on UniSwap v2. As this 
 ![](../../../../.gitbook/assets/uniswapv2.gif)
 
 {% hint style="success" %}
-You can also trade STAKE on **Uniswap V1 & V2 using **[**1inch.exchange**](https://1inch.exchange/#/ETH/STAKE)****
+You can also trade STAKE on **Uniswap V1 & V2 using** [**1inch.exchange**](https://1inch.exchange/#/ETH/STAKE)****
 {% endhint %}
 
 ### ✅ :tada:BitMax Pre-Staking StakeVault hits 500+ participants

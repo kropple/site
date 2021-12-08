@@ -19,7 +19,7 @@ Nifty Wallet and MetaMask do not function properly when both are activated at th
 
 ![Nifty Wallet connected to the xDai Chain](../../.gitbook/assets/Nifty-1.png)
 
-**Key Features: **
+**Key Features:**&#x20;
 
 * Initiate token transactions to other addresses (wallets or smart contracts)
 * View ERC20 token balances

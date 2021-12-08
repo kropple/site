@@ -19,11 +19,11 @@ Having trouble keeping up with the news? We've started a [Substack site](https:/
 {% hint style="success" %}
 The protocol is currently in Epoch **65.**\
 ****\
-****There are **16** validator pools with **355 delegators **staking a total of **657,721 STAKE. **
+****There are **16** validator pools with **355 delegators** staking a total of **657,721 STAKE.**&#x20;
 
 One validator pool [became inactive](https://blockscout.com/xdai/mainnet/inactive-pools) after the node was down for more than 4 consecutive days. Delegators to this pool should [move STAKE](../../../../for-stakers/staking-protocol/staking-operations/move-stake.md) to other active pools to continue earning rewards for protocol protection.\
 \
-High pool APY is currently **17.78%**, low is **2.39% **_(stats as of 15/07/2021 15:00)_. [Learn more about APY calculations here.](../../../faqs/public-staking-validators-and-delegators.md#how-is-apy-calculated)
+High pool APY is currently **17.78%**, low is **2.39%** _(stats as of 15/07/2021 15:00)_. [Learn more about APY calculations here.](../../../faqs/public-staking-validators-and-delegators.md#how-is-apy-calculated)
 
 * Staking Statistics: [https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)
 * Staking Platform: [https://blockscout.com/xdai/mainnet/](https://blockscout.com/xdai/mainnet/validators)

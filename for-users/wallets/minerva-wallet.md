@@ -6,15 +6,15 @@ description: >-
 
 # Minerva Wallet
 
-**Wallet Type: **[Android Mobile Wallet](https://play.google.com/store/apps/details?id=digital.minerva) (iOS coming in the future)
+**Wallet Type:** [Android Mobile Wallet](https://play.google.com/store/apps/details?id=digital.minerva) (iOS coming in the future)
 
-**Description: **[Minerva Wallet](https://minerva.digital) is the only non-custodial mobile wallet that gives you complete control over your money, data and identities all in one place. It has a very user-friendly approach, supports WalletConnect and is not only multi-network but also multi-account. Efficient and innovative, it also provides privacy and high security; all wrapped up with a cute mascot.
+**Description:** [Minerva Wallet](https://minerva.digital) is the only non-custodial mobile wallet that gives you complete control over your money, data and identities all in one place. It has a very user-friendly approach, supports WalletConnect and is not only multi-network but also multi-account. Efficient and innovative, it also provides privacy and high security; all wrapped up with a cute mascot.
 
 ![Minerva’s interface on Android](../../.gitbook/assets/minerva-1.png)
 
-**Use Cases: **Minerva Wallet is built for all EVM-compatible chains with the major purpose of empowering you to be your own sovereign and have full control over all your assets. It grants you fully-enabled DeFi access via WalletConnect, so you can use hundreds of applications to your liking. Its “Multi-Account-Multi-Network” privacy-enabling interface allows you to effortlessly connect with many accounts on multiple networks and most importantly - to manage them with ease.&#x20;
+**Use Cases:** Minerva Wallet is built for all EVM-compatible chains with the major purpose of empowering you to be your own sovereign and have full control over all your assets. It grants you fully-enabled DeFi access via WalletConnect, so you can use hundreds of applications to your liking. Its “Multi-Account-Multi-Network” privacy-enabling interface allows you to effortlessly connect with many accounts on multiple networks and most importantly - to manage them with ease.&#x20;
 
-You can also buy crypto on-ramp via [Ramp.Network](../get-xdai-tokens/buying-xdai-with-fiat/ramp-network.md) and create your own Decentralized Identifiers (DIDs). But the icing on the cake :cake:** **is the “streaming money” that will soon hit the “released features” list, bringing Minerva to a new level of finesse among mobile wallets.
+You can also buy crypto on-ramp via [Ramp.Network](../get-xdai-tokens/buying-xdai-with-fiat/ramp-network.md) and create your own Decentralized Identifiers (DIDs). But the icing on the cake :cake: **** is the “streaming money” that will soon hit the “released features” list, bringing Minerva to a new level of finesse among mobile wallets.
 
 {% hint style="info" %}
 Minerva is basically a digital version of your regular wallet, able to handle all the things you have in it, but in a superior, tamperproof and highly secure format - managing to stay, amid all that, simple, sophisticated and user-friendly.

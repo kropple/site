@@ -9,11 +9,11 @@ description: 20 February -26 February 2021
 ## :construction\_worker: POSDAO & Protocol Updates
 
 {% hint style="success" %}
-Epoch **45 **is finishing shortly. Currently there are **16** validator pools with **219** delegators staking a total of **515,998** STAKE _(as of 26/02/2021 14:30 UTC)_.
+Epoch **45** is finishing shortly. Currently there are **16** validator pools with **219** delegators staking a total of **515,998** STAKE _(as of 26/02/2021 14:30 UTC)_.
 
 **This Week:**
 
-* Usage surpassed **200K txs per day on **_**24/02/2021.** _
+* Usage surpassed **200K txs per day on **_**24/02/2021.** _&#x20;
 * Market cap (Dai + tokens bridged with OmniBridge) increased to over **100M on **_**25/02/2021**_. It has increased over 100% this week, in large part due to the HOPR token distribution.
 
 Staking Statistics: [https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)

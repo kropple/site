@@ -25,9 +25,9 @@ Following the HF, the gas limit per block was increased from 12.5M to 17M to acc
 {% hint style="success" %}
 The protocol is currently in Epoch **57.**\
 ****\
-****There are **16** validator pools with **249** delegators staking a total of **568,553 **STAKE.\
+****There are **16** validator pools with **249** delegators staking a total of **568,553** STAKE.\
 \
-High pool APY is currently **19.18%**, low is **11.43% **_(stats as of 21/05/2021 16:30 UTC)_.
+High pool APY is currently **19.18%**, low is **11.43%** _(stats as of 21/05/2021 16:30 UTC)_.
 
 * Staking Statistics: [https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)
 * Staking Platform: [https://blockscout.com/xdai/mainnet/validators](https://blockscout.com/xdai/mainnet/validators)

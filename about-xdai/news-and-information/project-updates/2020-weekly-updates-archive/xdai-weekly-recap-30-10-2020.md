@@ -42,7 +42,7 @@ clr.fund funds allocation protocol is live and matching funds for public goods o
 
 ### :white\_check\_mark: xDai featured in Our Network Newsletter
 
-_Our Network is an on-chain analytics newsletter that reaches nearly 6000 crypto investors, analysts, researchers, and builders every week _📈. _This week our contributor analysts cover Ethereum Scaling: xDai, SKALE, and zkSync._
+_Our Network is an on-chain analytics newsletter that reaches nearly 6000 crypto investors, analysts, researchers, and builders every week_ 📈. _This week our contributor analysts cover Ethereum Scaling: xDai, SKALE, and zkSync._
 
 {% embed url="https://ournetwork.substack.com/" %}
 

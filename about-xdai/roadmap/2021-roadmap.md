@@ -4,7 +4,7 @@
 
 We continue to add items and adjust priorities as the year unfolds. See the [2020 Roadmap](2020-roadmap-completed-items.md) for items completed in 2020, and the changelog for any adjustments and additions.
 
-_Last update: November 15, 2021 | _[_Changelog_](./#change-log)__
+_Last update: November 15, 2021 |_ [_Changelog_](./#change-log)__
 
 {% hint style="warning" %}
 The xDai project roadmap is a high-level strategic plan designed to guide xDai research and development. **Target dates and details are reviewed regularly by the team and subject to move, adjust and change as the project evolves**. Note that only completed items ( :white\_check\_mark: Status: Complete) are considered achieved project milestones.
@@ -67,12 +67,12 @@ Following the Berlin HF, the gas limit per block was raised from 12.5M to 17M, r
 ## Universal NFT Bridge
 
 :dart: **Target Date**: Q3 2021\
-:white\_check\_mark: **Status: **Beta complete July 27, 2021
+:white\_check\_mark: **Status:** Beta complete July 27, 2021
 
 An NFT bridge to allow users easy portability between xDai and Ethereum for all ERC721 tokens. This will improve interoperability and provide options for NFT minting and cross-chain transfers.
 
 {% hint style="info" %}
-_Update: Bridge is fully operational  _[_More information_](../../for-users/bridges/nft-omnibridge.md)__
+_Update: Bridge is fully operational_  [_More information_](../../for-users/bridges/nft-omnibridge.md)__
 {% endhint %}
 
 ![UI Preview](../../.gitbook/assets/nft-bridge.png)

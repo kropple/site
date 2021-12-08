@@ -13,7 +13,7 @@ The xDai Bridge is now included as a native Gnosis Safe application, and Multisi
 
 ![](../../../.gitbook/assets/img1.png)
 
-3\) Open the application and interact with the bridge as you normally would to begin the transfer process.** **In the following example we bridge xDai on the xDai chain to Dai on Ethereum. The minimum amount to initiate a bridge transfer is 10 xDai. Enter:
+3\) Open the application and interact with the bridge as you normally would to begin the transfer process. **** In the following example we bridge xDai on the xDai chain to Dai on Ethereum. The minimum amount to initiate a bridge transfer is 10 xDai. Enter:
 
 1. xDai Amount
 2. Recipient Address
@@ -57,11 +57,11 @@ You can set higher if desired - the transaction will only use the amount require
 
 In this example, we sent xDai to a Gnosis Safe address on Ethereum. To claim the transaction and receive Dai, login to [Gnosis Safe on Ethereum](https://gnosis-safe.io/app/) and open the xDai Bridge Application (located in the Apps menu).
 
-7\) You should see the claim screen, click the** History** button to begin the process. If you do not see this screen, click on **History** at the top of the bridge app.
+7\) You should see the claim screen, click the **History** button to begin the process. If you do not see this screen, click on **History** at the top of the bridge app.
 
 ![](../../../.gitbook/assets/claim-screen-1.png)
 
-8\) Click the** Claim** button.
+8\) Click the **Claim** button.
 
 ![](../../../.gitbook/assets/claim-screen-2.png)
 

@@ -23,7 +23,7 @@ Remember, Burner Wallets are meant for quick turnaround usage. Because keys are 
 
 ![](../../../../.gitbook/assets/Next.png)
 
-4\) Increase (+) or Decrease (-) the number of accounts (wallets) you want to generate. Keep **Save to LocalStorage **checked, and press **DOWNLOAD BACKUP FILE** to download a JSON file containing addresses and private keys. Click **Save and Close**.
+4\) Increase (+) or Decrease (-) the number of accounts (wallets) you want to generate. Keep **Save to LocalStorage** checked, and press **DOWNLOAD BACKUP FILE** to download a JSON file containing addresses and private keys. Click **Save and Close**.
 
 ![](../../../../.gitbook/assets/new\_account\_set2.png)
 

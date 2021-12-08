@@ -6,8 +6,8 @@ description: Governance tokens with different uses
 
 MakerDAO and xDai are separate projects that co-exist within the broader blockchain ecosystem. They are distinct protocols, and do not require one another to function (while xDai is created from Dai, it could leverage a different stable coin to achieve the same result). However, when used together, they provide complementary structures that promote usability and scalability through stable value transfer.&#x20;
 
-* **MakerDAO** is a decentralized organization which creates a stable coin called **Dai **on the Ethereum blockchain. It uses the **MKR token** for governance.
-* The **xDai chain** is a distinct blockchain, which uses a converted form of Dai called **xDai **to enable fast, inexpensive and stable transactions.  It uses the **STAKE token** to protect the chain.  &#x20;
+* **MakerDAO** is a decentralized organization which creates a stable coin called **Dai** on the Ethereum blockchain. It uses the **MKR token** for governance.
+* The **xDai chain** is a distinct blockchain, which uses a converted form of Dai called **xDai** to enable fast, inexpensive and stable transactions.  It uses the **STAKE token** to protect the chain.  &#x20;
 
 Both systems implement a dual-token structure.  There is a stable token (Dai / xDai) designed for stable transactions, and a governance token (MKR / STAKE) used to mitigate risks and promote security. &#x20;
 

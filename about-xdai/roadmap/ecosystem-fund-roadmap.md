@@ -11,7 +11,7 @@ Here we offer some initial use cases for the fund. We will continue to expand th
 **Ecosystem Fund Details:**
 
 * **Funds Contract:** [0x5E78C09984bd6608f8E913F0924062C043eD6ad7](https://etherscan.io/address/0x5E78C09984bd6608f8E913F0924062C043eD6ad7)
-* **Distribution Contract: **[0x9BC4a93883C522D3C79c81c2999Aab52E2268d03](https://etherscan.io/address/0x9bc4a93883c522d3c79c81c2999aab52e2268d03)
+* **Distribution Contract:** [0x9BC4a93883C522D3C79c81c2999Aab52E2268d03](https://etherscan.io/address/0x9bc4a93883c522d3c79c81c2999aab52e2268d03)
 * **Unlocks:**
   * March 31, 2021 \~ 13:02:59 UTC: 800,000 STAKE (20% 1 time unlock)
   * April 1, 2021 - March 2, 2022: \~9,523 STAKE per day (80% over 336 days)

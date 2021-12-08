@@ -24,9 +24,9 @@ If you have any questions or concerns about becoming a candidate or validator, o
 Do not use addresses previously used with POSDAO. For example, you cannot create a candidate pool with a staking address previously used to delegate  on other pools.&#x20;
 {% endhint %}
 
-2\) You will need the minimum candidate stake amount of STAKE (2,000 STAKE) on xDai and a small amount of xDAI deposited to your address on the xDai chain. Deposit these to **your staking address **(an 0x external address). You will use to access the protocol.&#x20;
+2\) You will need the minimum candidate stake amount of STAKE (2,000 STAKE) on xDai and a small amount of xDAI deposited to your address on the xDai chain. Deposit these to **your staking address** (an 0x external address). You will use to access the protocol.&#x20;
 
-3\) In addition to your regular staking address, you will need a **separate mining address.** This** **will be configured to an OpenEthereum or Nethermind node. Generate and save the JSON keystore file (and be sure to save the password in a safe place!) See below to generate keystore, or use [MEW](https://kb.myetherwallet.com/en/security-and-privacy/what-is-a-keystore-file/) or [MyCrypto](https://support.mycrypto.com).
+3\) In addition to your regular staking address, you will need a **separate mining address.** This **** will be configured to an OpenEthereum or Nethermind node. Generate and save the JSON keystore file (and be sure to save the password in a safe place!) See below to generate keystore, or use [MEW](https://kb.myetherwallet.com/en/security-and-privacy/what-is-a-keystore-file/) or [MyCrypto](https://support.mycrypto.com).
 
 *
   * You can generate a key with the following OpenEthereum's CLI command or use the You use the [`eth-keygen-json`](https://www.npmjs.com/package/eth-keygen-json)  tool made by [Peppersec.com](https://peppersec.com).
@@ -35,7 +35,7 @@ Do not use addresses previously used with POSDAO. For example, you cannot create
 openethereum account new --keys-path <path_to_save_json_keystore>
 ```
 
-4\) Once your staking address is funded and your mining address is created, go to BlockScout and select **Staking on xDai **from the **Apps** Dropdown menu.
+4\) Once your staking address is funded and your mining address is created, go to BlockScout and select **Staking on xDai** from the **Apps** Dropdown menu.
 
 ![](<../../.gitbook/assets/staking-1 (1).png>)
 
@@ -56,7 +56,7 @@ If you are trying to become a candidate at the end of an epoch, you may see the 
 
 7\) Once you've filled the information in the modal, click **Become a Candidate**. Submit and complete the transaction through the web3 wallet interface using your staking address.
 
-8\) If successful, your pool will appear in the **Active Pools **tab of the staking Dapp. You will be eligible to join the next staking epoch.
+8\) If successful, your pool will appear in the **Active Pools** tab of the staking Dapp. You will be eligible to join the next staking epoch.
 
 9\) Let the team know you are an active candidate in the [discord channel for validator candidates](https://discord.gg/mPJ9zkq). They will provide you with additional information to setup your mining node correctly.&#x20;
 
@@ -66,5 +66,5 @@ If you are trying to become a candidate at the end of an epoch, you may see the 
 * [OpenEthereum](../../for-validators/new-validator-process-flow/openethereum-node-instructions.md)
 
 {% hint style="info" %}
-**We recommend running **[**Nethermind**](../../for-validators/new-validator-process-flow/nethermind-node-setup.md)** **as OE may be deprecated in the future. If you decide to stay with OE use version 3.2.5+&#x20;
+**We recommend running** [**Nethermind**](../../for-validators/new-validator-process-flow/nethermind-node-setup.md) **** as OE may be deprecated in the future. If you decide to stay with OE use version 3.2.5+&#x20;
 {% endhint %}

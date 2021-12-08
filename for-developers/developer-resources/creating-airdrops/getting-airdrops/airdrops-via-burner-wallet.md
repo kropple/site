@@ -28,7 +28,7 @@ A) **QR code**
 
 B)  **Link**
 
-1. Click on the link to claim the airdrop.  **Link Example: **[https://xdai.io/0x26d6f08e89ee1087b2fa6e562bb82c62ab767122773b0b23de27ab7e0c90c5f4;0x92013b2b62495dd18c3976b13da569b60d5cd252234f8c6ab709fb0aed71dd43](https://xdai.io/0x26d6f08e89ee1087b2fa6e562bb82c62ab767122773b0b23de27ab7e0c90c5f4;0x92013b2b62495dd18c3976b13da569b60d5cd252234f8c6ab709fb0aed71dd43)
+1. Click on the link to claim the airdrop.  **Link Example:** [https://xdai.io/0x26d6f08e89ee1087b2fa6e562bb82c62ab767122773b0b23de27ab7e0c90c5f4;0x92013b2b62495dd18c3976b13da569b60d5cd252234f8c6ab709fb0aed71dd43](https://xdai.io/0x26d6f08e89ee1087b2fa6e562bb82c62ab767122773b0b23de27ab7e0c90c5f4;0x92013b2b62495dd18c3976b13da569b60d5cd252234f8c6ab709fb0aed71dd43)
 
 #### Claiming
 

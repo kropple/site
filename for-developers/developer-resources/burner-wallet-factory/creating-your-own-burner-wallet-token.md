@@ -56,9 +56,9 @@ $.01 xDai is added to any new token to pay for gas fees. In addition, the GSN (G
 
 ![](../../../.gitbook/assets/token9.png)
 
-8\) You will now have tokens with a 0 balance. To populate, you can send some xDai to your wallet. Click on **Receive **at the bottom, then scan the QR (or manually add) to another wallet (ie Metamask, AlphaWallet or similar) that contains xDai, specifying the amount to send.&#x20;
+8\) You will now have tokens with a 0 balance. To populate, you can send some xDai to your wallet. Click on **Receive** at the bottom, then scan the QR (or manually add) to another wallet (ie Metamask, AlphaWallet or similar) that contains xDai, specifying the amount to send.&#x20;
 
-9\) Once your wallet has some xDai, you can exchange it for other currencies. Click** Exchange** to start the process.
+9\) Once your wallet has some xDai, you can exchange it for other currencies. Click **Exchange** to start the process.
 
 ![](../../../.gitbook/assets/token10.png)
 

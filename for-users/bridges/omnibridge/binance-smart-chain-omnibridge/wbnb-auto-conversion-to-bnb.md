@@ -41,7 +41,7 @@ Once your swap is complete, you will move WBNB across the bridge to receive BNB 
 1. Select **BSC <-> xDai** from the Dropdown. Your MetaMask should still be connected to the xDai Chain.
 2. Choose **Wrapped BNB on xDai** and **enter the amount** you want to bridge.
 3. **Toggle to Receive BNB**. When your transaction is bridged, the WBNB is also unwrapped on the Binance Smart Chain as a part of the transaction! This gives you native BNB on BSC.
-4. Click **Request **to begin bridging.
+4. Click **Request** to begin bridging.
 
 ![](../../../../.gitbook/assets/b1.png)
 

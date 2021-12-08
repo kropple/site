@@ -6,7 +6,7 @@ description: >-
 
 # Airdrop tokens to an address set
 
-1\) Go to the Distribution page and select the address set you created in the [Address Sets](./) instruction. Click on **ADD ASSET FOR AIR DROP **on the Account Set page.&#x20;
+1\) Go to the Distribution page and select the address set you created in the [Address Sets](./) instruction. Click on **ADD ASSET FOR AIR DROP** on the Account Set page.&#x20;
 
 ![](../../../../.gitbook/assets/airdrop1.png)
 

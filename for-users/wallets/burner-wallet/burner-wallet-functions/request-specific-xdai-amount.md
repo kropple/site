@@ -6,7 +6,7 @@ With Burner Wallet, you can easily create a QR / link which includes a specific 
 
 ![](../../../../.gitbook/assets/request-1.png)
 
-2\) Enter **Requested Amount **and any **Message **(or item if selling multiple items). Click **Request**.
+2\) Enter **Requested Amount** and any **Message** (or item if selling multiple items). Click **Request**.
 
 ![](../../../../.gitbook/assets/request-2.png)
 

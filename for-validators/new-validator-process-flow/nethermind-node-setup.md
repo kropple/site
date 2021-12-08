@@ -11,7 +11,7 @@ Nethermind version ->  [https://github.com/NethermindEth/nethermind/releases/tag
 {% endhint %}
 
 {% hint style="info" %}
-**If you are migrating from a current OpenEthereum/Parity Node: **
+**If you are migrating from a current OpenEthereum/Parity Node:**&#x20;
 
 1. We recommend preparing through step 4 below (update .env file) on a clean instance, but **DO NOT launch ( do not proceed to step 5 `docker-compose up -d`) until you have stopped your current instance**.&#x20;
 2. Once your new node is prepared, stop your current OE/Parity instance

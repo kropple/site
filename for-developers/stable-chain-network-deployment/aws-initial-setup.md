@@ -23,7 +23,7 @@ For clarity we recommend using identical usernames on your Ansible Control Stati
 
 ![](../../.gitbook/assets/policies.png)
 
-5\) Enter any Tags (optional) and Click the **Next:Review **button. IAM tags are key-value pairs you can add to your user. Tags can include user information, such as an email address, or can be descriptive, such as a job title.&#x20;
+5\) Enter any Tags (optional) and Click the **Next:Review** button. IAM tags are key-value pairs you can add to your user. Tags can include user information, such as an email address, or can be descriptive, such as a job title.&#x20;
 
 ![](../../.gitbook/assets/tags.png)
 
@@ -39,7 +39,7 @@ For clarity we recommend using identical usernames on your Ansible Control Stati
 
 ![](<../../.gitbook/assets/download and save key.png>)
 
-8\) After you've copied and saved your AWS secret keys, you will upload your SSH public key. In the top left corner of the page select Services -> EC2. On the left sidebar select Network & Security -> **Key Pairs**. Click the **Import Key Pair **button.
+8\) After you've copied and saved your AWS secret keys, you will upload your SSH public key. In the top left corner of the page select Services -> EC2. On the left sidebar select Network & Security -> **Key Pairs**. Click the **Import Key Pair** button.
 
 ![](../../.gitbook/assets/importkp1.png)
 

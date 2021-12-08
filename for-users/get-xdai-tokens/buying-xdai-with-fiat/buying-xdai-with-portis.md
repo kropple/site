@@ -31,7 +31,7 @@ Billing addresses in the US use the [Wyre](https://www.sendwyre.com) API to purc
 
 ![Portis accepts Visa and Mastercard debit cards](<../../../.gitbook/assets/Screen Shot 2019-10-08 at 1.15.52 PM.png>)
 
-6\) Enter in your card details and click the **Add **button.
+6\) Enter in your card details and click the **Add** button.
 
 ![Daily limit is $40 on Portis Wallet](<../../../.gitbook/assets/Screen Shot 2019-10-08 at 1.42.50 PM.png>)
 

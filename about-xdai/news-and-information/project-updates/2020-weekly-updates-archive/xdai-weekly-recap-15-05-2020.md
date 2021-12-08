@@ -37,7 +37,7 @@ xDai STAKE was featured in 2 AMAs over the week. Checkout the links below for an
 
 xDai DApp developers can now use Biconomy to give users an improved UX with **gasless transactions.**
 
-Instructions and links are available here:** **[https://medium.com/biconomy/biconomy-supports-xdai-chain-4d21d1f70222](https://medium.com/biconomy/biconomy-supports-xdai-chain-4d21d1f70222)
+Instructions and links are available here: **** [https://medium.com/biconomy/biconomy-supports-xdai-chain-4d21d1f70222](https://medium.com/biconomy/biconomy-supports-xdai-chain-4d21d1f70222)
 
 ## ✅ Burner Wallet xDai Giveaway
 

@@ -6,7 +6,7 @@ Creating a quick wallet for your event is easy with Burner Factory. A step-by-st
 The following instructions are for creating an xDai/DAI/Eth wallet (along with a little POA20 for good measure:slight\_smile:).  If you want to create a wallet with a custom token, see [Creating your own Burner Wallet Token](creating-your-own-burner-wallet-token.md).&#x20;
 {% endhint %}
 
-1\) Go to [https://burnerfactory.com/](https://burnerfactory.com). If you don't have an account yet, **sign up using your Github account **_(account username/password not yet functional)_
+1\) Go to [https://burnerfactory.com/](https://burnerfactory.com). If you don't have an account yet, **sign up using your Github account** _(account username/password not yet functional)_
 
 ![Sign in with Github](<../../../.gitbook/assets/bw\_login\_1 (1).png>)
 
@@ -18,7 +18,7 @@ The following instructions are for creating an xDai/DAI/Eth wallet (along with a
 
 ![Enter a name for you wallet](../../../.gitbook/assets/bw\_party\_wallet\_name.png)
 
-4\) Choose your assets and tokens. You can create a new token or use existing assets. In this example, we select **Use only existing assets **to create a quick xDai wallet for an event. Click **Next.**
+4\) Choose your assets and tokens. You can create a new token or use existing assets. In this example, we select **Use only existing assets** to create a quick xDai wallet for an event. Click **Next.**
 
 ![Use existing assets](../../../.gitbook/assets/bw-token-types.png)
 
@@ -54,7 +54,7 @@ Additional available plugins (more coming soon)
 
     Purchase crypto using credit cards (not available in USA)
 
-Add Carbon by clicking **Add Plugin** and selecting Carbon from the list. Click **Next **to continue.
+Add Carbon by clicking **Add Plugin** and selecting Carbon from the list. Click **Next** to continue.
 
 ![Select Carbon from the Add Plugin modal](../../../.gitbook/assets/bw-add-carbon.png)
 
@@ -62,7 +62,7 @@ Add Carbon by clicking **Add Plugin** and selecting Carbon from the list. Click 
 
 ![](../../../.gitbook/assets/party-subdomain.png)
 
-8\) Click Publish Later to wait, or **Publish Now **to start deployment.
+8\) Click Publish Later to wait, or **Publish Now** to start deployment.
 
 ![Publish Now](../../../.gitbook/assets/bw\_publish\_now.png)
 

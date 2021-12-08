@@ -49,7 +49,7 @@ Go to [https://blockscout.com/xdai/mainnet/](https://blockscout.com/xdai/mainnet
 
 ### 3) Connect your Wallet&#x20;
 
-Press the** 🦊Add xDai Chain** button and approve the xDai network. Press **Login** to connect to the application. Make sure you are connecting your address containing STAKE and xDai.
+Press the **🦊Add xDai Chain** button and approve the xDai network. Press **Login** to connect to the application. Make sure you are connecting your address containing STAKE and xDai.
 
 ![](../../.gitbook/assets/connect-wallet.gif)
 
@@ -59,7 +59,7 @@ Once connected, you should see your address and STAKE balance in the site banner
 
 ### 4) Find a Candidate Pool
 
-View the current validator pools on the **Validators **tab, and** **all active pools (eligible pools which may or may not be validators in the current round) in the **Active Pools (Candidates) **tab.&#x20;
+View the current validator pools on the **Validators** tab, and **** all active pools (eligible pools which may or may not be validators in the current round) in the **Active Pools (Candidates)** tab.&#x20;
 
 ![](../../.gitbook/assets/select-validator.png)
 

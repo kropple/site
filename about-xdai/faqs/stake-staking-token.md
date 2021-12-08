@@ -23,7 +23,7 @@ More on the [Dual Token Model](../../for-stakers/stake-token/stake-reward-mechan
 * Purchase STAKE on xDai directly on [AscendEX](https://ascendex.com/en/global-digital-asset-platform).
 
 {% hint style="warning" %}
-Note: **STAKE deposits on xDai are only available on AscenDEX**. For Huobi, Gate and other exchanges you need to bridge STAKE to Ethereum first.** Do not send STAKE on xDai directly to those exchanges without bridging first**.  If you have additional questions, please ask in the [discord #support channel](https://discord.gg/mPJ9zkq).&#x20;
+Note: **STAKE deposits on xDai are only available on AscenDEX**. For Huobi, Gate and other exchanges you need to bridge STAKE to Ethereum first. **Do not send STAKE on xDai directly to those exchanges without bridging first**.  If you have additional questions, please ask in the [discord #support channel](https://discord.gg/mPJ9zkq).&#x20;
 {% endhint %}
 
 ## What are the STAKE contract addresses?
@@ -98,11 +98,11 @@ xDai is the first developed use-case for STAKE. However, it may be adopted by ot
 
 ### Huobi
 
-To move to Huobi, you will first **need to have your STAKE on the Ethereum mainnet as an ERC20**. If you currently have STAKE on xDai, you should[** bridge it back to Ethereum with the OmniBridge**](https://omni.xdaichain.com/bridge?from=100\&to=1\&token=0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e) before sending to the Huobi exchange.&#x20;
+To move to Huobi, you will first **need to have your STAKE on the Ethereum mainnet as an ERC20**. If you currently have STAKE on xDai, you should[ **bridge it back to Ethereum with the OmniBridge**](https://omni.xdaichain.com/bridge?from=100\&to=1\&token=0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e) before sending to the Huobi exchange.&#x20;
 
 If you send STAKE on xDai directly to Huobi, the xDai team cannot help with this issue and you will need to contact Huobi directly.
 
-_Note: The transfer operation between xDai and STAKE can be costly, _[_more on gas fees associated with bridging to Ethereum_](bridges-xdai-bridge-and-omnibridge.md#metamask-is-showing-very-high-fees-to-claim-a-transaction-on-ethereum-tokens-bridged-from-xdai-to-ethereum-is-this-estimate-accurate)_._
+_Note: The transfer operation between xDai and STAKE can be costly,_ [_more on gas fees associated with bridging to Ethereum_](bridges-xdai-bridge-and-omnibridge.md#metamask-is-showing-very-high-fees-to-claim-a-transaction-on-ethereum-tokens-bridged-from-xdai-to-ethereum-is-this-estimate-accurate)_._
 
 ### AscendEx (formerly BitMax)
 

@@ -31,13 +31,13 @@ The TokenBridge project has been releasing instructions and tools for devs build
 A Uniswap fork has been added to xDai by the 1Hive team, and xMoons and HNY tokens are available to swap! We expect to see additional currencies added to this exchange soon on xDai. There are now 2 ways to exchange xMoons for xDai:
 
 * Austin Griffith’s xMoon Exchange [https://xmoon.exchange/](https://xmoon.exchange)
-* Uniswap fork at https://uniswap.1hive.org/swap_ \<link deprecated - _[_honeyswap_](https://honeyswap.org)_ now available for Uniswap v2>_
+* Uniswap fork at https://uniswap.1hive.org/swap _\<link deprecated -_ [_honeyswap_](https://honeyswap.org) _now available for Uniswap v2>_
 
 ## :newspaper: Media
 
 ### ✅ **xMoon Videos**
 
-To use some of the awesome DApps incorporating Reddit MOONs on xDai (xMOONs), you need to transfer them to the xDai chain. These videos show you how to 1) transfer from your Reddit Vault to MetaMask and 2)** **Move MOONs from the Rinkeby testnet to xDai.  Once you have xMOONs, you can exchange them for xDai or even HNY using the uniswap fork deployed by 1Hive.&#x20;
+To use some of the awesome DApps incorporating Reddit MOONs on xDai (xMOONs), you need to transfer them to the xDai chain. These videos show you how to 1) transfer from your Reddit Vault to MetaMask and 2) **** Move MOONs from the Rinkeby testnet to xDai.  Once you have xMOONs, you can exchange them for xDai or even HNY using the uniswap fork deployed by 1Hive.&#x20;
 
 {% embed url="https://youtu.be/n5osHQxMaS0" %}
 

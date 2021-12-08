@@ -55,7 +55,7 @@ c) Click **Add Tokens** to add to your wallet view. You will have 0 STAKE tokens
 
 ![](../../../.gitbook/assets/connect-2.png)
 
-6\) In Etherscan, press the **Write** button next to the **withdraw **function.
+6\) In Etherscan, press the **Write** button next to the **withdraw** function.
 
 ![](../../../.gitbook/assets/connect-3.png)
 

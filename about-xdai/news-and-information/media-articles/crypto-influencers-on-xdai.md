@@ -10,7 +10,7 @@ Below are some mentions xDai has received from influencers in the community. We 
 
 ## Dr. Gavin Wood
 
-> We will introduce a **Substrate to **[**Parity-Ethereum-PoA**](https://github.com/paritytech/parity-ethereum)** bridge**, very similar to our existing [Parity Bridge](https://github.com/paritytech/parity-bridge) that sits at the heart of the [xDAI](https://xdai.io) chain...
+> We will introduce a **Substrate to** [**Parity-Ethereum-PoA**](https://github.com/paritytech/parity-ethereum) **bridge**, very similar to our existing [Parity Bridge](https://github.com/paritytech/parity-bridge) that sits at the heart of the [xDAI](https://xdai.io) chain...
 >
 > &#x20;Dr Gavid Wood, co-founder of Ethereum
 
@@ -44,7 +44,7 @@ Review of Gitcoin grants with quote on xDai
 
 ## Joseph Lubin
 
-> At EthDenver, the user experience was really, really smooth.... _(xDai and the Burner Wallet) _enables ease of use & easy onboarding for people.
+> At EthDenver, the user experience was really, really smooth.... _(xDai and the Burner Wallet)_ enables ease of use & easy onboarding for people.
 >
 > Joseph Lubin, co-founder of Ethereum
 

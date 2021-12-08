@@ -10,7 +10,7 @@ description: POA Network R&D created xDai as the first USD Stable Chain
 
 The first iteration of the xDai chain was modeled after the POA Network chain but included some important updates. xDai was created as the first stable chain, meaning payments and fees were all completely stable and predictable. It inherited the speed and low fees of POA, but allowed for many new kinds of use cases, creating rapid adoption in the community.&#x20;
 
-xDai has successfully moved to a permissionless model with POSDAO, making it more decentralized & ideal as a stable payment platform.**  **
+xDai has successfully moved to a permissionless model with POSDAO, making it more decentralized & ideal as a stable payment platform.  **** &#x20;
 
 |                         | **POA Chain**                                             | **xDai Chain**                                                          |
 | ----------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------- |
@@ -28,10 +28,10 @@ xDai has successfully moved to a permissionless model with POSDAO, making it mor
 
 The POA token is the native currency of the POA Core network. It is used to send transactions on the chain, and to pay fees for those transactions. Validators earn POA for each block that they seal. POA is a volatile token - the price changes based on market forces. This makes it challenging to use for payments as the value can change rapidly. In addition, POA can be bridged to the Ethereum mainnet and used as POA20.
 
-STAKE is an entirely different kind of token - it is used to secure the underlying consensus of a chain. Validators and delegators use STAKE as collateral in a Proof-of-Stake consensus architecture. On the xDai chain, xDai is used for stable transactions (similar to POA, but as a stablecoin) and STAKE protects the underlying consensus (honest validators earn rewards, misbehaving validators are banned).**  **\
+STAKE is an entirely different kind of token - it is used to secure the underlying consensus of a chain. Validators and delegators use STAKE as collateral in a Proof-of-Stake consensus architecture. On the xDai chain, xDai is used for stable transactions (similar to POA, but as a stablecoin) and STAKE protects the underlying consensus (honest validators earn rewards, misbehaving validators are banned).  ****  \
 ****
 
-|                    | **POA**                                | **xDai **                                            | **STAKE**                                                     |
+|                    | **POA**                                | **xDai**                                             | **STAKE**                                                     |
 | ------------------ | -------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------- |
 | **Type**           | Volatile                               | Stable                                               | Volatile                                                      |
 | **Purpose**        | Transactions, fees, medium of exchange | Transactions, fees, medium of exchange, P2P payments | Protect consensus                                             |

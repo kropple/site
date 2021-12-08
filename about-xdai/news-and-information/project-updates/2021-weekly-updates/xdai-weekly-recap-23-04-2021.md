@@ -8,7 +8,7 @@ description: 17 April - 23 April 2021
 
 ## &#x20;:fire: Exchange Listing and Trading Campaign
 
-Huobi Global launched STAKE trading/staking campaigns on April 20th, providing up to 12,400 STAKE as rewards!  The featured STAKE staking campaign returns an estimated **130.35% APY **:eyes:&#x20;
+Huobi Global launched STAKE trading/staking campaigns on April 20th, providing up to 12,400 STAKE as rewards!  The featured STAKE staking campaign returns an estimated **130.35% APY** :eyes:&#x20;
 
 {% embed url="https://www.huobi.li/support/en-us/detail/24873225477472" %}
 
@@ -22,7 +22,7 @@ Huobi Global launched STAKE trading/staking campaigns on April 20th, providing u
 
 {% hint style="success" %}
 The protocol is currently in Epoch **53.**\
-****There are **16** validator pools with **277** delegators staking a total of **558,362** STAKE. High pool APY is currently 22**.15%**, low is **12.54% **_(stats as of 23/04/2021 17:00 UTC)_.
+****There are **16** validator pools with **277** delegators staking a total of **558,362** STAKE. High pool APY is currently 22**.15%**, low is **12.54%** _(stats as of 23/04/2021 17:00 UTC)_.
 
 * Staking Statistics: [https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)
 * Staking Platform: [https://blockscout.com/xdai/mainnet/validators](https://blockscout.com/xdai/mainnet/validators)

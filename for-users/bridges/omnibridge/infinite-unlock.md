@@ -14,7 +14,7 @@ You can give this permission on a per transaction basis, or you can unlock an un
 
 ![](../../../.gitbook/assets/settings-1.png)
 
-2\) Toggle** Infinite Unlock** and Click **Save**. When you process your next unlock, the transaction will allow all transfers of that token without needing to unlock again.
+2\) Toggle **Infinite Unlock** and Click **Save**. When you process your next unlock, the transaction will allow all transfers of that token without needing to unlock again.
 
 ![](../../../.gitbook/assets/infinite-1.png)
 

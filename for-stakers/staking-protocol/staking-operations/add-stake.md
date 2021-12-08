@@ -24,7 +24,7 @@ A modal will appear with information about the pool on the right, and your balan
 
 ![](../../../.gitbook/assets/stake-more.png)
 
-3\) Enter in the amount you would like to stake and click **Stake More **_(if you have not staked into this previously, the button will say Place Stake and you can follow the _[_Become a Delegator process_](../become-a-delegator.md)_). _You can add additional pending stake in any amount to the pool at any time, and it will be active in the next staking epoch.
+3\) Enter in the amount you would like to stake and click **Stake More** _(if you have not staked into this previously, the button will say Place Stake and you can follow the_ [_Become a Delegator process_](../become-a-delegator.md)_)._ You can add additional pending stake in any amount to the pool at any time, and it will be active in the next staking epoch.
 
 4\) Assuming your stake amount is valid (you have sufficient funds, your stake per pool is above the minimum requirements etc.), you will be directed to complete the transaction using the web3 wallet interface.
 

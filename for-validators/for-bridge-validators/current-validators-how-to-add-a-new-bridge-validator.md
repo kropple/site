@@ -13,12 +13,12 @@ The submitter will execute these methods: `addValidator` and (optionally) `setRe
 **Multisignature wallet addresses (for reference):**
 
 * **ETH Mainnet:** 0xff1a8EDA5eAcdB6aAf729905492bdc6376DBe2dd
-* **xDai chain: **0x0d3726e5a9f37234d6b55216fc971d30f150a60f
+* **xDai chain:** 0x0d3726e5a9f37234d6b55216fc971d30f150a60f
 
 {% hint style="info" %}
 **Before starting, current validators should determine (through Slack or other means):**
 
-**1) **who will add the new validator (the submitter)
+**1)** who will add the new validator (the submitter)
 
 2\) coordinate a time when the other validators will confirm the transaction, as the bridge will be stopped to complete the upgrade.
 
@@ -62,7 +62,7 @@ The submitter will execute these methods: `addValidator` and (optionally) `setRe
 * d. Value is 0
 * e. Data is the bytecode generated in 2d. Add 0x before the value. In our example, it is 0x4d238……..
 * f. Click **Next**
-* g. Choose the contract to execute this transaction. Select your **Bridge Validator **address.
+* g. Choose the contract to execute this transaction. Select your **Bridge Validator** address.
 * h. Once this is complete, identify the index of the transaction returned in the `Submission` event and make a note of it.
 
 ## setRequiredSignatures

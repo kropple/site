@@ -5,5 +5,5 @@ STAKE is available on many centralized and decentralized exchanges. For an updat
 Additional instructions for some exchanges are available:
 
 * [Uniswap (adding to an LP on Uniswap)](../../../easy-staking/liquidity-provider-lp-info.md#adding-to-the-liquidity-pool)
-* Bancor (** Bancor v2.1 staking pool)**
+* Bancor ( **Bancor v2.1 staking pool)**
 

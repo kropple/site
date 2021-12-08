@@ -17,7 +17,7 @@ The steps use the same process as the MOON -> Dai conversion, though mostly in r
 
 ![](../../../.gitbook/assets/rhnyswap1.jpg)
 
-4\) **Add xMoons to your MetaMask wallet. **Click **Add Custom Token** and paste in the xMoon address: 0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A
+4\) **Add xMoons to your MetaMask wallet.** Click **Add Custom Token** and paste in the xMoon address: 0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A
 
 ![](../../../.gitbook/assets/rhnyswap2.jpg)
 
@@ -37,7 +37,7 @@ Now use MetaMask to send your MOONs to this address. Connect Your MM wallet to R
 
 ![](../../../.gitbook/assets/MM-sequence1.jpg)
 
-6\) **Use your MOONS! **Your MOONs should now arrive in your Reddit account. You can use MOONs to tip other users or convert them to coins for use within the r/Cryptocurrency subreddit. Note that any coins you convert are only usable on this particular subreddit, not on other parts of the Reddit site.
+6\) **Use your MOONS!** Your MOONs should now arrive in your Reddit account. You can use MOONs to tip other users or convert them to coins for use within the r/Cryptocurrency subreddit. Note that any coins you convert are only usable on this particular subreddit, not on other parts of the Reddit site.
 
 ![Scroll down to see your Moon balance](../../../.gitbook/assets/rreddit1.jpg)
 

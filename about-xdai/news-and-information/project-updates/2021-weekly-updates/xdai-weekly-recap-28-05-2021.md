@@ -11,11 +11,11 @@ description: 22 May - 28 May 2021
 {% hint style="success" %}
 The protocol is currently in Epoch **58.**\
 ****\
-****There are **16** validator pools with **272** delegators staking a total of **608,769 **STAKE - over 75% of the total STAKE supply on xDai.
+****There are **16** validator pools with **272** delegators staking a total of **608,769** STAKE - over 75% of the total STAKE supply on xDai.
 
 The new Stakefish pool has the highest amount staked, with 97K+ in the pool.\
 \
-High pool APY is currently **18.28%**, low is **10.92% **_(stats as of 28/05/2021 14:30 UTC)_.
+High pool APY is currently **18.28%**, low is **10.92%** _(stats as of 28/05/2021 14:30 UTC)_.
 
 * Staking Statistics: [https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)
 * Staking Platform: [https://blockscout.com/xdai/mainnet/validators](https://blockscout.com/xdai/mainnet/validators)

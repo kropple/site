@@ -9,7 +9,7 @@ description: 20 March - 26 March 2021
 ## :woman\_construction\_worker: POSDAO & Protocol Updates
 
 {% hint style="success" %}
-Epoch **49 **ends around 04:40 UTC March 28. There are **16** validator pools with **265** delegators staking a total of **561,890** STAKE. High pool APY is currently **20.01%**, low is **9.99% **_(stats as of 26/03/2021 14:15 UTC)_.
+Epoch **49** ends around 04:40 UTC March 28. There are **16** validator pools with **265** delegators staking a total of **561,890** STAKE. High pool APY is currently **20.01%**, low is **9.99%** _(stats as of 26/03/2021 14:15 UTC)_.
 
 * Staking Statistics: [https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)
 * Staking Platform: [https://blockscout.com/xdai/mainnet/validators](https://blockscout.com/xdai/mainnet/validators)

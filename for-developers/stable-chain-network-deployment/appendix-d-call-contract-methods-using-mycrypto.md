@@ -7,7 +7,7 @@ This example is taken from [5) Reconfigure Instances](5-reconfigure-instances.md
 1\) Set a temporary zero fee in the `Registry` contract for registering addresses at the bootnode rpc.
 
 &#x20;a) Check the bootnode ip is accessible in a browser. \
-Visit [https://1.2.3.4 ](https://1.2.3.4) (using the bootnode's ip address). You may see a warning that the certificate is invalid. Click** Advanced** and proceed and unlock the browser. You should now see a message like "**Used HTTP Method is not allowed. POST or OPTIONS is required**". This means the bootnode is ready for the next step.
+Visit [https://1.2.3.4 ](https://1.2.3.4) (using the bootnode's ip address). You may see a warning that the certificate is invalid. Click **Advanced** and proceed and unlock the browser. You should now see a message like "**Used HTTP Method is not allowed. POST or OPTIONS is required**". This means the bootnode is ready for the next step.
 
 ![Click to Proceed and unlock the url](../../.gitbook/assets/unsafe-1.png)
 

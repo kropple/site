@@ -26,7 +26,7 @@ See [unlock dates and circulating supply](../../../../for-stakers/stake-token/st
 
 Listing: [https://coinmarketcap.com/currencies/xdai/](https://coinmarketcap.com/currencies/xdai/)
 
-Note that** **some values on the CMC listing remain in “?” status. This will shift as data is verified and reporting accuracy confirmed. To get the current circulating supply, see [https://supply.xdaichain.com/](https://supply.xdaichain.com)
+Note that **** some values on the CMC listing remain in “?” status. This will shift as data is verified and reporting accuracy confirmed. To get the current circulating supply, see [https://supply.xdaichain.com/](https://supply.xdaichain.com)
 
 {% embed url="https://twitter.com/xdaichain/status/1265360044910088193" %}
 

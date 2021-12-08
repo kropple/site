@@ -4,7 +4,7 @@
 
 1\)  Connect to the Bootnode instance and replace the `spec.json` file at `/home/bootnode/spec.json` with the `spec.json` from the MoC instance.
 
-2\) Replace the `bootnodes.txt` file at `/home/bootnode/bootnodes.txt `with the `bootnodes.txt` file from the MoC instance.
+2\) Replace the `bootnodes.txt` file at `/home/bootnode/bootnodes.txt` with the `bootnodes.txt` file from the MoC instance.
 
 3\) Open `/home/bootnode/node.toml` in your favorite editor and add `"parity"` to the `apis` option in `[rpc]` section so that it would look like `apis = ["web3","eth","net","parity"]`
 
@@ -30,7 +30,7 @@ curl --data '{"method":"parity_enode","params":[],"id":1,"jsonrpc":"2.0"}' -H "C
 sudo systemctl restart poa-parity && sleep 10 && sudo systemctl restart poa-netstats
 ```
 
-9\)** Log back into MoC node** and replace the `/home/moc/bootnodes.txt `file with the `bootnodes.txt` file from the Bootnode. It should contain both enode entries. Save the file and restart MoC node / Netstats with:
+9\) **Log back into MoC node** and replace the `/home/moc/bootnodes.txt` file with the `bootnodes.txt` file from the Bootnode. It should contain both enode entries. Save the file and restart MoC node / Netstats with:
 
 ```
 sudo systemctl restart poa-parity && sleep 10 && sudo systemctl restart poa-netstats

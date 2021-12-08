@@ -9,11 +9,11 @@ description: xDai with POSDAO runs on OpenEthereum v3.2.5
 {% hint style="warning" %}
 **Updating OE**
 
-:white\_check\_mark: Please update to `v3.3.0 RC15 `which contains the London hard fork transitions: [https://github.com/openethereum/openethereum/releases/tag/v3.3.0-rc.15](https://github.com/openethereum/openethereum/releases/tag/v3.3.0-rc.15)
+:white\_check\_mark: Please update to `v3.3.0 RC15` which contains the London hard fork transitions: [https://github.com/openethereum/openethereum/releases/tag/v3.3.0-rc.15](https://github.com/openethereum/openethereum/releases/tag/v3.3.0-rc.15)
 {% endhint %}
 
 {% hint style="success" %}
-_For a user friendly version, see _[_https://forum.1hive.org/t/run-your-own-local-xdai-node/2875_](https://forum.1hive.org/t/run-your-own-local-xdai-node/2875)
+_For a user friendly version, see_ [_https://forum.1hive.org/t/run-your-own-local-xdai-node/2875_](https://forum.1hive.org/t/run-your-own-local-xdai-node/2875)
 {% endhint %}
 
 ### Binary Instructions
@@ -39,7 +39,7 @@ The `--no-warp` flag is recommended if you want all historical data, but will ta
 
 * Windows Download the binary and double click on it.
 
-### Dependencies <a href="dependencies" id="dependencies"></a>
+### Dependencies <a href="#dependencies" id="dependencies"></a>
 
 For Linux systems:
 

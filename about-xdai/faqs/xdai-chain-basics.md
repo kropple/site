@@ -69,7 +69,7 @@ We have contracted 3rd party security firms to conduct [comprehensive audits ](.
 
 ## I accidentally transferred funds to a contract address - what should I do?
 
-It depends on the nature of the contract. If you accidentally sent to a token contract on xDai (for example the [STAKE,](https://blockscout.com/xdai/mainnet/tokens/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e/token-transfers) [LINK ](https://blockscout.com/xdai/mainnet/tokens/0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2/token-transfers)or other bridged tokens), it may be possible for validators to retrieve these funds using the `claimTokens` functionality. However, this requires additional coordination and signature collection.** If we are able to claim, there is a 10% fee to claim your mis-sent tokens**.
+It depends on the nature of the contract. If you accidentally sent to a token contract on xDai (for example the [STAKE,](https://blockscout.com/xdai/mainnet/tokens/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e/token-transfers) [LINK ](https://blockscout.com/xdai/mainnet/tokens/0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2/token-transfers)or other bridged tokens), it may be possible for validators to retrieve these funds using the `claimTokens` functionality. However, this requires additional coordination and signature collection. **If we are able to claim, there is a 10% fee to claim your mis-sent tokens**.
 
 This fee is then used to benefit the protocol. The team uses it to trade for STAKE tokens on Uniswap and then burn these STAKE tokens. In the future, MetaMask is planning to implement a warning message to help prevent sending funds to a token contract on accident.&#x20;
 

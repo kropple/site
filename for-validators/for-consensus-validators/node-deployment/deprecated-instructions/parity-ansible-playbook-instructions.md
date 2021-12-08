@@ -171,7 +171,7 @@ The process should complete successfully. During installation you may be asked t
 
 ## Set Metadata
 
-After the approval vote has been finalized by the current validators, you will provide a description of your organization (metadata). To set your metadata for the first time, go to _https://validators.poa.network/poa-dapps-validators/set \<no-longer-active>_, connect to xDai chain, and select your **VOTING **key.&#x20;
+After the approval vote has been finalized by the current validators, you will provide a description of your organization (metadata). To set your metadata for the first time, go to _https://validators.poa.network/poa-dapps-validators/set \<no-longer-active>_, connect to xDai chain, and select your **VOTING** key.&#x20;
 
 Select **I’m a Company** and provide the full company name and contact email address. Then click **Update metadata** and sign the transaction.
 

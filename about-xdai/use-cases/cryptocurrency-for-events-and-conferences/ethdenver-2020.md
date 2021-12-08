@@ -6,7 +6,7 @@ description: The Burner Wallet made a giant leap forward in 2020!
 
 **When:** February 14-16, 2020
 
-**Where: ** Denver, CO
+**Where:** Denver, CO
 
 **What:** At EthDenver 2020, the Burner Wallet running on xDai incorporated many new 3rd party features. Food truck & Dappy Hour purchases were supported and additional integrations included:
 
@@ -17,7 +17,7 @@ description: The Burner Wallet made a giant leap forward in 2020!
 
 ![BuffiDao wallet at EthDenver 2020](../../../.gitbook/assets/buffidao.png)
 
-**Read more: **
+**Read more:**&#x20;
 
 {% embed url="https://sludgefeed.com/ethdenver-2020-to-provide-gamified-web3-experience" %}
 

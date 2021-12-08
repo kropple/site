@@ -126,7 +126,7 @@ Anyone can create markets for lending, borrowing, and collateralizing assets on 
 Learn more about Kashi in the [Sushiswap docs](https://docs.sushi.com/products/kashi-lending).
 {% endhint %}
 
-1\) Select either **Lend **from the main menu. You will be directed to [https://app.sushi.com/lend](https://app.sushi.com/lend)
+1\) Select either **Lend** from the main menu. You will be directed to [https://app.sushi.com/lend](https://app.sushi.com/lend)
 
 ![](../../.gitbook/assets/lend.png)
 

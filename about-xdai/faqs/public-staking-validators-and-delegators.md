@@ -58,7 +58,7 @@ You will need to wait until the staking epoch ends to claim your withdrawal. The
 
 ## I don't see any icons to withdraw or add STAKE. Why not?
 
-In all likelihood you are looking at the app during the final blocks of a staking epoch. During the last **4332 blocks **all staking actions are disallowed. This prevents any potential validator set manipulation at the end of an epoch. To prevent confusion, all staking-related icons (withdraw, add, claim, move) are temporarily removed from the UI. They will appear again once a new staking epoch begins.
+In all likelihood you are looking at the app during the final blocks of a staking epoch. During the last **4332 blocks** all staking actions are disallowed. This prevents any potential validator set manipulation at the end of an epoch. To prevent confusion, all staking-related icons (withdraw, add, claim, move) are temporarily removed from the UI. They will appear again once a new staking epoch begins.
 
 ## What rewards can I expect as a participant?
 
@@ -78,7 +78,7 @@ You can quickly find the current APY for each delegator through the delegation p
 
 * **1** is the current APY (17.98%)
 * **2** is the expected reward payout for the epoch (\~17.87 STAKE). Multiplying this number by 52 gets the expected yearly payout assuming the current staking ratios. In this case, it is \~929.24.
-* **3** is the current working STAKE amount. You can divide 929.24 by 5,165.17 to get an approximate expected APY, but it may not match the current APY depending on the makeup of the pool and numbers rounding. _See _[_How is APY calculated _](public-staking-validators-and-delegators.md#how-is-apy-calculated)_below for the exact formula._\
+* **3** is the current working STAKE amount. You can divide 929.24 by 5,165.17 to get an approximate expected APY, but it may not match the current APY depending on the makeup of the pool and numbers rounding. _See_ [_How is APY calculated_ ](public-staking-validators-and-delegators.md#how-is-apy-calculated)_below for the exact formula._\
 
 
 ![](<../../.gitbook/assets/delegator APR.png>)
@@ -87,7 +87,7 @@ You can quickly find the current APY for each delegator through the delegation p
 
 The following formula is used by the contracts to dynamically calculate the current APY for a pool and for each individual delegator.\
 \
-**APY = `Reward Share` \* `Pool Reward` / `Stake Amount `\* `100 `\* `Epochs Per Year`**
+**APY = `Reward Share` \* `Pool Reward` / `Stake Amount` \* `100` \* `Epochs Per Year`**
 
 * **`Reward Share`**: **`Stake Amount` / `Total Stake Amount`**.&#x20;
   * **`Stake Amount`**: Amount of tokens staked (_does not include pending stake_)

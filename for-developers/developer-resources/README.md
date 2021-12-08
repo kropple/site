@@ -47,7 +47,7 @@ Main RPC is a load balancer with 4 nodes, health checks, and failover.
 
 :anchor: **Ankr** offers API endpoint access available with a free tier up to 100K requests/day. Additional paid tiers are available for developers. [https://www.ankr.com/](https://www.ankr.com)
 
-:stop\_button: **GetBlock.io **provides fast and easy API connection services to an xDai archive node. Both free and paid levels available. [https://getblock.io/nodes/stake](https://getblock.io/nodes/stake)
+:stop\_button: **GetBlock.io** provides fast and easy API connection services to an xDai archive node. Both free and paid levels available. [https://getblock.io/nodes/stake](https://getblock.io/nodes/stake)
 
 :earth\_americas: **AnyBlock Analytics** provides a JSON-RPC professional service for users. As xDai validators, they have a deep understanding of the network as well as the broader Ethereum ecosystem. [https://www.anyblockanalytics.com/json-rpc](https://www.anyblockanalytics.com/json-rpc/)
 
@@ -144,7 +144,7 @@ See the dropdown menu under Developer Resources and Tools for tutorials related 
   [wss://rpc.xdaichain.com/wss](wss://rpc.xdaichain.com/wss)
 * **Archive Fullnode Endpoint** (Useful for setting up BlockScout for xDai)\
   [https://xdai-archive.blockscout.com](https://xdai-archive.blockscout.com)
-* **Chain **[**spec**](https://github.com/poanetwork/poa-chain-spec/blob/dai/spec.json)** files** and known [bootnodes](https://github.com/poanetwork/poa-chain-spec/blob/dai/bootnodes.txt) of the xDai network\
+* **Chain** [**spec**](https://github.com/poanetwork/poa-chain-spec/blob/dai/spec.json) **files** and known [bootnodes](https://github.com/poanetwork/poa-chain-spec/blob/dai/bootnodes.txt) of the xDai network\
   [https://github.com/poanetwork/poa-chain-spec/tree/dai](https://github.com/poanetwork/poa-chain-spec/tree/dai)
 * **Netstats**, an overview of xDai Chain nodes [http://dai-netstat.poa.network](http://dai-netstat.poa.network)
 * **Anyblock Index** (aka [http://eth.events](http://eth.events)), so you can query it via the Elasticsearch API or search in PostgreSQL: [https://account.anyblock.tools/status/](https://account.anyblock.tools/status/)

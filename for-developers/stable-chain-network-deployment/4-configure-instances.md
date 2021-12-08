@@ -39,7 +39,7 @@ The following instances will be configured one-by-one. For each instance you wil
 
 ### **Netstat Server**
 
-1\) Create the** **ansible configuration file for netstat node
+1\) Create the **** ansible configuration file for netstat node
 
 ```
 cat group_vars/all.yml.network group_vars/netstat.yml.example > group_vars/all.yml
@@ -147,7 +147,7 @@ cat group_vars/all.yml.network group_vars/validator.yml.example > group_vars/all
 * `NODE_ADMIN_EMAIL` - this email will also be displayed in netstat dashboard, e.g. "[validator@example.com](mailto:moc@example.com)"
 * `NETSTATS_SERVER` - insert url http://NETSTAT\_IP:3000 of the netstat server
 * `NETSTATS_SECRET` - network secret, same as for netstat server
-* `MINING_KEYFILE` - content of **validator's **json keystore file, enclosed in single quotes
+* `MINING_KEYFILE` - content of **validator's** json keystore file, enclosed in single quotes
 * `MINING_ADDRESS` - validator address `0x...`
 * `MINING_KEYPASS` - password for the keystore file
 

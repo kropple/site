@@ -16,16 +16,16 @@ The following describes the process for the xDai bridge. At the end of the docum
 
 ### Initial Mechanisms
 
-1. As a part of the bridge upgrade, an amount of locked Dai ([_`Current Amount Locked(~22M)`_](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f?a=0x4aa42145aa6ebf72e164c9bbc74fbd3788045016)_ `-` `1,000,000 Dai`_) is transferred to Compound.
+1. As a part of the bridge upgrade, an amount of locked Dai ([_`Current Amount Locked(~22M)`_](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f?a=0x4aa42145aa6ebf72e164c9bbc74fbd3788045016) _ `-`  `1,000,000 Dai`_) is transferred to Compound.
 2. 1,000,000 Dai remains in the bridge contract as a reserve supporting daily operations.
 
 ![](../../../.gitbook/assets/compoundelements.png)
 
 ### User Actions
 
-1. **Dai bridged from Ethereum to xDai:** Following the upgrade, any amount of Dai bridged from Ethereum to xDai** **is added to the bridge reserve. It is not automatically transferred to Compound.
+1. **Dai bridged from Ethereum to xDai:** Following the upgrade, any amount of Dai bridged from Ethereum to xDai **** is added to the bridge reserve. It is not automatically transferred to Compound.
 2. **xDai bridged from xDai to Ethereum:** Bridge requests from xDai to Ethereum use the Dai in the reserve. If a request is initiated that exceeds the available reserve amount, the requested amount exceeding the reserve + 1,000,000 Dai (required reserve) is withdrawn immediately from Compound. The 1,000,000 Dai replenishes the reserve. \
-   `if current_reserve < requested `\
+   `if current_reserve < requested` \
    `withdraw requested - current_reserve + required_reserve`
 
 ![](<../../../.gitbook/assets/user2 (1).png>)
@@ -55,8 +55,8 @@ Compound metrics are available in the [xDai Bridge Dune Analytics Dashboard](dai
 
 The OmniBridge upgrade utilizes similar mechanics as above to earn interest on USDC and USDT locked in the OmniBridge. The primary difference is the utilization of Aave rather than Compound for interest accumulation. Additional protocol differences correspond to the initial amount allocated to the reserves (USDC 2.5M reserve, USDT 750K reserve).
 
-1. **USDC**:  ([_`Current Amount Locked(~46M)`_](https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48?a=0x88ad09518695c6c3712ac10a214be5109a655671)_ `-` `2,500,000 USDC`_) transferred to Aave. 2.5M for initial reserve.
-2. **USDT**:  ([_`Current Amount Locked(~5.6M)`_](https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7?a=0x88ad09518695c6c3712ac10a214be5109a655671)_ `-` `750,000 USDT`_) transferred to Aave. 750K for initial reserve.
+1. **USDC**:  ([_`Current Amount Locked(~46M)`_](https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48?a=0x88ad09518695c6c3712ac10a214be5109a655671) _ `-`  `2,500,000 USDC`_) transferred to Aave. 2.5M for initial reserve.
+2. **USDT**:  ([_`Current Amount Locked(~5.6M)`_](https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7?a=0x88ad09518695c6c3712ac10a214be5109a655671) _ `-`  `750,000 USDT`_) transferred to Aave. 750K for initial reserve.
 
 To complete this update, any tokens locked in the Omnibridge were automatically released back to Ethereum and paid for by the team. This is the 2nd prior pending claims amnesty conducted by the team, [the first is described here](https://www.xdaichain.com/about-xdai/news-and-information/project-updates/2021-weekly-updates/xdai-weekly-recap-28-05-2021#prior-pending-claims-amnesty).
 

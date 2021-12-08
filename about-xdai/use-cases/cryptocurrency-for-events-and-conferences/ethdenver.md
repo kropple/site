@@ -6,13 +6,13 @@ description: xDai Chain adoption officially began at EthDenver 2019
 
 **When:** February 15-17, 2019
 
-**Where: ** Denver, CO
+**Where:** Denver, CO
 
 **What:** In 2019, EthDenver provided the first large-scale usage of the xDai chain and xDai currency. Food trucks at the event accepted BuffiDai as payment (an erc20 created on the xDai chain), and after parties accepted cryptocurrency for beer and vendor swag. See the [peer-to-peer payments post ](../peer-to-peer-payments.md)for much more about this amazing event!
 
 ![buffidai.io including the POA NFT](../../../.gitbook/assets/assets\_-Lpi9AHj62wscNlQjI-l\_-LqGOjJOnOMntpHkIljF\_-LqGQ95Th7iynGlk8RAp\_image.png)
 
-**Read more: **
+**Read more:**&#x20;
 
 * Burner Wallet at ETHDenver was 🔥[https://medium.com/gitcoin/burner-wallet-at-ethdenver-was-faa3851ea833](https://medium.com/gitcoin/burner-wallet-at-ethdenver-was-faa3851ea833)
 * ETHDenver attendees buy food and drink with stablecoin [https://decrypt.co/5212/ethdenver-makerdao-buffcoin-stablecoin](https://decrypt.co/5212/ethdenver-makerdao-buffcoin-stablecoin)

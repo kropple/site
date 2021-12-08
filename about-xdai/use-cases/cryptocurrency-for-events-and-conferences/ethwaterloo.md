@@ -6,7 +6,7 @@ description: Burner Wallet 2 at the EthWaterloo hackathon
 
 **When:** November 8 - 10, 2019
 
-**Where: **Waterloo, Canada
+**Where:** Waterloo, Canada
 
 **What:**  [Burner Wallet 2](../../../for-users/wallets/burner-wallet-2.md) powered the upcoming ETHWaterloo II Hackathon, where participants could purchase food, drinks and prizes.
 

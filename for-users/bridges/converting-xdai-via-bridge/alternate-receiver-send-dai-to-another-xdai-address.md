@@ -24,7 +24,7 @@ The latest bridge UI upgrade incorporates the Alternative Receiver functionality
 
 ![](<../../../.gitbook/assets/settings2 (1).png>)
 
-3\) Click on **Advanced** and add the Recipients Address and the amount to Dai to transfer to xDai. Press** Unlock.**
+3\) Click on **Advanced** and add the Recipients Address and the amount to Dai to transfer to xDai. Press **Unlock.**
 
 ![](../../../.gitbook/assets/2020-12-29\_09-23-17.gif)
 
@@ -96,7 +96,7 @@ With xDai to Dai transfers you do not need to use the Unlock feature. Connect to
 4\. Approve the bridge contract to perform operations with tokens:
 
 * `usr(address)` -- the address of the xDai bridge contract in the Ethereum Mainnet: `0x4aa42145Aa6Ebf72e164C9bBC74fbD3788045016`
-* `wad(uint256) `-- the amount of tokens (in Wei) approved to send through the bridge (in this case 2 Dai): `2000000000000000000`
+* `wad(uint256)` -- the amount of tokens (in Wei) approved to send through the bridge (in this case 2 Dai): `2000000000000000000`
 * Click **Write**
 
 ![](../../../.gitbook/assets/2-etherscanwrite.png)

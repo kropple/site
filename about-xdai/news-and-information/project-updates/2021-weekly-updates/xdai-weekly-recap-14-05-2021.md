@@ -11,9 +11,9 @@ description: 09 May - 14 May 2021
 {% hint style="success" %}
 The protocol is currently in Epoch **56.**\
 ****\
-****There are **16** validator pools with **245** delegators staking a total of **547,277 **STAKE.\
+****There are **16** validator pools with **245** delegators staking a total of **547,277** STAKE.\
 \
-High pool APY is currently **20.03%**, low is **12.89% **_(stats as of 07/05/2021 16:60 UTC)_.
+High pool APY is currently **20.03%**, low is **12.89%** _(stats as of 07/05/2021 16:60 UTC)_.
 
 * Staking Statistics: [https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)
 * Staking Platform: [https://blockscout.com/xdai/mainnet/validators](https://blockscout.com/xdai/mainnet/validators)
@@ -71,7 +71,7 @@ A proposal to introduce matching incentives as LP rewards (1M in Stake from xDai
 
 May 17 is quickly approaching for the xDai upgrade to Berlin. All validators and any projects using xDai should update their nodes. (OpenEthereum v3.2.5+, Nethermind v1.10.71+)
 
-* Date: **May 17 **
+* Date: **May 17**&#x20;
 * Block: **#16101500**
 * Time: **\~13:24 UTC**
 

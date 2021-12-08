@@ -21,7 +21,7 @@ More details on **xDai + Dappquery**: [https://dappquery.com/integration/xdai](h
 
 * Signup/Login to [https://dappquery.com/](https://dappquery.com)
 * Click the **My Project Button** in the header.
-* Click the **Connect SubGraph **button**.**
+* Click the **Connect SubGraph** button**.**
 * Fill details about your Dapp ✍️
 * Select platform as "POA" and network as "xDAi".
 * Input your subgraph endpoint.
@@ -34,7 +34,7 @@ More details on **xDai + Dappquery**: [https://dappquery.com/integration/xdai](h
 
 * Signup/Login to [https://dappquery.com/](https://dappquery.com)
 * Click the **My Project Button** in the header.
-* Click the **Connect Smart Contract **button**.**
+* Click the **Connect Smart Contract** button**.**
 * Fill details about your Dapp ✍️
 * Select platform as "POA" and network as "xDAi".
 * Search and add your contract address using the autocomplete feature.
@@ -56,7 +56,7 @@ Track metrics and dashboards of popular xDai Dapps on the xDai explorer: [https:
 
 ![](<../../.gitbook/assets/image (9) (2).png>)
 
-## **Example **Dashboards
+## **Example** Dashboards
 
 ### **Dark Forest Leaderboard and Player Dashboard**
 

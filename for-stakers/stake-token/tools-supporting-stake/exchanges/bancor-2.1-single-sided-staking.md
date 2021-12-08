@@ -29,7 +29,7 @@ There are 2 options to add liquidity, Stake and Protect, or Dual Sided Liquidity
 
 ### 3) Add liquidity details.
 
-1. Select **STAKE **from the dropdown.
+1. Select **STAKE** from the dropdown.
 2. Enter amount to stake.
 3. Click **Stake and Protect**.
 

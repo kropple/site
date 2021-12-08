@@ -13,7 +13,7 @@ Chainlink offers a tutorial on using secure data feeds with xDai. [See it in act
 ## Addresses
 
 * **Link Token on xDai**: [`0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2`](https://blockscout.com/poa/xdai/address/0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2)****
-* **Price Feeds on xDai:**_ Latest list is available in the _[_Chainlink Documentation_](https://docs.chain.link/docs/xdai-price-feeds)_._
+* **Price Feeds on xDai:** _Latest list is available in the_ [_Chainlink Documentation_](https://docs.chain.link/docs/xdai-price-feeds)_._
 
 | Pair        | Decimals | Proxy Contract                                                                                                                     |
 | ----------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -140,7 +140,7 @@ Once deployed, click to expand the contract. Click `getLatestPrice` to check the
 
 ### 1) Find Deployed Contract
 
-For transparency and interaction purposes, you can verify your contract on [BlockScout](https://blockscout.com/poa/xdai). _Note, if a contract with the same bytecode has already been deployed and verified, your contract code may be viewable. _[_See this example_](https://blockscout.com/poa/xdai/address/0x681ef0446AA72723256f1De4d1BE7Dd9bb7F84Cf/contracts)_._
+For transparency and interaction purposes, you can verify your contract on [BlockScout](https://blockscout.com/poa/xdai). _Note, if a contract with the same bytecode has already been deployed and verified, your contract code may be viewable._ [_See this example_](https://blockscout.com/poa/xdai/address/0x681ef0446AA72723256f1De4d1BE7Dd9bb7F84Cf/contracts)_._
 
 1. Copy the deployed contract address in Remix.
 2. Go to [BlockScout](https://blockscout.com/poa/xdai) and paste into the search field.

@@ -6,7 +6,7 @@ description: Discover, join or launch your own DAO
 
 DAO (Decentralized Autonomous Organizations) are thriving on the blockchain. Unfortunately, high gas prices have created a situation where governance is very expensive. Proposal creation and voting is what allows DAOs to make decisions, choose directions and create rules for their organizations in a decentralized way. To alleviate these cost concerns, DAOHaus has created an instance on the xDai chain!
 
-:house\_with\_garden: **Visit Daohaus, the no code platform for launching magic internet communities now at **[**https://daohaus.club/**](https://daohaus.club)****
+:house\_with\_garden: **Visit Daohaus, the no code platform for launching magic internet communities now at** [**https://daohaus.club/**](https://daohaus.club)****
 
 :money\_mouth: You will also need some xDai - you can convert Dai to xDai using the bridge UI at [https://bridge.xdaichain.com/](https://bridge.xdaichain.com).  Connect your web3 wallet to Ethereum and select the amount of Dai to transfer. Once it is transferred, connect to the xDai network to interact with Daohaus. &#x20;
 

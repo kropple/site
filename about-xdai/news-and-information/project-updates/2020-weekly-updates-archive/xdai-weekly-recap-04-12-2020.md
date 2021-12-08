@@ -7,12 +7,12 @@ description: 27 November - 04 December 2020
 This week we continued our work on public staking, welcomed the new Ramp direct fiat integration, and were featured in a writeup by Bankless.
 
 {% hint style="info" %}
-Note that we will skip several weekly updates over the holiday season. **We did not publish a recap last week, and will skip several weeks at the end of the month. **
+Note that we will skip several weekly updates over the holiday season. **We did not publish a recap last week, and will skip several weeks at the end of the month.**&#x20;
 {% endhint %}
 
 ![December 04, 2020 Weekly Update](<../../../../.gitbook/assets/Green and Black Modern Sales Marketing Presentation (21).png>)
 
-## ****:euro: **Ramp Fiat -> xDai **
+## ****:euro: **Ramp Fiat -> xDai**&#x20;
 
 Although this announcement occurred last week, we did not include in a weekly update and wanted to highlight this important milestone. A direct fiat-to-xDai onramp has been on our [Roadmap for a long time](../../../roadmap/#fiat-to-xdai-onramp)! We had previously worked with other providers without success, and were excited this collaboration with [Ramp Network](https://ramp.network) could come to fruition. Ramp is currently [available in many countries](https://support.ramp.network/en/article/what-countries-do-you-support-1ua7sn1/), and they plan to integrate US customers in the near future. Their simple SDK or hosted option allows projects to easily add direct xDai purchases to their apps. We look forward to these integrations, removing one more obstacle for users and creating a seamless crypto experience.
 

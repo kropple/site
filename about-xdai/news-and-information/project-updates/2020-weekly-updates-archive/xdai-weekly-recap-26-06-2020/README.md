@@ -17,7 +17,7 @@ The community spoke 📣……we listened👂&#x20;
 * Exposure for STAKE & increased trading volume
 * Ability to place limit orders as well as market orders
 * Semi-decentralized, hybrid infrastructure composed of on-chain fund storage and settlement along with off-chain trade submission engine.&#x20;
-* Relatively low fees: ** **0.2% for the market taker and 0.1% for the market maker + gas fee&#x20;
+* Relatively low fees: **** 0.2% for the market taker and 0.1% for the market maker + gas fee&#x20;
 * New traders get instant verification with a name, birthdate and citizenship country for Tier 1 trading. This means unlimited trades and withdrawals of up to $5000 per day. \
 
 * **Announcement**: https://blog.idex.io/all-posts/xdai-stake-now-available-idex&#x20;

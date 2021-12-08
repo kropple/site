@@ -8,14 +8,14 @@ Having trouble keeping up with the news? We've started a [Substack site](https:/
 
 💌 [Sign up to receive weekly email updates](https://xdai.substack.com) ​💌‌‌
 
-## POSDAO & Protocol Updates <a href="posdao-and-protocol-updates" id="posdao-and-protocol-updates"></a>
+## POSDAO & Protocol Updates <a href="#posdao-and-protocol-updates" id="posdao-and-protocol-updates"></a>
 
 {% hint style="success" %}
 BlockScout is Hiring for an Elixir developer. [Learn more and apply now](https://app.gitbook.com/@poa/s/xdai/careers-1/elixir-developer-blockscout) to be a part of the next generation of Ethereum-based application development!
 {% endhint %}
 
 {% hint style="info" %}
-The protocol is currently in Epoch **70.** **19** validator pools and **368** delegators staking a total of **742,541 **STAKE.
+The protocol is currently in Epoch **70.** **19** validator pools and **368** delegators staking a total of **742,541** STAKE.
 
 High pool APY is currently **59.71%**, low is **1.17%** _(stats as of 20/08/2021 17:00)_. [Learn more about APY calculations here.](../../../faqs/public-staking-validators-and-delegators.md#what-is-apy-annual-percentage-yield)​
 
@@ -23,7 +23,7 @@ High pool APY is currently **59.71%**, low is **1.17%** _(stats as of 20/08/2021
 * Staking Platform: [https://blockscout.com/xdai/mainnet/](https://blockscout.com/xdai/mainnet/validators)​‌
 {% endhint %}
 
-## Weekly Newsletter <a href="weekly-newsletter" id="weekly-newsletter"></a>
+## Weekly Newsletter <a href="#weekly-newsletter" id="weekly-newsletter"></a>
 
 {% hint style="success" %}
 We've moved our weekly highlights to Substack. You can sign up to receive in your email or view the newsletter anytime without signing up.
@@ -31,7 +31,7 @@ We've moved our weekly highlights to Substack. You can sign up to receive in you
 📰Weekly News for August 20: ‌[https://xdai.substack.com/p/-xdai-weekly-recap-august-20-2021](https://xdai.substack.com/p/-xdai-weekly-recap-august-20-2021)
 {% endhint %}
 
-## Tweets of the Week <a href="tweets-of-the-week" id="tweets-of-the-week"></a>
+## Tweets of the Week <a href="#tweets-of-the-week" id="tweets-of-the-week"></a>
 
 ​[Follow xDai on Twitter](https://twitter.com/xdaichain) for regular news and updates.
 

@@ -3,7 +3,7 @@
 Next you will set a temporary zero fee in the `Registry` contract for registering addresses at the bootnode rpc.
 
 &#x20;a) Check the bootnode ip is accessible in a browser. \
-Visit [https://1.2.3.4 ](https://1.2.3.4) (using the bootnode's ip address). You may see a warning that the certificate is invalid. Click** Advanced** and proceed and unlock the browser. You should now see a message like "**Used HTTP Method is not allowed. POST or OPTIONS is required**". This means the bootnode is ready for the next step.
+Visit [https://1.2.3.4 ](https://1.2.3.4) (using the bootnode's ip address). You may see a warning that the certificate is invalid. Click **Advanced** and proceed and unlock the browser. You should now see a message like "**Used HTTP Method is not allowed. POST or OPTIONS is required**". This means the bootnode is ready for the next step.
 
 ![Click to Proceed and unlock the url](../../.gitbook/assets/unsafe-1.png)
 
@@ -53,8 +53,8 @@ ABI is located here: [https://raw.githubusercontent.com/parity-contracts/name-re
 * `Master of Ceremony` should first call `reserve` method with `_name = 0x6d3815e6a4f3c7fcec92b83d73dda2754a69c601f07723ec5a2274bd6e81e155` ( enter verbatim, this is the keccak hash of  `"service_transaction_checker"`.
 * Then call `setAddress` method with:
   * \_name = `0x6d3815e6a4f3c7fcec92b83d73dda2754a69c601f07723ec5a2274bd6e81e155`,
-  * \_key =` A`&#x20;
-  * \_value =` 0xCERTIFIER_CONTRACT_ADDRESS`
+  * \_key = `A`&#x20;
+  * \_value = `0xCERTIFIER_CONTRACT_ADDRESS`
 
 {% hint style="info" %}
 ABI Resources:

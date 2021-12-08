@@ -35,7 +35,7 @@ Access withdrawals by clicking on details for any deposit.&#x20;
 There are two types of withdrawals - Instant and Scheduled. Select the type you would like and confirm in your web3 wallet.
 
 1. A **scheduled withdrawal** is processed in 2 transactions. With the first transaction, you schedule the withdrawal. It will be available to withdraw after 12 hours, and for a limited 12 hour time frame once it is available. Scheduled withdrawals do not incur a percentage-based fee (but gas fees are assessed for both transactions).
-2. An **instant withdrawal **is processed immediately and you are assessed a small fee (2%) to withdraw. The fee is sent to LP Providers in the STAKE/ETH pool.
+2. An **instant withdrawal** is processed immediately and you are assessed a small fee (2%) to withdraw. The fee is sent to LP Providers in the STAKE/ETH pool.
 
 ![](../../../.gitbook/assets/deets2.png)
 

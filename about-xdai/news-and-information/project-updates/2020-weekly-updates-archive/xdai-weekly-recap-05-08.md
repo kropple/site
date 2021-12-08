@@ -31,9 +31,9 @@ https://blog.ethereum.org/2020/05/07/ecosystem-support-program-allocation-update
 
 ## ✅ **Wallet Improvements**
 
-****[**Nifty Wallet **now supports STAKE](../../../../for-users/wallets/nifty-wallet.md). Nifty is a great MetaMask alternative that includes native support for xDai and now STAKE support on the Ethereum Mainnet.&#x20;
+****[**Nifty Wallet** now supports STAKE](../../../../for-users/wallets/nifty-wallet.md). Nifty is a great MetaMask alternative that includes native support for xDai and now STAKE support on the Ethereum Mainnet.&#x20;
 
-**🔥 **[**Burner Wallet** instructions ](../../../../for-users/wallets/burner-wallet/burner-wallet-functions/)- we’ve added some tutorials on how to use basic Burner Wallet features. We are working on some burner-based giveaways, stay tuned for more and familiarize yourself with this awesome wallet at xdai.org.&#x20;
+**🔥** [**Burner Wallet** instructions ](../../../../for-users/wallets/burner-wallet/burner-wallet-functions/)- we’ve added some tutorials on how to use basic Burner Wallet features. We are working on some burner-based giveaways, stay tuned for more and familiarize yourself with this awesome wallet at xdai.org.&#x20;
 
 ## ✅ **AMA with CryptoDaku**
 

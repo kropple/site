@@ -43,11 +43,11 @@ graph init \
 
 \--from-contract `<CONTRACT_ADDRESS>` is the address of your existing contract.
 
-\--abi `<FILE>` is a local path to a contract ABI file (optional, If [verified in BlockScout](https://docs.blockscout.com/for-users/smart-contract-interaction/verifying-a-smart-contract), the graph will grab the ABI, otherwise you will need manually add the ABI. _You can save the abi from BlockScout or by running `truffle compile` or `solc` on a public project. _[_More info available here_](https://thegraph.com/docs/define-a-subgraph#the-subgraph-manifest)_.)_
+\--abi `<FILE>` is a local path to a contract ABI file (optional, If [verified in BlockScout](https://docs.blockscout.com/for-users/smart-contract-interaction/verifying-a-smart-contract), the graph will grab the ABI, otherwise you will need manually add the ABI. _You can save the abi from BlockScout or by running `truffle compile` or `solc` on a public project._ [_More info available here_](https://thegraph.com/docs/define-a-subgraph#the-subgraph-manifest)_.)_
 
 The `<GITHUB_USER>` is your github user or organization name, `<SUBGRAPH_NAME>` is the name for your subgraph, and `<DIRECTORY>` is the optional name of the directory where `graph init` will put the example subgraph manifest.&#x20;
 
-* _Chose the subgraph name created in step 2 as lowercase-hypenated _
+* _Chose the subgraph name created in step 2 as lowercase-hypenated_&#x20;
 
 {% hint style="info" %}
 More details are here: [https://thegraph.com/docs/define-a-subgraph#create-a-subgraph-project](https://thegraph.com/docs/define-a-subgraph#create-a-subgraph-project)

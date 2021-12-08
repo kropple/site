@@ -18,7 +18,7 @@ Balancer is a decentralized token exchange and pool manager, and liquidity pools
 
 {% embed url="https://twitter.com/xdaichain/status/1272813917161611265" %}
 
-### ✅ **CoinGecko adds additional Uniswap parameters, exchange listings. **
+### ✅ **CoinGecko adds additional Uniswap parameters, exchange listings.**&#x20;
 
 CoinGecko provides a list of available exchange platforms for STAKE. This week they updated the Trust Score and liquidity parameters for Uniswap, and updated the growing list of exchanges now listing STAKE.
 

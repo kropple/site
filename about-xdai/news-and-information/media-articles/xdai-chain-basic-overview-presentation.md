@@ -73,7 +73,7 @@ Validators always receive at least 30% of the total pool reward, and may receive
 
 ![](https://lh6.googleusercontent.com/X9xY1DX3-toNNPr2Hx5vuP1DNDnpe5DSXNqGKihmleG-s3hxBWQVIKbqNRxMHbgy7fU\_sr9XASqocVyfH8QG0mU3d-4GcZS9hfrgorCLNoxRaTjscdo9lE9CABD\_IBx71jEAtGt9)
 
-**Protocol rewards come from multiple sources. **
+**Protocol rewards come from multiple sources.**&#x20;
 
 * **Transaction fees in xDai**: Sent to validator that seals the block containing the transactions.
 * **STAKE rewards from sealing blocks**: STAKE placed in the protocol generates a 15% APR which is distributed to validator pools

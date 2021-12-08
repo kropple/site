@@ -58,7 +58,7 @@ The xDai Stable Chain currently operates with two bridges:
 1. **xDai Bridge**: An ERC20-to-Native Bridge where DAI may be converted to xDai and vice versa. When Dai is “bridged”, the specified amount of DAI is locked in a contract and a corresponding amount of xDai is minted on the xDai Stable chain. During this minting process, a TBD fee is collected for validators. For example, if the bridge fee is 1% and 100 DAI are “bridged”, 99 xDai are transferred to the user’s wallet and 1 xDai is equally distributed amongst the current validator pools). When converted back, an exit fee may also be collected in the same manner. Any collected fees are distributed to validators and delegators at the end of a staking epoch.\
    xDai Bridge link: [https://bridge.xdaichain.com/](https://bridge.xdaichain.com)\
    &#x20;
-2. **OmniBridge **An all purpose ERC20 and ERC677 bridge where tokens on the Ethereum mainnet are converted to equivilant tokens on xDai. A fee may also be collected on entrance/exit and distributed to current validator pools.\
+2. **OmniBridge** An all purpose ERC20 and ERC677 bridge where tokens on the Ethereum mainnet are converted to equivilant tokens on xDai. A fee may also be collected on entrance/exit and distributed to current validator pools.\
    OmniBridge link: [https://omni.xdaichain.com/](https://omni.xdaichain.com)
 
 Future bridge implementations will extend the multi-staking capability of the STAKE token, allowing additional chains to use STAKE  as a staking token via bridge connections.
@@ -69,7 +69,7 @@ Future bridge implementations will extend the multi-staking capability of the ST
 
 Delegated Proof of Stake (DPOS) is an extension of Proof of Stake - a consensus model that provides rewards to chain validators in exchange for providing an amount of tokens as stake. This staking process incentivizes validators to act in the best interests of the network, as their stake will be impacted (frozen) if malicious behavior is detected.
 
-To increase decentralization in this model and encourage wider community participation, the** DPOS model allows any token holders to deposit STAKE**. Delegators do this by placing stake on potential validator pools (either current validators who may be elected to the next validator set, or candidates who are not currently validators).
+To increase decentralization in this model and encourage wider community participation, the **DPOS model allows any token holders to deposit STAKE**. Delegators do this by placing stake on potential validator pools (either current validators who may be elected to the next validator set, or candidates who are not currently validators).
 
 Delegators do not participate in block production themselves, but provide leverage to candidates they feel will make good validators. If these candidates are selected, rewards are divided amongst the validator and their delegators.
 

@@ -11,13 +11,13 @@ xDai - Dai transfers begin at 1:45
 {% hint style="info" %}
 We recommend using Chrome + Metamask + No Ad Blockers to complete the process.\
 \
-You will need a **small additional amount of xDai** to process the first transaction, and an **additional amount of Eth **to process the claim transaction on Ethereum.
+You will need a **small additional amount of xDai** to process the first transaction, and an **additional amount of Eth** to process the claim transaction on Ethereum.
 {% endhint %}
 
 {% hint style="warning" %}
 **Important Update**: The xDai bridge has been updated to decentralize withdrawals and give users more control when transferring xDai to Dai on Ethereum. [More information is here](https://forum.poa.network/t/important-changes-in-a-user-interaction-with-the-xdai-bridge/3906). \
 \
-If you did not use the Bridge UI to process your original bridge request - for example you used xDai.io, a contract call or another platform, you may need to [**find the first transaction hash**](find-a-transaction-hash.md)** **and use the** **[**claim function on the bridge**](find-a-transaction-hash.md#claim-your-tokens) (click on **Haven't received your tokens**) to complete your transfer.
+If you did not use the Bridge UI to process your original bridge request - for example you used xDai.io, a contract call or another platform, you may need to [**find the first transaction hash**](find-a-transaction-hash.md) **** and use the **** [**claim function on the bridge**](find-a-transaction-hash.md#claim-your-tokens) (click on **Haven't received your tokens**) to complete your transfer.
 
 If you experience issues, see the [Troubleshooting page](troubleshooting.md).
 {% endhint %}
@@ -28,13 +28,13 @@ _Note: If you change the dropdown on the page (xDai Chain) but not in MetaMask, 
 
 ![](../../../.gitbook/assets/xdai-to-mainnet.png)
 
-2\) Enter the amount of xDai you would like to transfer to Dai, and click the **Request **button. Note the **minimum amount is 10 xDai.**
+2\) Enter the amount of xDai you would like to transfer to Dai, and click the **Request** button. Note the **minimum amount is 10 xDai.**
 
 3\) Confirm that you will need to perform 2 transactions, and will need xDai and Eth to complete the transfer.
 
 ![](../../../.gitbook/assets/2020-12-29\_10-32-51.png)
 
-4\) The web3 wallet window will open with transaction details. Click **Confirm **to process the transaction on xDai.
+4\) The web3 wallet window will open with transaction details. Click **Confirm** to process the transaction on xDai.
 
 ![](../../../.gitbook/assets/xdaidai3.png)
 
@@ -46,7 +46,7 @@ _Note: If you change the dropdown on the page (xDai Chain) but not in MetaMask, 
 
 ![](../../../.gitbook/assets/xdai5.png)
 
-7\) After you switch networks the **Claim **button will appear. Press to proceed.
+7\) After you switch networks the **Claim** button will appear. Press to proceed.
 
 ![](../../../.gitbook/assets/xdai6.png)
 

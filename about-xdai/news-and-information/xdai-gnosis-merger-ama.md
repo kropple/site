@@ -64,7 +64,7 @@ These types of metrics will be developed by a newly created team dedicated to ma
 
 GnosisDAO will reserve 400k GNO (\~$190 million) to develop the Gnosis Chain ecosystem and incentivize usage. GnosisDAO can consider adding liquidity to various DeFi protocols on the xDAI chain to support their adoption, including Agave and 1Hive. Aspiring NFT projects like xDai Punks, xDai Tigers and xDai Bots may consider rebranding to support the Gnosis brand (although xDai will still be the native transactional token, so no changes are required).&#x20;
 
-### **Related: **What will be the native/gas token of the Gnosis Chain?
+### **Related:** What will be the native/gas token of the Gnosis Chain?
 
 The base currency will remain as xDai, with all the benefits of a stable token. Transaction fees will still be paid with xDai. Governance and staking on the beacon chain will use GNO.
 
@@ -77,7 +77,7 @@ Unfortunately there is no crystal ball, so it's hard to say if the token price w
 
 ## **10. If the xDai community isn't behind this trade will it be forced through by the team and Gnosis? Gnosis holds many hundreds of thousands of STAKE and we know which way they will vote, will they be ruled out of voting on this proposal so that we can see what the xdai community actually wants?**
 
-The** **GnosisDAO holds 250K STAKE, which makes them part of the community. Signaling snapshot vote is used to capture the sentiment of all STAKE holders. We also plan to potentially prepare multiple signaling snapshot votes to capture community sentiment as much as possible.\
+The **** GnosisDAO holds 250K STAKE, which makes them part of the community. Signaling snapshot vote is used to capture the sentiment of all STAKE holders. We also plan to potentially prepare multiple signaling snapshot votes to capture community sentiment as much as possible.\
 \
 Technically STAKE holders cannot stop the swap from happening if GnosisDAO decides to create the swap contract. **However, going against the xDai community is not in the interest of GnosisDAO.**&#x20;
 
@@ -96,7 +96,7 @@ All terms of the proposal are public and published on the Gnosis and xDai forums
 \
 xDai team has been looking for investors/partners to support the Eth 2.0 roadmap and accelerate the growth of the chain via new partnerships, marketing, and listings. Gnosis’s investment and partnership can fuel xDai’s expansion by helping the chain grow and optimize its ecosystem and increase its community.
 
-## **13. Incentive programs using STAKE, like on Agave, have really helped push liquidity to projects and have helped positively increase mindshare for xdai as a whole. Would there be replacement incentive programs to take place for those done with STAKE to now use GNO instead? **
+## **13. Incentive programs using STAKE, like on Agave, have really helped push liquidity to projects and have helped positively increase mindshare for xdai as a whole. Would there be replacement incentive programs to take place for those done with STAKE to now use GNO instead?**&#x20;
 
 There will definitely be some incentives programs from the GNO side, with a much larger infusion of incentives than have occurred previously. Lack of liquidity has been an ongoing issue for DEXs and other projects deploying on xDai, and has led to users fleeing to other chains with higher liquidity.  Referencing the current proposal, GnosisDAO will reserve 400k GNO (\~$190 million) to develop the Gnosis Chain ecosystem and incentivize usage.
 
@@ -107,9 +107,9 @@ Our hope is that both orgs, along with users of the new chain, will benefit. In 
 
 ## **15. Which unique aspects of the counterparty's chain do you value the most?**
 
-**xDai: **Gnosis safe has been a huge benefit to the blockchain space. So many projects and DAOs use it for multi-sig governance. Looking forward, Circles may prove to be something that goes beyond blockchain to help level the playing field for society with a Universal Basic Income. It’s a huge idea and one that Gnosis is committed to. It’s very exciting and potentially life-changing for many people.\
+**xDai:** Gnosis safe has been a huge benefit to the blockchain space. So many projects and DAOs use it for multi-sig governance. Looking forward, Circles may prove to be something that goes beyond blockchain to help level the playing field for society with a Universal Basic Income. It’s a huge idea and one that Gnosis is committed to. It’s very exciting and potentially life-changing for many people.\
 \
-**Gnosis: **xDai has been committed to building excellent technology that makes Ethereum compatibility scaleable from the get go and is fully aligned with the Gnosis values of fostering network effects without locking users in. Both xDai and Gnosis believe in the power of decentralized technology to empower individuals. However, with the gas price development on Eth1 as it stands, the once very inclusive Ethereum needs compatible layer ones to not price out all users but the biggest whales. To us, xDai is that solution.
+**Gnosis:** xDai has been committed to building excellent technology that makes Ethereum compatibility scaleable from the get go and is fully aligned with the Gnosis values of fostering network effects without locking users in. Both xDai and Gnosis believe in the power of decentralized technology to empower individuals. However, with the gas price development on Eth1 as it stands, the once very inclusive Ethereum needs compatible layer ones to not price out all users but the biggest whales. To us, xDai is that solution.
 
 ## 16. I would like to know why Gnosis? In addition to providing money, Gnosis has other ways to raise the STAKE ecosystem? Who will be the CEO after the merger? Will the STAKE team stay in the new company? Does the merger affect the original ecosystem projects - for example SUSHI?
 
@@ -117,15 +117,15 @@ Our hope is that both orgs, along with users of the new chain, will benefit. In 
 
 A new BizDev unit will be established to drive business development and marketing activities of the Gnosis Chain. Such activities will include attracting well-performing and well-known multi-chain protocols to launch on the Gnosis Chain. Gnosis Chain will cover the costs associated with such deployments. A new marketing unit will also be implemented to drive marketing activities of the Gnosis Chain.
 
-**Who will be the CEO after the merger? Will the STAKE team stay in the new company? **
+**Who will be the CEO after the merger? Will the STAKE team stay in the new company?**&#x20;
 
-GnosisDAO (the entity governed by GNO holders that holds Gnosis assets) does not have a CEO. The CEO for Gnosis the company will** **continue to be Martin. Igor will remain the "CEO" of xDai. Both entities will render services to the Gnosis\DAO.
+GnosisDAO (the entity governed by GNO holders that holds Gnosis assets) does not have a CEO. The CEO for Gnosis the company will **** continue to be Martin. Igor will remain the "CEO" of xDai. Both entities will render services to the Gnosis\DAO.
 
 **How do both teams (xDAI and Gnosis) see a successful cooperation in the time after the merger? Will team members be swapped or maybe leave?**
 
 There are no organizational changes planned in the xDai core and dev teams. RnD teams in both organizations will remain autonomous. New autonomous units will be created for BizDev and Marketing. All dev talents on the xDai team will be encouraged to stay.
 
-**Does the merger affect the original ecological project? For example SUSHI? **
+**Does the merger affect the original ecological project? For example SUSHI?**&#x20;
 
 GnosisDAO can consider adding liquidity to the various DeFi protocols on the xDAI chain to support their adoption using the 400k GNO (\~$190 million) fund reserved for that purpose.
 
