@@ -7,12 +7,10 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 {% hint style="warning" %}
 **xDai/Gnosis** **Merge Proposal & Voting**
 
-* A merger proposal between Gnosis and xDai is now in the snapshot voting phase.&#x20;
-  * :ballot\_box: [Snapshot Voting is Live](https://snapshot.org/#/xdaistake.eth/proposal/0x646cd97b769b4f1b7d7223b46f5e6ded097ae2ee3e0f1433a7b597e021a4d6d4)
-  * :book: [Read the Proposal and Amendments](https://forum.gnosis.io/t/gip-16-gnosis-chain-xdai-gnosis-merge/1904)
-* Snapshot Voting will last for 1 week, ending Tuesday, December 7th at 5 PM UTC.
-* STAKE token holders can use STAKE on Ethereum or STAKE on xDai, delegated STAKE from a multisig on Ethereum, and STAKE locked in various protocols such as Uniswap, Sushiswap and Agave to vote.&#x20;
-  * :feather: [Learn more about who can vote and the snapshot voting process](for-users/governance/stake-weighted-voting/).
+* Community Voting has concluded on the merger proposal between Gnosis and xDai. Results are heavily in favor of the Merger&#x20;
+  * :ballot\_box: [Snapshot Voting Page](https://snapshot.org/#/xdaistake.eth/proposal/0x646cd97b769b4f1b7d7223b46f5e6ded097ae2ee3e0f1433a7b597e021a4d6d4)
+  * :book: [Original Proposal and Amendments](https://forum.gnosis.io/t/gip-16-gnosis-chain-xdai-gnosis-merge/1904)
+* Stay tuned for more information about next steps coming soon.
 {% endhint %}
 
 {% hint style="success" %}
