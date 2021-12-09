@@ -6,15 +6,16 @@ description: >-
 
 # xDai Stable Token
 
-xDai tokens are used to pay for gas and transactions on the xDai chain. They are a stable token (worth \~ 1 USD) created from locked Dai. _Note that xDai features a dual token model with xDai as the stable transaction currency and STAKE as the staking/utility token. _[_Info on STAKE_](../../for-stakers/stake-token/)_._
+xDai tokens are used to pay for gas and transactions on the xDai chain. They are a stable token (worth \~ 1 USD) created from locked Dai. _Note that xDai features a dual token model with xDai as the stable transaction currency and STAKE as the staking/utility token._ [_Info on STAKE_](../../for-stakers/stake-token/)_._
 
 ### **How to get xDai stable tokens**
 
 * From another user on the xDai Chain.
-* Converting Dai to xDai using the [xDai Bridge](../bridges/converting-xdai-via-bridge/).
+* Converting Dai from Ethereum to xDai using the [xDai Bridge](../bridges/converting-xdai-via-bridge/).
+* Convert Dai from BSC to xDai using the OmniBridge. [More instructions here](https://docs.perp.fi/faqs/trading-faq/where-to-get-xdai#4.-from-a-cex).
 * Purchase directly on [AscendEx (formerly Bitmax) with the xDai/USDT Pair](https://bitmax.io/en/basic/cashtrade-spottrading/usdt/xdai).
 * Purchase directly with fiat using [Ramp.Network](https://ramp.network/buy/?swapAsset=XDAI) or [MtPelerin](https://www.mtpelerin.com/buy-xdai#).
-* Trading on [Honeyswap](https://honeyswap.org) (you will need a small amount of xDai to start trading).
+* Trade on [Honeyswap](https://honeyswap.org) (you will need a small amount of xDai to start trading).
 * Small amounts to pay for transactions can be acquired from the [xDai faucet](xdai-faucet.md) or by asking [Discord Community Members](https://discord.gg/mPJ9zkq).
 
 ### xDai Native Token
@@ -33,5 +34,5 @@ When users want to exchange xDai for Dai, the process is executed in reverse. xD
 
 In addition to the xDai stable token, the ecosystem also supports STAKE, a staking and utility/governance token. STAKE price is volatile and can be traded on CEXs and DEXs both on Ethereum and the xDai Chain.\
 __\
-_-> _[_Learn more about STAKE and how to get STAKE_](../../for-stakers/stake-token/get-stake/)_._
+_->_ [_Learn more about STAKE and how to get STAKE_](../../for-stakers/stake-token/get-stake/)_._
 {% endhint %}
