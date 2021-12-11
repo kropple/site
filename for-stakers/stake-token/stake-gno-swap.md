@@ -81,7 +81,7 @@ From this final screen you can:
 ### Resources
 
 GNO to STAKE Swap Contract on Gnosis Chain (formerly xDai): \
-0x7f30a53f290fc551a089bd83107906be649a92bd\
+0x918a1f8eE8F8f9E0802071929ce5fe9EfF60aC8C\
 
 
 GNO to STAKE Swap Contract on Ethereum Mainnet: \
