@@ -7,10 +7,13 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 {% hint style="warning" %}
 **xDai/Gnosis** **Merge Proposal & Voting**
 
-* Community Voting has concluded on the merger proposal between Gnosis and xDai. Results are heavily in favor of the Merger&#x20;
+* Community Voting has concluded on the merger proposal between Gnosis and xDai. Results are heavily in favor of the Merger.
   * :ballot\_box: [Snapshot Voting Page](https://snapshot.org/#/xdaistake.eth/proposal/0x646cd97b769b4f1b7d7223b46f5e6ded097ae2ee3e0f1433a7b597e021a4d6d4)
   * :book: [Original Proposal and Amendments](https://forum.gnosis.io/t/gip-16-gnosis-chain-xdai-gnosis-merge/1904)
-* Stay tuned for more information about next steps coming soon.
+{% endhint %}
+
+{% hint style="info" %}
+STAKE/GNO Swap is now available on Ethereum Mainnet, coming soon to xDai. [Info here](for-stakers/stake-token/stake-gno-swap.md)
 {% endhint %}
 
 {% hint style="success" %}
