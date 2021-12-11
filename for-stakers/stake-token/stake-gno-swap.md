@@ -1,12 +1,12 @@
 # STAKE / GNO Swap
 
 {% hint style="info" %}
-Live link will be added when swap is active, scheduled to start 11 December, 2021.
+Application to swap STAKE for GNO on Ethereum Mainnet and Gnosis Chain: [https://stake-to-gno.xdaichain.com/](https://stake-to-gno.xdaichain.com)
 {% endhint %}
 
 ## Details
 
-* Swap opens Saturday, December 11. Time TBD.
+* Swap opens Saturday, December 11. Already live!
 * Swap rate is fixed at 1 STAKE to 0.0326292707 GNO
 * Tokens can be swapped on the xDai Chain (soon to be Gnosis Chain) or the Ethereum Mainnet.&#x20;
 * GNO Auction begins Dec 11 designating up to 20k ETH to purchase GNO. This guarantees that GNO trades at at least 0.12 ETH (thus 0.12 \* 0.0326292707 = 0.003915512484). Achieving a minimum STAKE/ETH ratio of 0.003915512484.
@@ -80,11 +80,22 @@ From this final screen you can:
 
 ### Resources
 
-GNO to STAKE Swap Contract on xDai: \
-_\<coming soon>_
-
-GNO Address on xDai:\
+GNO to STAKE Swap Contract on Gnosis Chain (formerly xDai): \
+0x7f30a53f290fc551a089bd83107906be649a92bd\
 
 
-STAKE Address on xDai: [https://blockscout.com/xdai/mainnet/token/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e/token-transfers](https://blockscout.com/xdai/mainnet/token/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e/token-transfers)
+GNO to STAKE Swap Contract on Ethereum Mainnet: \
+0x7f30a53f290fc551a089bd83107906be649a92bd\
+
+
+GNO Address on Gnosis Chain (formerly xDai): \
+[https://blockscout.com/xdai/mainnet/token/0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb/token-transfers](https://blockscout.com/xdai/mainnet/token/0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb/token-transfers) \
+\
+GNO Address on on Ethereum Mainnet: \
+[https://etherscan.io/token/0x6810e776880c02933d47db1b9fc05908e5386b96](https://etherscan.io/token/0x6810e776880c02933d47db1b9fc05908e5386b96)
+
+STAKE Address on xDai: [https://blockscout.com/xdai/mainnet/token/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e/token-transfers](https://blockscout.com/xdai/mainnet/token/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e/token-transfers)\
+\
+STAKE Address on Ethereum Mainnet: \
+[https://etherscan.io/token/0x0Ae055097C6d159879521C384F1D2123D1f195e6](https://etherscan.io/token/0x0Ae055097C6d159879521C384F1D2123D1f195e6)
 
