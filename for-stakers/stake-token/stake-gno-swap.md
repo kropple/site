@@ -10,7 +10,7 @@ Application to swap STAKE for GNO on Ethereum Mainnet and Gnosis Chain: [https:/
 * Swap rate is fixed at 1 STAKE to 0.0326292707 GNO
 * Tokens can be swapped on the xDai Chain (soon to be Gnosis Chain) or the Ethereum Mainnet.&#x20;
 * GNO Auction begins Dec 11 designating up to 20k ETH to purchase GNO. This guarantees that GNO trades at at least 0.12 ETH (thus 0.12 \* 0.0326292707 = 0.003915512484). Achieving a minimum STAKE/ETH ratio of 0.003915512484.
-* Auction begins Dec 11 time TBD and ends on Dec 20th 3pm CET.
+* Auction begins Dec 11 and ends on Dec 20th 3pm CET.
 * For more information, see the [Gnosis proposal and amendments](https://forum.gnosis.io/t/gip-16-gnosis-chain-xdai-gnosis-merge/1904).
 
 {% hint style="warning" %}
