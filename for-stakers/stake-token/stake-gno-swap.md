@@ -11,12 +11,16 @@ Application to swap STAKE for GNO on Ethereum Mainnet and Gnosis Chain: [https:/
 * Tokens can be swapped on the xDai Chain (soon to be Gnosis Chain) or the Ethereum Mainnet.&#x20;
 * GNO Auction begins Dec 11 designating up to 20k ETH to purchase GNO. This guarantees that GNO trades at at least 0.12 ETH (thus 0.12 \* 0.0326292707 = 0.003915512484). Achieving a minimum STAKE/ETH ratio of 0.003915512484.
 * Auction begins Dec 11 and ends on Dec 20th 3pm CET.
-* For more information, see the [Gnosis proposal and amendments](https://forum.gnosis.io/t/gip-16-gnosis-chain-xdai-gnosis-merge/1904).
+* Analytics: [Swaps on Ethereum & xDai](https://dune.xyz/maxaleks/STAKE-GNO-merge)
+* More information: [Gnosis proposal and amendments](https://forum.gnosis.io/t/gip-16-gnosis-chain-xdai-gnosis-merge/1904).
 
 {% hint style="warning" %}
 **Note that the minimum Stake/ETH ratio of 0.003915512484 is only guaranteed through the end the auction (Dec 20)**.&#x20;
 
 Following the auction, this rate is no longer guaranteed.
+
+* Auction: [https://gnosis-auction.eth.link/#/auction?auctionId=104\&chainId=1#topAnchor](https://gnosis-auction.eth.link/#/auction?auctionId=104\&chainId=1#topAnchor)
+* How an auction works: [https://blog.gnosis.pm/announcing-gnosis-auction-launch-390124d56248](https://blog.gnosis.pm/announcing-gnosis-auction-launch-390124d56248)
 {% endhint %}
 
 ## Instructions
@@ -31,7 +35,7 @@ Instructions below are for swapping on the xDai chain ([STAKE from Ethereum](htt
 
 ## 1. Swap STAKE to GNO on xDai
 
-### 1) Go to swap application at \<coming soon>
+### 1) Go to swap application at [https://stake-to-gno.xdaichain.com/](https://stake-to-gno.xdaichain.com)
 
 Press Connect wallet.
 
@@ -81,11 +85,11 @@ From this final screen you can:
 ### Resources
 
 GNO to STAKE Swap Contract on Gnosis Chain (formerly xDai): \
-0x918a1f8eE8F8f9E0802071929ce5fe9EfF60aC8C\
+[0x918a1f8eE8F8f9E0802071929ce5fe9EfF60aC8C](https://blockscout.com/xdai/mainnet/address/0x918a1f8eE8F8f9E0802071929ce5fe9EfF60aC8C/transactions)\
 
 
 GNO to STAKE Swap Contract on Ethereum Mainnet: \
-0x7f30a53f290fc551a089bd83107906be649a92bd\
+[0x7f30a53f290fc551a089bd83107906be649a92bd](https://etherscan.io/address/0x7f30a53f290fc551a089bd83107906be649a92bd)\
 
 
 GNO Address on Gnosis Chain (formerly xDai): \

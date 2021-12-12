@@ -13,7 +13,7 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 {% endhint %}
 
 {% hint style="info" %}
-STAKE/GNO Swap is now available on Ethereum Mainnet, coming soon to xDai. [Info here](for-stakers/stake-token/stake-gno-swap.md)
+STAKE/GNO Swap is now available! [Info here](for-stakers/stake-token/stake-gno-swap.md)
 {% endhint %}
 
 {% hint style="success" %}
