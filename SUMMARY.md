@@ -181,7 +181,7 @@
 
 ## For users
 
-* [Getting Started with xDai](for-users/getting-started-with-xdai.md)
+* [Getting Started with GC](for-users/getting-started-with-xdai.md)
 * [xDai Stable Token](for-users/get-xdai-tokens/README.md)
   * [xDai Faucets](for-users/get-xdai-tokens/xdai-faucet.md)
   * [Buying xDai with Fiat](for-users/get-xdai-tokens/buying-xdai-with-fiat/README.md)
@@ -425,7 +425,7 @@
 
 ## Contact & Media Info <a href="#media" id="media"></a>
 
-* [xDai Dev Team](media/xdai-dev-team.md)
+* [Development Team](media/xdai-dev-team.md)
 * [Social Media & Community Channels](media/social-media.md)
 * [Media Kit](media/media-kit/README.md)
   * [Buttons](media/media-kit/buttons.md)
