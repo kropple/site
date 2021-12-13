@@ -42,7 +42,7 @@ The Gnosis chain is a stable payments EVM (Ethereum Virtual Machine) blockchain 
 📊Chain usage stats available with [Dune Analytics](https://duneanalytics.com/maxaleks/xDai-Usage).
 
 {% hint style="success" %}
-Brand new? [Get started here](for-users/getting-started-with-xdai/).
+Brand new? [Get started here](for-users/getting-started-with-gc/).
 {% endhint %}
 
 ## Project Highlights

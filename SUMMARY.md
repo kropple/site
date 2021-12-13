@@ -181,9 +181,9 @@
 
 ## For users
 
-* [Getting Started with GC](for-users/getting-started-with-xdai/README.md)
-  * [GNO Token](for-users/getting-started-with-xdai/gno-token.md)
-  * [mGNO token](for-users/getting-started-with-xdai/mgno-token.md)
+* [Getting Started with GC](for-users/getting-started-with-gc/README.md)
+  * [GNO Token](for-users/getting-started-with-gc/gno-token.md)
+  * [mGNO token](for-users/getting-started-with-gc/mgno-token.md)
 * [xDai Stable Token](for-users/get-xdai-tokens/README.md)
   * [xDai Faucets](for-users/get-xdai-tokens/xdai-faucet.md)
   * [Buying xDai with Fiat](for-users/get-xdai-tokens/buying-xdai-with-fiat/README.md)
