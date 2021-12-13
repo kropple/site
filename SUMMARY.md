@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to xDai](README.md)
+* [Welcome to Gnosis Chain🦉](README.md)
 
 ## About xDai
 
