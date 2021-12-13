@@ -6,11 +6,11 @@ description: Different ways to obtain small amounts of xDai
 
 ## OmniBridge Faucet
 
-The OmniBridge faucet now automatically deposits a small amount of xDai \($0.01\) to users bridging tokens from Ethereum or BSC. This is enough to start making transactions. If more is needed, bridged tokens can be [swapped on a DEX](../../about-xdai/project-spotlights/#defi) for additional xDai. Only empty wallets \(non-contract wallets with a 0 xDai balance\) receive xDai when bridging. 
+The OmniBridge faucet now automatically deposits a small amount of xDai ($0.01) to users bridging tokens from Ethereum or BSC. This is enough to start making transactions. If more is needed, bridged tokens can be [swapped on a DEX](../../about-gc/project-spotlights/#defi) for additional xDai. Only empty wallets (non-contract wallets with a 0 xDai balance) receive xDai when bridging.&#x20;
 
 Example transaction: [https://blockscout.com/poa/xdai/tx/0x4f071fda836ca2fb50854c80851da7040776700247e22f9c9f99d980e74eb527](https://blockscout.com/poa/xdai/tx/0x4f071fda836ca2fb50854c80851da7040776700247e22f9c9f99d980e74eb527)
 
-Change raw input field from HEX to UTF-8 to view the corresponding note. 
+Change raw input field from HEX to UTF-8 to view the corresponding note.&#x20;
 
 ![](../../.gitbook/assets/omni-faucet.png)
 
@@ -41,13 +41,13 @@ If the faucet is empty there is no time table for a refill. You can use the [Omn
 
 ![](../../.gitbook/assets/f2.png)
 
-You will see a success message. Check your balance on the xDai chain to see that that you received funds from the faucet \(See [getting started with xDai](../getting-started-with-xdai.md) if you have questions around connecting to the xDai chain\).
+You will see a success message. Check your balance on the xDai chain to see that that you received funds from the faucet (See [getting started with xDai](../getting-started-with-xdai.md) if you have questions around connecting to the xDai chain).
 
 3\) It is also possible to donate to the faucet and help your community! Click the **Donate button** and complete the transaction in MetaMask to add xDai to the faucet. Donations are automatically set to 10 xDai.
 
 ![](../../.gitbook/assets/f3.png)
 
-4\) You are ready to start transacting! You can acquire more xDai directly using a DEX like [HoneySwap](https://honeyswap.org/) without paying high gas fees to bridge Dai from Ethereum.
+4\) You are ready to start transacting! You can acquire more xDai directly using a DEX like [HoneySwap](https://honeyswap.org) without paying high gas fees to bridge Dai from Ethereum.
 
 {% hint style="info" %}
 The xDai Faucet can be used by an address once every 24 hours to top-off your xDai balance.
@@ -58,7 +58,6 @@ The xDai Faucet can be used by an address once every 24 hours to top-off your xD
 A number of additional xDai faucets have been created by projects to assist with xDai onboarding.
 
 * [BAO Community xDai Faucet](https://xdai-app.herokuapp.com/faucet)
-* [Minerva Wallet Faucet ](https://minerva.digital/)\(scroll down page to see, must have MIVA to use\)
+* [Minerva Wallet Faucet ](https://minerva.digital)(scroll down page to see, must have MIVA to use)
 
-If you've gotten this far and still haven't received any xDai, try the [xDai Discord](https://discord.gg/mPJ9zkq) \#faucet-requests channel!
-
+If you've gotten this far and still haven't received any xDai, try the [xDai Discord](https://discord.gg/mPJ9zkq) #faucet-requests channel!

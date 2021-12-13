@@ -4,7 +4,7 @@ description: Community signaling with Snapshot and Forum proposals
 
 # Governance
 
-Community members can [create and vote on proposals ](https://forum.poa.network/c/xdai-chain/xdai-proposals/43)related to changes, improvements or anything they would like to see with the xDai ecosystem. Users can also add proposals related to [xDai Ecosystem Funds](../../about-xdai/roadmap/ecosystem-fund-roadmap.md) usage.  Voting is done with STAKE, and STAKE balances are retrieved from both Ethereum and xDai. STAKE in the following protocols can be used for voting purposes.
+Community members can [create and vote on proposals ](https://forum.poa.network/c/xdai-chain/xdai-proposals/43)related to changes, improvements or anything they would like to see with the xDai ecosystem. Users can also add proposals related to [xDai Ecosystem Funds](../../about-gc/roadmap/ecosystem-fund-roadmap.md) usage.  Voting is done with STAKE, and STAKE balances are retrieved from both Ethereum and xDai. STAKE in the following protocols can be used for voting purposes.
 
 * Stake held either on Ethereum or xDai
 * Stake staked in EasyStaking on Ethereum

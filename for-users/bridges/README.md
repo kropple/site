@@ -24,6 +24,6 @@ A suffix is added to the token name in BlockScout, specifying the origin chain o
 
 ![Tether on xDai: 1 is bridged from ETH, the other from BSC](../../.gitbook/assets/tether1.png)
 
-Though not available for all tokens (pairs can be added as community need arises), **swaps are available for certain cross-chain token pairs using **[**component.finance**](https://xdai.component.finance)**.**\
+Though not available for all tokens (pairs can be added as community need arises), **swaps are available for certain cross-chain token pairs using** [**component.finance**](https://xdai.component.finance)**.**\
 \
-&#x20;:ballot\_box\_with\_check: [Learn more here](../../about-xdai/project-spotlights/component-finance.md)
+&#x20;:ballot\_box\_with\_check: [Learn more here](../../about-gc/project-spotlights/component-finance.md)

@@ -26,7 +26,7 @@ To get started on xDai, you will need to setup your externally owned address (wa
 * Ask on [xDai Discord](https://discord.gg/mPJ9zkq) or [Telegram](https://t.me/xdaistable) ... friends may be willing to help with small amounts :blush:&#x20;
 
 {% hint style="success" %}
-A new [OmniBridge faucet ](get-xdai-tokens/xdai-faucet.md#omnibridge-faucet) provides users with a small amount (0.01) of xDai when bridging tokens from Ethereum or BSC. This is enough to start transacting on the chain, and more can be obtained through swapping bridged tokens for xDai[ on DEXs](../about-xdai/project-spotlights/#defi). Only empty wallets receive xDai.
+A new [OmniBridge faucet ](get-xdai-tokens/xdai-faucet.md#omnibridge-faucet) provides users with a small amount (0.01) of xDai when bridging tokens from Ethereum or BSC. This is enough to start transacting on the chain, and more can be obtained through swapping bridged tokens for xDai[ on DEXs](../about-gc/project-spotlights/#defi). Only empty wallets receive xDai.
 {% endhint %}
 
 ## 3) BlockScout is your Home Base
@@ -47,10 +47,10 @@ You can move tokens between xDai and Ethereum, Binance Smart Chain and Polygon (
 
 ## 5) Explore and Enjoy
 
-* Find [Projects and DApps running on xDai](../about-xdai/project-spotlights/), including games, DeFi apps, NFT marketplaces, DAOs and much more.
+* Find [Projects and DApps running on xDai](../about-gc/project-spotlights/), including games, DeFi apps, NFT marketplaces, DAOs and much more.
 * Helpful on-chain tools for users are referenced [here](applications/). For developers, see the [development tools and resources](../for-developers/developer-resources/) section.
 * If you are interested in participating in governance and shaping the future of xDai, see the [STAKE Token](../for-stakers/stake-token/) and [Staking on xDai ](../for-stakers/staking-protocol/)sections to get involved as a delegator or participate in community governance.
-* When in doubt, [visit the FAQs](../about-xdai/faqs/) for more information. Additionally, you can find more here:
+* When in doubt, [visit the FAQs](../about-gc/faqs/) for more information. Additionally, you can find more here:
   * Community questions: [Telegram](https://t.me/xdaistable)
   * Technical questions: [Discord](https://discord.gg/mPJ9zkq)
   * Project Updates: [Twitter](https://twitter.com/xdaichain)

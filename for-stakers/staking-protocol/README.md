@@ -32,7 +32,7 @@ Public Staking preview (older interface)&#x20;
 ### **Additional Info**
 
 1. [Read the glossary ](terminology/protocol-terms.md)for an overview of the protocol and explanation of terms and features.
-2. [See the Public Staking FAQ ](../../about-xdai/faqs/public-staking-validators-and-delegators.md)for specific questions.
+2. [See the Public Staking FAQ ](../../about-gc/faqs/public-staking-validators-and-delegators.md)for specific questions.
 3. For more on the underlying POSDAO mechanics, see the [POSDAO whitepaper](../../for-validators/posdao-whitepaper.md).
 4. [Latest staking stats ](https://www.duneanalytics.com/maxaleks/xdai-staking)for POSDAO and EasyStaking available with Dune Analytics :bar\_chart:
 5. Contact us through the [xDai Discord](https://discord.gg/mPJ9zkq), [Telegram](https://t.me/xdaistable) or our[ forum](https://forum.poa.network/c/xdai-chain) for questions and assistance.

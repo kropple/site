@@ -30,7 +30,7 @@ The Gnosis chain is a stable payments EVM (Ethereum Virtual Machine) blockchain 
 | **Purpose**   | <p>Stable Payments<br>Transaction (gas) Fees</p> | <p>Staking &#x26; Protocol Protection</p><p>Community Governance</p> |
 | **Stability** | Stable to USD                                    | Volatile / Market Driven                                             |
 
-🌉 [Bridges](about-xdai/faqs/bridges-xdai-bridge-and-omnibridge.md) provide the seamless ability to move tokens between chains using the unique [TokenBridge Architecture](https://docs.tokenbridge.net). Tokens and arbitrary messages can also be passed across chain.
+🌉 [Bridges](about-gc/faqs/bridges-xdai-bridge-and-omnibridge.md) provide the seamless ability to move tokens between chains using the unique [TokenBridge Architecture](https://docs.tokenbridge.net). Tokens and arbitrary messages can also be passed across chain.
 
 [![](.gitbook/assets/xDai-bridge.svg)](https://bridge.xdaichain.com) [![](.gitbook/assets/OmniBridge.svg)](https://omni.xdaichain.com/bridge)
 
@@ -47,21 +47,21 @@ Brand new? [Get started here](for-users/getting-started-with-xdai.md).
 
 ## Project Highlights
 
-The Gnosis/xDai ecosystem continues to flourish with many new project migrations, integrations, applications, and a mature toolset for developers. Explore the depth of the ecosystem in the [Project & DApps](about-xdai/project-spotlights/) section.
+The Gnosis/xDai ecosystem continues to flourish with many new project migrations, integrations, applications, and a mature toolset for developers. Explore the depth of the ecosystem in the [Project & DApps](about-gc/project-spotlights/) section.
 
 ![](.gitbook/assets/xDai-projects.png)
 
-| Integrations                                          | Infrastructure                                              | DeFi                                                                      | NFTs                                                    | DAOs                                                |
-| ----------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------- |
-| [Gnosis](about-xdai/project-spotlights/gnosis/)       | [Origin Trail](https://origintrail.io)                      | [HoneySwap](about-xdai/project-spotlights/1hive/honeyswap.md)             | [POAP](https://www.poap.xyz)                            | [DaoHaus](about-xdai/project-spotlights/daohaus.md) |
-| [Chainlink](about-xdai/project-spotlights/chainlink/) | [RealT](https://realt.co)                                   | [Perpetual Protocol](about-xdai/project-spotlights/perpetual-protocol.md) | [Nifty.Ink](about-xdai/project-spotlights/nifty.ink.md) | [Colony](https://colony.io)                         |
-| [HOPR](https://hoprnet.org)                           | [Circles UBI](about-xdai/project-spotlights/circles-ubi.md) | [Curve Finance](https://xdai.curve.fi)                                    | [Unifty](https://unifty.io)                             | [DXdao](https://dxdao.medium.com)                   |
-| [Ramp Network](https://ramp.network)                  | [Streamr](https://streamr.network)                          | [SushiSwap](https://sushi.com)                                            | [Crypto Stamps](https://crypto.post.at)                 | [RaidGuild](https://raidguild.org)                  |
-| [Giveth](https://giveth.io)                           | [Orchid](https://www.orchid.com)                            | [BaoSwap](https://www.bao.finance)                                        | [Cargo](https://cargo.build)                            | [Peerion](https://peerion.io/pools/)                |
-| [Tenderly](https://tenderly.co)                       | [CardStack](https://cardstack.com)                          | [Omen](https://xdai.omen.eth.link/#/liquidity)                            | [Eporio](https://epor.io)                               |                                                     |
-| [Ankr](https://www.ankr.com)                          | [Request](https://request.network/en/)                      | [Swapr](https://swapr.eth.link/#/swap)                                    | [Unique.One](https://www.unique.one)                    |                                                     |
-| [Tornado Cash](https://tornado.cash)                  | [clr. Fund](about-xdai/project-spotlights/clr-fund.md)      | [Agave](https://agave.finance)                                            | [xlr8r](https://xlr8r.com)                              |                                                     |
-| [Token Multisender](https://multisender.app)          |                                                             | [Component Finance](about-xdai/project-spotlights/component-finance.md)   | [Genuino](https://www.genuino.world/world/sport)        |                                                     |
+| Integrations                                        | Infrastructure                                            | DeFi                                                                    | NFTs                                                  | DAOs                                              |
+| --------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------- |
+| [Gnosis](about-gc/project-spotlights/gnosis/)       | [Origin Trail](https://origintrail.io)                    | [HoneySwap](about-gc/project-spotlights/1hive/honeyswap.md)             | [POAP](https://www.poap.xyz)                          | [DaoHaus](about-gc/project-spotlights/daohaus.md) |
+| [Chainlink](about-gc/project-spotlights/chainlink/) | [RealT](https://realt.co)                                 | [Perpetual Protocol](about-gc/project-spotlights/perpetual-protocol.md) | [Nifty.Ink](about-gc/project-spotlights/nifty.ink.md) | [Colony](https://colony.io)                       |
+| [HOPR](https://hoprnet.org)                         | [Circles UBI](about-gc/project-spotlights/circles-ubi.md) | [Curve Finance](https://xdai.curve.fi)                                  | [Unifty](https://unifty.io)                           | [DXdao](https://dxdao.medium.com)                 |
+| [Ramp Network](https://ramp.network)                | [Streamr](https://streamr.network)                        | [SushiSwap](https://sushi.com)                                          | [Crypto Stamps](https://crypto.post.at)               | [RaidGuild](https://raidguild.org)                |
+| [Giveth](https://giveth.io)                         | [Orchid](https://www.orchid.com)                          | [BaoSwap](https://www.bao.finance)                                      | [Cargo](https://cargo.build)                          | [Peerion](https://peerion.io/pools/)              |
+| [Tenderly](https://tenderly.co)                     | [CardStack](https://cardstack.com)                        | [Omen](https://xdai.omen.eth.link/#/liquidity)                          | [Eporio](https://epor.io)                             |                                                   |
+| [Ankr](https://www.ankr.com)                        | [Request](https://request.network/en/)                    | [Swapr](https://swapr.eth.link/#/swap)                                  | [Unique.One](https://www.unique.one)                  |                                                   |
+| [Tornado Cash](https://tornado.cash)                | [clr. Fund](about-gc/project-spotlights/clr-fund.md)      | [Agave](https://agave.finance)                                          | [xlr8r](https://xlr8r.com)                            |                                                   |
+| [Token Multisender](https://multisender.app)        |                                                           | [Component Finance](about-gc/project-spotlights/component-finance.md)   | [Genuino](https://www.genuino.world/world/sport)      |                                                   |
 
 ## **Developers**
 
@@ -87,12 +87,12 @@ Any contract that works on the Ethereum mainnet can be redeployed to the Gnosis 
 * ✅Fast transaction times (5 seconds) & low transaction fees (500 tx for $.01).
 * ✅Digital cash. A stable chain is ideal for real world value exchange where 1 xDai = 1 US Dollar.
 * ✅A stable token for transactions & gas fees.
-* ✅A green, energy-efficient and [ecologically aware](about-xdai/news-and-information/xdai-energy-efficiency/) blockchain network.
+* ✅A green, energy-efficient and [ecologically aware](about-gc/news-and-information/xdai-energy-efficiency/) blockchain network.
 * ✅Permissionless delegated Proof-Of-Stake based consensus with public [POSDAO](for-validators/posdao-whitepaper.md).
 * ✅Wide-ranging Community Support (see [xDai Validator Organizations](for-validators/about-xdai-validators/original-xdai-validators/)).
 * ✅Extreme usability with tools like [Burner Wallet](for-users/wallets/burner-wallet/) & [Burner Wallet 2](for-users/wallets/burner-wallet-2.md).
-* ✅Growing ecosystem designed to support stable person-to-person transactions, micro transactions, [conference currencies](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/), [community currencies](about-xdai/use-cases/community-currencies.md), DeFi, NFTs, DAOs, games and more.
+* ✅Growing ecosystem designed to support stable person-to-person transactions, micro transactions, [conference currencies](about-gc/use-cases/cryptocurrency-for-events-and-conferences/), [community currencies](about-gc/use-cases/community-currencies.md), DeFi, NFTs, DAOs, games and more.
 * ✅Full-featured  [BlockScout Explorer](https://blockscout.com/xdai/mainnet).
 * ✅On-chain, decentralized [Random Number Generator](for-developers/on-chain-random-numbers/).
 * ✅Smart Contract, DApp & toolset compatibility with other Ethereum-based chains like Ethereum, Ethereum Classic, BSC and others.
-* ✅Experiencing the [magic of crypto](about-xdai/news-and-information/media-articles/crypto-influencers-on-xdai.md#anthony-pompliano) for the first time!
+* ✅Experiencing the [magic of crypto](about-gc/news-and-information/media-articles/crypto-influencers-on-xdai.md#anthony-pompliano) for the first time!

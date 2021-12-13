@@ -10,7 +10,7 @@ Fees are one metric that show real-world usage and adoption.  When users are pay
 
 ![](../../.gitbook/assets/xdai-position.png)
 
-For exchanges (like Uniswap), trading fees are displayed, and interest fees are displayed for lending protocols like Aave. For blockchains like Ethereum or xDai, fees show tx fees paid by users. Since xDai is a stable chain, increased transaction fees mean increased usage; price fluctuations do not impact fee costs. In May 2021, we've seen a large increase in fees paid by users, corresponding with all time highs in transactions (and likely a boost from the latest round of [Dark Forest](../../about-xdai/project-spotlights/dark-forest.md) :waning\_crescent\_moon:).
+For exchanges (like Uniswap), trading fees are displayed, and interest fees are displayed for lending protocols like Aave. For blockchains like Ethereum or xDai, fees show tx fees paid by users. Since xDai is a stable chain, increased transaction fees mean increased usage; price fluctuations do not impact fee costs. In May 2021, we've seen a large increase in fees paid by users, corresponding with all time highs in transactions (and likely a boost from the latest round of [Dark Forest](../../about-gc/project-spotlights/dark-forest.md) :waning\_crescent\_moon:).
 
 ![xDai tx fees May 2021](<../../.gitbook/assets/May growth.png>)
 

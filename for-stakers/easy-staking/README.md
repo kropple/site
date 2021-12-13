@@ -14,7 +14,7 @@ Easy Staking Stats are available here:\
 {% hint style="success" %}
 * [Instructions](instructions/) on how to use the EasyStaking application.
 * [EasyStaking Parameters](easy-staking-parameters.md) for basic application requirements and incentive details.
-* Learn how the xDai Foundation is bootstrapping the launch with the [EasyStaking Initiative](../../about-xdai/news-and-information/project-updates/easystaking-launch-initiative.md).
+* Learn how the xDai Foundation is bootstrapping the launch with the [EasyStaking Initiative](../../about-gc/news-and-information/project-updates/easystaking-launch-initiative.md).
 * View reward scenarios and other metrics at [stakingrewards.com](https://www.stakingrewards.com/earn/xdai/calculate)&#x20;
 * See a [reward comparison with different staking methods](../stake-token/stake-reward-mechanics/staking-rewards-comparison.md) (EasyStaking, LP Provider, Delegation & Validation)
 * View latest stats and analytics for EasyStaking and POSDAO with the :bar\_chart: [Dune Analytics Staking Dashboard](https://www.duneanalytics.com/maxaleks/xdai-staking).

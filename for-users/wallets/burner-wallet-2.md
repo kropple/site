@@ -18,7 +18,7 @@ The Burner Wallet 2 follows many of the original design patterns of the Burner W
 
 {% embed url="https://www.youtube.com/watch?v=-V3ExfqqBOk" %}
 
-The Burner Wallet 2 was prototyped at a number of great events, such as the [Escape Room at ETHBerlin](https://medium.com/@dmihal/bringing-the-burner-wallet-to-ethberlins-escape-room-5d2d01992962), and a [happy hour at ETHBoston](https://twitter.com/dmihal/status/1169999226237009920), and used by participants at [Devcon V](../../about-xdai/use-cases/cryptocurrency-for-events-and-conferences/devcon-5.md) and [ETHWaterloo II](../../about-xdai/use-cases/cryptocurrency-for-events-and-conferences/ethwaterloo.md). A number of Burner Wallet plugins are in the works from companies like Helena, Ching and Sablier.
+The Burner Wallet 2 was prototyped at a number of great events, such as the [Escape Room at ETHBerlin](https://medium.com/@dmihal/bringing-the-burner-wallet-to-ethberlins-escape-room-5d2d01992962), and a [happy hour at ETHBoston](https://twitter.com/dmihal/status/1169999226237009920), and used by participants at [Devcon V](../../about-gc/use-cases/cryptocurrency-for-events-and-conferences/devcon-5.md) and [ETHWaterloo II](../../about-gc/use-cases/cryptocurrency-for-events-and-conferences/ethwaterloo.md). A number of Burner Wallet plugins are in the works from companies like Helena, Ching and Sablier.
 
 **Burner Factory:** The Burner Factory is a complimentary application to the Burner Wallet. Burner Factory allows anyone to build a custom "burner experience" without writing a single line of code. The current site allows customizing the set of tokens and exchange pairs included in a wallet, and quickly deploying that wallet to a server.&#x20;
 

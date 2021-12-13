@@ -109,7 +109,7 @@ See the dropdown menu under Developer Resources and Tools for tutorials related 
 * [Sourcify](https://sourcify.dev) Smart Contract Source Verification. Contracts can also be verified with [BlockScout.](smart-contract-deployment.md)
 * [Ethers.js](connect-to-xdai-with-ethers.js.md) lightweight javascript library - can be used as an alternative to [web3.js](https://web3js.readthedocs.io/en/v1.3.4/) for simple application development.
 * [Remix IDE](https://remix-project.org):  It's easy to deploy to xDai with Remix, simply choose injected web3 and add the [xDai custom RPC to your metamask](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup).
-* [OpenZeppelin Defender: ](https://defender.openzeppelin.com)Manage smart contract administration including access controls, upgrades, and pausing. Works with [Gnosis Safe](../../about-xdai/project-spotlights/gnosis/gnosis-safe.md) Multisig.
+* [OpenZeppelin Defender: ](https://defender.openzeppelin.com)Manage smart contract administration including access controls, upgrades, and pausing. Works with [Gnosis Safe](../../about-gc/project-spotlights/gnosis/gnosis-safe.md) Multisig.
 * [Chainlink](https://docs.chain.link/docs/xdai-price-feeds): xDai Price Feeds integration.&#x20;
 * [Brownie](https://eth-brownie.readthedocs.io/en/stable/): Smart Contract Development tool suite. For a video overview of Brownie Features, see this [tutorial series by the Curve Finance team](https://www.youtube.com/playlist?list=PLVOHzVzbg7bFUaOGwN0NOgkTItUAVyBBQ).
 
@@ -148,4 +148,4 @@ See the dropdown menu under Developer Resources and Tools for tutorials related 
   [https://github.com/poanetwork/poa-chain-spec/tree/dai](https://github.com/poanetwork/poa-chain-spec/tree/dai)
 * **Netstats**, an overview of xDai Chain nodes [http://dai-netstat.poa.network](http://dai-netstat.poa.network)
 * **Anyblock Index** (aka [http://eth.events](http://eth.events)), so you can query it via the Elasticsearch API or search in PostgreSQL: [https://account.anyblock.tools/status/](https://account.anyblock.tools/status/)
-* **Gnosis Safe** [on xDai.](../../about-xdai/project-spotlights/gnosis/gnosis-safe.md)
+* **Gnosis Safe** [on xDai.](../../about-gc/project-spotlights/gnosis/gnosis-safe.md)
