@@ -23,7 +23,7 @@ See the [Curve docs](https://resources.curve.fi) for basics on exchanging stable
 
 1\) If you haven't added the xDai chain to MetaMask, [follow these instructions](../../for-users/wallets/metamask/metamask-setup.md) to setup and switch to the xDai Network.
 
-2\) You will need a little xDai to pay for transactions. You [can get some automatically by bridging assets to xDai, from the xDai faucet, purchase with fiat or in other ways](../../for-users/getting-started-with-xdai.md#2-get-a-little-xdai).
+2\) You will need a little xDai to pay for transactions. You [can get some automatically by bridging assets to xDai, from the xDai faucet, purchase with fiat or in other ways](../../for-users/getting-started-with-xdai/#2-get-a-little-xdai).
 
 3\) Go to the Curve site at [https://xdai.curve.fi](https://xdai.curve.fi/pools). Click **Connect Wallet** and confirm the xDai address in MM you want to use with Curve.&#x20;
 

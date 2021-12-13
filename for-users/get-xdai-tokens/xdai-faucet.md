@@ -19,7 +19,7 @@ Change raw input field from HEX to UTF-8 to view the corresponding note.&#x20;
 Faucet is now live with SMS phone verification through Twilio\* and multiple hCaptcha prompts to prevent abuse. Virtual numbers are not accepted for faucet transactions.
 
 {% hint style="info" %}
-If the faucet is empty there is no time table for a refill. You can use the [OmniBridge faucet ](xdai-faucet.md#blockscout-faucet)when bridging, try the [3rd party faucets](xdai-faucet.md#3rd-party-faucets) below, or [obtain xDai in other ways](../getting-started-with-xdai.md#2-get-a-little-xdai).
+If the faucet is empty there is no time table for a refill. You can use the [OmniBridge faucet ](xdai-faucet.md#blockscout-faucet)when bridging, try the [3rd party faucets](xdai-faucet.md#3rd-party-faucets) below, or [obtain xDai in other ways](../getting-started-with-xdai/#2-get-a-little-xdai).
 {% endhint %}
 
 ### Instructions
@@ -41,7 +41,7 @@ If the faucet is empty there is no time table for a refill. You can use the [Omn
 
 ![](../../.gitbook/assets/f2.png)
 
-You will see a success message. Check your balance on the xDai chain to see that that you received funds from the faucet (See [getting started with xDai](../getting-started-with-xdai.md) if you have questions around connecting to the xDai chain).
+You will see a success message. Check your balance on the xDai chain to see that that you received funds from the faucet (See [getting started with xDai](../getting-started-with-xdai/) if you have questions around connecting to the xDai chain).
 
 3\) It is also possible to donate to the faucet and help your community! Click the **Donate button** and complete the transaction in MetaMask to add xDai to the faucet. Donations are automatically set to 10 xDai.
 

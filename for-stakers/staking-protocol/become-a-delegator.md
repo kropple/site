@@ -34,7 +34,7 @@ Delegate STAKE using BlockScout (made on v1 interface, processes are the same)
 
 You will need the minimum delegator stake amount of STAKE ([currently 200 STAKE](https://snapshot.page/#/xdaistake.eth/proposal/QmW87yvqQ64t97wj4woee1dBtX1uQSeED8pCqoW2yk5qWs)) and a small amount of xDAI (0.1 is plenty) deposited to your address on the xDai chain.
 
-* [Get xDai](../../for-users/getting-started-with-xdai.md#2-get-a-little-xdai)
+* [Get xDai](../../for-users/getting-started-with-xdai/#2-get-a-little-xdai)
 * Get [STAKE on xDai](../stake-token/get-stake/)
   1.  Get STAKE on Ethereum and bridge to xDai with OmniBridge: [Move Stake from Ethereum to xDai with the OmniBridge](https://youtu.be/qbuBqur9lcE).&#x20;
 

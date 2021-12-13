@@ -32,7 +32,7 @@ Quick Methods
 
 2\) In the "Custom RPC" Settings, add in the xDai network details and click **Save**:
 
-* Network Name: **xDai**
+* Network Name: **Gnosis**
 * New RPC URL: [**https://rpc.xdaichain.com/**](https://rpc.xdaichain.com)
 * Chain ID: **0x64**
 * Symbol: **xDai**

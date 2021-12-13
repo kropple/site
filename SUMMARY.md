@@ -181,7 +181,9 @@
 
 ## For users
 
-* [Getting Started with GC](for-users/getting-started-with-xdai.md)
+* [Getting Started with GC](for-users/getting-started-with-xdai/README.md)
+  * [GNO Token](for-users/getting-started-with-xdai/gno-token.md)
+  * [mGNO token](for-users/getting-started-with-xdai/mgno-token.md)
 * [xDai Stable Token](for-users/get-xdai-tokens/README.md)
   * [xDai Faucets](for-users/get-xdai-tokens/xdai-faucet.md)
   * [Buying xDai with Fiat](for-users/get-xdai-tokens/buying-xdai-with-fiat/README.md)
@@ -411,7 +413,7 @@
     * [Building Honey Badger BFT: Part 1](for-validators/consensus/honeybadger-bft-consensus/building-honey-badger-bft-part-1.md)
     * [How Honey Badger BFT Consensus Works: Part 2](for-validators/consensus/honeybadger-bft-consensus/how-honey-badger-bft-consensus-works-part-2.md)
     * [Honey Badger BFT and Threshold Cryptography: Part 3](for-validators/consensus/honeybadger-bft-consensus/honey-badger-bft-and-threshold-cryptography-part-3.md)
-  * [Gnosis Beacon Chain (GBC)](for-validators/consensus/sbc.md)
+  * [Gnosis Beacon Chain (GBC)](for-validators/consensus/sbc/README.md)
 * [Hard Forks](for-validators/hard-forks/README.md)
   * [London EIP-1559 | 2021 -11-12 | #19040000](for-validators/hard-forks/london-eip-1559-or-2021-11-11-or-19040000.md)
   * [2021-05-17 | #16101500](for-validators/hard-forks/2021-05-17-or-16101500.md)

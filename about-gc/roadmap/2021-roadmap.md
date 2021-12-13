@@ -123,7 +123,7 @@ Update: We are currently working on a [ZeroPool](https://zeropool.network) integ
 :dart: **Target Date**: Q4 2021\
 :white\_check\_mark: **Status:** Gnosis Beacon Chain implemented. Explorer: [https://beacon.gnosischain.com/](https://beacon.gnosischain.com)
 
-In addition to the EIP-1559 implementation we are preparing a beacon chain deployment. Previous POSDAO validators will have the opportunity to become validators on this beacon chain implementation with a very small allocation of mGNO (32). This will mark a first step towards additional decentralization and allow anyone to participate in the beacon chain experience. The chain will be initially be supported 2 client implementations, Lighthouse and Prysm. [_More details_](../../for-validators/consensus/sbc.md)__
+In addition to the EIP-1559 implementation we are preparing a beacon chain deployment. Previous POSDAO validators will have the opportunity to become validators on this beacon chain implementation with a very small allocation of mGNO (32). This will mark a first step towards additional decentralization and allow anyone to participate in the beacon chain experience. The chain will be initially be supported 2 client implementations, Lighthouse and Prysm. [_More details_](../../for-validators/consensus/sbc/)__
 
 ## Synthetic Asset Exploration and Implementation
 
