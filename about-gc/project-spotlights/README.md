@@ -5,14 +5,14 @@ description: Projects and applications migrating and/or deploying to xDai
 # Projects & DApps
 
 {% hint style="info" %}
-**A list of applications using xDai is catalogued below.**
+**A list of applications is catalogued below.**
 
 We highlight some of the applications below in the Projects & DApps section of the website. See the submenu for more.
 
-There is also a community-curated site for xDai projects and applications located at https://www.xdai.world/
+There is also a community-curated site for projects and applications located at https://www.xdai.world/
 {% endhint %}
 
-xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Smart Contract or DApp deployed on Ethereum can also be deployed on xDai with minimal changes. Developers and projects can deploy and/or migrate to xDai to realize big cost savings and escape congestion. Forks of popular projects are also deployed on xDai to take advantage of stable network mechanics, speed and low transaction costs. Applications can move completely to xDai, or live on multiple networks at once, serving different audiences and experimenting with different modes of operation and cross-chain interoperability.
+Gnosis chain is an EVM-compatible Ethereum Sister Chain. This means any Smart Contract or DApp deployed on Ethereum can also be deployed on GC with minimal changes. Developers and projects can deploy and/or migrate to GC to realize big cost savings and escape congestion. Forks of popular projects are also deployed on GC to take advantage of stable network mechanics, speed and low transaction costs. Applications can move completely to GC, or live on multiple networks at once, serving different audiences and experimenting with different modes of operation and cross-chain interoperability.
 
 | [Partnerships](./#primary-partnerships) | [Infrastructure](./#infrastructure)         | [DeFi](./#defi)                                                               |
 | --------------------------------------- | ------------------------------------------- | ----------------------------------------------------------------------------- |
@@ -20,7 +20,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 | [Governance](./#governance)             | [DAOs](./#daos)                             | [UBI & Payments](./#universal-basic-income-ubi-payments-and-streaming-income) |
 | [Analytics](./#analytics)               | [Games](./#games)                           | [More++](./#more)                                                             |
 
-## 3rd Party Projects/Dapps Deployed on xDai Include:
+## 3rd Party Projects/Dapps Deployed on GC Include:
 
 ### **Primary Partnerships**
 

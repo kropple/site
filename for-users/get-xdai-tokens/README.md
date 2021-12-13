@@ -10,7 +10,7 @@ xDai tokens are used to pay for gas and transactions on the xDai chain. They are
 
 ### **How to get xDai stable tokens**
 
-* From another user on the xDai Chain.
+* From another user on the Gnosis (Formerly xDai) Chain.
 * Converting Dai from Ethereum to xDai using the [xDai Bridge](../bridges/converting-xdai-via-bridge/).
 * Convert Dai from BSC to xDai using the OmniBridge. [More instructions here](https://docs.perp.fi/faqs/trading-faq/where-to-get-xdai#4.-from-a-cex).
 * Purchase directly on [AscendEx (formerly Bitmax) with the xDai/USDT Pair](https://bitmax.io/en/basic/cashtrade-spottrading/usdt/xdai).

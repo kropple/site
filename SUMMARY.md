@@ -259,6 +259,7 @@
 * [Block Explorers](for-users/explorers/README.md)
   * [BlockScout](for-users/explorers/blockscout.md)
   * [AnyBlock Analytics](for-users/explorers/anyblock-analytics.md)
+  * [Gnosis Beacon Chain](for-users/explorers/gnosis-beacon-chain.md)
 * [Governance](for-users/governance/README.md)
   * [Governance Board Summary of Decisions](for-users/governance/governance-board-summary-of-decisions.md)
   * [STAKE weighted voting with Snapshot](for-users/governance/stake-weighted-voting/README.md)
@@ -382,7 +383,8 @@
 
 ## For validators
 
-* [About xDai Validators](for-validators/about-xdai-validators/README.md)
+* [Gnosis Chain Validators](for-validators/gnosis-chain-validators.md)
+* [About Validators](for-validators/about-xdai-validators/README.md)
   * [Original xDai Validators](for-validators/about-xdai-validators/original-xdai-validators/README.md)
     * [xDai Validator Testimonials](for-validators/about-xdai-validators/original-xdai-validators/xdai-validator-testimonials.md)
   * [Original Validator Rewards](for-validators/about-xdai-validators/original-validator-rewards.md)
@@ -409,10 +411,7 @@
     * [Building Honey Badger BFT: Part 1](for-validators/consensus/honeybadger-bft-consensus/building-honey-badger-bft-part-1.md)
     * [How Honey Badger BFT Consensus Works: Part 2](for-validators/consensus/honeybadger-bft-consensus/how-honey-badger-bft-consensus-works-part-2.md)
     * [Honey Badger BFT and Threshold Cryptography: Part 3](for-validators/consensus/honeybadger-bft-consensus/honey-badger-bft-and-threshold-cryptography-part-3.md)
-  * [Stake Beacon Chain (SBC)](for-validators/consensus/sbc/README.md)
-    * [SBC Validator Requirements & Responsibilities](for-validators/consensus/sbc/sbc-validator-requirements-and-responsibilities.md)
-    * [Technical Prerequisites](for-validators/consensus/sbc/technical-prerequisites.md)
-    * [Get Started](for-validators/consensus/sbc/get-started.md)
+  * [Gnosis Beacon Chain (GBC)](for-validators/consensus/sbc.md)
 * [Hard Forks](for-validators/hard-forks/README.md)
   * [London EIP-1559 | 2021 -11-12 | #19040000](for-validators/hard-forks/london-eip-1559-or-2021-11-11-or-19040000.md)
   * [2021-05-17 | #16101500](for-validators/hard-forks/2021-05-17-or-16101500.md)
