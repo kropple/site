@@ -433,4 +433,6 @@
 
 ## Careers <a href="#careers-1" id="careers-1"></a>
 
+* [DevOps Engineer (Blockchain)](careers-1/devops-engineer-blockchain.md)
+* [DevOps Engineer (BlockScout)](careers-1/devops-engineer-blockscout.md)
 * [Elixir Developer (BlockScout)](careers-1/elixir-developer-blockscout.md)
