@@ -38,7 +38,7 @@ Using a RANDAO-based Random Number Generator, validators produce random numbers 
 
 The GC currently uses a delegated Proof of Stake (DPOS) consensus mechanism called POSDAO. The [POSDAO white paper](../for-validators/posdao-whitepaper.md) describes all aspects of this new consensus protocol including a complete overview of the theory, rationale, security, and a detailed implementation section.
 
-:green\_book:[ More on the GC energy efficient network](news-and-information/energy-efficiency/)
+:green\_book:[ More on the GC energy efficient network](news-and-information/xdai-energy-efficiency/)
 
 ## Bridges to Ethereum
 

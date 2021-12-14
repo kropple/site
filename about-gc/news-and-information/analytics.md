@@ -6,7 +6,7 @@ description: Dune Analytics integration provides visual insights into xDai usage
 
 xDai is tightly integrated with [Dune Analytics](../../for-developers/developer-resources/dune-analytics.md), and we have created several dashboards to provide metrics and insights about xDai usage. Community members and project devs can also use these dashboards as a starting point to create and provide their own project-related metrics.
 
-## Current Dashboards
+## Dashboards
 
 ### xDai Chain Usage
 

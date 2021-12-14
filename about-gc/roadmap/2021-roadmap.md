@@ -99,6 +99,13 @@ We will research adopting other platforms such as Polkadot, Cosmos, Eth2 and [op
 
 Following a successful test phase, we will activate the London Hardfork including [EIP 1559](https://eips.ethereum.org/EIPS/eip-1559) on xDai. This will change the fee structure to include a Base Fee for transactions. More on the [EIP-1559 integration on xDai](eip-1559.md).
 
+## Beacon Chain
+
+:dart: **Target Date**: Q4 2021\
+:white\_check\_mark: **Status:** Gnosis Beacon Chain implemented. Explorer: [https://beacon.gnosischain.com/](https://beacon.gnosischain.com)
+
+In addition to the EIP-1559 implementation we are preparing a beacon chain deployment. Previous POSDAO validators will have the opportunity to become validators on this beacon chain implementation with a very small allocation of mGNO (32). This will mark a first step towards additional decentralization and allow anyone to participate in the beacon chain experience. The chain will be initially be supported 2 client implementations, Lighthouse and Prysm. [_More details_](../../for-validators/consensus/sbc/)__
+
 ## **Privacy Preserving Transactions**
 
 :dart: **Target Date:** Q4 2021\
@@ -115,15 +122,6 @@ We plan to research and implement privacy preserving transactions on xDai direct
 {% hint style="info" %}
 Update: We are currently working on a [ZeroPool](https://zeropool.network) integration with the bridge infrastructure to provide transaction encryption capabilities.
 {% endhint %}
-
-##
-
-## Beacon Chain
-
-:dart: **Target Date**: Q4 2021\
-:white\_check\_mark: **Status:** Gnosis Beacon Chain implemented. Explorer: [https://beacon.gnosischain.com/](https://beacon.gnosischain.com)
-
-In addition to the EIP-1559 implementation we are preparing a beacon chain deployment. Previous POSDAO validators will have the opportunity to become validators on this beacon chain implementation with a very small allocation of mGNO (32). This will mark a first step towards additional decentralization and allow anyone to participate in the beacon chain experience. The chain will be initially be supported 2 client implementations, Lighthouse and Prysm. [_More details_](../../for-validators/consensus/sbc/)__
 
 ## Synthetic Asset Exploration and Implementation
 

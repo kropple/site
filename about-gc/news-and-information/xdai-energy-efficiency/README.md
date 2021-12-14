@@ -4,7 +4,7 @@ description: >-
   as well as Visa.
 ---
 
-# xDai Energy Efficiency
+# Energy Efficiency
 
 In this article we present an overall energy usage overview (provided by [Lab10Collective](https://lab10.coop)) of different blockchains as well as VISA. The data shows that the xDai chain is extremely efficient while providing fast block times and a scaleable infrastructure.&#x20;
 

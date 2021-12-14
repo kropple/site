@@ -87,7 +87,7 @@ Any contract that works on the Ethereum mainnet can be redeployed to the Gnosis 
 * ✅Fast transaction times (5 seconds) & low transaction fees (500 tx for $.01).
 * ✅Digital cash. A stable chain is ideal for real world value exchange where 1 xDai = 1 US Dollar.
 * ✅A stable token for transactions & gas fees.
-* ✅A green, energy-efficient and [ecologically aware](about-gc/news-and-information/energy-efficiency/) blockchain network.
+* ✅A green, energy-efficient and [ecologically aware](about-gc/news-and-information/xdai-energy-efficiency/) blockchain network.
 * ✅Permissionless delegated Proof-Of-Stake based consensus with public [POSDAO](for-validators/posdao-whitepaper.md).
 * ✅Wide-ranging Community Support (see [xDai Validator Organizations](for-validators/about-xdai-validators/original-xdai-validators/)).
 * ✅Extreme usability with tools like [Burner Wallet](for-users/wallets/burner-wallet/) & [Burner Wallet 2](for-users/wallets/burner-wallet-2.md).
