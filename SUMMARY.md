@@ -171,7 +171,7 @@
   * [Decentralization Planning](about-gc/roadmap/decentralization-planning.md)
   * [2020 Roadmap (Completed Items)](about-gc/roadmap/2020-roadmap-completed-items.md)
 * [FAQs](about-gc/faqs/README.md)
-  * [xDai Chain Basics](about-gc/faqs/xdai-chain-basics.md)
+  * [GC Chain Basics](about-gc/faqs/xdai-chain-basics.md)
   * [Ecosystem Tools: Explorer, Wallets, DApps](about-gc/faqs/ecosystem-tools-explorer-wallets-dapps.md)
   * [xDai Native Coin/Token FAQ](about-gc/faqs/xdai-native-coin-token.md)
   * [STAKE Staking Token FAQ](about-gc/faqs/stake-staking-token.md)

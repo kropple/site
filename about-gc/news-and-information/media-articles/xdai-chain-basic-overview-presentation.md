@@ -4,6 +4,12 @@ description: An overview of the past, present and future of xDai.
 
 # xDai Chain: Basic Overview Presentation
 
+{% hint style="warning" %}
+This was a previous presentation used to provide a basic overview of the xDai Chain before the name change to **Gnosis Chain**. Many of the items are still true, while others have shifted.
+
+It is kept here for posterity.
+{% endhint %}
+
 We have presented to communities interested in learning what xDai is all about, and where we are headed with public POSDAO. Below are the basics.
 
 ## Stablecoins & the DeFi Revolution
