@@ -2,7 +2,7 @@
 description: Moving resource-intensive NFT operations to an energy-efficient chain
 ---
 
-# Green NFTs on xDai
+# 🌱 Green NFTs
 
 _Published 06.24.2021_
 

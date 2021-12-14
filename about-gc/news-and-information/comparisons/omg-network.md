@@ -4,6 +4,10 @@ description: xDai Stable Chain and OMG Network comparison
 
 # OMG Network
 
+{% hint style="warning" %}
+Comparisons were completed when the chain was named xDai Chain. They are likely outdated as the Gnosis Chain pivots to a new Beacon Chain model.
+{% endhint %}
+
 ![](<../../../.gitbook/assets/Green and Black Corporate Comparison Chart.png>)
 
 We’d like to talk about some of the key differences of some of our perceived competitors for a second layer solution to scaling Ethereum, while maintaining security. OMG network, a childchain of Ethereum, inherits the underlying security of Ethereum while allowing for faster and cheaper transactions. It uses More Viable Plasma construction to achieve this, yet lacks the flexibility and utility offered by xDai sidechains.

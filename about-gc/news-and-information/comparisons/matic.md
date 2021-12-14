@@ -4,6 +4,10 @@ description: xDai & Polygon Differences and Similarities
 
 # Polygon/Matic Network
 
+{% hint style="warning" %}
+Comparisons were completed when the chain was named xDai Chain. They are likely outdated as the Gnosis Chain pivots to a new Beacon Chain model.
+{% endhint %}
+
 |                                                 | xDai                                                                                                            | Polygon/Matic                                                                                                               |
 | ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | 1. Chain Type                                   | Stable Chain (stable tx costs)                                                                                  | Volatile Chain (volatile tx costs based on market rate)                                                                     |

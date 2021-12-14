@@ -4,6 +4,10 @@ description: POA Network R&D created xDai as the first USD Stable Chain
 
 # POA Network
 
+{% hint style="warning" %}
+Comparisons were completed when the chain was named xDai Chain. They are likely outdated as the Gnosis Chain pivots to a new Beacon Chain model.
+{% endhint %}
+
 ## Differences between POA Network and xDai Chain
 
 [POA Network](https://poa.network) is an R\&D organization as well as a network, and the xDai stable chain is a chain originally created by the POA Network. Other POA projects include [BlockScout](https://docs.blockscout.com) and [TokenBridge](https://docs.tokenbridge.net) (both recipients of Ecosystem Support from the [Ethereum Foundation](https://ethereum.foundation)).&#x20;

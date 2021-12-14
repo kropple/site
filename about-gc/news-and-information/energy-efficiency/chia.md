@@ -4,7 +4,7 @@ description: >-
   is creating unintended environmental consequences
 ---
 
-# xDai vs Chia: Energy Efficiency includes SSD usage
+# ☕ GC vs Chia: Energy Efficiency includes SSD usage
 
 ## Introduction
 

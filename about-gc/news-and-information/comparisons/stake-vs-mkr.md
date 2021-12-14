@@ -4,6 +4,10 @@ description: Governance tokens with different uses
 
 # STAKE vs MKR
 
+{% hint style="warning" %}
+Comparisons were completed when the chain was named xDai Chain. They are likely outdated as the Gnosis Chain pivots to a new Beacon Chain model.
+{% endhint %}
+
 MakerDAO and xDai are separate projects that co-exist within the broader blockchain ecosystem. They are distinct protocols, and do not require one another to function (while xDai is created from Dai, it could leverage a different stable coin to achieve the same result). However, when used together, they provide complementary structures that promote usability and scalability through stable value transfer.&#x20;
 
 * **MakerDAO** is a decentralized organization which creates a stable coin called **Dai** on the Ethereum blockchain. It uses the **MKR token** for governance.
