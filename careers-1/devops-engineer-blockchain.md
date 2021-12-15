@@ -37,3 +37,7 @@ The same team is behind the first widely used bridge infrastructure (OmniBridge)
 * This is a full-time position that is 100% remote. Work from anywhere in the world. EU time zone is preferable.&#x20;
 * Compensation in crypto (USDT, ETH, BTC,etc ) or fiat (USD, etc)
 
+### Apply
+
+{% embed url="https://apply.workable.com/blockscout/j/0D9C5798DC/apply" %}
+
