@@ -2,11 +2,13 @@
 description: Public staking on xDai
 ---
 
-# Staking on xDai
+# Staking on GC
 
 {% hint style="info" %}
-Staking Stats are available here (Scroll down to find Staking on xDai stats)\
-[https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)
+* Instructions use the "xDai chain" terminology. All processes are the same for the Gnosis Chain.
+* Staking will stop when the merge occurs with the Gnosis Beacon Chain. Until that time, it is still possible to delegate or validate on the GC.
+* Staking Stats are available here (Scroll down to find Staking on xDai stats)\
+  [https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)
 {% endhint %}
 
 ### Staking Videos

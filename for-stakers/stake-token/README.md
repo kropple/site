@@ -5,7 +5,8 @@ description: For Staking Utility and Governance
 # STAKE Token
 
 {% hint style="warning" %}
-[The STAKE/GNO token merge is ongoing](stake-gno-swap.md). STAKE will be phased out over the first half of 2022.
+* [The STAKE/GNO token swap is ongoing](stake-gno-swap.md). STAKE will be phased out over the first half of 2022.&#x20;
+* Until the merge, STAKE can still be used in various protocols as well as for staking as a validator or delegator on the Gnosis Chain.
 {% endhint %}
 
 {% hint style="success" %}
@@ -50,6 +51,6 @@ Community members can [submit governance proposals and vote with STAKE through S
 In future iterations, holders will have the opportunity to use STAKE in a micro-governance context to determine things like transaction sequencing and priority on a per-block basis, giving a true community voice to the txs written directly to the chain. Value capture related to this concept, known as [Miner Extractable Value](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788), will give STAKE an intrinsic and important purpose when Eth 2.0 is ready for production.
 
 {% hint style="info" %}
-&#x20;STAKE is a flexible asset, meaning it may be used in a variety of contexts. The initial use case describes leveraging STAKE in the POSDAO implementation for xDai, however STAKE may be used for staking (or other purposes) by other blockchain networks.
+&#x20;STAKE is a flexible asset, meaning it may be used in a variety of contexts. The initial use case describes leveraging STAKE in the POSDAO implementation for xDai (now Gnosis Chain), however STAKE may be used for staking (or other purposes) by other blockchain networks.
 {% endhint %}
 

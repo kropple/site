@@ -4,6 +4,10 @@ description: A fund designed to support sustainable, long-term growth of the xDa
 
 # Ecosystem Fund Roadmap
 
+{% hint style="warning" %}
+Roadmaps will be updated due to the Gnosis merge. Look for a new roadmap related to the Gnosis Beacon Chain and other exciting developments coming in 2022.
+{% endhint %}
+
 xDai STAKE Ecosystem fund unlocks began March 31, 2021. This is an important fund designed to support the further development, expansion, and adoption of xDai and STAKE. As such, funds will be used in a number of ways.&#x20;
 
 Here we offer some initial use cases for the fund. We will continue to expand this page, adding additional uses and use-cases as they arise. If you have an idea for usage that aligns with xDai values (long-term growth, neutral ecosystem expansion, security and support, and sustainable project development) please feel free to [propose in our forum](https://forum.poa.network/c/xdai-chain/xdai-proposals/43).

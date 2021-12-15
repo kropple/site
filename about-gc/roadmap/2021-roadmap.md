@@ -1,12 +1,16 @@
 # 2021 Base Roadmap
 
+{% hint style="warning" %}
+Roadmaps will be updated due to the Gnosis merge. Look for a new roadmap related to the Gnosis Beacon Chain and other exciting developments coming in 2022.
+{% endhint %}
+
 ## 2021 Base Roadmap
 
 We continue to add items and adjust priorities as the year unfolds. See the [2020 Roadmap](2020-roadmap-completed-items.md) for items completed in 2020, and the changelog for any adjustments and additions.
 
 _Last update: November 15, 2021 |_ [_Changelog_](./#change-log)__
 
-{% hint style="warning" %}
+{% hint style="success" %}
 The xDai project roadmap is a high-level strategic plan designed to guide xDai research and development. **Target dates and details are reviewed regularly by the team and subject to move, adjust and change as the project evolves**. Note that only completed items ( :white\_check\_mark: Status: Complete) are considered achieved project milestones.
 
 If you have a direction you would like the xDai team to explore on our roadmap, consider adding a [post to our forum](https://forum.poa.network/c/xdai-chain/xdai-proposals/43) to begin the discussion.

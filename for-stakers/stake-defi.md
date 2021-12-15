@@ -4,7 +4,12 @@ description: Stake is available in a variety of contexts for farming, lending an
 
 # STAKE DeFi
 
-The STAKE DeFi ecosystem is growing. Rewards are available for various activities related to liquidity provision and lending, and STAKE can be provided to various liquidity pools.&#x20;
+{% hint style="info" %}
+* Instructions may use the "xDai Chain" terminology. All processes are the same for the Gnosis Chain.
+* [The STAKE/GNO token swap is ongoing](stake-token/stake-gno-swap.md). STAKE will be phased out over the first half of 2022.&#x20;
+* Until the merge, STAKE can still be used in various protocols as well as for staking as a validator or delegator on the Gnosis Chain.
+* Rewards are available for various activities related to liquidity provision and lending, and STAKE can be provided to various liquidity pools.&#x20;
+{% endhint %}
 
 ## STAKE as Collateral
 
@@ -16,7 +21,7 @@ Use STAKE to receive loans in other currencies. Currently, STAKE is available fo
 
 ## STAKE Yield Farming
 
-### Farming on xDai
+### Farming on GC
 
 * [Sushiswap](https://app.sushi.com/farm). Receive rewards in SUSHI and STAKE when providing liquidity to incentivized pools within the protocol.
 

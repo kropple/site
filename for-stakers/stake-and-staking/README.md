@@ -4,6 +4,10 @@ description: POSDAO enables staking on the xDai chain
 
 # POSDAO Staking Roadmap
 
+{% hint style="warning" %}
+Roadmap has been altered due to the Gnosis merge. Look for a new roadmap related to the Gnosis Beacon Chain and other exciting developments coming in 2022.
+{% endhint %}
+
 The xDai Chain is transitioning to POSDAO, a Proof of Stake consensus protocol. POSDAO will introduce a staking token called STAKE. Individuals who own STAKE may become validators or may delegate their stake to validator candidates to secure the xDai chain. Validators and delegators (stakers) will receive rewards in exchange for providing STAKE.
 
 The transition to POSDAO will proceed in phases. Phase 1 of this transition was completed on **April 1, 2020**. Below are details related to the transition & what to expect in each phase.

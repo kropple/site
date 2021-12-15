@@ -4,6 +4,10 @@ description: Scenarios for xDai during the multi-year transition
 
 # The Road to Ethereum 2.0
 
+{% hint style="warning" %}
+Roadmaps will be updated due to the Gnosis merge. Look for a new roadmap related to the Gnosis Beacon Chain and other exciting developments coming in 2022.
+{% endhint %}
+
 Ethereum 2.0 is rolling out in several phases over the next several years. There are still many questions around exact plans, details and timing. In the meantime, the xDai team continues to support Ethereum 1.0 interoperability while monitoring the transition and exploring possible future scenarios over the coming years. &#x20;
 
 {% hint style="info" %}
@@ -13,7 +17,7 @@ We are following all Ethereum mainnet updates / forks (Berlin, London - EIP1559,
 
 During the 2.0 transition, we will see which outcome(s) support the best use-case for xDai stable chain projects and users. As a community member, feel free to voice your opinion about future directions for xDai and STAKE as well [in our forum](https://forum.poa.network/c/xdai-chain/xdai-proposals/43).  Below are several possible scenarios.&#x20;
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 _Please note that all of these approaches are possibilities for future directions. We do not have a_ :crystal\_ball: _and new opportunities may present themselves as the space evolves._
 {% endhint %}
 

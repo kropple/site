@@ -1,5 +1,9 @@
 # Decentralization Planning
 
+{% hint style="warning" %}
+Roadmaps will be updated due to the Gnosis merge. Look for a new roadmap related to the Gnosis Beacon Chain and other exciting developments coming in 2022.
+{% endhint %}
+
 As xDai adoption continues at a rapid clip, we are working behind the scenes to create more decentralized operations for users of the xDai chain. Public POSDAO will introduce greater chain decentralization through validation and delegation assignments based on the amount of STAKE locked in the protocol rather than permissioned validators. This transition is scheduled to take effect in Q1 2021.
 
 Bridge decentralization is also needed, and we are making progress on multiple fronts.

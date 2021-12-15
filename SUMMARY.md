@@ -292,7 +292,7 @@
   * [STAKE Token Distribution](for-stakers/stake-token/stake-token-distribution/README.md)
     * [Unlock Dates & Circulating Supply](for-stakers/stake-token/stake-token-distribution/unlock-dates-and-circulating-supply.md)
     * [Token release schedule](for-stakers/stake-token/stake-token-distribution/token-release-schedule.md)
-* [Staking on xDai](for-stakers/staking-protocol/README.md)
+* [Staking on GC](for-stakers/staking-protocol/README.md)
   * [Terminology](for-stakers/staking-protocol/terminology/README.md)
     * [Protocol Related Terms](for-stakers/staking-protocol/terminology/protocol-terms.md)
     * [Participant Related Terms](for-stakers/staking-protocol/terminology/participant-related-terms.md)
