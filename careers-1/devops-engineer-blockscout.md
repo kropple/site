@@ -38,4 +38,6 @@ Basic knowledge of stack technologies. Knowledge of EVM, Kubernetes, AWS, Ansibl
 * Flexible work hours
 * Compensation in crypto (USDT, ETH, BTC,etc ) or fiat (USD, etc)
 
-###
+### Apply
+
+Contact ulyana@blockscout.com

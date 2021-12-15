@@ -1,8 +1,8 @@
-# Elixir Developer \(BlockScout\)
+# Elixir Developer (BlockScout)
 
 ### About us
 
-**BlockScout** provides a comprehensive, easy-to-use interface for users to view, confirm, and inspect transactions on EVM \(Ethereum Virtual Machine\) blockchains. It is the block explorer of choice for many large blockchain projects including xDai, Ethereum Classic, Polygon, Celo, POA Network, and many others.
+**BlockScout** provides a comprehensive, easy-to-use interface for users to view, confirm, and inspect transactions on EVM (Ethereum Virtual Machine) blockchains. It is the block explorer of choice for many large blockchain projects including xDai, Ethereum Classic, Polygon, Celo, POA Network, and many others.
 
 **The BlockScout** **Elixir application** allows users to search transactions, view accounts and balances, and verify smart contracts on the Ethereum network including all forks and sidechains.
 
@@ -10,7 +10,7 @@ Join the **BlockScout** **product team** as a seasoned Elixir productivity engin
 
 This position is a unique opportunity to join a small and experienced team of veteran engineers in the blockchain space with an established product used by millions. If you value decentralization, making a difference, and participating in the cutting-edge world of crypto, we encourage you to apply.
 
-### What we offer 
+### What we offer&#x20;
 
 * Be an integral member of a strong engineering team
 * Opportunity to create the most innovative and exciting products in the crypto fintech market
@@ -25,7 +25,7 @@ This position is a unique opportunity to join a small and experienced team of ve
 
 Elixir 1.10.4+, Erlang, Phoenix Framework, Postgres 10+, Node JS 12+, Webpack, Sass, Docker, Github, Prometheus
 
-Blockscout documentation can be found here [https://docs.blockscout.com/](https://docs.blockscout.com/).
+Blockscout documentation can be found here [https://docs.blockscout.com/](https://docs.blockscout.com).
 
 ### Requirements
 
@@ -36,11 +36,9 @@ Basic knowledge of stack technologies. Knowledge of EVM, Kubernetes, AWS, Ansibl
 * Developing new functionality: native support for new types of tokens/contracts, developing new API endpoints, consolidating and creating new monitoring metrics, organizing new ways to deploy infrastructure, implementing and configuring infrastructure scaling, supporting data imports from nodes on new types of Ethereum clients
 * Support of existing functionality: improving performance of database queries, improving fault tolerance of the web application, improving database architecture, improving processing speed of data import from Ethereum nodes, improving user experience, fixing UI bugs, customizing browser for blockchain clients, implementing user requests for new functionality, improving and enhancing browser infrastructure deployment procedure, reducing downtime for deployment updates
 
-### Apply 
+### Apply&#x20;
 
-{% embed url="https://apply.workable.com/blockscout/j/FD37318ABC/" %}
-
-
+Contact ulyana@blockscout.com
 
 
 
