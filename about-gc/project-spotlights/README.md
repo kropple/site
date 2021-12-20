@@ -58,7 +58,7 @@ Gnosis chain is an EVM-compatible Ethereum Sister Chain. This means any Smart Co
 * [cBridge](https://cbridge.celer.network/#/transfer): USDC & USDT transfers between Ethereum, xDai, Polygon, Avalanche, OKEx, BSC, Arbitrum, Fantom, Optimism, Heco
 * [oPortal](https://oportal.boringdao.com/twoway): USDT bridge between Ethereum, xDai, Polygon, OKEX, BSC, Harmony, Avalanche, Fantom & Heco
 * [ARTIS Bridge:](https://docs.artis.eco/artis-1.0/tools/artis-to-xdai-chain-bridge) A TokenBridge implementation connecting the [ARTIS](https://artis.eco) and xDai chains.
-* [ELK Bridge](https://app.elk.finance/#/elknet): Transfer ELK between xDai, Avalanche, Polygon, Fantom, BSC & Huobi Eco.
+* [ELK Bridge](https://app.elk.finance/#/elknet): Transfer ELK between Gnosis, Avalanche, Binance, Elastos, Fantom, Fuse, Harmony, Hoo, HuobiEco, IoTeX, KCC, Moonriver, OKEx, Polygon, & Telos
 * [Poly.Network](https://poly.network): Multi cross-chain transfers. [Follow this guide to move any asset. ](https://medium.com/poly-network/poly-network-now-supports-transfer-of-assets-from-any-supported-chains-to-xdai-chain-63faf96b4787)
 * [Mt Pelerin Bridge Wallet](https://www.mtpelerin.com/blog/mps-now-live-on-xdai): Move MPS security tokens between Ethereum and xDai with a built-in swap button.
 * [XP.Network](https://xp.network): Multi-chain bridge with NFT focus
