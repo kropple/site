@@ -24,7 +24,7 @@ Requires 3/5 signatures.
 
 ### Current AMB Bridge Validators
 
-* xDai 
+* xDai&#x20;
 * Giveth
 * Protofire
 * SyncNode
@@ -32,13 +32,13 @@ Requires 3/5 signatures.
 
 ### Current xDai and AMB Bridges Governors
 
-Requires 9/16 signatures to pass a proposal. 
+Requires 7/16 signatures to pass a proposal.&#x20;
 
 * Gnosis
 * Metacartel
-* Request 
+* Request&#x20;
 * RaidGuild
-* Protofire 
+* Protofire&#x20;
 * TokenBridge
 * Lab10
 * Burner Wallet
@@ -56,6 +56,4 @@ Requires 9/16 signatures to pass a proposal.
 * Upgrade bridge contracts
 * Extend bridge validators set
 * Update bridge parameters such as the number of block confirmations, transactions limit, the bridge fees etc
-
-
 
