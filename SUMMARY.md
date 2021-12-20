@@ -269,13 +269,13 @@
 
 ## For Stakers
 
+* [STAKE / GNO Swap](for-stakers/stake-gno-swap.md)
 * [STAKE Token](for-stakers/stake-token/README.md)
   * [How to get STAKE Tokens](for-stakers/stake-token/get-stake/README.md)
     * [Claim STAKE: Private Investors & Advisors](for-stakers/stake-token/get-stake/claim-stake.md)
     * [Manual Instructions - Private Investors](for-stakers/stake-token/get-stake/manual-instruction-private-investors.md)
     * [Manual Instructions - Advisors](for-stakers/stake-token/get-stake/manual-instructions-advisors.md)
     * [Add STAKE to MetaMask](for-stakers/stake-token/get-stake/add-stake-to-metamask.md)
-  * [STAKE / GNO Swap](for-stakers/stake-token/stake-gno-swap.md)
   * [STAKE Token Contracts](for-stakers/stake-token/stake-token-contracts.md)
   * [STAKE Tools](for-stakers/stake-token/tools-supporting-stake/README.md)
     * [Exchanges](for-stakers/stake-token/tools-supporting-stake/exchanges/README.md)

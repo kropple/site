@@ -4,6 +4,10 @@ description: Exchanges, DEXS and other resources
 
 # How to get STAKE Tokens
 
+{% hint style="warning" %}
+STAKE is being phased out in favor of GNO.[ Please see the swap page for more details](../../stake-gno-swap.md). STAKE supply will continue to be limited on exchanges (centralized and decentralized) as the swap continues.
+{% endhint %}
+
 STAKE exists on both the Ethereum Mainnet and the xDai chain (with a different token address on each chain). See below for ways to acquire depending on the chain.
 
 {% tabs %}

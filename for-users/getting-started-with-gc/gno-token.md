@@ -10,7 +10,7 @@ GNO is the staking token used by validators of the [Gnosis Beacon Chain](https:/
 
 * GNO is available on various DeFi protocols and exchanges including Binance. [Complete list of GNO markets](https://www.coingecko.com/en/coins/gnosis)
 * GNO is available on Ethereum or the Gnosis Chain. To be used for staking, GNO must first be moved to the Gnosis Chain. [The Omnibridge allows users to move GNO (and many other ERC20s) between chains.](https://omni.xdaichain.com/bridge)
-* STAKE can be swapped for GNO on Ethereum or GC. Swapping will be available until the end of Q2 2022. [Details on the STAKE/GNO swap](../../for-stakers/stake-token/stake-gno-swap.md)
+* STAKE can be swapped for GNO on Ethereum or GC. Swapping will be available until the end of Q2 2022. [Details on the STAKE/GNO swap](../../for-stakers/stake-gno-swap.md)
 
 ### Staking with GNO
 

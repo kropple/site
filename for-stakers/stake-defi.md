@@ -6,7 +6,7 @@ description: Stake is available in a variety of contexts for farming, lending an
 
 {% hint style="info" %}
 * Instructions may use the "xDai Chain" terminology. All processes are the same for the Gnosis Chain.
-* [The STAKE/GNO token swap is ongoing](stake-token/stake-gno-swap.md). STAKE will be phased out over the first half of 2022.&#x20;
+* [The STAKE/GNO token swap is ongoing](stake-gno-swap.md). STAKE will be phased out over the first half of 2022.&#x20;
 * Until the merge, STAKE can still be used in various protocols as well as for staking as a validator or delegator on the Gnosis Chain.
 * Rewards are available for various activities related to liquidity provision and lending, and STAKE can be provided to various liquidity pools.&#x20;
 {% endhint %}

@@ -13,7 +13,12 @@ Circulating Supply = Total Supply minus balances in the following contracts:
 * Distribution Contract: [0x9BC4a93883C522D3C79c81c2999Aab52E2268d03](https://etherscan.io/address/0x9bc4a93883c522d3c79c81c2999aab52e2268d03)
 * Private Offering Contract: [0x3cFE51b61E25750ab1426b0072e5D0cc5C30aAfA](https://etherscan.io/address/0x3cFE51b61E25750ab1426b0072e5D0cc5C30aAfA)
 * Advisor’s Reward Contract: [0x0218B706898d234b85d2494DF21eB0677EaEa918](https://etherscan.io/address/0x0218b706898d234b85d2494df21eb0677eaea918)
-* Zero Balance Address (burned tokens): 0x0000000000000000000000000000000000000000
+* Zero Balance Addresses (burned tokens):
+  * 0x0000000000000000000000000000000000000000
+  * 0x0000000000000000000000000000000000000001
+  * 0x0000000000000000000000000000000000000002
+  * 0x000000000000000000000000000000000000dead
+  * 0x00000000219ab540356cBB839Cbe05303d7705Fa
 
 **Circulating Supply Calculator Code:** [https://github.com/xdaichain/stake-token/tree/master/supply-calculator](https://github.com/xdaichain/stake-token/tree/master/supply-calculator)
 

@@ -11,7 +11,7 @@ A stable coin means peace of mind. Predictable currencies allow buyers and selle
 ## STAKE Multi-Chain Staking & GovernanceToken
 
 {% hint style="warning" %}
-STAKE is still protecting the current implementation, however it is being phased out in favor of GNO protecting the Gnosis Beacon Chain. [Learn how to swap STAKE for GNO here](../for-stakers/stake-token/stake-gno-swap.md).
+STAKE is still protecting the current implementation, however it is being phased out in favor of GNO protecting the Gnosis Beacon Chain. [Learn how to swap STAKE for GNO here](../for-stakers/stake-gno-swap.md).
 {% endhint %}
 
 The STAKE token is used by validators and delegators to secure the Gnosis chain. Users may participate in chain consensus, either as validators running nodes, or delegators placing stake on those nodes. Participants place STAKE to secure the chain, and receive rewards in both STAKE and xDai (for validators) thanks to[ unique reward mechanics](../for-stakers/stake-token/stake-reward-mechanics/).

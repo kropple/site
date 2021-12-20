@@ -5,7 +5,7 @@ description: For Staking Utility and Governance
 # STAKE Token
 
 {% hint style="warning" %}
-* [The STAKE/GNO token swap is ongoing](stake-gno-swap.md). STAKE will be phased out over the first half of 2022.&#x20;
+* [The STAKE/GNO token swap is ongoing](../stake-gno-swap.md). STAKE will be phased out over the first half of 2022.&#x20;
 * Until the merge, STAKE can still be used in various protocols as well as for staking as a validator or delegator on the Gnosis Chain.
 {% endhint %}
 
@@ -38,9 +38,17 @@ Validator candidates must meet certain requirements before placing STAKE (the ab
 
 When STAKE is locked in the protocol, rewards for sealing blocks are generated in STAKE and xDai. In addition, fees for removing STAKE from the xDai chain are assessed and distributed among active stakers.
 
-## STAKE Total Supply
+## STAKE Supply
 
-The STAKE circulating supply is **8,537,500 tokens** (once all tokens are unlocked in the protocol). Emissions will increase this value by a maximum of 15% annually.
+The STAKE circulating supply is **decreasing due to the** [**STAKE/GNO swap**](../stake-gno-swap.md)**. Supply does not include tokens sent to the following addresses** (burn or swap addresses). Current circulating supply can be queried at  [https://supply.xdaichain.com/](https://supply.xdaichain.com). More details are also available at [https://www.coingecko.com/en/coins/stake#markets](https://www.coingecko.com/en/coins/stake#markets)
+
+```
+0x0000000000000000000000000000000000000000
+0x0000000000000000000000000000000000000001
+0x0000000000000000000000000000000000000002
+0x00000000219ab540356cbb839cbe05303d7705fa
+0x000000000000000000000000000000000000dead
+```
 
 ## STAKE Governance Utility
 

@@ -7,13 +7,13 @@ description: >-
 # Welcome to Gnosis Chain🦉
 
 {% hint style="success" %}
-STAKE/GNO Swap is now available! [Info here](for-stakers/stake-token/stake-gno-swap.md)
+STAKE/GNO Swap is now available! [Info here](for-stakers/stake-gno-swap.md)
 {% endhint %}
 
 {% hint style="success" %}
 &#x20;**News Update**
 
-Voting has concluded on the merger proposal between Gnosis and xDai. The **Merger is now in effect, with the Gnosis Chain renaming underway.** During the transition you may see the chain referred to as xDai Chain or Gnosis Chain. The underlying chain functionality **is not impacted** by this merger. STAKE staking will continue for \~6 months, however [STAKE can be swapped now for GNO](for-stakers/stake-token/stake-gno-swap.md).
+Voting has concluded on the merger proposal between Gnosis and xDai. The **Merger is now in effect, with the Gnosis Chain renaming underway.** During the transition you may see the chain referred to as xDai Chain or Gnosis Chain. The underlying chain functionality **is not impacted** by this merger. STAKE staking will continue for \~6 months, however [STAKE can be swapped now for GNO](for-stakers/stake-gno-swap.md).
 
 * :ballot\_box: [Snapshot Voting Page](https://snapshot.org/#/xdaistake.eth/proposal/0x646cd97b769b4f1b7d7223b46f5e6ded097ae2ee3e0f1433a7b597e021a4d6d4)
 * :book: [Original Proposal and Amendment](https://forum.gnosis.io/t/gip-16-gnosis-chain-xdai-gnosis-merge/1904)
