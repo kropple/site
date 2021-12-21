@@ -352,7 +352,7 @@
   * [ENS compatibility](for-developers/developer-resources/ens-compatibility.md)
   * [Gas Price Oracle](for-developers/developer-resources/gas-price-oracle.md)
   * [AoX: Arbitrum on xDai](for-developers/developer-resources/aox-arbitrum-on-xdai.md)
-* [Install xDai Client - Run a Non-Validator Node](for-developers/install-xdai-client/README.md)
+* [Install Gnosis ChainClient - Run a Non-Validator Node](for-developers/install-xdai-client/README.md)
   * [Multi-Client Support](for-developers/install-xdai-client/multi-client-support.md)
   * [Nethermind](for-developers/install-xdai-client/nethermind.md)
   * [OpenEthereum (formerly Parity)](for-developers/install-xdai-client/parity.md)
