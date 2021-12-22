@@ -1,21 +1,21 @@
 ---
-description: Dune Analytics integration provides visual insights into GC usage
+description: Dune Analytics integration provides visual insights into xDai usage
 ---
 
 # Analytics
 
-Gnosis Chain is tightly integrated with [Dune Analytics](../../for-developers/developer-resources/dune-analytics.md), and we have created several dashboards to provide metrics and insights about usage. Community members and project devs can also use these dashboards as a starting point to create and provide their own project-related metrics.
+xDai is tightly integrated with [Dune Analytics](../../for-developers/developer-resources/dune-analytics.md), and we have created several dashboards to provide metrics and insights about xDai usage. Community members and project devs can also use these dashboards as a starting point to create and provide their own project-related metrics.
 
 ## Dashboards
 
-### Chain Usage
+### xDai Chain Usage
 
 * Transactions, Active Accounts, Tx Fees, Tx by Project, Gas Usage.
 * &#x20;[https://duneanalytics.com/maxaleks/xDai-Usage](https://duneanalytics.com/maxaleks/xDai-Usage)
 
 ![Transactions Per Day/Per Month/ Daily Transactions by Project](../../.gitbook/assets/xDai-usage-1.png)
 
-### POSDAO Staking&#x20;
+### xDai Staking&#x20;
 
 * Staking on Ethereum (EasyStaking) and xDai. Total Staked, # of Participants, Rewards, Delegators.&#x20;
 * &#x20;[https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)

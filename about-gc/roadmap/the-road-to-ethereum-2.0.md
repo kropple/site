@@ -1,13 +1,11 @@
 ---
-description: Scenarios during the multi-year transition
+description: Scenarios for xDai during the multi-year transition
 ---
 
 # The Road to Ethereum 2.0
 
 {% hint style="warning" %}
 Roadmaps will be updated due to the Gnosis merge. Look for a new roadmap related to the Gnosis Beacon Chain and other exciting developments coming in 2022.
-
-While possible scenarios are indicated below, the new path involves the creation of a canary network meant to support Ethereum 2.0. [The Gnosis Beacon Chain](https://docs.gnosischain.com).
 {% endhint %}
 
 Ethereum 2.0 is rolling out in several phases over the next several years. There are still many questions around exact plans, details and timing. In the meantime, the xDai team continues to support Ethereum 1.0 interoperability while monitoring the transition and exploring possible future scenarios over the coming years. &#x20;

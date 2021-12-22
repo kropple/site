@@ -8,10 +8,6 @@ description: >-
 
 ### Omen Prediction Market
 
-{% hint style="success" %}
-[Omen Prediction Market](https://xdai.omen.eth.link) is live on xDai. Case Study Coming Soon.
-{% endhint %}
-
 ![](../../.gitbook/assets/omen1.png)
 
 ![Historical Market Types on Omen](../../.gitbook/assets/omen2.png)

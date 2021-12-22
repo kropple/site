@@ -6,12 +6,10 @@ description: >-
 
 # Energy Efficiency
 
-In this article we present an overall energy usage overview (provided by [Lab10Collective](https://lab10.coop)) of different blockchains as well as VISA. The data shows that the Gnosis Chain is extremely efficient while providing fast block times and a scaleable infrastructure.&#x20;
+In this article we present an overall energy usage overview (provided by [Lab10Collective](https://lab10.coop)) of different blockchains as well as VISA. The data shows that the xDai chain is extremely efficient while providing fast block times and a scaleable infrastructure.&#x20;
 
 {% hint style="info" %}
 This overview was done in 2020. In 2021 Energy Consumption for both Bitcoin and Ethereum has increased dramatically.
-
-In addition, the chain was called xDai Chain at the time. It is now the Gnosis Chain.
 {% endhint %}
 
 ![](../../../.gitbook/assets/energy-consumption.png)
@@ -26,7 +24,7 @@ Energy usage equivalents (number of average US households consume the same amoun
 | Ethereum 1.0                | **721,223** :homes: :homes: :homes: :homes: :homes: :homes: :homes: :homes: :house\_with\_garden: :house\_with\_garden: :house\_with\_garden: :house\_with\_garden:                      |
 | Visa                        | **42,702** :homes: :homes: :homes: :house\_with\_garden: :house\_with\_garden:                                                                                                           |
 | Ethereum 2.0 _\*speculated_ | **2,704** :house\_with\_garden:                                                                                                                                                          |
-| Gnosis (xDai) Chain         | **2.1** :men\_with\_bunny\_ears\_partying:                                                                                                                                               |
+| xDai Chain                  | **2.1** :men\_with\_bunny\_ears\_partying:                                                                                                                                               |
 | Artis                       | **0.8** :levitate:                                                                                                                                                                       |
 
 ## Bitcoin Footprints
@@ -41,9 +39,9 @@ Ethereum currently consumes much less energy, but it is still equivalent to the 
 
 Large centralized companies like VISA can process many transactions per second and require less energy: 42,702 US households. Keep in mind, however, this is just for transaction processing, not all of the power that VISA uses for things like offices, travel, banking infrastructure etc. Not to mention they are a giant centralized corporation that charges high transaction fees.
 
-## Gnosis (xDai) Chain Efficiency
+## xDai Chain Efficiency
 
-[lab10Collective](https://lab10.coop), a project dedicated to a sustainable energy economy and also a validator, recently ran comparison data for their [Artis Chain](https://artis.eco) and the xDai chain relative to other transaction processing chains/systems. They found that ARTIS and xDai are extremely efficient, consuming far less power than other chains as well as payment processing giant VISA.&#x20;
+[lab10Collective](https://lab10.coop), a project dedicated to a sustainable energy economy and also an xDai validator, recently ran comparison data for their [Artis Chain](https://artis.eco) and the xDai chain relative to other transaction processing chains/systems. They found that ARTIS and xDai are extremely efficient, consuming far less power than other chains as well as payment processing giant VISA.&#x20;
 
 Efficiency is based on the number of operating nodes, hardware requirements, and TPS (Transactions per second) capacity.
 
@@ -63,7 +61,7 @@ _Stats provided by Artis. Note that TPS capacity is the absolute max capacity wi
 | Bitcoin        | 3.5          |             109,500,000 |                            56,700,000,000        |                      517,808.2192      | <p>290351x worse<br>  <span data-gb-custom-inline data-tag="emoji" data-code="1f6d1">🛑</span> </p> |                                  5,452,447     |
 | Ethereum       | 34           |          1,072,653,061  |                              7,500,000,000       |                          6,992.0091    | <p>3921x worse <br><span data-gb-custom-inline data-tag="emoji" data-code="1f6d1">🛑</span> </p>    |                                     721,223    |
 | Ethereum 2.0\* | 2177         | 68,649,795,918          | 28,119,600                                       | 0.4096                                 | <p>4x better<br> <span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span> </p>        | 2,704                                          |
-| Gnosis (xDai)  | 119          |          3,754,285,714  |                                          21,900  |                                 0.0058 | 306x better :white\_check\_mark:                                                                    |                                           2.11 |
+| xDai           | 119          |          3,754,285,714  |                                          21,900  |                                 0.0058 | 306x better :white\_check\_mark:                                                                    |                                           2.11 |
 | ARTIS          | 95           |          3,003,428,571  |                                            8,760 |                                 0.0029 | <p>611x better</p><p><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span> </p>    |                                           0.84 |
 | HBBFT          | 476          |        15,017,142,857   |                                          52,560  |                                 0.0035 | <p>510x better </p><p><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span> </p>   |                                            5.1 |
 

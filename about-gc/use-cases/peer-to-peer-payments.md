@@ -1,12 +1,12 @@
 ---
-description: Fast and efficient stable payments are possible with xDai
+description: Fast and efficient stable payments are possible with GC
 ---
 
 # Peer-to-Peer Payments
 
-With xDai, sending money to a friend, relative or vendor is fast, cheap and easy. It’s also stable, as the value of xDai closely follows the US dollar. Peer-to-peer (P2P) payments on the blockchain can replace the current expensive, slow, bank-driven processes that dominate online payment systems today. It’s already happening - the case studies below highlight xDai P2P in action.
+Sending money to a friend, relative or vendor is fast, cheap and easy. It’s also stable, as the value of xDai closely follows the US dollar. Peer-to-peer (P2P) payments on the blockchain can replace the current expensive, slow, bank-driven processes that dominate online payment systems today. It’s already happening - the case studies below highlight xDai P2P in action.
 
-### xDai Case Studies using BurnerWallet
+### Case Studies using BurnerWallet
 
 BurnerWallet was the simple UI and xDAi was the currency used to purchase food, merch, and much more during these large-scale events. Click on either to learn more.&#x20;
 

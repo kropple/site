@@ -1,6 +1,6 @@
 # B2B & Enterprise Applications
 
-_The following assessment materials were compiled by an xDai community member. They provide a basic overview and links designed to help B2B / Enterprise Applications determine if xDai is a good fit for their product offerings. As with any project there are advantages and tradeoffs, and Alexander provides a general overview along with helpful links._
+_The following assessment materials were compiled by a community member. They provide a basic overview and links designed to help B2B / Enterprise Applications determine if Gnosis Chain (formerly xDai) is a good fit for their product offerings. As with any project there are advantages and tradeoffs, and Alexander provides a general overview along with helpful links. In the article, the chain is referred to as xDai Stable Chain, the original name._
 
 ## Evaluating xDai Stable Chain for B2B Use Cases
 
@@ -14,15 +14,15 @@ The xDai Stable Chain is very cheap in transaction fees and very fast, but lacks
 
 ### Intention
 
-Many respected projects recently migrated from Ethereum to the xDai chain or initially started on xDai. Perpetual Protocol, POAP, Circles UBI, Honeyswap and [many other projects](https://www.xdaichain.com/about-xdai/news-and-information/project-updates/2020-year-in-review) are currently running on xDai. Their main motivations were ease of use, minimal and stable transaction fees and fast transaction times. Some of the projects started on Ethereum, but had their business models upended by the extremely high and unpredictable gas fees. Ethereum tooling \(like Wallets, IDEs, Static Security Analysis, Analytics tools\) is supported due to EVM-compatibility.
+Many respected projects recently migrated from Ethereum to the xDai chain or initially started on xDai. Perpetual Protocol, POAP, Circles UBI, Honeyswap and [many other projects](https://www.xdaichain.com/about-xdai/news-and-information/project-updates/2020-year-in-review) are currently running on xDai. Their main motivations were ease of use, minimal and stable transaction fees and fast transaction times. Some of the projects started on Ethereum, but had their business models upended by the extremely high and unpredictable gas fees. Ethereum tooling (like Wallets, IDEs, Static Security Analysis, Analytics tools) is supported due to EVM-compatibility.
 
 ### Primary Differences to Ethereum
 
-There are several links with detailed and fair comparisons of Ethereum to xDai \([here](https://defiprime.com/xdai-chain), [here](https://jaredstauffer.medium.com/what-is-xdai-how-do-i-use-xdai-a-simple-explanation-7440cbaf1df6)\).
+There are several links with detailed and fair comparisons of Ethereum to xDai ([here](https://defiprime.com/xdai-chain), [here](https://jaredstauffer.medium.com/what-is-xdai-how-do-i-use-xdai-a-simple-explanation-7440cbaf1df6)).
 
 TL;DR the main differences are
 
-* xDai uses a stable coin as a native currency \(DAI bridged 1:1 from Ethereum\)
+* xDai uses a stable coin as a native currency (DAI bridged 1:1 from Ethereum)
 * xDai is very cheap in transaction fees.
 * xDai is fast: 5 seconds in average block times.
 * xDai is less decentralized than the Ethereum Mainnet 1.0. xDai is delegated Proof of Stake vs Ethereum 1.0 Proof of Work consensus.
@@ -32,15 +32,15 @@ TL;DR the main differences are
 
 ### Statistics & Chain Properties
 
-[Blockscout](https://blockscout.com/) is the well known block explorer for POA and related chains like xDai. It is similar to etherscan.io for Ethereum and computes different statistics for xDai and the Sokol Testnet: [https://blockscout.com/xdai/mainnet/](https://blockscout.com/xdai/mainnet/)
+[Blockscout](https://blockscout.com) is the well known block explorer for POA and related chains like xDai. It is similar to etherscan.io for Ethereum and computes different statistics for xDai and the Sokol Testnet: [https://blockscout.com/xdai/mainnet/](https://blockscout.com/xdai/mainnet/)
 
-| Attribute | Ethereum Mainnet | xDai Stable Chain |
-| :--- | :--- | :--- |
-| Runtime | EVM | EVM \(100% Ethereum compliant\) |
-| Blocktime | ~15 sec. | ~5 sec. |
-| Average Gas Costs | &gt;200 gwei \(&gt;&gt; $1\)\* | 1 gwei \(~ $0.000021\) |
-| Consensus | PoW \(PoS in Eth2.0\) | POSDAO \(delegated Proof of Stake\) |
-| Security Level | PoW with adapting Hashrate, &gt;100bn market cap\* | dPoS with $10M staked\* |
+| Attribute         | Ethereum Mainnet                                | xDai Stable Chain                 |
+| ----------------- | ----------------------------------------------- | --------------------------------- |
+| Runtime           | EVM                                             | EVM (100% Ethereum compliant)     |
+| Blocktime         | \~15 sec.                                       | \~5 sec.                          |
+| Average Gas Costs | >200 gwei (>> $1)\*                             | 1 gwei (\~ $0.000021)             |
+| Consensus         | PoW (PoS in Eth2.0)                             | POSDAO (delegated Proof of Stake) |
+| Security Level    | PoW with adapting Hashrate, >100bn market cap\* | dPoS with $10M staked\*           |
 
 _\*Variable based on market conditions_
 
@@ -48,7 +48,7 @@ _\*Variable based on market conditions_
 
 This post should help you to do your own risk assessment, as a rule of thumb, these may be guiding principles:
 
-* Running your Smart Contracts on xDai makes them very inexpensive and intuitive to use for you customers \(all prices are stable in USD\).
+* Running your Smart Contracts on xDai makes them very inexpensive and intuitive to use for you customers (all prices are stable in USD).
 * Security differs from the Ethereum Mainnet.
 * In a financial environment, market-cap differences and incentive structures should be considered when determining the best fit and risk profile.
 * xDai provides a ready-made bootstraping environment for prototyping, PoCs, MVPs and more.
@@ -58,20 +58,20 @@ This post should help you to do your own risk assessment, as a rule of thumb, th
 
 This brief example should show how easy Smart Contracts can be implemented with a native stable currency.
 
-The contract is instantiated with a recipient address, a hash lock and a value, which is xDai \(wei\), so 100 \* 10^18 is equivalent to $100.
+The contract is instantiated with a recipient address, a hash lock and a value, which is xDai (wei), so 100 \* 10^18 is equivalent to $100.
 
 The recipient can now call `conditionalSend` with the correct challenge and will be transferred the stored amount of xDai.
 
 On Ethereum, this could only have been done
 
-* with ETH as currency \(volatile and unpredictable\)
+* with ETH as currency (volatile and unpredictable)
 * with DAI as an ERC-20 Token
 
-However, with a ERC-20 Token transfer, the logic of the Smart Contract would have been way more complex and expensive. Complexity adds potential bugs, so arguably it would even be more insecure. For sure, it would be more expensive in Gas fees \(as the call on xDai costs &lt;$0.001\).
+However, with a ERC-20 Token transfer, the logic of the Smart Contract would have been way more complex and expensive. Complexity adds potential bugs, so arguably it would even be more insecure. For sure, it would be more expensive in Gas fees (as the call on xDai costs <$0.001).
 
 This sample should show how easy and straightforward Smart Contract development on xDai can be due to the native stable currency.
 
-```text
+```
 contract ConditionalPayment {
 
     address payable public recipient;
@@ -105,4 +105,3 @@ contract ConditionalPayment {
 * [Block Explorer](https://blockscout.com/xdai/mainnet/)
 * [Wallets](../../for-users/wallets/)
 * [FAQs](../faqs/)
-

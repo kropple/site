@@ -4,9 +4,7 @@ description: On-chain voting and management for Decentralized Autonomous Organiz
 
 # DAO Governance
 
-The xDai chain, with POSDAO consensus, is a type of DAO. The validators are a distributed group of autonomous individuals who provide STAKE and receive benefits based on participation.
-
-Projects are also using the xDai Chain to run DAO governance mechanisms like proposal and voting systems, community fund collection and more.
+Projects are using the Gnosis Chain to run DAO governance mechanisms like proposal and voting systems, community fund collection and more.
 
 ### DAO Use Case: [Galt Project](https://galtproject.io) Property Ownership DAO
 

@@ -1,5 +1,5 @@
 ---
-description: Projects and applications migrating and/or deploying to xDai
+description: Projects and applications migrating and/or deploying to Gnosis Chain
 ---
 
 # Projects & DApps

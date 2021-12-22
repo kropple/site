@@ -8,13 +8,13 @@ NFT game avatars, user parameters, and in-game items can move seamlessly between
 
 High gas prices on Ethereum can make it cost prohibitive to mint and trade NFTs on the mainnet. According to developer Austin Griffith "Based on the current gas prices (08/28/2020), it costs between $15.00 and $50.00 to mint a single piece of NFT artwork on Ethereum and $3.00 or more to send it to another account." &#x20;
 
-xDai Stable Chain solves this issue with minting, trading and storing NFTs. Once value is established and/or access on Ethereum is required, unique assets, along with all associated metadata, can be transferred to Ethereum with the TokenBridge. This system provides a fast and inexpensive way to create and manage NFTs across the blockchain ecosystem.
+Gnosis Chain solves this issue with minting, trading and storing NFTs. Once value is established and/or access on Ethereum is required, unique assets, along with all associated metadata, can be transferred to Ethereum with the TokenBridge. This system provides a fast and inexpensive way to create and manage NFTs across the blockchain ecosystem.
 
 ## Use Case: Nifty.Ink
 
-Nifty.Ink by [Austin Griffith](https://twitter.com/austingriffith) and [Adam Fuller ](https://twitter.com/azacharyf)highlights the NFT mint and transfer use-case. Anyone can create an NFT (even without a digital wallet) on xDai. The artist can set the number to mint and the sale price, and an NFT is created with no fees for the user (gas is paid through meta transactions).
+Nifty.Ink by [Austin Griffith](https://twitter.com/austingriffith) and [Adam Fuller ](https://twitter.com/azacharyf)highlights the NFT mint and transfer use-case. Anyone can create an NFT (even without a digital wallet) on GC. The artist can set the number to mint and the sale price, and an NFT is created with no fees for the user (gas is paid through meta transactions).
 
-If an artist wants to transfer their artwork to Ethereum, a user can send to another user on xDai, set a price for the artwork for sale, or  "Upgrade" and pay the gas fees in xDai to have the artwork listed on [OpenSea](https://opensea.io/assets/nifty-ink)
+If an artist wants to transfer their artwork to Ethereum, a user can send to another user on GC, set a price for the artwork for sale, or  "Upgrade" and pay the gas fees  to have the artwork listed on [OpenSea](https://opensea.io/assets/nifty-ink)
 
 {% embed url="https://twitter.com/austingriffith/status/1302705330254614528" %}
 
