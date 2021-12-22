@@ -1,7 +1,7 @@
 # 2021 Base Roadmap
 
 {% hint style="warning" %}
-Roadmaps will be updated due to the Gnosis merge. Look for a new roadmap related to the Gnosis Beacon Chain and other exciting developments coming in 2022.
+Roadmaps will be updated due to the Gnosis merge. Look for a new roadmap in January 2022 related to the Gnosis Beacon Chain and other exciting developments coming in 2022.
 {% endhint %}
 
 ## 2021 Base Roadmap

@@ -1,5 +1,11 @@
 # STAKE Staking Token FAQ
 
+{% hint style="warning" %}
+STAKE/GNO swap is live: [https://stake-to-gno.xdaichain.com/](https://stake-to-gno.xdaichain.com)
+
+STAKE emissions and rewards will be deprecated during the first half of 2022. Swapping will be live until that time. Once the Gnosis Chain merges with the Gnosis Beacon Chain, the swap will be deactivated.
+{% endhint %}
+
 ## If I only need xDai coins for transactions, what is STAKE used for?
 
 STAKE is a volatile token used as a staking token to protect the xDai chain. It enables delegated staking and community participation in xDai consensus. It is also used for [STAKE weighted proposal initiation and voting](../../for-users/governance/stake-weighted-voting/).
@@ -63,9 +69,9 @@ There are many DeFi applications on xDai. Here you can trade with STAKE, lend or
 * [Minerva Streaming Farm](https://farm.minerva.digital) | MIVA
 * [Agave](https://agave.finance) Lending | CPT
 
-## Is public staking available on xDai?
+## Is public staking available on Gnosis Chain?
 
-Yes, public staking is [now active on xDai](../news-and-information/project-updates/public-posdao-announcement.md).
+Yes, public staking is [now active on xDai](../news-and-information/project-updates/public-posdao-announcement.md). It will continue until Q2 of 2022 when the Gnosis Chain merges with Gnosis Beacon Chain. Whn that happens, STAKE staking will no longer be available - GNO staking will be available to validators of the GBC.&#x20;
 
 ## How much STAKE will I need for public staking?
 
@@ -78,9 +84,7 @@ The current projected minimum amounts needed to validate or delegate on the xDai
 
 You can find information on the STAKE Marketcap and supply here: [https://www.coingecko.com/en/coins/xdai-stake](https://www.coingecko.com/en/coins/xdai-stake)
 
-## How do I transfer STAKE from the Ethereum Mainnet to the xDai chain?
-
-When public POSDAO staking on xDai begins, you will need to move your STAKE to xDai in order to use it there.
+## How do I transfer STAKE from the Ethereum Mainnet to the Gnosis chain?
 
 Video: [Moving STAKE between Ethereum and xDai with the OmniBridge](https://youtu.be/qbuBqur9lcE)
 
