@@ -80,6 +80,8 @@ From this final screen you can:
 
 ![](<../../.gitbook/assets/last-page (1).png>)
 
+{% hint style="warning" %} **If you are using a hardware wallet, make sure the firmware is up to date.** {% endhint %}
+
 ### Resources
 
 GNO to STAKE Swap Contract on Gnosis Chain (formerly xDai): \
@@ -100,4 +102,5 @@ STAKE Address on xDai: [https://blockscout.com/xdai/mainnet/token/0xb7D311E2Eb55
 \
 STAKE Address on Ethereum Mainnet: \
 [https://etherscan.io/token/0x0Ae055097C6d159879521C384F1D2123D1f195e6](https://etherscan.io/token/0x0Ae055097C6d159879521C384F1D2123D1f195e6)
+
 
