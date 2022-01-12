@@ -18,6 +18,14 @@ _For a user friendly version, see_ [_https://forum.1hive.org/t/run-your-own-loca
 
 ### Binary Instructions
 
+**Minimum Recommended Specs**
+
+* OS: Ubuntu
+* CPU: 2 cores
+* RAM: 4GB
+* Disk: 100gb SSD
+* Git installed `git --version`
+
 {% hint style="info" %}
 These instructions are copied from the [OpenEthereum wiki.](https://openethereum.github.io/Setup)
 {% endhint %}
