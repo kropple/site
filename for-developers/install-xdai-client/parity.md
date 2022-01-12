@@ -39,7 +39,7 @@ These instructions are copied from the [OpenEthereum wiki.](https://openethereum
 The `--no-warp` flag is recommended if you want all historical data, but will take much longer to sync. For a faster sync, you do not need to use it. [More information on --no-warp](https://openethereum.github.io/Beginner-Introduction.html)
 {% endhint %}
 
-* Mac
+* **Mac**
   * Download the mac binary.
   * Open a terminal and navigate to the directory using `cd /path/to/binary/folder/`.
   * Make the binary executable by running `chmod +x openethereum`.
