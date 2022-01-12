@@ -6,7 +6,8 @@ description: For Staking Utility and Governance
 
 {% hint style="warning" %}
 * [The STAKE/GNO token swap is ongoing](../stake-gno-swap.md). STAKE will be phased out over the first half of 2022.&#x20;
-* Until the merge, STAKE can still be used in various protocols as well as for staking as a validator or delegator on the Gnosis Chain.
+* Up until the merge, STAKE can still be used in various protocols as well as for staking as a validator or delegator on the Gnosis Chain.
+* Following the merge, STAKE will no longer be used for staking. GNO will replace STAKE as the POS token for the Gnosis Beacon Chain.
 {% endhint %}
 
 {% hint style="success" %}
