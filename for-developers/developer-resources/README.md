@@ -69,6 +69,7 @@ If using `eth_getLogs`to pull logs frequently WebSockets are recommended to push
 ### **Gas Price Oracle**
 
 * Gas Price Oracle: [https://blockscout.com/xdai/mainnet/api/v1/gas-price-oracle](https://blockscout.com/xdai/mainnet/api/v1/gas-price-oracle)
+* [More info & params](gas-price-oracle.md)
 
 ## POSDAO Contracts
 
