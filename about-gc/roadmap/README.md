@@ -1,5 +1,5 @@
 ---
-description: Current & Future Directions for the xDai Stable Chain
+description: Current & Future Directions for the Gnosis Chain
 ---
 
 # Roadmaps

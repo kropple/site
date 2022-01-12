@@ -270,6 +270,7 @@
 ## For Stakers
 
 * [STAKE / GNO Swap](for-stakers/stake-gno-swap.md)
+* [Staking with GNO](for-stakers/staking-with-gno.md)
 * [STAKE Token](for-stakers/stake-token/README.md)
   * [How to get STAKE Tokens](for-stakers/stake-token/get-stake/README.md)
     * [Claim STAKE: Private Investors & Advisors](for-stakers/stake-token/get-stake/claim-stake.md)

@@ -4,15 +4,20 @@ description: Branding and Logos
 
 # Media Kit
 
-## \#48A9A6 <a id="48a-9-a6"></a>
+Various assets in both svg and png formats are contained in zip files.
 
-![Regular logo](../../.gitbook/assets/xdai_alternative.png)
+## Gnosis Chain Assets
 
-![Logo with +100px borders](../../.gitbook/assets/100xdai_alternative.png)
+![](../../.gitbook/assets/Horizontal\_green.png)
 
-{% file src="../../.gitbook/assets/tokens.zip" caption="Zip file with light/dark token assets" %}
+{% file src="../../.gitbook/assets/Gnosis Chain Brand Assets.zip" %}
+Gnosis Chain Brand Assets
+{% endfile %}
 
-{% file src="../../.gitbook/assets/xdai\_alternative.ai" caption="Logo in AI format" %}
+## xDai Stable Coin
 
-{% file src="../../.gitbook/assets/xdai\_alternative \(1\).svg" caption="Logo in SVG format" %}
+![](../../.gitbook/assets/Identity-Primary-LightBG.png)
 
+{% file src="../../.gitbook/assets/xDai Stablecoin Brand Assets.zip" %}
+xDai Stable Coin Brand Assets
+{% endfile %}

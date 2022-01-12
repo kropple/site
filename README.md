@@ -1,7 +1,7 @@
 ---
 description: >-
   Formerly the xDai Chain, Gnosis Chain provides stability, scalability and an
-  upcoming Beacon Chain Canary Network for Ethereum.
+  extendable beacon chain framework.
 ---
 
 # Welcome to Gnosis Chain🦉
@@ -47,7 +47,7 @@ Brand new? [Get started here](for-users/getting-started-with-gc/).
 
 ## Project Highlights
 
-The Gnosis/xDai ecosystem continues to flourish with many new project migrations, integrations, applications, and a mature toolset for developers. Explore the depth of the ecosystem in the [Project & DApps](about-gc/project-spotlights/) section.
+The Gnosis/xDai ecosystem continues to flourish with many new project migrations, integrations, applications, and a mature toolset for developers. Explore the depth of the ecosystem in the [Project & DApps](about-gc/project-spotlights/) section, or visit [https://gnosischain.world/](https://gnosischain.world) to see and interact with active projects.
 
 ![](.gitbook/assets/xDai-projects.png)
 
