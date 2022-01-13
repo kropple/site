@@ -55,7 +55,7 @@ Gnosis chain is an EVM-compatible Ethereum Sister Chain. This means any Smart Co
 * [OmniBridge](https://omni.xdaichain.com/bridge): ERC20 transfers between xDai, Ethereum, BSC, POA & testnets
 * [Hop Exchange:](https://hop.exchange) Bridge between Ethereum, xDai, Polygon, Optimism & Arbitrum
 * [xPollinate](https://www.xpollinate.io): Stable coin bridge between xDai, BSC, Polygon, Fantom, Arbitrum & Avalanche
-* [oPortal](https://oportal.boringdao.com/twoway): USDT bridge between Ethereum, xDai, Polygon, OKEX, BSC, Harmony, Avalanche, Fantom & Heco
+* [oPortal by BoringDAO](./#3rd-party-projects-dapps-deployed-on-gc-include): USDT bridge between Ethereum, xDai, Polygon, OKEX, BSC, Harmony, Avalanche, Fantom & Heco
 * [ARTIS Bridge:](https://docs.artis.eco/artis-1.0/tools/artis-to-xdai-chain-bridge) A TokenBridge implementation connecting the [ARTIS](https://artis.eco) and xDai chains.
 * [ELK Bridge](https://app.elk.finance/#/elknet): Transfer ELK between Gnosis, Avalanche, Binance, Elastos, Fantom, Fuse, Harmony, Hoo, HuobiEco, IoTeX, KCC, Moonriver, OKEx, Polygon, & Telos
 * [Poly.Network](https://poly.network): Multi cross-chain transfers. [Follow this guide to move any asset. ](https://medium.com/poly-network/poly-network-now-supports-transfer-of-assets-from-any-supported-chains-to-xdai-chain-63faf96b4787)
