@@ -82,17 +82,24 @@ Gnosis chain is an EVM-compatible Ethereum Sister Chain. This means any Smart Co
 
 #### Farms | Reward Token
 
-* [HoneyComb](https://1hive.io/#/farm)  | XCOMB
-* [Sushiswap](https://app.sushi.com/farm)  | SUSHI/STAKE
+**Include GNO rewards**
+
+* [Sushiswap](https://app.sushi.com/farm)  | SUSHI/GNO
+* [Curve](https://xdai.curve.fi) | CRV/GNO
+* [Elk Finance](https://app.elk.finance) | ELK/GNO
+* [Symmetric](https://xdai-pools.symmetric.exchange/#/explore)  | SYMM/GNO
+* [Swapr](https://swapr.eth.link/#/pools) | DXD/GNO
+* [DeHive](https://app.dehive.finance) | DHV/GNO
+* [Agave](https://agave.finance) | AGVE/GNO
+
+**Additional farming opportunities on the Gnosis Chain**
+
 * [Component Finance](https://xdai.component.finance/?tab=farmList\&token0=1\&token1=3)  |  CMP
-* [Swapr](https://swapr.eth.link/#/pools) | DXD
+* [HoneyComb](https://1hive.io/#/farm)  | XCOMB
 * [Levinswap](https://farm.levinswap.org) | LEVIN
 * [Baoswap](https://farms.baoswap.xyz) | BAO
 * [Xion](https://xion.finance/farm) | XGT
-* [Elk Finance](https://app.elk.finance) | ELK
-* [Symmetric](https://xdai-pools.symmetric.exchange/#/explore)  | SYMM
 * [Minerva Streaming Farm](https://farm.minerva.digital) | MIVA
-* [Agave](https://agave.finance) | CPT
 
 #### Lending
 
