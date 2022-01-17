@@ -21,7 +21,7 @@ Additional instructions from the [MetaMask site here](https://metamask.zendesk.c
 
 There is not an "xDai" dedicated application, you will use the [Ethereum application](https://support.ledger.com/hc/en-us/articles/115005200009-Set-up-and-use-MyEtherWallet) to interact with xDai through MetaMask.  Be sure your ledger firmware is updated and you have setup [Ledger Live](https://www.ledger.com/ledger-live/).
 
-If interacting with a contract (for example claiming tokens with a bridge transfer), you will need to enable blind signing
+If interacting with a contract (for example claiming tokens with a bridge transfer or conducting a token swap), you will need to enable blind signing. If you recently updated your hardware, you will need to re-enable.
 
 1. Connect and unlock your Ledger device.
 2. Open the **Ethereum (ETH)** application.
