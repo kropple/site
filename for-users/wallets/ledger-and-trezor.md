@@ -21,15 +21,17 @@ Additional instructions from the [MetaMask site here](https://metamask.zendesk.c
 
 There is not an "xDai" dedicated application, you will use the [Ethereum application](https://support.ledger.com/hc/en-us/articles/115005200009-Set-up-and-use-MyEtherWallet) to interact with xDai through MetaMask.  Be sure your ledger firmware is updated and you have setup [Ledger Live](https://www.ledger.com/ledger-live/).
 
-If interacting with a contract (for example claiming tokens with a bridge transfer), you will need to allow contract data.
+If interacting with a contract (for example claiming tokens with a bridge transfer), you will need to enable blind signing
 
 1. Connect and unlock your Ledger device.
-2. Open the **Ethereum** application.
-3. Press the right button to navigate to **Settings**. Press both buttons to validate.
-4. In the **Contract data** settings, press both buttons to allow contract data in transactions.  The device displays **Allowed**.
+2. Open the **Ethereum (ETH)** application.
+3. Press the right button to navigate to **Settings**. Then press both buttons to validate.\
+   Your Ledger device displays **Blind Signing**.
+4. Press both buttons to enable transaction blind signing. \
+   The device displays **Enabled**. You're done.
 5. Retry your transaction.
 
-For more help with Ledger, please see their [support docs](https://support.ledger.com/hc/en-us).
+For more help with Ledger, please see their [support docs.](https://support.ledger.com/hc/en-us/articles/4405481324433-Enable-blind-signing-in-the-Ethereum-ETH-app?docs=true)
 
 ## Trezor
 
