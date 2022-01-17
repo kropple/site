@@ -10,6 +10,8 @@ Various assets in both svg and png formats are contained in zip files.
 
 ![](../../.gitbook/assets/Horizontal\_green.png)
 
+![](../../.gitbook/assets/Aatar\_green\_white.png)
+
 {% file src="../../.gitbook/assets/Gnosis Chain Brand Assets.zip" %}
 Gnosis Chain Brand Assets
 {% endfile %}
