@@ -36,15 +36,15 @@ Chainlink offers a tutorial on using secure data feeds with xDai. [See it in act
 
 See the [Chainlink documentation](https://docs.chain.link/docs/getting-started) for more advanced tutorials and information. The following shows how to use MetaMask/Remix with xDai to deploy a simple price feed contract, then call the function using Blockscout.
 
-### 1) Switch to xDai RPC in MetaMask
+### 1) Switch to Gnosis Chain RPC in MetaMask
 
 Go to MetaMask, select Custom RPC from the network dropdown, and enter the following details. If you need more info, see [MetaMask Setup](../../for-users/wallets/metamask/metamask-setup.md).
 
-* Network Name: xDai&#x20;
-* New RPC URL: [https://rpc.xdaichain.com/](https://rpc.xdaichain.com)&#x20;
+* Network Name: Gnosis Chain
+* New RPC URL: [https://rpc.gnosischain.com](https://rpc.gnosischain.com)
 * Chain ID: 0x64&#x20;
 * Symbol: xDai&#x20;
-* Block Explorer URL: [https://blockscout.com/poa/xdai](https://blockscout.com/poa/xdai)
+* Block Explorer URL: [https://blockscout.com/xdai/mainnet/](https://blockscout.com/xdai/mainnet/)
 
 ### 2) Get xDai with Faucet
 

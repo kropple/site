@@ -28,10 +28,10 @@ For assistance or questions please visit the [GC discord channel](https://discor
 
 Main RPC is a load balancer with 4 nodes, health checks, and failover.
 
-| Resource                | URL                                                                                                                                                                 |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| JSON RPC endpoint       | <p><a href="https://rpc.xdaichain.com">https://rpc.xdaichain.com/</a></p><p>(alternative) <a href="https://xdai.poanetwork.dev">https://xdai.poanetwork.dev</a></p> |
-| WebSockets WSS endpoint | <p>wss://rpc.xdaichain.com/wss</p><p>(alternative) wss://xdai.poanetwork.dev/wss</p>                                                                                |
+| Resource                | URL                                                                                                                                                                    |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| JSON RPC endpoint       | <p><a href="https://rpc.gnosischain.com">https://rpc.gnosischain.com</a></p><p>(alternative) <a href="https://xdai.poanetwork.dev">https://xdai.poanetwork.dev</a></p> |
+| WebSockets WSS endpoint | <p>wss://rpc.gnosischain.com/wss</p><p>(alternative) wss://xdai.poanetwork.dev/wss</p>                                                                                 |
 
 ### **Additional resources to connect to Gnosis Chain**
 

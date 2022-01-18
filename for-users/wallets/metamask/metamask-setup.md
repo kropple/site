@@ -35,10 +35,12 @@ Quick Methods
 2\) In the "Custom RPC" Settings, add in the Gnosis network details and click **Save**:
 
 * Network Name: **Gnosis Chain**
-* New RPC URL: [**https://rpc.xdaichain.com/**](https://rpc.xdaichain.com)
+* New RPC URL: [**https://rpc.gnosischain.com**](https://rpc.gnosischain.com)****
 * Chain ID: **0x64**
 * Symbol: **xDai**
 * Block Explorer URL: [**https://blockscout.com/xdai/mainnet**](https://blockscout.com/xdai/mainnet/)
+
+
 
 {% hint style="info" %}
 Note: Chain ID 0x64 is the hexadecimal equivalent of 100, which is the xDai chain ID. MetaMask recently updated the ChainID to be a required field. When you update, you may need to reenter the Chain ID: 100, and it will be converted to a hexadecimal: 0x64**.**

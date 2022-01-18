@@ -13,7 +13,7 @@ To get started on GC, you will need to setup your externally owned address (wall
 * See the [wallets section](../wallets/) for additional wallets that support GC(xDai) out of the box and don't require configuration.
 
 {% hint style="info" %}
-**Default chain settings:** Network Name: Gnosis Chain,  New RPC URL: [https://rpc.xdaichain.com/](https://rpc.xdaichain.com), Chain ID: 0x64, Symbol: xDai, Block Explorer URL: [https://blockscout.com/xdai/mainnet](https://blockscout.com/xdai/mainnet/)
+**Default chain settings:** Network Name: Gnosis Chain,  New RPC URL: [https://rpc.gnosischain.com](https://rpc.gnosischain.com), Chain ID: 0x64, Symbol: xDai, Block Explorer URL: [https://blockscout.com/xdai/mainnet](https://blockscout.com/xdai/mainnet/)
 {% endhint %}
 
 ## 2) Get Some xDai - the stable transaction token for the chain
