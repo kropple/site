@@ -149,6 +149,7 @@
       * [⚔️ xDai Weekly Recap - 08/05/2020](about-gc/news-and-information/project-updates/2020-weekly-updates-archive/xdai-weekly-recap-05-08.md)
       * [⚔️ xDai Weekly Recap - 18/12/2020](about-gc/news-and-information/project-updates/2020-weekly-updates-archive/xdai-weekly-recap-18-12-2020.md)
   * [Energy Efficiency](about-gc/news-and-information/xdai-energy-efficiency/README.md)
+    * [🌳 Carbon Offsets](about-gc/news-and-information/xdai-energy-efficiency/carbon-offsets.md)
     * [🌱 Green NFTs](about-gc/news-and-information/xdai-energy-efficiency/green-nfts-on-xdai.md)
     * [☕ GC vs Chia: Energy Efficiency includes SSD usage](about-gc/news-and-information/xdai-energy-efficiency/chia.md)
   * [Comparisons](about-gc/news-and-information/comparisons/README.md)
