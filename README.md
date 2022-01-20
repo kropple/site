@@ -15,7 +15,7 @@ description: >-
 {% hint style="success" %}
 &#x20;**Token Merger**
 
-The **token merger is now in effect, with the Gnosis Chain renaming underway.** During the transition you may see the chain referred to as xDai Chain or Gnosis Chain. The underlying chain functionality **is not impacted** by this merger. STAKE staking will continue for \~6 months, however
+The **token merger is now in effect, with the Gnosis Chain renaming underway.** During the transition you may see the chain referred to as xDai Chain or Gnosis Chain. The underlying chain functionality **is not impacted** by this merger. STAKE staking will continue until May 31, 2022.
 
 * [♻ STAKE can be swapped now for GNO](for-stakers/stake-gno-swap.md).
 * :book: [Original Proposal and Amendment](https://forum.gnosis.io/t/gip-16-gnosis-chain-xdai-gnosis-merge/1904)

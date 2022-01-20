@@ -67,7 +67,6 @@ Gnosis chain is an EVM-compatible Ethereum Sister Chain. This means any Smart Co
 
 #### Exchanges & Swaps
 
-* [1inch Exchange](https://app.1inch.io): Swap aggregator, find the best routes and prices
 * [Honeyswap](https://honeyswap.org): xDai Dex (Uniswap fork)
 * [Perpetual Protocol](https://perp.fi):   Democratizing Futures and other derivatives.[ Why they chose xDai](https://medium.com/@perpetualprotocol/why-we-chose-xdai-chain-to-scale-perpetual-protocol-5b6cfd6cf5aa).
 * [SushiSwap](https://exchange.sushi.com/#/swap): Cross-chain Dex
