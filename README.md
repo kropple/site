@@ -7,6 +7,10 @@ description: >-
 # Welcome to Gnosis Chain🦉
 
 {% hint style="success" %}
+1inch deployment ushers in the next era of DeFi on the Gnosis Chain🦉🦄! [Learn more about this integration](https://blog.1inch.io/the-1inch-network-expands-to-avalanche-and-gnosis-chain-67875fdbf73c).
+{% endhint %}
+
+{% hint style="info" %}
 STAKE/GNO Swap is now available! [Info here](for-stakers/stake-gno-swap.md)
 {% endhint %}
 
