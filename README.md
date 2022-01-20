@@ -7,18 +7,17 @@ description: >-
 # Welcome to Gnosis Chain🦉
 
 {% hint style="success" %}
-1inch deployment ushers in the next era of DeFi on the Gnosis Chain🦉🦄! [Learn more about this integration](https://blog.1inch.io/the-1inch-network-expands-to-avalanche-and-gnosis-chain-67875fdbf73c).
-{% endhint %}
-
-{% hint style="info" %}
-STAKE/GNO Swap is now available! [Info here](for-stakers/stake-gno-swap.md)
+🦉🦄 [1inch deployment](https://app.1inch.io) ushers in the next era of DeFi on the Gnosis Chain!\
+\
+\-> [Learn more about this integration](https://blog.1inch.io/the-1inch-network-expands-to-avalanche-and-gnosis-chain-67875fdbf73c).
 {% endhint %}
 
 {% hint style="success" %}
-&#x20;**News Update**
+&#x20;**Token Merger**
 
-The **token merger is now in effect, with the Gnosis Chain renaming underway.** During the transition you may see the chain referred to as xDai Chain or Gnosis Chain. The underlying chain functionality **is not impacted** by this merger. STAKE staking will continue for \~6 months, however [STAKE can be swapped now for GNO](for-stakers/stake-gno-swap.md).
+The **token merger is now in effect, with the Gnosis Chain renaming underway.** During the transition you may see the chain referred to as xDai Chain or Gnosis Chain. The underlying chain functionality **is not impacted** by this merger. STAKE staking will continue for \~6 months, however
 
+* [♻ STAKE can be swapped now for GNO](for-stakers/stake-gno-swap.md).
 * :book: [Original Proposal and Amendment](https://forum.gnosis.io/t/gip-16-gnosis-chain-xdai-gnosis-merge/1904)
 * 📈 [Swap Statistics](https://dune.xyz/maxaleks/STAKE-GNO-merge)
 
