@@ -66,7 +66,7 @@ To mint FAU tokens on another network, such as POA network, simply switch the ne
 
 ### Quick Video
 
-This video shows the steps above using the POA network as a demo and a previous version of the ERC20 Token Faucet. Steps are identical, the only difference is the wallet must be connected to the **xDai Network**.
+This video shows the steps above using the POA network as a demo and a previous version of the ERC20 Token Faucet. Steps are identical, the only difference is the wallet must be connected to the **Gnosis Chain Network**.
 
 {% embed url="https://youtu.be/dngh8cVinZc" %}
 

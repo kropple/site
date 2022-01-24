@@ -81,9 +81,9 @@ POSDAO consensus is implemented in Solidity. Proxy contracts should be read for 
 
 There are two bridge implementations connecting GC and the Ethereum Mainnet.
 
-\*\*\*\*[**xDai Bridge**](https://docs.tokenbridge.net/xdai-bridge/about): ERC20-to-Native TokenBridge implementation, used for transferring Dai <-> xDai between Ethereum and the xDai chain.
+\*\*\*\*[**xDai Bridge**](https://docs.tokenbridge.net/xdai-bridge/about): ERC20-to-Native TokenBridge implementation, used for transferring Dai <-> xDai between Ethereum and the Gnosis Chain.
 
-\*\*\*\*[**ETH-GC Arbitrary Message Bridge**](https://docs.tokenbridge.net/eth-xdai-amb-bridge/about-the-eth-xdai-amb): AMB between Ethereum and xDai for data, token and message transfers. Includes the Ominibridge application for transfer of any ERC20 cross-chain.
+\*\*\*\*[**ETH-GC Arbitrary Message Bridge**](https://docs.tokenbridge.net/eth-xdai-amb-bridge/about-the-eth-xdai-amb): AMB between Ethereum and GC for data, token and message transfers. Includes the Ominibridge application for transfer of any ERC20 cross-chain.
 
 #### xDai Bridge Access
 

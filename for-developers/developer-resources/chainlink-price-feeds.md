@@ -4,16 +4,16 @@ description: Chainlink Integrations allows access to price feeds on xDai
 
 # Chainlink Price Feeds
 
-Chainlink allows smart contracts to receive aggregated price feeds and access external data using a decentralized network of oracles. The xDai <-> Chainlink integration was completed by [Protofire with a Chainlink Community Grant.](https://blog.chain.link/protofire-receives-a-chainlink-community-grant-for-an-integration-with-xdai/)&#x20;
+Chainlink allows smart contracts to receive aggregated price feeds and access external data using a decentralized network of oracles. The Gnosis Chain <-> Chainlink integration was completed by [Protofire with a Chainlink Community Grant.](https://blog.chain.link/protofire-receives-a-chainlink-community-grant-for-an-integration-with-xdai/)&#x20;
 
 {% hint style="info" %}
-Chainlink offers a tutorial on using secure data feeds with xDai. [See it in action](https://blog.chain.link/build-a-dapp-on-xdai-chain-with-secure-data-feeds/) :man\_running:&#x20;
+Chainlink offers a tutorial on using secure data feeds with GC. [See it in action](https://blog.chain.link/build-a-dapp-on-xdai-chain-with-secure-data-feeds/) :man\_running:&#x20;
 {% endhint %}
 
 ## Addresses
 
-* **Link Token on xDai**: [`0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2`](https://blockscout.com/poa/xdai/address/0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2)****
-* **Price Feeds on xDai:** _Latest list is available in the_ [_Chainlink Documentation_](https://docs.chain.link/docs/xdai-price-feeds)_._
+* **Link Token on GC**: [`0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2`](https://blockscout.com/poa/xdai/address/0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2)****
+* **Price Feeds on GC:** _Latest list is available in the_ [_Chainlink Documentation_](https://docs.chain.link/docs/xdai-price-feeds)_._
 
 | Pair        | Decimals | Proxy Contract                                                                                                                     |
 | ----------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ Chainlink offers a tutorial on using secure data feeds with xDai. [See it in act
 
 ## Basic Tutorial: Price Feeds
 
-See the [Chainlink documentation](https://docs.chain.link/docs/getting-started) for more advanced tutorials and information. The following shows how to use MetaMask/Remix with xDai to deploy a simple price feed contract, then call the function using Blockscout.
+See the [Chainlink documentation](https://docs.chain.link/docs/getting-started) for more advanced tutorials and information. The following shows how to use MetaMask/Remix with GC to deploy a simple price feed contract, then call the function using Blockscout.
 
 ### 1) Switch to Gnosis Chain RPC in MetaMask
 
@@ -48,7 +48,7 @@ Go to MetaMask, select Custom RPC from the network dropdown, and enter the follo
 
 ### 2) Get xDai with Faucet
 
-You can get enough xDai to deploy your contracts and more with the xDai Faucet. Go to [https://blockscout.com/poa/xdai/faucet](https://blockscout.com/poa/xdai/faucet) to request .01 xDai. You should see it added to your address in a few seconds.
+You can get enough xDai to deploy your contracts and more with the [xDai Faucet](../../for-users/getting-started-with-gc/#2-get-some-xdai-the-stable-transaction-token-for-the-chain). You should see it added to your address in a few seconds.
 
 ### 3) Open Remix and Create File
 
@@ -123,10 +123,10 @@ Click on the Compiler Icon, adjust items (if necessary, we keep defaults here) a
 
 ### 5) Deploy Contract&#x20;
 
-1. Select Deploy Icon.
+1. Select **Deploy** Icon.
 2. Change Environment to Web3.
-3. Click Deploy.
-4. Confirm the transaction in MetaMask. You account must be connected to the xDai chain and have a small amount of xDai (see steps 1 and 2).
+3. Click **Deploy**.
+4. Confirm the transaction in MetaMask. You account must be connected to the Gnosis Chain and have a small amount of xDai (see steps 1 and 2).
 
 ![](<../../.gitbook/assets/chain3 (1).png>)
 

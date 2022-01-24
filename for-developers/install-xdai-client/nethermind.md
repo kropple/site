@@ -3,7 +3,7 @@
 
 
 {% hint style="warning" %}
-A majority of xDai validators are now running the Nethermind client. The latest version 1.11.7 includes support for the London HF on xDai.\
+A majority of current GC validators (running a GC node, not a beacon chain node) are now running the Nethermind client. The latest version 1.11.7 includes support for the London HF.\
 \
 Version [https://github.com/NethermindEth/nethermind/releases/tag/1.11.7](https://github.com/NethermindEth/nethermind/releases/tag/1.11.7)\
 Ethstats: [https://dai-netstat.poa.network/](https://dai-netstat.poa.network)

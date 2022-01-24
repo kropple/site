@@ -1,9 +1,9 @@
 # Gnosis Chain Validators
 
-Currently, POSDAO validators are still securing the Gnosis (formerly xDai) chain. POSDAO will be deprecated once the merge between the Gnosis and Gnosis Beacon Chain occurs. This is scheduled for 1 week prior to the Ethereum 2 merge.
+Currently, POSDAO validators are still securing the Gnosis (formerly xDai) chain, however new membership is not encouraged. POSDAO will be deprecated once the merge between the Gnosis and Gnosis Beacon Chain occurs. This is scheduled for 1 week prior to the Ethereum 2 merge. **New candidates should look at becoming Gnosis Beacon Chain validators.**
 
 {% hint style="success" %}
-Gnosis Beacon Chain is open for new validators. [Learn more and start the process here](https://docs.gnosischain.com).
+Gnosis Beacon Chain now open for new validators! [Learn more and start the process here](https://docs.gnosischain.com).
 {% endhint %}
 
 ## Gnosis Beacon Chain Validator Rewards

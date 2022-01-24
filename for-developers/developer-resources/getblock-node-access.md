@@ -4,7 +4,7 @@ description: Tiered access to a shared or dedicated node
 
 # GetBlock Node Access
 
-GetBlock provides a fast and easy API connection to an xDai node. Different packages are available based on number of requests per day, including a free tier offering up to 40K requests/day.&#x20;
+GetBlock provides a fast and easy API connection to a GC node. Different packages are available based on number of requests per day, including a free tier offering up to 40K requests/day.&#x20;
 
 ![GetBlock xDai node](<../../.gitbook/assets/gitblock1 (1).png>)
 

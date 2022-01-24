@@ -2,7 +2,7 @@
 description: A lightweight alternative to web3.js for simple development
 ---
 
-# Connect to xDai with Ethers.js
+# Connect to GC with Ethers.js
 
 [ethers.js](https://github.com/ethers-io/ethers.js/) is a small javascript library that can be used as a lightweight alternative to [web3.js](https://web3js.readthedocs.io/en/v1.3.4/) for blockchain interaction and development. It is open-source and easy to work with. Here we use ether.js with xDai to connect and complete a simple query.&#x20;
 
@@ -27,11 +27,11 @@ _**Common issues:**_&#x20;
 * node-gyp failure ([installation instructions](https://github.com/nodejs/node-gyp#installation)). Check that your python version is compatible w/instructions above.&#x20;
 * stale cache. Clear your npm cache with the `npm cache clean` command.
 
-3\) Connect to xDai via ethers. You can copy/paste this script into your own code editor. Save this file as `index.js`
+3\) Connect to GC via ethers. You can copy/paste this script into your own code editor. Save this file as `index.js`
 
 ```
 var ethers = require('ethers');  
-var url = 'https://rpc.xdaichain.com/';
+var url = 'https://rpc.gnosischain.com';
 var customHttpProvider = new ethers.providers.JsonRpcProvider(url);
 customHttpProvider.getBlock(16488144).then((result) => {
     console.log("Block Info: " + JSON.stringify(result, null, 4));
@@ -40,7 +40,7 @@ customHttpProvider.getBlock(16488144).then((result) => {
 
 _**Notes:**_
 
-* This example uses the xDai public RPC endpoint. Feel free to replace `https://rpc.xdaichain.com/`with an rpc of your choice (for example a [QuickNode endpoint](https://blog.quiknode.io/xdai-network-is-live-on-quiknode/)).
+* This example uses the GC public RPC endpoint. Feel free to replace [`https://rpc.gnosischain.com`](https://rpc.gnosischain.com) with an rpc of your choice (for example a [QuickNode endpoint](https://blog.quiknode.io/xdai-network-is-live-on-quiknode/)).
 * `getBlock` returns an object for the specified block number (16488144), so we use JSON.stringify to print results to the console for viewing purposes.
 
 4\) Run the script & see the results!

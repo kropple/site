@@ -1,11 +1,11 @@
 # Dappquery Smart Contract Analytics & Visualizations
 
-Dappquery is a community driven analytics tool for xDai Dapps which includes the following features:
+Dappquery is a community driven analytics tool for GC Dapps which includes the following features:
 
 * Create query, chart and dashboards using the drag and drop "Visual SQL" editor 📊
 * Share charts and dashboards  for seamless collaboration.
 * Dozens of visualization chart types 💹
-* Blend multiple blockchain protocols data like IPFS, ENS etc. in one chart along with xDai contract data.
+* Blend multiple blockchain protocols data like IPFS, ENS etc. in one chart along with GC contract data.
 
 ![](<../../.gitbook/assets/image (8).png>)
 
@@ -17,13 +17,13 @@ More details on **xDai + Dappquery**: [https://dappquery.com/integration/xdai](h
 
 ![](../../.gitbook/assets/analyze1.png)
 
-### Steps to connect your xDai Subgraph
+### Steps to connect your GCSubgraph
 
 * Signup/Login to [https://dappquery.com/](https://dappquery.com)
 * Click the **My Project Button** in the header.
 * Click the **Connect SubGraph** button**.**
 * Fill details about your Dapp ✍️
-* Select platform as "POA" and network as "xDAi".
+* Select platform as "POA" and network as "xDAI".
 * Input your subgraph endpoint.
 * Enter your website.
 * Click **Register**.

@@ -1,10 +1,10 @@
 ---
-description: Dune Supports xDai and Ethereum for cross-chain and custom dashboards
+description: Dune Supports Gnosis Chain and Ethereum for cross-chain and custom dashboards
 ---
 
 # Dune Analytics
 
-Dune Analytics offers native support for contracts deployed to xDai. Create and share custom dashboards and queries from both Ethereum and xDai. It is possible to mix-and-match between chains on the same dashboard.
+Dune Analytics offers native support for contracts deployed to Gnosis Chain. Create and share custom dashboards and queries from both Ethereum and GC. It is possible to mix-and-match between chains on the same dashboard.
 
 ![xDai STAKE Staking Dashboard](../../.gitbook/assets/dune1.png)
 
@@ -43,17 +43,14 @@ All other processes are the same. See the [Dune Documentation](https://hackmd.io
 
 ![](<../../.gitbook/assets/perpetual on Dune.png>)
 
-### xDai Staking Dashboard
-
-* Includes statistics from EasyStaking on Ethereum and POSDAO staking on xDai
-* Link: [https://www.duneanalytics.com/maxaleks/xdai-staking](https://www.duneanalytics.com/maxaleks/xdai-staking)
-
-![](../../.gitbook/assets/POSDAO-dune.png)
-
-### xDai Chain Usage Dashboard
+### Gnosis Chain Usage Dashboard
 
 * Total Txs per day, transactions by project and active accounts
 * Link: [https://duneanalytics.com/maxaleks/xDai-Usage](https://duneanalytics.com/maxaleks/xDai-Usage)
+
+{% hint style="info" %}
+Look for more GC-relevant dashboards from our resident Dune expert at [https://duneanalytics.com/maxaleks](https://duneanalytics.com/maxaleks/xDai-Usage)
+{% endhint %}
 
 ![](<../../.gitbook/assets/tx-day (2).png>)
 

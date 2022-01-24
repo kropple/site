@@ -1,14 +1,18 @@
 # Chainbeat Smart Contract Dashboard
 
-## Chainbeat Dashboard on xDai
+## Chainbeat Dashboard on GC
 
-Blockchains are designed to receive and catalog a constant stream of data. Without the right analytic tools, data quickly becomes overwhelming and difficult to analyze. Dashboards are becoming an essential blockchain feature, and the xDai [ChainBeat](https://chainbeat.io) integration makes it easy to gain valuable insights around token usage and smart contract interaction.
+Blockchains are designed to receive and catalog a constant stream of data. Without the right analytic tools, data quickly becomes overwhelming and difficult to analyze. Dashboards are becoming an essential blockchain feature, and the GC [ChainBeat](https://chainbeat.io) integration makes it easy to gain valuable insights around token usage and smart contract interaction.
 
 The ChainBeat interface is amazingly simple to use. Sign up, plugin a smart contract address, and then checkout the resulting insights. The dashboard allows you to look through and analyze many different metrics including transaction & token volume, events, & user insights like active and new users.  You can drill down into each of these metrics to get granular info, setup alerts, and export data in a csv format.
 
-## **xDai example**
+## **GC example**
 
-On xDai, the Safaru token is a local currency now circulating among Kenyan communities. Community members use Sarafu-based tokens for local trade and to purchase basic goods.   The ChainBlock dashboard shows basic token usage over the past week, including the number of transactions, new users, total holders and more. View the report here: [https://chainbeat.io/reports/sarafu](https://chainbeat.io/reports/sarafu)
+{% hint style="info" %}
+This example was created in 2019. Information may be outdated.
+{% endhint %}
+
+On GC, the Safaru token is a local currency now circulating among Kenyan communities. Community members use Sarafu-based tokens for local trade and to purchase basic goods.   The ChainBlock dashboard shows basic token usage over the past week, including the number of transactions, new users, total holders and more. View the report here: [https://chainbeat.io/reports/sarafu](https://chainbeat.io/reports/sarafu)
 
 ![](../../.gitbook/assets/sarafu.png)
 

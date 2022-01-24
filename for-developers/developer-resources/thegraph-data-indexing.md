@@ -1,6 +1,6 @@
 # TheGraph Data Indexing
 
-[TheGraph](https://thegraph.com), a decentralized protocol for indexing and querying chain data, supports the xDai chain. Data defined through subgraphs is easy to query and explore. Subgraphs can be created locally, or use a free hosted explorer for indexing and data display.&#x20;
+[TheGraph](https://thegraph.com), a decentralized protocol for indexing and querying chain data, supports the Gnosis chain. Data defined through subgraphs is easy to query and explore. Subgraphs can be created locally, or use a free hosted explorer for indexing and data display.&#x20;
 
 ## Setting up a hosted project with TheGraph & xDai
 
@@ -31,7 +31,7 @@ $ yarn global add @graphprotocol/graph-cli
 
 4\) The following command creates a subgraph that indexes all events of an existing contract. It attempts to fetch the contract ABI from BlockScout and falls back to requesting a local file path. If any of the optional arguments are missing, it takes you through an interactive form.\
 \
-_\*Note: The interactive form does not currently include xDai in the dropdown of networks, so using the following flags is useful for an xDai deployment_
+_\*Note: The interactive form does not currently include Gnosis Chain in the dropdown of networks, so using the following flags is useful for a GC (xDai) deployment._
 
 ```
 graph init \

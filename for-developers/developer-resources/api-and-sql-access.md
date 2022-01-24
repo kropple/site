@@ -1,7 +1,7 @@
 ---
 description: >-
-  AnyBlock Analytics (eth.events) offers access to xDai through ElasticSearch
-  and the ability to query a SQL Database.
+  AnyBlock Analytics (eth.events) offers access to GC through ElasticSearch and
+  the ability to query a SQL Database.
 ---
 
 # API & SQL Access with AnyBlock Analytics
@@ -15,7 +15,7 @@ description: >-
 ## ElasticSearch
 
 * Your API key is used to replace `$mytoken` in standard queries.&#x20;
-* Queries to the xDai chain use the xdai eth.events endpoint:   [https://api.eth.events/ethereum/xdai/mainnet/es/](https://api.eth.events/ethereum/xdai/mainnet/es/block/search/)
+* Queries to the GC use the xdai eth.events endpoint:   [https://api.eth.events/ethereum/xdai/mainnet/es/](https://api.eth.events/ethereum/xdai/mainnet/es/block/search/)
 * Example Queries are located here: [https://www.anyblockanalytics.com/docs/elastic/example-queries/](https://www.anyblockanalytics.com/docs/elastic/example-queries/)
 * Documentation regarding ElasticSearch API calls is available here: [https://www.anyblockanalytics.com/docs/elastic](https://www.anyblockanalytics.com/docs/elastic/)
 
@@ -65,7 +65,7 @@ https://api.eth.events/ethereum/xdai/mainnet/es/block/search/ \
 
 6\) **Try a Query!**
 
-1. Check you are in the xDai database
+1. Check you are in the GC xDai database
 2. Enter your Query (this query shows info about the most recent block)
 3. Click the lighting icon to execute
 4. Output from query

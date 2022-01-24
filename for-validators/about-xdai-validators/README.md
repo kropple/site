@@ -1,8 +1,8 @@
 ---
-description: Validators secure the xDai chain
+description: Validators secure the Gnosis Chain
 ---
 
-# About xDai Validators
+# About Validators
 
 A validator runs a node that verifies transactions and finalizes blocks on the xDai chain. Each validator must provide the minimum STAKE collateral (2K STAKE) into their pool and setup a functional node to participate. They start as candidates, and have the chance to become validators each week when a new validator set is chosen.
 

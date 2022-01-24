@@ -12,7 +12,7 @@ description: Linkdrop adds tokens right to your wallet.
 
 1\) Connect your web3 wallet (like MetaMask) to the account you wish to receive the airdrop with.
 
-2\) Connect to the xDai network ([instructions for connecting with MetaMask](https://app.gitbook.com/@poa/s/news/\~/edit/drafts/-Lr9soY3cGJoyhBcqxRg/for-users/wallets-setup/metamask-setup)).&#x20;
+2\) Connect to the GC network ([instructions for connecting with MetaMask](https://app.gitbook.com/@poa/s/news/\~/edit/drafts/-Lr9soY3cGJoyhBcqxRg/for-users/wallets-setup/metamask-setup)).&#x20;
 
 3\) Open the link. The format will look similar to the following:&#x20;
 

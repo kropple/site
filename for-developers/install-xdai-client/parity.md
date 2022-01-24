@@ -36,7 +36,7 @@ These instructions are copied from the [OpenEthereum wiki.](https://openethereum
   * Launch OpenEthereum: `./openethereum --chain xdai --no-warp`
 
 {% hint style="info" %}
-The `--no-warp` flag is recommended if you want all historical data, but will take much longer to sync. For a faster sync, you do not need to use it. [More information on --no-warp](https://openethereum.github.io/Beginner-Introduction.html)
+The `--no-warp` flag is recommended if you want all historical data, but will take much longer to sync. **For a faster sync do not use this flag**. [More information on --no-warp](https://openethereum.github.io/Beginner-Introduction.html)
 {% endhint %}
 
 * **Mac**
@@ -71,7 +71,7 @@ openethereum --chain xdai --no-warp
 
 #### Optional
 
-`--no-warp` flag is optional: [more information.](https://openethereum.github.io/Beginner-Introduction)
+**`--no-warp` flag is optional:** [**more information.**](https://openethereum.github.io/Beginner-Introduction)****
 
 _If you would like to limit or choose specific bootnodes, you can obtain the bootnodes.txt file from POA github:_
 

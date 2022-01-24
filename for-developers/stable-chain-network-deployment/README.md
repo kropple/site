@@ -1,5 +1,5 @@
 ---
-description: Instructions for deploying an xDai-like network on AWS
+description: Instructions for deploying a GC-like network on AWS
 ---
 
 # Stable Chain Network Deployment
@@ -7,11 +7,13 @@ description: Instructions for deploying an xDai-like network on AWS
 {% hint style="info" %}
 **Stable Chain Deployment Instructions (AWS)**
 
-These advanced instructions are for developers interested in deploying their own xDai-like (or other ERC20 Stable Token) Network. They are not required to run or interact with the xDai Stable Chain. This process is a bit involved, so grab a :coffee: and settle in!
+These advanced instructions are for developers interested in deploying their own GC-like (or other ERC20 Stable Token) Network. They are not required to run or interact with the Gnosis Chain. This process is a bit involved, so grab a :coffee: and settle in!
 {% endhint %}
 
 {% hint style="warning" %}
-If you experience issues during installation, feel free to contact us on the [POA support forum](https://forum.poa.network/c/support/6).&#x20;
+Note: These instructions were created in 2019 and may contain outdated information, including references to the xDai Chain (now called the Gnosis Chain).\
+\
+If you experience issues during installation, [feel free to contact us on the Discord Channel](https://t.co/yrSN2dS9Z2).
 {% endhint %}
 
 #### The following topics cover an AWS deployment:

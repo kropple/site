@@ -11,7 +11,7 @@ description: Nethermind implements flashbots MEV  in v1.11.0
 
 Considerations:
 
-1. xDai MEV Endpoint: **** [https://xdai-relay.nethermind.io](https://t.co/9X5lU6LWvr?amp=1) ****&#x20;
+1. GC MEV Endpoint: **** [https://xdai-relay.nethermind.io](https://t.co/9X5lU6LWvr?amp=1) ****&#x20;
 2. Tx chain id: **100**
 3. Set appropriate gas price (gas in xDai not Eth)
 4.  &#x20;Currently the **eth\_sendBundle** method is supported.&#x20;
@@ -39,7 +39,7 @@ To enable privacy, eliminate frontrunning, and reduce failed bids, Flashbots Auc
 
 * [Instructions for using the flashbots RPC endpoint](https://docs.flashbots.net/flashbots-auction/searchers/advanced/rpc-endpoint) to create and send transaction bundles are a good starting point. Note that the `eth_callBundle` method is not yet supported.\
 
-* MEV Transactions can be bundled and sent to the Nethermind MEV relay on xDai using the [https://xdai-relay.nethermind.io](https://t.co/9X5lU6LWvr?amp=1) endpoint. Validators running the Nethermind client on xDai will include these bundles if it is profitable for them. \
+* MEV Transactions can be bundled and sent to the Nethermind MEV relay on GC using the [https://xdai-relay.nethermind.io](https://t.co/9X5lU6LWvr?amp=1) endpoint. Validators running the Nethermind client on xDai will include these bundles if it is profitable for them. \
 
 * MEV transactions are typically useful to maintain privacy or during times of increased congestion, such as a DarkForest Round. Use cases may include those using Perpetual Protocol and Dark Forest players. [This example shows an accepted bundle on BlockScout block 17663943](https://blockscout.com/xdai/mainnet/blocks/17663943/transactions). The first 2 included transactions were sent as a MEV bundle from 0x5b49B\
 

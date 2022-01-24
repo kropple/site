@@ -2,13 +2,13 @@
 description: Arbitrum Optimistic Rollup Deployment
 ---
 
-# AoX: Arbitrum on xDai
+# AoX: Arbitrum on GC
 
-Arbitrum has been deployed to xDai - AoX! This unofficial instance was deployed for research and development purposes, cultivating a broad ecosystem for xDai developers and users.
+Arbitrum has been deployed to Gnosis Chain called **AoX**! This unofficial instance was deployed for research and development purposes, cultivating a broad ecosystem for  developers and users.
 
 We are currently working on configs and bridge installation, [Blockscout is already configured for AoX](https://blockscout.com/xdai/aox/). Look for more info and instructions coming soon.
 
-For information on Arbitrum and usage basics, see the [Arbitrum docs](https://developer.offchainlabs.com/docs/developer\_quickstart). Note that AoX is still being finalized on xDai, and some functionality is not yet available.&#x20;
+For information on Arbitrum and usage basics, see the [Arbitrum docs](https://developer.offchainlabs.com/docs/developer\_quickstart). Note that AoX is still being finalized, and some functionality is not yet available.&#x20;
 
 ## Basic Info
 
@@ -31,7 +31,7 @@ For information on Arbitrum and usage basics, see the [Arbitrum docs](https://de
 
 ## Deposits to AoX
 
-Simple deposit functionality for users / bridge implementation is still in development. Devs can use the following ABI to call the  `depositEth `method. Use 0 for `maxSubmissionCost` and attach an amount of xDai tokens to the transaction. It may take several minutes for execution finalization.&#x20;
+Simple deposit functionality for users / bridge implementation is still in development. Devs can use the following ABI to call the  `depositEth` method. Use 0 for `maxSubmissionCost` and attach an amount of xDai tokens to the transaction. It may take several minutes for execution finalization.&#x20;
 
 * [Deposit Example Transaction](https://blockscout.com/xdai/mainnet/tx/0x2827e6b8c0c16b1a924910fb98488ebf2fb49303814773b252b16b7f67c0a83e)
 * ABI :arrow\_down:&#x20;
@@ -67,7 +67,7 @@ Simple deposit functionality for users / bridge implementation is still in devel
 3. In the `depositEth` method
    1. Enter 0 for maxSubmissionCost field
    2. Enter the amount of xDai to deposit
-   3. Click `Write `and confirm in MetaMask
+   3. Click `Write` and confirm in MetaMask
 
 ![](<../../.gitbook/assets/bs-1 (4).png>)
 

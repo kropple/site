@@ -6,7 +6,7 @@ description: >-
 
 # Creating Airdrops with Token MultiSender
 
-[Token MultiSender ](https://multisender.app)is an efficient tool for sending airdrops to a large (or small) group of addresses. It bulk processes transfers into a small number of transactions, and distributes tokens for minimal fees.  Token MultiSender supports the xDai Chain as well as the Ethereum mainnet, testnets, [POA Network](https://poa.network) and others to send native or ERC20 tokens.&#x20;
+[Token MultiSender ](https://multisender.app)is an efficient tool for sending airdrops to a large (or small) group of addresses. It bulk processes transfers into a small number of transactions, and distributes tokens for minimal fees.  Token MultiSender supports the Gnosis Chain as well as the Ethereum mainnet, testnets, and others to send native or ERC20 tokens.&#x20;
 
 In the following tutorial, we will airdrop xDai to a small number of addresses.
 
@@ -23,7 +23,7 @@ For an example which sends ERC20 tokens to 1500 addresses and includes additiona
 Connection options include include MetaMask, Portis or Squarelink. In this tutorial, we use [Nifty Wallet](../../../for-users/wallets/nifty-wallet.md), which functions in a similar way to Metamask. Make sure your Nifty wallet is open and connected to the right account, then **select MetaMask** from the icons list.
 
 {% hint style="warning" %}
-If using MetaMask, you will need to [add xDai to the custom RPC list](../../../for-users/wallets/metamask/metamask-setup.md).&#x20;
+If using MetaMask, you will need to [add Gnosis to the custom RPC list](../../../for-users/wallets/metamask/metamask-setup.md).&#x20;
 {% endhint %}
 
 ![Select your web3 wallet connection](../../../.gitbook/assets/metamask1.png)

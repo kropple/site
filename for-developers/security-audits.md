@@ -1,10 +1,14 @@
 ---
-description: Audits of xDai and related infrastructure
+description: Audits of Gnosis Chain and Related Infrastructure
 ---
 
 # Security Audits
 
-## Stake Beacon Chain by ChainSecurity <a href="omnibridge-audit-by-chainsecurity" id="omnibridge-audit-by-chainsecurity"></a>
+{% hint style="info" %}
+Most Audits were completed prior to the rebrand from xDai Chain to Gnosis Chain, and will refer to the xDai chain as well as the STAKE token, the previous governance token of the chain (the chain is in the process of transferring to GNO-only security).
+{% endhint %}
+
+## Stake Beacon Chain by ChainSecurity <a href="#omnibridge-audit-by-chainsecurity" id="omnibridge-audit-by-chainsecurity"></a>
 
 **Completed:** October 1, 2021
 
@@ -12,7 +16,7 @@ description: Audits of xDai and related infrastructure
 
 **Audit Report**: [https://chainsecurity.com/security-audit/poa-network-stake-beacon-chain-sbc-deposit/](https://chainsecurity.com/security-audit/poa-network-stake-beacon-chain-sbc-deposit/)
 
-## OmniBridge v6.0 Smart Contracts Audit by ChainSecurity <a href="omnibridge-audit-by-chainsecurity" id="omnibridge-audit-by-chainsecurity"></a>
+## OmniBridge v6.0 Smart Contracts Audit by ChainSecurity <a href="#omnibridge-audit-by-chainsecurity" id="omnibridge-audit-by-chainsecurity"></a>
 
 **Completed:** September 7, 2021
 
@@ -25,7 +29,7 @@ description: Audits of xDai and related infrastructure
 ChainSecurity OmniBridge v6.0
 {% endfile %}
 
-## POSDAO Audit by ChainSecurity <a href="omnibridge-audit-by-chainsecurity" id="omnibridge-audit-by-chainsecurity"></a>
+## POSDAO Audit by ChainSecurity <a href="#omnibridge-audit-by-chainsecurity" id="omnibridge-audit-by-chainsecurity"></a>
 
 **Completed:** June 25, 2021
 
@@ -36,7 +40,7 @@ ChainSecurity OmniBridge v6.0
 
 {% embed url="https://chainsecurity.com/security-audit/poa-network-posdao/" %}
 
-## OmniBridge Audit by ChainSecurity <a href="omnibridge-audit-by-chainsecurity" id="omnibridge-audit-by-chainsecurity"></a>
+## OmniBridge Audit by ChainSecurity <a href="#omnibridge-audit-by-chainsecurity" id="omnibridge-audit-by-chainsecurity"></a>
 
 **Completed:** April 27, 2021
 

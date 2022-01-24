@@ -1,5 +1,5 @@
 ---
-description: xDai gas price recommendations api endpoint
+description: GC gas price recommendations api endpoint
 ---
 
 # Gas Price Oracle

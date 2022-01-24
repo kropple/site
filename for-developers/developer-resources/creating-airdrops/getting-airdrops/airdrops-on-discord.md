@@ -4,6 +4,10 @@ description: How to receive and withdraw airdrops via tip.cc bot on Discord
 
 # Getting airdrops via Discord
 
+{% hint style="info" %}
+Airdrop channel is currently deprecated on the Gnosis Chain discord server. However, tipcc bot is still active.
+{% endhint %}
+
 ## Receive an Airdrop
 
 1\) Go to Discord ([https://discordapp.com/](https://discordapp.com)) and open the **xDai and Friends** Discord server. If you have not visited before, the invite link is [https://discord.gg/mPJ9zkq](https://discord.gg/mPJ9zkq)
