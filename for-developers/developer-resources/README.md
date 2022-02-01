@@ -131,7 +131,7 @@ See the dropdown menu under Developer Resources and Tools for tutorials related 
 **xDai Faucets for transactions**
 
 * Faucet #1 - [https://xdai-app.herokuapp.com/faucet](https://xdai-app.herokuapp.com/faucet)
-* Faucet #2 - [https://stakely.io/faucet/xdai-chain](https://stakely.io/faucet/xdai-chain)&#x20;
+* Faucet #2 - [https://stakely.io/faucet/gnosis-chain-xdai](https://stakely.io/faucet/gnosis-chain-xdai)
 * Faucet #3 - [https://faucet.prussia.dev/xdai](https://faucet.prussia.dev/xdai)
 
 **Test Token Faucets**

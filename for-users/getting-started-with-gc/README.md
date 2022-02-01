@@ -20,7 +20,7 @@ To get started on GC, you will need to setup your externally owned address (wall
 
 * Try one of these faucets:
   * Faucet #1 - [https://xdai-app.herokuapp.com/faucet](https://xdai-app.herokuapp.com/faucet)&#x20;
-  * Faucet #2 - [https://stakely.io/faucet/xdai-chain](https://stakely.io/faucet/xdai-chain)&#x20;
+  * Faucet #2 - [https://stakely.io/faucet/gnosis-chain-xdai](https://stakely.io/faucet/gnosis-chain-xdai)
   * Faucet #3 - [https://faucet.prussia.dev/xdai](https://faucet.prussia.dev/xdai)
 * Convert Dai on Ethereum to xDai with the [xDai bridge](../bridges/converting-xdai-via-bridge/) or use the [Rubic.exchange ](https://rubic.exchange)bridge.
 * [Purchase xDai directly from AscendEX (BitMax)](https://bitmax.io/en/basic/cashtrade-spottrading/usdt/xdai)
