@@ -183,6 +183,7 @@
 ## For users
 
 * [Getting Started with GC](for-users/getting-started-with-gc/README.md)
+  * [Page 1](for-users/getting-started-with-gc/page-1.md)
   * [GNO Token](for-users/getting-started-with-gc/gno-token.md)
   * [mGNO token](for-users/getting-started-with-gc/mgno-token.md)
 * [xDai Stable Token](for-users/get-xdai-tokens/README.md)
