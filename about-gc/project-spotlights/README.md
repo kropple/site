@@ -48,7 +48,6 @@ Gnosis chain is an EVM-compatible Ethereum Sister Chain. This means any Smart Co
 * [Swarm](https://www.ethswarm.org): A global p2p network tasked for storing and distributing all of the world's data.
 * [Tornado](https://app.tornado.cash): Private transactions on xDai
 * [DAppNode](https://dappnode.io): Node provisions & infra support.
-* [BlockNative](https://docs.blocknative.com): Real-time notification & transaction monitoring and mempool streaming with API and SDK tools.
 
 #### Bridges & Interoperability
 
