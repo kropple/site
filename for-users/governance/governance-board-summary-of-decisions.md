@@ -57,3 +57,57 @@ Increase the amount of blocks required for confirmation on the Ethereum Mainnet 
 :ballot\_box: **Justification:** Add compounding to support bridge operations. [Details here.](../bridges/converting-xdai-via-bridge/dai-compounding.md)
 
 :white\_check\_mark: **Implemented:** October 6**,** 2021&#x20;
+
+## Update Contracts
+
+:ballot\_box: **Justification:** Last in a series of upgrades to allow reverse bridging and deploy  contracts included in the Chainsecurity audits.
+
+:white\_check\_mark: **Implemented:** October 15**,** 2021&#x20;
+
+## Increase finalization time to 20 blocks
+
+:ballot\_box: **Justification:** To increase security, finalization time on the xDai chain for the xDAI TokenBridge and for the ETH-xDAI Arbitrary Message Bridge increased to 20 blocks from previous 8-12.
+
+:white\_check\_mark: **Implemented:** October 18**,** 2021&#x20;
+
+## Add Tornado cash contracts to Omnibridge forwarding rules manager
+
+:ballot\_box: **Justification:** Add Tornado Cash contracts for proper routing and subsidized exits. This was done in several transactions from Oct 27 to Dec 10 to account for all contract functionality.
+
+:white\_check\_mark: **Implemented:** October 27**,** November 9**,** 2021,  November 15, 2021, December 10, 2021.
+
+## Decrease OmniBridge withdrawal fee for WETH
+
+:ballot\_box: **Justification:** Incentivize users to move operations to the Gnosis Chain
+
+:white\_check\_mark: **Implemented:** December 03**,** 2021
+
+## Adjust Perpetual Finance contract auto-execution functionality
+
+:ballot\_box: **Justification:** Perpetual Finance is no longer subsidizing transaction for users - users will need to deposit/withdraw/ and pay tx fees themselves. The bridge no longer needs to auto-execute transactions for this contract.
+
+:white\_check\_mark: **Implemented:** December 22**,** 2021&#x20;
+
+## Decrease OmniBridge withdrawal fee for GNO
+
+:ballot\_box: **Justification:** Incentivize users to move operations to the Gnosis Chain
+
+:white\_check\_mark: **Implemented:** January 17**,** 2022&#x20;
+
+## Decrease OmniBridge withdrawal fee for WBTC
+
+:ballot\_box: **Justification:** Reduce fees to 0 to attract participants to protocols on the Gnosis Chain.
+
+:white\_check\_mark: **Implemented:** January 24**,** 2022&#x20;
+
+## Increase gas limit to 4m gas for AMB messages
+
+:ballot\_box: **Justification:** Necessary for Cow token deployment. Blocks can handle this capability with EIP1559 implementation.
+
+​**​**✅ **Implemented:** January 30**,** 2022
+
+## Rotate AMB validator
+
+:ballot\_box: **Justification:**  Maintain active participation by rotating a signer address on the ETH-GC Arbitrary Message Bridge
+
+:white\_check\_mark: **Implemented:** February 21**,** 2022&#x20;
