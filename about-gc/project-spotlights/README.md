@@ -76,6 +76,7 @@ Gnosis chain is an EVM-compatible Ethereum Sister Chain. This means any Smart Co
 * [BaoFinance](https://xdai.bao.finance): Stake Sushiswap and Baoswap LP tokens to earn BAO
 * [Component Finance](https://xdai.component.finance): Stable Coin Swap
 * [Swapr](https://swapr.eth.link/#/swap): Governance enabled AMM with multi-platform capabilities
+* [SwapCat](https://swap.cat): fixed price otc wallet2wallet token swaps
 * [LevinSwap](https://info.levinswap.org/home): DEX on xDai, includes RealT liquidity
 * [Xion Finance](https://xion.finance): Earn Interest and trading fees with a one-click interface
 * [Elk.Finance](https://app.elk.finance/#/swap): Decentralized network for cross-chain liquidity
